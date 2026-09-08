@@ -1,0 +1,291 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>特定測試的管理評分和解釋</title><style>
+@page { size: A4; margin: 20mm 19mm 22mm 19mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei","Noto Sans TC","PingFang TC","MS JhengHei",sans-serif;
+  font-size: 11.5pt; line-height: 1.95; color: #1a1a2e; margin: 0; }
+.cover { page-break-after: always; text-align: center; padding-top: 6mm; }
+.cover .chip { display:inline-block; background:#0f3460; color:#fff; padding:6px 22px;
+  border-radius:99px; font-size:11pt; letter-spacing:.2em; }
+.cover .chno { margin-top:7mm; font-size:16pt; color:#e94560; font-weight:700; letter-spacing:.15em; }
+.cover .ctitle { font-size:30pt; font-weight:800; color:#0f3460; margin-top:3mm; line-height:1.4; }
+.cover .cent { font-size:12pt; color:#555; font-style:italic; margin-top:2mm; }
+.cover .keybox { text-align:left; background:#f4f7fa; border:1px solid #d7e0ea; border-left:6px solid #0f3460;
+  border-radius:8px; padding:12px 18px; margin:5mm 6mm 0; font-size:11pt; line-height:1.65; }
+.cover .keybox ul { margin:6px 0 0; padding-left:1.3em; }
+.cover .toc { text-align:left; margin:4mm 6mm 0; font-size:9.5pt; color:#333; }
+.cover .toc ol { margin:6px 0 0; padding-left:1.6em; line-height:1.55; }
+h1 { font-size:19pt; text-align:center; color:#0f3460; margin:0 0 6px; }
+h2 { page-break-after: avoid; background:#0f3460; color:#ffffff; font-size:15pt;
+  padding:8px 16px; border-radius:6px; margin:0 0 14px; letter-spacing:.06em; }
+.qa, .fig { page-break-inside: avoid; }
+h2.brk { page-break-before: always; }
+h3 { color:#0f3460; border-left:4px solid #e6b800; padding-left:9px; margin-top:16px; font-size:12.5pt; }
+p { margin: 8px 0; }
+.exam { background:#fdecec; border:1px solid #f2b8b8; border-left:5px solid #c1121f;
+  padding:10px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; line-height:1.65; }
+.analogy { background:#eaf3fb; border:1px solid #bcd7ee; border-left:5px solid #2b6cb0;
+  padding:10px 14px; border-radius:6px; margin:12px 0; }
+.analogy::before { content:"打個比方"; display:block; font-weight:bold; color:#2b6cb0; font-size:10pt; margin-bottom:4px; }
+.trap { background:#fff4d6; border:1px solid #ecd9a0; border-left:5px solid #b8860b;
+  padding:10px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; }
+.trap::before { content:"容易混淆"; display:block; font-weight:bold; color:#b8860b; font-size:10pt; margin-bottom:4px; }
+.term { background:#eaf6ec; border:1px solid #bcdcc2; border-left:5px solid #3d7a3d;
+  padding:8px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; }
+.qa { background:#f4f7fa; border:1px solid #d7e0ea; border-left:5px solid #0f3460;
+  padding:8px 14px; border-radius:6px; margin:10px 0; font-size:10.5pt; }
+.ans { color:#1b5e20; margin-top:4px; }
+table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size:10pt; line-height:1.6; }
+th,td { border:1px solid #cfd6dd; padding:7px 9px; text-align:left; vertical-align:top; }
+th { background:#0f3460; color:#fff; font-weight:600; }
+tbody tr:nth-child(even) td { background:#f2f5f8; }
+thead { display: table-header-group; }
+svg { display:block; margin:14px auto; max-width:660px; width:100%; height:auto; }
+code { font-family:Consolas,monospace; background:#eef1f5; padding:1px 5px; border-radius:3px; font-size:9.5pt; }
+.footer { margin-top:24px; padding-top:8px; border-top:1px solid #cfd6dd; font-size:9pt; color:#555; text-align:center; }
+</style></head><body>
+<div class="cover">
+ <div class="chip">CSCS 考綱學習摘要</div>
+ <div class="chno">第 14 章</div>
+ <div class="ctitle">特定測試的管理評分和解釋</div>
+ <div class="cent">Administration, Scoring, and Interpretation of Specific Tests</div>
+ <div class="keybox"><b>本章主軸</b>
+  <ul><li>說出每種參數該用哪種測試:最大力量、無氧功率、無氧能力、局部肌肉耐力、有氧能力、敏捷、速度、平衡、柔韌、身體成分。</li><li>背出高頻死數字:1RM 熱身流程與休息間隔、IMTP 關節角度、YMCA 臥推負荷、Yo-Yo 起始速度、BESS 計錯規則、T-test 路線等。</li><li>執行測試時能判斷「這一次算不算、要不要重測」:取消資格條件、試次接受標準、試間差異 15% 規則。</li><li>能用 0.24 秒系統誤差,解釋手動秒錶與電子計時的成績差異。</li><li>計算 z 分數、MVC(0.2 倍標準差)與效應量((後測均值−前測均值)/前測標準差),並按 0.2/0.6/1.2/2.0 量表判讀。</li><li>按六步驟把測試結果整合成運動員檔案(athlete profiling)。</li></ul>
+ </div>
+ <div class="toc"><b>本章目錄</b><ol><li>一、本章一句話</li><li>二、學完本章你會</li><li>三、把核心概念講給你聽(ELI5)</li><li>四、考點速記</li><li>五、術語速查(中英對照)</li><li>六、圖表</li><li>七、易混陷阱</li><li>八、自我檢測</li><li>附錄、自我檢測解答與解析</li></ol></div>
+</div>
+
+<h1>第14章 特定測試的管理、評分和解釋</h1>
+<p class="subtitle">Administration, Scoring, and Interpretation of Specific Tests | 原文頁碼 p764–p853</p>
+
+<h2>一、本章一句話</h2>
+<p>本章把第13章的測試選擇原則落實為實作:逐一規定 37 種現場測試的器材、步驟、評分與取消資格條件,給出各專項的常模對照表,並教你用 z 分數、最小有意義變化(MVC)與效應量(ES)解讀數據,建立運動員檔案。</p>
+
+<h2>二、學完本章你會</h2>
+<ul>
+<li>說出每種參數該用哪種測試:最大力量、無氧功率、無氧能力、局部肌肉耐力、有氧能力、敏捷、速度、平衡、柔韌、身體成分。</li>
+<li>背出高頻死數字:1RM 熱身流程與休息間隔、IMTP 關節角度、YMCA 臥推負荷、Yo-Yo 起始速度、BESS 計錯規則、T-test 路線等。</li>
+<li>執行測試時能判斷「這一次算不算、要不要重測」:取消資格條件、試次接受標準、試間差異 15% 規則。</li>
+<li>能用 0.24 秒系統誤差,解釋手動秒錶與電子計時的成績差異。</li>
+<li>計算 z 分數、MVC(0.2 倍標準差)與效應量((後測均值−前測均值)/前測標準差),並按 0.2/0.6/1.2/2.0 量表判讀。</li>
+<li>按六步驟把測試結果整合成運動員檔案(athlete profiling)。</li>
+</ul>
+
+<h2 class="brk">三、把核心概念講給你聽(ELI5)</h2>
+
+<h3>3.1 測試前先想清楚:方案、程序、設備</h3>
+<p>三個詞不要混。方案(program)是總體策略:整個賽季測什麼、多久測一次。程序(procedure)是單一測試的逐步操作說明,目的只有一個——標準化,讓今天的成績和下週的成績可以比。設備(equipment)要過四道拷問:提供的資訊有用嗎?可信嗎(效度、信度)?你能整合、管理並分析這些數據嗎?實務上用得上嗎?四題有一題過不了,這臺儀器就不該買。</p>
+<div class="analogy">方案像學期課表,程序像考試須知「先寫姓名、用 2B 鉛筆」,設備就像考場用的時鐘。須知寫得再漂亮,時鐘準不準決定成績能不能信。</div>
+<div class="exam">教材新增人工智慧(AI)與機器學習(ML)段落:AI 能自動化收集數據、做生物力學分析、甚至用手機鏡頭做跳躍與速度評估;但「垃圾進,垃圾出」,模型好壞取決於輸入數據品質,從業者必須自己審查準確性與效度。</div>
+
+<h3>3.2 最大肌肉力量:1RM 與等長測試</h3>
+<p>最大肌肉力量(maximal muscular strength)是維持正確姿勢時,單次最大努力能產生的力。低速力量測試通常需時 2 到 5 秒,能量主要來自肌肉儲存的磷酸肌酸與三磷酸腺苷(ATP)。現場最常用 1RM(One Repetition Maximum,一次最大重量)測試,因為它不用昂貴設備,又反映動態能力。</p>
+<p>1RM 臥推的標準流程是考點密集區:先做特定熱身,輕到中等負荷 5 到 10 次;第一次嘗試約用預估 1RM 的 50%;之後按上次動作的輕鬆程度加重,每次嘗試之間休息 1 到 5 分鐘(越重越久);正式 1RM 嘗試之前通常至少再做 2 組較重的熱身組,每組 2 到 5 次;整個 1RM 要在熱身後 3 到 5 次嘗試內測完,拖太久疲勞會污染結果。有經驗的測試者應能在這 3 到 5 次之內,把測得的 1RM 控制在真實值的幾個百分點內。1RM 後蹲流程相同,只是熱身負荷更重、加重幅度更大。1RM 高翻/挺舉因技術門檻高,力量相同的兩人成績可能差很多,預測運動表現的價值因此降低。</p>
+<p>等長測試(isometric test)近年獲更多體能訓練專家採用:它不會造成明顯疲勞,可以「訓練即測試」,融入日常課表。它用力板或力感測器繪製力量-時間曲線,測量峯值力與力量增長率(rate of force development, RFD)。等長中段大腿拉力(Isometric Mid-Thigh Pull, IMTP)是多關節等長測試的代表:架高要調整到能模仿挺舉第二拉的姿勢,槓鈴貼住大腿上部、位於骨盆正下方;軀幹直立、雙腳與肩同寬、膝微彎,用助力帶標準握法握住槓鈴;膝關節角約 120 到 145 度,髖關節角約 125 到 150 度。熱身做最大努力 50%、70%、90% 各一組,組間休 1 到 2 分鐘;之後至少做 3 次最大嘗試,試間再休 1 到 2 分鐘。測峯值力時,每次拉 3 到 5 秒;測 RFD 時,不超過 1 秒。兩次試次的峯值力差異超過 15%,就應加測。力板取樣頻率至少 1000 Hz(應變計 100 到 133 Hz 亦可);靜置 1 秒內力量變化超過 50 牛頓、發力前有反向預拉、峯值出現在拉力結束時,出現這三種情形的曲線要丟棄重測。</p>
+<p>評估力量時,一定要連同體重一起看。比率標度(ratio scaling)最簡單:1RM 或力量除以體重得到相對力量;等長測試則把體重換成牛頓(磅 × 4.44 或公斤 × 9.81)再相除。它的缺點是假設力量與體重成正比,實際上並非總是如此。因此體型與力量差異大時,建議改用異速生長標度(allometric scaling,除以體重的適當冪次方),但最適冪次仍有爭議。</p>
+<p>北歐式膕旁肌測試(Nordic hamstring test)量的是膕旁肌離心率力量:跪在帶力感測器的固定器上,只用腳踝後側貼住掛勾、腳趾不蹬地,膝關節從約 90 度開始;身體保持從肩到膝一條直線,有控制地前倒。髖關節前折是偷懶的代償動作,應予糾正。沒有儀器時可架設攝影機,以「斷點角」(失去對下落的主動控制時的膝關節角度)作為離心力量的中介指標;有儀器則記錄峯值力(牛頓),也可計算左右不對稱百分比。</p>
+<div class="analogy">1RM 加重像爬樓梯:先踩低兩階熱身(50%),再一階一階試(每次休息夠),三到五步之內就該摸到屋頂;一口氣衝太多次,屋頂就摸不實了。IMTP 則是「對牆推車」:車不會動,但力板把你推得多猛、多快,全程記錄得一清二楚。</div>
+<div class="exam">死數字回顧:首次嘗試 ≈50% 預估 1RM;嘗試間休息 1–5 分鐘;熱身後 3–5 次嘗試內出 1RM;重熱身組 2–5 次 × 至少 2 組。IMTP:膝 120–145°、髖 125–150°;50/70/90% 熱身、試間 1–2 分鐘;峯值力試次 3–5 秒、RFD ≤1 秒;試間差 &gt;15% 加測;靜置漂移 &gt;50 N 丟棄。</div>
+
+<h3>3.3 高速力量、無氧功率與無氧能力</h3>
+<p>高速肌肉力量(最大無氧肌肉功率)是肌肉在高速收縮時輸出大力量的能力。這類測試約 1 秒完成、極速輸出,磷酸肌酸與 ATP 是主要燃料。成績的呈現形式包括爆發動作 1RM(高翻、抓舉、挺舉)、垂直跳高度、衝上樓時間(如 Margaria-Kalamen 測試)。功率反映力與速度的乘積關係:淨衝量(淨力 × 時間)越大,離地速度越快,跳得越高。體重增加後跳高沒變,不代表功率沒變——以同速舉起更重的身體,功率其實變高了。這對碰撞型運動員也許有利,對依賴絕對速度的運動員則可能喫虧。</p>
+<p>跳躍測試羣要分清楚。反向跳躍(countermovement jump, CMJ)不預停、快速屈膝屈髖後上跳,手部可以固定於髖,也可以擺臂(Abalakov 跳);前後測試要用同一種手法並註記。深蹲跳(squat jump, SJ,靜態垂直跳)則先蹲到膝約 110 度、靜持 2 到 3 秒再跳,起跳前不能有任何下沉;CMJ 高度除以 SJ 高度的比值,稱為離心利用指數。下落跳躍(drop jump)從 20、30 或 40 公分(8/12/16 吋)箱上「走出」落地、觸地後盡快再跳,觸地時間越短越好;最常報告的指標是反應力量指數(reactive strength index, RSI)= 跳躍高度 ÷ 觸地時間,它反映伸展-收縮循環快速成分的動用能力。反彈跳(rebound jump)是在一次最大 CMJ 之後連續跳躍;10-5 測試是最大 CMJ 後連做 10 次最大反彈跳,取 RSI 最高的 5 次平均作為成績。跳躍觸牆法(粉筆印、Vertec)與力板/接觸墊算出的跳高基準不同(前者含站立伸手基準、後者以起跳時重心為基準),兩者數字不能互換比較,這是常考陷阱。</p>
+<p>Margaria-Kalamen 衝樓梯測試:樓梯至少 9 階、階高約 18 公分(7 吋),起點設在距樓梯 6 公尺(20 呎)處,助跑後一步跨三階,從第 3 階衝到第 9 階;起停開關分別設在第 3 與第 9 階,時間取到 0.01 秒。功率公式 P(瓦特)= w × h ÷ t,w 為體重換算成的牛頓數(磅 × 4.45 或公斤 × 9.807),h 為第 3 到第 9 階的垂直高度(6 倍階高,公尺),t 為秒;測 2 次,中間休息 2 到 3 分鐘。</p>
+<p>功率自行車測試的代表是溫蓋特無氧測試(Wingate anaerobic test):熱身後全速踩踏 30 秒。踏頻接近最大(約 90 到 110 rpm)時,迅速施加與體重成正比的阻力(約 7.5%,訓練程度高者取更高);每 5 秒為一段計算功率,報告峯值功率、平均功率與疲勞指數(最大功率對最小功率之比)。無氧能力(anaerobic capacity)則是另一回事:指磷酸原與無氧醣解聯供下,30 到 90 秒中等持續時間內的最大供能速率,代表測試是 300 碼(274 公尺)折返跑與 90 秒箱跳測試。300 碼折返跑在兩條相距 25 碼(23 公尺)的線間衝刺 6 個來回,兩次試測之間休 5 分鐘,成績取兩次平均(0.1 秒)。90 秒箱跳用 46 公分(18 吋)高、76 公分(30 吋)寬的箱子,雙腳必須跳上箱頂再跳向另一側、不得踩箱面,90 秒內累計合格次數。</p>
+<p>基於速度的測試(speed-based testing, VBT)用 IMU、線性位移感測器等設備,讀取槓鈴的速度、功率與峯值力。負荷-速度曲線(load-velocity profile)靠「負荷越重、速度越慢」的線性關係建立(例如依序測 20%、40%、60%、80%、90% 1RM 各一組),適合監控訓練強度;但用它估算深蹲 1RM 波動大且一致偏高,所以要量極限力量,請直接測 1RM,曲線僅供監控強度。</p>
+<div class="analogy">無氧功率像相機閃光燈:0.1 秒內放出全部能量,量的是「瞬間多亮」(溫蓋特峯值功率、Margaria 功率)。無氧能力像手電筒強光檔:能撐 30 到 90 秒,量的是「這段時間總共發了多少光」(300 碼折返跑)。RSI 像拍球:球落地彈起又快又高,說明彈性系統好用;落地黏住,RSI 就難看。</div>
+<div class="exam">溫蓋特 30 秒、90–110 rpm、阻力 ≈7.5% 體重;Margaria-Kalamen:P = w×h÷t,2 次試測間休 2–3 分鐘,時間 0.01 秒;300 碼 = 6 × 50 碼、2 次取平均、中間休 5 分鐘;90 秒箱跳箱高 46 公分;下落跳箱 20/30/40 公分;RSI = 跳高 ÷ 觸地時間;10-5 測試取 RSI 最高 5 次平均。</div>
+<h3>3.4 局部肌肉耐力:做到動作失敗為止</h3>
+<p>局部肌肉耐力(local muscular endurance)是肌羣在次最大阻力下反覆收縮的能力,測試持續數秒到數分鐘、中間不休息。四個代表測試各有計數規則。部分卷腹測量腹肌耐力,優於傳統仰臥起坐,因為不借用髖屈肌:仰臥屈膝 90 度,指尖碰第一條 10 公分膠帶,第二條膠帶依年齡放在 12 公分(45 歲以下)或 8 公分(45 歲及以上)處;節拍器設 40 bpm,一拍上、一拍下,等於每分鐘 20 次卷腹;肩膀抬離墊面呈 30 度、每次卷腹前上背必須觸地、下巴不夾頸,最多計 75 次。俯臥撐:標準式以豎放在地板上的拳頭為最低點,胸部必須碰到拳頭;改良式採跪姿,膝彎 90 度,以 10 公分泡棉軸為最低點;未達最低點者不計次。陸軍體能測試的手離地俯臥撐(HRP):仰臥地面開始,在 2 分鐘內做到最多次數,還原時手掌要抬起、露出可見空隙(或手臂完全伸展呈 90 度變式);身體從腳踝到頭必須保持一直線;靜止超過 5 秒直接結束,抬腳或膝蓋觸地也結束。YMCA 臥推測試用固定負荷男子 36 公斤(80 磅)、女子 16 公斤(35 磅,含卡箍),節拍器 60 bpm 對應每分鐘 30 次,做到跟不上節拍為止,記錄完成次數。</p>
+<div class="analogy">耐力測試像「定速爬樓梯比賽」:樓梯速度(節拍器)和揹包重量(36/16 公斤)都鎖死,裁判只數你撐到第幾階。動作沒到位等於那階沒踩實,不算。</div>
+<div class="exam">節拍器換算要會:卷腹 40 bpm = 20 次/分鐘;YMCA 60 bpm = 30 次/分鐘。YMCA 男 80 磅/女 35 磅;HRP 靜止 &gt;5 秒終測。</div>
+
+<h3>3.5 有氧能力:五種現場方案</h3>
+<p>有氧能力(aerobic capacity,又稱有氧功率)是經氧化碳水化合物、脂肪與蛋白質產生能量的最大速率,標準單位是每公斤每分鐘毫升(mL·kg⁻¹·min⁻¹)。多數場館沒有直測攝氧的設備,所以用「跑得遠、跑得快的表現」反推有氧能力。1.5 英里(2.4 公里)計時跑直接對照常模表換算估計最大攝氧量;12 分鐘跑則量 12 分鐘內跑多遠(圈數 × 400 公尺)。這兩項都要事先練習配速。</p>
+<p>間歇性專項測試更貼近團隊運動:Yo-Yo 間歇恢復測試(Yo-Yo intermittent recovery test)是 20 公尺折返跑、隨音訊逐級提速,兩趟之間休息 10 秒;IRT1 從 10 km/h 起、IRT2 從 13 km/h 起,一般建議用 IRT1。線前 2 公尺為觸線區,第一次沒跟上先給警告,連續兩次沒跟上即結束,記錄最後完成的級數與趟數,再換算總距離。最大有氧速度測試(maximal aerobic speed, MAS)在跑道上每 25 公尺放一個椎桶,起始 8 到 12 km/h(建議 10 km/h),每 2 分鐘加 1 km/h,連續兩次沒到椎桶結束;能維持至少 2 分鐘的最後速度即為 MAS,只跑完半個區段則該速度加 0.5 km/h;最大攝氧量可用「3.5 × MAS(km/h)」估算。沒有音訊時可以吹哨代替:25 公尺間距在 10 km/h 下每 9 秒一哨。30-15 間歇體能測試(30-15 IFT)在 40 公尺場地進行,跑 30 秒走 15 秒,從 8.0 km/h 開始每階段加 0.5 km/h,連續三次沒到線結束,記錄最後完成階段速度(VIFT);每次變向另加 0.7 秒計入總跑動時間。</p>
+<div class="analogy">這些測試像「公車班次逐站加密」:站牌(音訊)永遠準時,跟不上班次的人(沒踩到線)被留在站上。你被留在哪一站,就是你的有氧成績。MAS 換算攝氧量則是把「時速」直接乘上固定係數的捷徑。</div>
+<div class="exam">Yo-Yo:組間休 10 秒、IRT1 起速 10 km/h、IRT2 起速 13 km/h,建議 IRT1;MAS:25 公尺間距、每 2 分鐘 +1 km/h、V̇O2max = 3.5 × MAS(km/h);30-15 IFT:40 公尺、8.0 km/h 起、每階段 +0.5 km/h、變向 +0.7 秒。</div>
+
+<h3>3.6 敏捷與速度:路線圖就是考題</h3>
+<p>敏捷性(agility)的現代定義已修訂為「對特定運動刺激做出反應的快速全身性方向或速度改變」,包含變向與認知(預判、反應)兩個成分;T-test、六邊形、5-10-5、5-0-5、伊利諾伊等傳統測試其實只測變向能力(change of direction ability),沒有認知成分。T-test:中線 A 出發,前衝 10 碼觸 B 錐底座、面向前左滑步 5 碼觸 C、右跑 10 碼觸 D、左跑 5 碼再觸 B、最後倒退跑回 A;沒觸到任何錐底、使用交叉步、或中途轉向,該次刪除;兩次取最佳,0.1 秒。六邊形測試:貼出邊長 61 公分(24 吋)、內角 120 度的正六邊形,雙腳併攏跳越每一條邊再回中心,順時針繞三圈共 18 跳,全程面向同一方向;踩線、失去平衡多走一步或轉身,都要重測;三次取最佳。5-10-5 又叫專業敏捷測試(pro agility test):三條平行線各距 5 碼,三點式起跑姿勢跨站中線,先向左 5 碼觸線、再向右 10 碼觸線、再回中線 5 碼,兩次試測觸線方式(手或腳)必須一致;取最佳,0.01 秒。5-0-5:衝 10 公尺過第一組計時燈,再衝 5 公尺到轉彎線(一腳必須踩過線),原地轉身折返,第二次過燈後才能減速;以慣用腳作為轉折(cut)腳,或慣用/非慣用各測至少一次;兩次取最佳。伊利諾伊測試:10 × 5 公尺路線、八個錐桶,俯臥起跑,訊號後起身衝 10 公尺、折返、S 形穿越中間四錐、再直線衝刺到底。直線衝刺測 40 碼或 10/20/40 公尺,三點或四點式起跑,至少做兩次「次最大」練習跑,每次正式試測間至少 2 分鐘積極休息,分段計時全記錄(10、20、40 碼),才能拆出加速能力與最大速度。</p>
+<p>計時方式是高頻考點:手動秒錶在發令後按錶有反應延遲,接近終點時又傾向提前按停,記錄的成績會比電子計時快約 0.24 秒。能裝電子計時門就別用秒錶;速度測試不超過 100 公尺,更長就變成測無氧或有氧能力。測試要穿防滑鞋、在防滑地面進行。</p>
+<div class="analogy">敏捷測試的路線圖要像背棋譜一樣背下來:T 是「前一、左一、右二、左一、倒退」;5-10-5 是「左一、右二、回中」。手動秒錶則像用手掐麵條的奶奶——永遠比你以為的快半拍,快的那 0.24 秒就是她的反應時間。</div>
+<div class="exam">手動計時比電子快 0.24 秒;六邊形 61 公分邊、18 跳、三次取最佳;5-10-5 兩次取最佳(0.01 秒);T-test 兩次取最佳(0.1 秒);速度測試 ≤100 公尺;衝刺試測間 ≥2 分鐘。</div>
+
+<h3>3.7 平衡、柔韌與動作篩查</h3>
+<p>平衡(balance)是把重心維持在支撐面上的能力,穩定性(stability)是受到外力幹擾後回到原位的能力;平衡差的運動員下肢受傷風險較高。平衡誤差評分系統(BESS)測六種姿勢:雙腳併攏、非優勢腿單腿(對側膝屈約 90 度)、優勢腳在前的串聯站姿;每種地面(硬地、泡沫墊)各做一輪,全程閉眼、手叉腰,每種姿勢 20 秒。計錯項目:睜眼、手離腰、非支撐腳落地、支撐腳移動或跳、前腳掌或腳跟抬起、髖屈或外展超過 30 度、單次錯誤維持超過 5 秒;每錯一次記 1 分,總分越低越好。星形偏移平衡測試(SEBT):八條 45 度間距的射線,單腿站,另一腳沿射線盡力觸線後回原位;每方向三次取平均,每次伸展後休 15 秒,正式測試前至少練習 4 次;沒觸線、支撐腳離開中心、起落姿勢未維持 1 秒,該次作廢;實務上測前內、內、後內三個方向即可。</p>
+<p>柔韌性(flexibility)是關節的活動範圍,坐位體前屈是代表測試:雙腿伸直,腳跟距離 38 公分(15 吋)膠帶線,兩腳間隔 30 公分;雙手併攏貼住尺緩慢前伸,邊吐氣邊伸,到達最遠點停一下,不可彈振;三次取最佳,精確到 0.25 吋或 1 公分;低於 15 吋代表碰不到腳尖。前後測必須使用同一種工具(用尺就要一直用尺,不要換成測試箱)。過頭深蹲是篩查不是計分測試:握距為兩倍肩峯寬、槓過頭,下蹲到髖褶低於膝頂,軀幹需與脛骨平行、腳跟不離地、槓穩定過頭,至少做 5 次,測試者從側面觀察,判定合格或不合格;它一次看髖、膝、踝、肩與胸椎的兩側活動度。動作篩查方面,運動技能能力(athletic motor skill competency, AMSC)用動作模式監測青少年發展,功能性動作篩查(FMS)、北歐式跳躍評估、落地錯誤評分等工具可用於辨識損傷風險;但篩查與運動損傷之間尚未確立明確的因果關係,也沒有公認最佳的工具。青少年動作變異性大,能逐次計分的工具(如 TJA 總和計分)比只取最佳次數的 FMS 更能捕捉一致性;全身性篩查(FMS)可能漏掉局部代償,節段式分析更細緻。</p>
+
+<h3>3.8 身體成分與人體測量學</h3>
+<p>身體成分(body composition)實務上採雙組分模型:脂肪加去脂體重。由受過訓練的測試者執行皮褶厚度法,是現場最有效也最可靠的方法(與參考方法相關 r = 0.99),優於體圍法;生物電阻抗(BIA)與全身容積描記法可以使用,雙能量 X 光吸收(DXA)則是公認的黃金標準。皮褶測量規則全是要背的死數字:運動前、乾燥皮膚上測;拇指食指夾起皮褶,卡鉗在離手指 1 到 2 公分(0.5 到 1 吋)處與皮褶垂直夾入,鬆開手柄後 1 到 2 秒內讀值、精確 0.5 毫米;每個部位測量兩次,兩次差值在 10% 以內則取平均,超過則重測直到符合。男性胸褶在腋前線到乳頭距離中點的斜褶;其餘部位包括大腿前側垂直褶(髖與膝中點)、臍右 2.5 公分垂直腹褶、肩峯與鷹嘴突中點的三頭肌褶、髂嵴上方斜褶、劍突水平腋中線垂直褶、肩胛下角下 1 到 2 公分斜褶、小腿內側最大周長處。把皮褶總和代入對應族羣的公式(如 Jackson-Pollock 七部位式),得到身體密度 Db,再代入表 14.36 的族羣轉換式計算體脂率(如白人男性 %BF = (5.27/Db) − 4.85;兒童用 Slaughter 二部位式)。皮褶公式的最小標準誤 ±3% 到 ±5%,所以估出 24% 時,要回報 21% 到 27% 的範圍,不能只報單點。</p>
+<p>人體測量學(anthropometry)測量身高、體重與圍度。身高用身高計、脫鞋,精確 0.25 吋或 0.5 公分;體重用認證電子秤測量,穿著最少量的乾爽衣物,固定在相同時段量;最可靠的時機是晨起排便後、進食飲水前;秤重前一天避開鹹食以免水分滯留。圍度用帶固定張力的彈簧捲尺(古利克式),在放鬆的解剖姿勢下測量胸部(男子乳頭水平)、上臂與前臂(手臂側平舉、掌心向上,取最大周長)、臍水平腰圍、臀部最突出處、大腿與小腿最大周長等七個部位。</p>
+<div class="analogy">體脂估算像用尺量蛋糕外殼厚度推餡料多少:公式就是換算表,但每張表只對「它量過的蛋糕」準——族羣要對,還要回報誤差範圍。把皮褶卡鉗當遊標卡尺用,鬆開後要在指針還穩的 1 到 2 秒內讀,拖久了皮褶被壓實,數字就假。</div>
+
+<h3>3.9 測試數據的統計解讀</h3>
+<p>測完的分數有四種用法:看個人或團體隨訓練的變化、與過去類似族羣相比、看個人在隊內的相對位置、與地區或全國標準相比。差異分數(difference score)與百分比變化最直覺,但有兩個盲點:一是收益遞減原理,起點越高進步越少,低適能者的適應窗口比較大;二是有人故意在前測藏力,把進步分數做得漂亮,所以前後測都應要求全力以赴。</p>
+<p>描述統計有三個集中趨勢量:平均值最常用;中位數是排序後正中間的分數(偶數個時取中間兩個的平均,極端值存在時比均值更能代表整體);眾數是出現次數最多的分數,也最不穩定。變異性看極差(從最低到最高,只用到兩個極端值,易受異常值影響)與標準差(公式以 n−1 為分母的樣本標準差);z 分數 =(分數 − 平均)÷ 標準差,例:40 碼跑 4.6 秒、團隊平均 5.00 秒、SD 0.33 秒,z = −1.2,比隊友快 1.2 個標準差。百分位排名指「得分比你低的人佔多少」,75% 代表 75% 的人比你低,不是答對 75%。推斷統計是從樣本推總體,前提是樣本真能代表整體。</p>
+<p>實務上更應使用量化統計(magnitude statistics)。最小有意義變化(minimally meaningful change, MVC)回答「進步多少纔算真的進步」,通常取受試者間標準差的 0.2 倍:垂直跳 SD 為 10 公分,MVC 就是 2 公分,進步 1.5 公分只是雜訊。效應量(effect size, ES)=(後測平均 − 前測平均)÷ 前測標準差,例:(111.7 − 104.5)÷ 5.7 = 1.26,按 0.2 小、0.6 中、1.2 大、2.0 非常大的量表,這是「大」效果,代表訓練計畫確實有效。</p>
+
+<h3>3.10 建立運動員檔案:六步驟</h3>
+<p>最後一步是把測試結果整合成檔案(athlete profiling)。六步驟依序是:一、選與專項身體需求最相關的參數(摔角手需要拉力、推力與局部肌肉耐力);二、選有效可靠的測試並排好順序、留足休息(例:仰臥起坐與俯臥撐之間至少休 10 分鐘);三、盡量測全部運動員;四、設定該測試的最小有意義進步量,有條件就累積自己的常模;五、重複施測(訓練前後),把結果畫成輪廓圖;六、讓數據落到訓練決策上——劣勢項目進課表,優勢項目維持。測試不是儀式,而是擬定課表的依據。</p>
+
+<h2 class="brk">四、考點速記</h2>
+<table>
+<tr><th>主題</th><th>必背數字/規則</th></tr>
+<tr><td>1RM 程序</td><td>首次嘗試 ≈50% 預估 1RM;嘗試間休 1–5 分鐘;熱身後 3–5 次嘗試內完成;正式嘗試前至少 2 組重熱身(2–5 次);槓片可精細到 2.3 公斤(5 磅)遞增</td></tr>
+<tr><td>IMTP</td><td>膝 120–145°、髖 125–150°;熱身 50/70/90% 各一組、休 1–2 分鐘;峯值力試次 3–5 秒、RFD ≤1 秒;試間峯值差 &gt;15% 加測;力板取樣 ≥1000 Hz;靜置 1 秒漂移 &gt;50 N 丟棄該試次</td></tr>
+<tr><td>溫蓋特測試</td><td>30 秒、踏頻 90–110 rpm、阻力 ≈7.5% 體重;報告峯值功率/平均功率/疲勞指數</td></tr>
+<tr><td>Margaria-Kalamen</td><td>P(W) = w × h ÷ t;第 3 到第 9 階高度 = 6 倍階高(約 18 公分/階);2 次試測休 2–3 分鐘;時間 0.01 秒</td></tr>
+<tr><td>300 碼折返跑</td><td>25 碼 × 12 趟;兩次試測取平均、中間休 5 分鐘;0.1 秒</td></tr>
+<tr><td>90 秒箱跳</td><td>箱高 46 公分(18 吋)、寬 76 公分;雙腳上箱、不得踩面</td></tr>
+<tr><td>部分卷腹</td><td>40 bpm = 20 次/分鐘;肩抬 30°;第二膠帶 45 歲以下 12 公分、以上 8 公分;上限 75 次</td></tr>
+<tr><td>YMCA 臥推</td><td>男 36 公斤(80 磅)/女 16 公斤(35 磅)含卡箍;60 bpm = 30 次/分鐘;做到力竭</td></tr>
+<tr><td>AFT 手離地俯臥撐</td><td>2 分鐘;靜止 &gt;5 秒、抬腳、膝觸地即終測</td></tr>
+<tr><td>Yo-Yo IRT</td><td>2 × 20 公尺、趟間休 10 秒;IRT1 起速 10 km/h、IRT2 起速 13 km/h;建議 IRT1;連續 2 次未觸線終測</td></tr>
+<tr><td>MAS 測試</td><td>椎桶間距 25 公尺;起始 8–12 km/h(建議 10);每 2 分鐘 +1 km/h;V̇O2max = 3.5 × MAS(km/h);25 公尺 10 km/h = 每 9 秒一哨</td></tr>
+<tr><td>30-15 IFT</td><td>40 公尺場;8.0 km/h 起、每階段 +0.5 km/h;跑 30 休 15;連續 3 次未達線終測;每次變向加 0.7 秒</td></tr>
+<tr><td>T-test</td><td>前 10 碼→左 5 碼→右 10 碼→左 5 碼→倒退回起點;面向前、禁交叉步、必觸錐底;2 次取最佳(0.1 秒)</td></tr>
+<tr><td>六邊形測試</td><td>邊 61 公分、內角 120°;18 跳;3 次取最佳</td></tr>
+<tr><td>5-10-5(專業敏捷)</td><td>線距 5 碼、三點式跨中線;2 次取最佳(0.01 秒)</td></tr>
+<tr><td>5-0-5 / 伊利諾伊</td><td>5-0-5:衝 10 公尺+轉彎線前 5 公尺+折返,慣用腳轉折;伊利諾伊:10 × 5 公尺、8 錐、俯臥起跑</td></tr>
+<tr><td>直線衝刺</td><td>40 碼或 10/20/40 公尺;試測間 ≥2 分鐘積極休息;分段計時;手動計時比電子快 0.24 秒</td></tr>
+<tr><td>BESS</td><td>3 站姿 × 硬地/泡沫 = 6 條件;閉眼叉腰 20 秒;錯一次記 1 分,分數越低越好;單次錯誤維持 &gt;5 秒記一分</td></tr>
+<tr><td>SEBT</td><td>8 方向、45° 間距;每次伸展休 15 秒;練習 ≥4 次;可只測前內/內/後內</td></tr>
+<tr><td>坐位體前屈</td><td>腳跟貼 38 公分(15 吋)線、雙腳距 30 公分;3 次取最佳,0.25 吋/1 公分;禁彈振;工具前後一致</td></tr>
+<tr><td>皮褶厚度</td><td>運動前乾膚;鬆開後 1–2 秒讀值、0.5 毫米;兩次差 ≤10% 取平均;公式 SEE ±3–5%,須回報範圍</td></tr>
+<tr><td>統計</td><td>MVC = 0.2 × 受試者間 SD;ES =(後測均值 − 前測均值)÷ 前測 SD;0.2 小/0.6 中/1.2 大/2.0 非常大;z =(x − 均值)÷ SD;百分位數描述:90 遠高於平均、70 高於、50 平均、30 低於、10 遠低於</td></tr>
+</table>
+
+<h2 class="brk">五、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>一次最大重量</td><td>One Repetition Maximum (1RM)</td><td>正確姿勢下單次能舉起的最大重量。</td></tr>
+<tr><td>等長中段大腿拉力</td><td>Isometric Mid-Thigh Pull (IMTP)</td><td>對固定槓鈴做最大等長拉舉,量峯值力與 RFD。</td></tr>
+<tr><td>力量增長率</td><td>Rate of Force Development (RFD)</td><td>單位時間內力量上升的速率。</td></tr>
+<tr><td>基於速度的測試/訓練</td><td>Velocity-Based Testing (VBT)</td><td>用槓鈴速度監控強度、建立負荷-速度曲線。</td></tr>
+<tr><td>負荷-速度曲線</td><td>Load-velocity profile</td><td>負荷與速度線性反向關係的個人化曲線,不宜用於預估 1RM。</td></tr>
+<tr><td>溫蓋特無氧測試</td><td>Wingate anaerobic test</td><td>30 秒最大阻力騎乘,量峯值/平均功率與疲勞指數。</td></tr>
+<tr><td>無氧能力</td><td>Anaerobic capacity</td><td>磷酸原與醣解聯供下,30–90 秒的最大供能速率。</td></tr>
+<tr><td>局部肌肉耐力</td><td>Muscular endurance</td><td>次最大阻力下反覆收縮到疲勞的能力。</td></tr>
+<tr><td>最大有氧速度</td><td>Maximal Aerobic Speed (MAS)</td><td>以漸進 25 公尺折返測得的最高可維持速度,可換算 V̇O2max。</td></tr>
+<tr><td>Yo-Yo 間歇恢復測試</td><td>Yo-Yo Intermittent Recovery Test</td><td>逐級提速的 2 × 20 公尺折返跑,模擬團隊運動間歇需求。</td></tr>
+<tr><td>30-15 間歇體能測試</td><td>30-15 IFT</td><td>跑 30 秒走 15 秒的提速間歇測試,成績記 VIFT。</td></tr>
+<tr><td>敏捷性</td><td>Agility</td><td>對運動專項刺激做出反應的快速全身變向或變速。</td></tr>
+<tr><td>變向能力</td><td>Change of direction ability</td><td>預判路線下的變向表現,不含認知成分。</td></tr>
+<tr><td>反應力量指數</td><td>Reactive Strength Index (RSI)</td><td>跳躍高度除以觸地時間,評估 stretch-shortening cycle 運用。</td></tr>
+<tr><td>反向跳躍/深蹲跳</td><td>Countermovement jump / Squat jump</td><td>前者快速反向下蹲後起跳,後者靜蹲 2–3 秒再起跳。</td></tr>
+<tr><td>下落跳躍</td><td>Drop jump</td><td>自箱上走出落地後立即再跳,量觸地時間與 RSI。</td></tr>
+<tr><td>平衡誤差評分系統</td><td>Balance Error Scoring System (BESS)</td><td>六種閉眼姿勢的錯誤計分,分低者佳。</td></tr>
+<tr><td>星形偏移平衡測試</td><td>Star Excursion Balance Test (SEBT)</td><td>單腿站各方向極限觸遠,量動態穩定極限。</td></tr>
+<tr><td>皮褶厚度法</td><td>Skinfold thickness</td><td>以卡鉗夾量皮下脂肪、經公式推體脂的現場方法。</td></tr>
+<tr><td>生物電阻抗法</td><td>Bioelectrical Impedance Analysis (BIA)</td><td>以微弱電流通過身體的阻抗,推估身體成分。</td></tr>
+<tr><td>最小有意義變化</td><td>Minimally Meaningful Change (MVC)</td><td>能辨識真實表現改變的最小變化量,常取 0.2 倍 SD。</td></tr>
+<tr><td>效應量</td><td>Effect Size (ES)</td><td>前後測平均差除以前測 SD,0.2/0.6/1.2/2.0 為判讀量表。</td></tr>
+<tr><td>百分位排名</td><td>Percentile rank</td><td>分數低於此人的人數百分比。</td></tr>
+<tr><td>收益遞減原理</td><td>Diminishing returns principle</td><td>訓練起點越高,可進步空間越小。</td></tr>
+</table>
+
+<h2 class="brk">六、圖表</h2>
+<div class="fig">
+<svg width="660" height="180" viewBox="0 0 660 180">
+  <rect x="8" y="30" width="118" height="56" rx="6" fill="#0f3460"/>
+  <text x="67" y="54" font-size="12" text-anchor="middle" fill="#ffffff">確認方案</text>
+  <text x="67" y="72" font-size="11" text-anchor="middle" fill="#ffffff">與設備校準</text>
+  <rect x="140" y="30" width="118" height="56" rx="6" fill="#0f3460"/>
+  <text x="199" y="54" font-size="12" text-anchor="middle" fill="#ffffff">技術教學</text>
+  <text x="199" y="72" font-size="11" text-anchor="middle" fill="#ffffff">練習跑/練習組</text>
+  <rect x="272" y="30" width="118" height="56" rx="6" fill="#3d7a3d"/>
+  <text x="331" y="54" font-size="12" text-anchor="middle" fill="#ffffff">專項熱身</text>
+  <text x="331" y="72" font-size="11" text-anchor="middle" fill="#ffffff">5–10 次輕負荷</text>
+  <rect x="404" y="30" width="118" height="56" rx="6" fill="#e6b800"/>
+  <text x="463" y="54" font-size="12" text-anchor="middle" fill="#16213e">正式試測</text>
+  <text x="463" y="72" font-size="11" text-anchor="middle" fill="#16213e">依規定休息間隔</text>
+  <rect x="536" y="30" width="116" height="56" rx="6" fill="#e94560"/>
+  <text x="594" y="54" font-size="12" text-anchor="middle" fill="#ffffff">品質審查</text>
+  <text x="594" y="72" font-size="11" text-anchor="middle" fill="#ffffff">取最佳/加測</text>
+  <line x1="126" y1="58" x2="140" y2="58" stroke="#16213e" stroke-width="2"/>
+  <line x1="258" y1="58" x2="272" y2="58" stroke="#16213e" stroke-width="2"/>
+  <line x1="390" y1="58" x2="404" y2="58" stroke="#16213e" stroke-width="2"/>
+  <line x1="522" y1="58" x2="536" y2="58" stroke="#16213e" stroke-width="2"/>
+  <text x="67" y="120" font-size="11" text-anchor="middle" fill="#16213e">1RM:50% 起</text>
+  <text x="199" y="120" font-size="11" text-anchor="middle" fill="#16213e">T-test/SEBT 先練習</text>
+  <text x="331" y="120" font-size="11" text-anchor="middle" fill="#16213e">IMTP:50/70/90%</text>
+  <text x="463" y="120" font-size="11" text-anchor="middle" fill="#16213e">休息 1–5 分鐘</text>
+  <text x="594" y="120" font-size="11" text-anchor="middle" fill="#16213e">試間差 &gt;15% 重測</text>
+  <text x="330" y="160" font-size="12" text-anchor="middle" fill="#16213e">同一測試、同一程序、同一順序,成績才能前後比較</text>
+</svg>
+<div class="figcap">圖14.1 測試日標準執行流程:每個測試都要走「教學練習→熱身→正式試測→品質審查」這條路,加測與刪次規則在最後一關把關。</div>
+</div>
+<div class="fig">
+<svg width="660" height="150" viewBox="0 0 660 150">
+  <text x="20" y="24" font-size="12" fill="#16213e">測試持續時間決定它測哪個能量系統(考試常考的分界)</text>
+  <rect x="20" y="40" width="140" height="60" fill="#e94560"/>
+  <text x="90" y="64" font-size="12" text-anchor="middle" fill="#ffffff">約 1 秒</text>
+  <text x="90" y="82" font-size="11" text-anchor="middle" fill="#ffffff">最大無氧功率</text>
+  <rect x="180" y="40" width="150" height="60" fill="#e6b800"/>
+  <text x="255" y="58" font-size="12" text-anchor="middle" fill="#16213e">2–5 秒</text>
+  <text x="255" y="76" font-size="11" text-anchor="middle" fill="#16213e">低速最大力量</text>
+  <text x="255" y="92" font-size="10" text-anchor="middle" fill="#16213e">(1RM、IMTP)</text>
+  <rect x="350" y="40" width="150" height="60" fill="#0f3460"/>
+  <text x="425" y="58" font-size="12" text-anchor="middle" fill="#ffffff">30–90 秒</text>
+  <text x="425" y="76" font-size="11" text-anchor="middle" fill="#ffffff">無氧能力</text>
+  <text x="425" y="92" font-size="10" text-anchor="middle" fill="#ffffff">(300碼、溫蓋特)</text>
+  <rect x="520" y="40" width="120" height="60" fill="#3d7a3d"/>
+  <text x="580" y="58" font-size="12" text-anchor="middle" fill="#ffffff">數分鐘</text>
+  <text x="580" y="76" font-size="11" text-anchor="middle" fill="#ffffff">有氧能力</text>
+  <text x="580" y="92" font-size="10" text-anchor="middle" fill="#ffffff">(12分鐘跑等)</text>
+  <line x1="20" y1="112" x2="640" y2="112" stroke="#16213e" stroke-width="2"/>
+  <text x="90" y="132" font-size="11" text-anchor="middle" fill="#16213e">ATP–磷酸肌酸</text>
+  <text x="255" y="132" font-size="11" text-anchor="middle" fill="#16213e">ATP–磷酸肌酸</text>
+  <text x="425" y="132" font-size="11" text-anchor="middle" fill="#16213e">+無氧醣解</text>
+  <text x="580" y="132" font-size="11" text-anchor="middle" fill="#16213e">氧化系統</text>
+</svg>
+<div class="figcap">圖14.2 測試時程與能量系統對應:秒級測功率、30–90 秒測無氧能力、分鐘級測有氧,三者不可混為一談。</div>
+</div>
+<h3>表 A 代表測試與關鍵參數速查</h3>
+<table>
+<tr><th>測試</th><th>測量參數</th><th>關鍵規定</th></tr>
+<tr><td>1RM 臥推/後蹲/高翻</td><td>低速最大力量</td><td>3–5 次嘗試內完成;臥推需保護者在頭端、深蹲需保護桿或兩側保護者</td></tr>
+<tr><td>IMTP</td><td>等長峯值力、RFD</td><td>膝 120–145°;試間 1–2 分鐘;試間差 &gt;15% 加測</td></tr>
+<tr><td>垂直跳(Sergeant 跳)</td><td>高速力量/爆發力</td><td>三次取最佳、0.5 吋/1 公分;觸牆法與力板數值不可互換</td></tr>
+<tr><td>Margaria-Kalamen</td><td>Peak 無氧功率</td><td>P = w×h÷t;第 3 至第 9 階;2 次休 2–3 分鐘</td></tr>
+<tr><td>300 碼折返跑</td><td>無氧能力</td><td>2 次取平均、休 5 分鐘;0.1 秒</td></tr>
+<tr><td>YMCA 臥推</td><td>局部肌肉耐力</td><td>男 36 公斤/女 16 公斤;60 bpm 計 30 次/分鐘</td></tr>
+<tr><td>1.5 英里跑/12 分鐘跑</td><td>有氧能力(推估 V̇O2max)</td><td>12 分鐘跑距離 = 圈數 × 400 公尺</td></tr>
+<tr><td>MAS / 30-15 IFT / Yo-Yo</td><td>有氧能力(間歇專項)</td><td>見第四節死數字</td></tr>
+<tr><td>T-test/5-10-5/5-0-5/六邊形/伊利諾伊</td><td>變向能力(敏捷外顯成分)</td><td>路線、觸線、面向規則錯誤即刪次或重測</td></tr>
+<tr><td>40 碼/10-20-40 公尺衝刺</td><td>加速度與最大速度</td><td>分段計時;電子計時優於秒錶(差 0.24 秒)</td></tr>
+<tr><td>BESS/SEBT</td><td>靜態/動態平衡</td><td>BESS 閉眼 20 秒記錯分;SEBT 每方向 3 次平均</td></tr>
+<tr><td>坐位體前屈/過頭深蹲</td><td>柔韌性/動作品質</td><td>三次取最佳 vs 定性合格制</td></tr>
+<tr><td>皮褶/BIA/圍度</td><td>身體成分/人體測量</td><td>標準化條件(運動前、晨起)是可比性的前提</td></tr>
+</table>
+<h3>表 B 專項 V̇O2max 階層(表 14.26 摘要)</h3>
+<table>
+<tr><th>階層</th><th>男性代表專項</th></tr>
+<tr><td>極高</td><td>越野滑雪、中長跑</td></tr>
+<tr><td>非常高</td><td>長跑</td></tr>
+<tr><td>高</td><td>自行車、划船、競走</td></tr>
+<tr><td>高於平均</td><td>足球、中距離游泳、手球、壁球、摔角、籃球、田徑投擲以外多數項目</td></tr>
+<tr><td>平均</td><td>棒球/壘球、美式橄欖球鋒線與四分衛、鉛球、鐵餅、舉重、健美</td></tr>
+</table>
+<div class="exam">體能檔案 z 分數圖以 0 為隊平均值:比隊友快 1.2 個標準差(z = −1.2)的短跑成績,與 z 接近 +2 的柔韌分數,會直接指出訓練優先序。</div>
+
+<h2 class="brk">七、易混陷阱</h2>
+<div class="trap"><b>敏捷性 vs 變向能力。</b>敏捷 = 變向 + 認知(對刺激的反應與預判);T-test、六邊形、5-10-5、5-0-5、伊利諾伊的路線都是預先知道的,嚴格說只測變向能力。題目問「哪個不是敏捷/變向測試」時,RSI(跳躍指標)纔是異類;問「哪個含認知成分」時,傳統五個測試都不是。</div>
+<div class="trap"><b>1RM 直接測 vs 負荷-速度曲線預估。</b>曲線能監控每日強度,但用它推深蹲 1RM 一致偏高、波動大;要量極限力量,請直接上槓測量,曲線負責日常監控。</div>
+<div class="trap"><b>垂直跳的兩套「跳高」。</b>觸牆/Vertec 法從站立伸手高度起算,力板/接觸墊法從起跳時重心起算,基準不同,數字不能互換、更不能混在同一張趨勢圖裡。手觸牆時刻與重心最高點的時間差、肩活動度都是額外誤差。</div>
+<div class="trap"><b>最大無氧功率 vs 無氧能力。</b>前者 1 秒級(跳躍、Margaria、溫蓋特峯值功率),靠儲存的 ATP 與磷酸肌酸;後者 30–90 秒(300 碼折返、90 秒箱跳),是磷酸原與醣解聯合供能。選項出現「30–90 秒最大供能速率」選無氧能力。</div>
+<div class="trap"><b>手動秒錶 vs 電子計時。</b>秒錶成績會「比較快」0.24 秒(按錶延遲+提前停),不是電子計時壞掉;跨年度比較要先統一計時方式。</div>
+<div class="trap"><b>部分卷腹 vs 仰臥起坐;YMCA 臥推 vs 1RM 臥推。</b>前者用 30 度小幅度排除髖屈肌、測腹肌耐力;後者一個是 36/16 公斤計次數的耐力測試,一個是遞增到單次極限的力量測試,名稱都含「臥推」,測的卻是兩件事。</div>
+
+<h2 class="brk">八、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(選擇題)磷酸原與醣解系統聯合產生能量的最大速率稱為?(A)敏捷性 (B)無氧能力 (C)有氧能力 (D)最大力量</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)以下哪項不是敏捷/變向測試?(A)六邊形測試 (B)5-10-5 測試 (C)T-test (D)反應力量指數</p></div>
+<div class="qa"><p><b>Q3.</b>(選擇題)北歐式膕旁肌測試中,哪種錯誤會讓該次動作無效?(A)髖關節前彎代償,未保持膝到肩一直線 (B)下降速度太慢 (C)腳踝後側貼住掛勾 (D)保持核心穩定</p></div>
+<div class="qa"><p><b>Q4.</b>(選擇題)分數個數為偶數時,取中間兩個分數平均值、且一半分數高於它的是?(A)中位數 (B)眾數 (C)平均值 (D)變異性</p></div>
+<div class="qa"><p><b>Q5.</b>(選擇題)下列何者屬於人體測量學測量?(A)圍度測量 (B)身體成分 (C)IMTP (D)1RM 挺舉</p></div>
+<div class="qa"><p><b>Q6.</b>(是非題)女性運動員做 Yo-Yo 間歇恢復測試建議用 IRT2,因為起速 13 km/h 更貼比賽強度。</p></div>
+<div class="qa"><p><b>Q7.</b>(選擇題)某隊垂直跳前測平均 42 公分(SD 6 公分),訓練後平均 43 公分。以 0.2 倍標準差計,MVC 是多少?此 1 公分變化是否算真實進步?(A)MVC 1.2 公分,未達標 (B)MVC 0.6 公分,已達標 (C)MVC 6 公分,未達標 (D)MVC 1.2 公分,已達標</p></div>
+<div class="qa"><p><b>Q8.</b>(是非題)坐位體前屈首次測試用捲尺,為求精確,下次改坐位體前屈測試箱也可以。</p></div>
+<div class="qa"><p><b>Q9.</b>(選擇題)T-test 的正確路線是?(A)前 10 碼→左滑 5 碼→右 10 碼→左 5 碼→倒退跑回起點 (B)前 5 碼→右 10 碼→左 10 碼→前 5 碼 (C)繞八個錐桶 S 形跑 (D)跳越六邊形三圈</p></div>
+
+<h2 class="brk">附錄、自我檢測解答與解析</h2><p>先把上一節題目做完,再回頭對照本頁。</p><div class="qa"><p><b>1.</b> Q1.(選擇題)磷酸原與醣解系統聯合產生能量的最大速率稱為?(A)敏捷性 (B) …</p><p class="ans">Ans:B — 30–90 秒中等持續時間的聯供最大速率正是無氧能力的定義。</p></div><div class="qa"><p><b>2.</b> Q2.(選擇題)以下哪項不是敏捷/變向測試?(A)六邊形測試 (B)5-10-5 …</p><p class="ans">Ans:D — RSI 是下落跳躍的跳高÷觸地時間,屬於增強式表現指標,不是變向路線測試。</p></div><div class="qa"><p><b>3.</b> Q3.(選擇題)北歐式膕旁肌測試中,哪種錯誤會讓該次動作無效?(A)髖關節前彎代 …</p><p class="ans">Ans:A — 髖屈會把離心負荷從膕旁肌轉走;下降「快」纔是問題,慢是要求。</p></div><div class="qa"><p><b>4.</b> Q4.(選擇題)分數個數為偶數時,取中間兩個分數平均值、且一半分數高於它的是?( …</p><p class="ans">Ans:A — 這是中位數的定義;極端值存在時它比均值更能代表集中趨勢。</p></div><div class="qa"><p><b>5.</b> Q5.(選擇題)下列何者屬於人體測量學測量?(A)圍度測量 (B)身體成分 (C …</p><p class="ans">Ans:A — 人體測量學量身高、體重與圍度;皮褶屬於身體成分評估,不屬此類。</p></div><div class="qa"><p><b>6.</b> Q6.(是非題)女性運動員做 Yo-Yo 間歇恢復測試建議用 IRT2,因為起速 …</p><p class="ans">Ans:✕ — 教材建議體能訓練人員使用 IRT1(起速 10 km/h);IRT2 要求更高,不是預設選項。</p></div><div class="qa"><p><b>7.</b> Q7.(選擇題)某隊垂直跳前測平均 42 公分(SD 6 公分),訓練後平均 4 …</p><p class="ans">Ans:A — MVC = 0.2 × 6 = 1.2 公分,實測變化 1.0 公分小於門檻,視同測量雜訊而非真實進步。</p></div><div class="qa"><p><b>8.</b> Q8.(是非題)坐位體前屈首次測試用捲尺,為求精確,下次改坐位體前屈測試箱也可以 …</p><p class="ans">Ans:✕ — 同一運動員必須前後使用同一工具;換工具等於換了量表,趨勢圖會失真。</p></div><div class="qa"><p><b>9.</b> Q9.(選擇題)T-test 的正確路線是?(A)前 10 碼→左滑 5 碼→右 …</p><p class="ans">Ans:A — 先衝 B 錐右手觸底,左滑 5 碼、右跑 10 碼、左跑 5 碼各觸底,倒退跑過 A 線停錶。</p></div></body></html>

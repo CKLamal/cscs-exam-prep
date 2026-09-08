@@ -1,0 +1,400 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>新版式示範</title><style>
+@page { size: A4; margin: 20mm 19mm 22mm 19mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei","Noto Sans TC","PingFang TC","MS JhengHei",sans-serif;
+  font-size: 11.5pt; line-height: 1.95; color: #1a1a2e; margin: 0; }
+.cover { page-break-after: always; text-align: center; padding-top: 24mm; }
+.cover .chip { display:inline-block; background:#0f3460; color:#fff; padding:6px 22px;
+  border-radius:99px; font-size:11pt; letter-spacing:.2em; }
+.cover .chno { margin-top:18mm; font-size:16pt; color:#e94560; font-weight:700; letter-spacing:.15em; }
+.cover .ctitle { font-size:30pt; font-weight:800; color:#0f3460; margin-top:6mm; line-height:1.4; }
+.cover .cent { font-size:12pt; color:#555; font-style:italic; margin-top:4mm; }
+.cover .keybox { text-align:left; background:#f4f7fa; border:1px solid #d7e0ea; border-left:6px solid #0f3460;
+  border-radius:8px; padding:12px 18px; margin:16mm 6mm 0; font-size:11pt; line-height:1.9; }
+.cover .keybox ul { margin:6px 0 0; padding-left:1.3em; }
+.cover .toc { text-align:left; margin:10mm 6mm 0; font-size:10.5pt; color:#333; }
+.cover .toc ol { margin:6px 0 0; padding-left:1.6em; line-height:2.1; }
+h1 { font-size:19pt; text-align:center; color:#0f3460; margin:0 0 6px; }
+h2 { page-break-after: avoid; background:#0f3460; color:#ffffff; font-size:15pt;
+  padding:8px 16px; border-radius:6px; margin:0 0 14px; letter-spacing:.06em; }
+.qa, .fig { page-break-inside: avoid; }
+h2.brk { page-break-before: always; }
+h3 { color:#0f3460; border-left:4px solid #e6b800; padding-left:9px; margin-top:16px; font-size:12.5pt; }
+p { margin: 8px 0; }
+.exam { background:#fdecec; border:1px solid #f2b8b8; border-left:5px solid #c1121f;
+  padding:10px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; line-height:1.9; }
+.analogy { background:#eaf3fb; border:1px solid #bcd7ee; border-left:5px solid #2b6cb0;
+  padding:10px 14px; border-radius:6px; margin:12px 0; }
+.analogy::before { content:"打個比方"; display:block; font-weight:bold; color:#2b6cb0; font-size:10pt; margin-bottom:4px; }
+.trap { background:#fff4d6; border:1px solid #ecd9a0; border-left:5px solid #b8860b;
+  padding:10px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; }
+.trap::before { content:"容易混淆"; display:block; font-weight:bold; color:#b8860b; font-size:10pt; margin-bottom:4px; }
+.term { background:#eaf6ec; border:1px solid #bcdcc2; border-left:5px solid #3d7a3d;
+  padding:8px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; }
+.qa { background:#f4f7fa; border:1px solid #d7e0ea; border-left:5px solid #0f3460;
+  padding:8px 14px; border-radius:6px; margin:10px 0; font-size:10.5pt; }
+.ans { color:#1b5e20; margin-top:4px; }
+table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size:10pt; line-height:1.6; }
+th,td { border:1px solid #cfd6dd; padding:7px 9px; text-align:left; vertical-align:top; }
+th { background:#0f3460; color:#fff; font-weight:600; }
+tbody tr:nth-child(even) td { background:#f2f5f8; }
+thead { display: table-header-group; }
+svg { display:block; margin:14px auto; max-width:660px; width:100%; height:auto; }
+code { font-family:Consolas,monospace; background:#eef1f5; padding:1px 5px; border-radius:3px; font-size:9.5pt; }
+.footer { margin-top:24px; padding-top:8px; border-top:1px solid #cfd6dd; font-size:9pt; color:#555; text-align:center; }
+</style></head><body>
+<div class="cover">
+ <div class="chip">CSCS 考綱學習摘要</div>
+ <div class="chno">第 01 章</div>
+ <div class="ctitle">人體系統的結構與功能</div>
+ <div class="cent">Structural and Functional Foundations of Human Movement</div>
+ <div class="keybox"><b>本章主軸</b>
+  <ul>
+   <li>能量來自 ATP;三大系統依「持續時間與強度」輪流供能。</li>
+   <li>肌肉靠粗細肌絲滑動出力;肌纖維類型與募集順序固定。</li>
+   <li>訓練初期力量增加來自神經适应,肌肉肥大在後。</li>
+   <li>心肺與血流同步適應,輸氧能力提升;攝氧量等有氧數據是考點密集區。</li>
+   <li>訓練是壓力:超量補償與可逆性決定進度安排。</li>
+  </ul>
+ </div>
+ <div class="toc"><b>本章目錄</b><ol><li>一、本章一句話</li><li>二、學完本章你會</li><li>三、把核心概念講給你聽(ELI5)</li><li>四、考點速記</li><li>五、術語速查(中英對照)</li><li>六、圖表</li><li>七、易混陷阱</li><li>八、自我檢測</li><li>附錄、自我檢測解答與解析</li></ol></div>
+</div>
+
+<h1>第1章 人體系統的結構與功能</h1>
+<p class="subtitle">Structural and Functional Foundations of Human Movement(僅供術語對照) | 原文頁碼 p38–p103</p>
+
+<h2>一、本章一句話</h2>
+<p>一切力量都來自肌纖維內橫橋(肌動蛋白與肌球蛋白的結合體)的微觀循環,一切運動表現都由心肺的輸氧能力支撐。本章把肌肉骨骼、神經肌肉、心血管、呼吸四大系統的結構與生理數字一次講清,這些數字正是 CSCS 出題的原材料。</p>
+
+<h2>二、學完本章你會</h2>
+<ul>
+<li>描述骨骼、關節、骨骼肌的宏觀與顯微結構,說清「收縮時什麼變短、什麼不變」。</li>
+<li>用五個步驟複述橫橋循環,並解釋鈣與 ATP 為什麼缺一不可。</li>
+<li>對比 I 型、IIa 型、IIx 型肌纖維的形態與生理差異,預測它們在各類專項中的相對參與。</li>
+<li>默寫心臟傳導系統的路徑與各段自律放電頻率,判讀心電圖 P、QRS、T 波對應的事件。</li>
+<li>預測有氧與抗阻運動時心率、每搏輸出量、心輸出量、血壓、通氣量的急性反應方向。</li>
+<li>用 220 減年齡、菲克方程、心率血壓乘積等公式完成考試要求的計算。</li>
+</ul>
+
+<h2 class="brk">三、把核心概念講給你聽(ELI5)</h2>
+
+<h3>3.1 骨骼、關節與槓桿</h3>
+<p>肌肉只能拉,不能推。收縮的肌肉牽動骨骼,關節就是槓桿的轉軸。人體約有 206 塊骨,數量因人而異。骨骼分為兩大部分:中軸骨骼(顱骨、脊柱、肋骨、胸骨)與四肢骨骼(肩胛帶、上肢、骨盆帶、下肢)。附著其上的骨骼肌(skeletal muscle)超過 430 塊。</p>
+<p>按活動度,關節分三類:纖維關節(如顱骨縫合)幾乎不動;軟骨關節(如椎間盤)允許有限活動;滑膜關節(如肘、膝)摩擦小、活動範圍大,人體的運動與鍛鍊動作主要由它完成。滑膜關節的骨端覆蓋透明軟骨,整個關節包在滑膜囊內,囊中有滑液,還常有韌帶等支撐結構。</p>
+<p>按旋轉軸數量又分三類:單軸關節(如肘)像鉸鏈只繞一個軸;雙軸關節(如踝、腕)繞兩個互相垂直的軸;多軸的球窩關節(如肩、髖)可繞三個軸運動。考試常考一點:題目常把膝關節歸為鉸鏈關節,但它在整個活動範圍內轉軸會變化,並非純鉸鏈。脊柱由 7 節頸椎、12 節胸椎、5 節腰椎、5 節融合骶椎與 3 至 5 節尾椎組成。</p>
+<p>骨不是無生命的材料。抗阻訓練與爆發衝擊性運動都能提高骨密度與骨礦物質含量,從事體操等高衝擊專項的人骨密度往往最高。但骨的適應比骨骼肌慢,漸進式超負荷必須長期堅持才有效。</p>
+<div class="analogy">起重機只能靠鋼索「拉」起重物,從不「推」纜繩,肌肉也一樣,只能靠收縮產生拉力。門鉸鏈只允許一個方向轉動(單軸),辦公椅的萬向輪卻能四面八方轉(多軸),關節的軸數就是這樣分的。</div>
+
+<h3>3.2 從整塊肌肉到一根肌纖維:四層結構與運動單元</h3>
+<p>每塊骨骼肌由肌纖維、結締組織、神經與血管構成。三層結締組織由外而內層層包裹:肌外膜(epimysium)包圍整塊肌肉,肌束膜(perimysium)包圍每個肌束,肌內膜(endomysium)包圍單根肌纖維。每個肌束最多約含 150 根肌纖維。這三層結締組織都向外延續,連接肌腱,肌腱再附著於骨膜。因此肌細胞內產生的張力,能一路傳遞到肌腱與肌腱附著的骨。四肢肌肉有近端(靠近軀幹)與遠端(遠離軀幹)兩個附著點;軀幹肌肉的兩個附著點則稱上點與下點。</p>
+<p>肌纖維就是肌肉細胞,長圓柱形,直徑約 50 至 100 微米,與一根頭髮粗細相當。每根肌細胞只有一個神經肌肉接頭(neuromuscular junction, NMJ),又稱運動終板;但一個運動神經元可以支配數百甚至數千根肌纖維。「一個運動神經元加它支配的全部肌纖維」構成一個運動單元(motor unit),它一旦興奮,所支配的全部肌纖維同時收縮。需要精準控制的肌肉(如眼肌)運動單元可以小到只有 1 根纖維;股四頭肌的單元動輒數百根纖維,控制精度就粗。</p>
+<div class="analogy">一條電纜由許多銅絲擰成股、再由多股擰成芯、外裹護套。你拉其中一根銅絲,拉力會透過各層傳到整條電纜的接頭,就像肌纖維的張力透過三層結締組織傳到肌腱與骨。</div>
+
+<h3>3.3 肌節與滑動絲理論:力量從哪裡來</h3>
+<p>一根肌纖維的肌漿內有數百條肌原纖維,直徑約 1 微米,約為頭髮的百分之一。肌原纖維由兩種肌絲組成。粗絲是肌球蛋白(myosin),直徑約 16 奈米,每條由多達 200 個肌球蛋白分子聚集而成;每個分子含兩條重鏈、四條輕鏈,並帶兩個可擺動的「頭」。細絲是肌動蛋白(actin),直徑約 6 奈米,由兩條鏈捲成雙螺旋。每條粗絲周圍環繞 6 條細絲,每條細絲周圍也有 3 條粗絲,排列如晶格般整齊,保證收縮高效有序。</p>
+<p>兩條 Z 線之間的段落是肌節(sarcomere),為骨骼肌最小的收縮單位。肌節靜息時平均約 2.5 微米,每釐米肌肉約有 4500 個。粗絲錨定在肌節中心的 M 線,細絲錨定在 Z 線。顯微鏡下的明暗紋路有對應關係:深色 A 帶對應肌球蛋白絲所在區域,淺色 I 帶只含相鄰肌節的肌動蛋白絲(Z 線位於 I 帶中央),肌節中心只含粗絲的部分是 H 區。</p>
+<p>1954 年,Huxley 與 Hanson 提出滑動絲理論(sliding filament theory):細絲沿粗絲向內滑動,把 Z 線拉向肌節中心,肌纖維因此變短。關鍵在「滑動」兩個字:粗絲與細絲自身的長度都不變,變短的是 I 帶與 H 區。肌肉發出的力量,與當時形成的橫橋(cross-bridge)數量成正比。肌肉被拉得太長,粗細重疊少,橫橋難形成,力量最低;肌肉過度縮短時,重疊過多反而互相干擾,力量也低;只有重疊適度時力量最高。這正是考題中「長度-張力關係」的原型。</p>
+<p>肌肉收縮必需兩樣東西:鈣與 ATP。運動神經元興奮肌纖維後,儲存鈣離子的肌漿網(sarcoplasmic reticulum, SR)釋放鈣離子;鈣與細絲上的肌鈣蛋白(troponin)結合,讓原肌球蛋白(tropomyosin)移位,暴露出肌動蛋白上的肌球蛋白結合位,橫橋才能形成。肌球蛋白頭部的 ATP 酶水解三磷酸腺苷(adenosine triphosphate, ATP),驅動「動力衝程」把細絲拉向肌節中心。刺激停止後,專用運輸蛋白消耗 ATP,把鈣泵回肌漿網,橫橋數量驟減,肌肉放鬆。五個步驟見圖 1.2。</p>
+<div class="analogy">拔河的正確姿勢是雙手交替「倒手」抓繩。手(橫橋)一道道倒手,繩(細絲)就往隊裡滑;繩子本身沒變短,隊員之間的間距(I 帶、H 區)卻縮短了。每個人揮手都要吃飯:橫橋每循環一次,就燒掉一個 ATP。</div>
+
+<h3>3.4 神經怎麼下令:全或無、抽搐與強直收縮</h3>
+<p>動作電位(action potential)沿運動神經元傳到軸突末梢,但它不直接接觸肌纖維,而是促使神經肌肉接頭釋放乙醯膽鹼(acetylcholine, ACh)。ACh 與肌膜上的受體結合;足夠多的受體啟動後,肌膜產生自己的動作電位,再沿橫管傳遍纖維內部,觸發整個肌漿網同步釋鈣,全細胞協調收縮。</p>
+<p>一個運動單元要嘛整體收縮、要嘛整體休息,沒有「只收一半纖維」或「一根纖維收一半力」這回事,這叫全或無原理(all-or-none principle)。一次動作電位只引發一次抽搐(twitch),持續幾毫秒,力很小,因為細胞很快把鈣收回肌漿網、纖維隨即放鬆。在前一次抽搐未完全放鬆前再次刺激,兩次的力會疊加;再提高放電頻率,先出現非融合強直收縮,再出現融合強直收縮(fused tetanus)。融合強直時產生的最大強直力,就是這個運動單元的出力上限。</p>
+<p>整塊肌肉要調節力量,只有兩個旋鈕。一是放電頻率:抽動力疊加後,單元出力大增,這條途徑對手部小肌肉特別重要。二是募集(recruitment):啟用更多運動單元。大腿等大肌羣接近最大出力時,多數單元必須以較高頻率放電。募集順序遵循大小原則:先低閾值的 I 型單元,再高閾值的 II 型單元。肌電圖估計,大強度舉重時接近最大的自主收縮可激活約 90% 以上可用運動單元;但未經訓練者常激活不足,快肌單元的放電頻率也常不足以輸出最大力。</p>
+<div class="analogy">合唱團裡,指揮點名一個聲部,這個聲部就全體開口或全體閉嘴,不會「半聲」(全或無)。要讓音樂更響只有兩招:點名更多聲部(募集),或讓每個聲部唱得更密更急(頻率)。</div>
+
+<h3>3.5 肌纖維類型:I、IIa、IIx 的分工</h3>
+<p>依肌球蛋白 ATP 酶組織化學染色,肌纖維分為 I 型(慢縮)與 IIa、IIx 型(快縮),收縮與放鬆速度一慢兩快。I 型的線粒體密度高且在肌原纖維間分佈均勻,與毛細血管接觸多、肌紅蛋白多,所以氧氣供應與有氧產能充足,最抗疲勞;但直徑小、每個細胞的肌原纖維少、肌球蛋白 ATP 酶反應速率低,橫橋循環慢,所以整體力量小、力量發展速率低。IIx 正相反:直徑最大、無氧酶多、最容易疲勞,力量與功率輸出最高。IIa 型介於兩者之間。一個運動單元內支配的肌纖維在代謝與功能上彼此相似,所以「慢運動單元、快運動單元」的說法與肌纖維類型一一對應。比目魚肌這類姿勢肌以 I 型為主;股四頭肌這類大肌羣則兩型混有,慢跑與衝刺都由它完成。2021 年利用先進分子方法的研究還顯示,三種肌纖維中數百種結構蛋白與代謝蛋白的含量都不相同。完整對照見表 3.1。</p>
+<p>哪種肌纖維上場,取決於活動在單位時間內產生的生理需求。慢速長跑需求低而持續,以 I 型為主;終點衝刺需求陡增,需額外募集快肌;高翻這類極短時間近最大收縮,幾乎募集相關肌肉的多數運動單元,II 型貢獻顯著。見表 3.2。</p>
+<div class="analogy">I 型是柴油貨車,省油耐跑,全天候執勤;IIx 是超跑,零到百碼飛快,但一箱油瞬間燒光。馬拉松車隊不會派超跑領跑,90 秒全力項目也輪不到貨車衝線。</div>
+<table>
+<tr><th>特徵</th><th>I 型</th><th>IIa 型</th><th>IIx 型</th></tr>
+<tr><td>運動神經元大小 / 募集閾值</td><td>小 / 低</td><td>大 / 中至高</td><td>大 / 高</td></tr>
+<tr><td>收縮速度與放鬆速度</td><td>慢</td><td>快</td><td>快</td></tr>
+<tr><td>抗疲勞能力與耐力</td><td>高</td><td>中</td><td>低</td></tr>
+<tr><td>力量產生</td><td>中</td><td>高</td><td>高</td></tr>
+<tr><td>功率輸出</td><td>低</td><td>中至高</td><td>高</td></tr>
+<tr><td>需氧(有氧)酶含量</td><td>高</td><td>中</td><td>低</td></tr>
+<tr><td>無氧(糖酵解)酶含量</td><td>低</td><td>中至高</td><td>高</td></tr>
+<tr><td>肌漿網複雜程度</td><td>低</td><td>中至高</td><td>高</td></tr>
+<tr><td>毛細血管密度 / 肌紅蛋白含量</td><td>高 / 高</td><td>中 / 低</td><td>低 / 低</td></tr>
+<tr><td>線粒體大小與密度</td><td>高</td><td>中</td><td>低</td></tr>
+<tr><td>纖維直徑 / 顏色</td><td>小 / 紅</td><td>中 / 紅白</td><td>大 / 白</td></tr>
+</table>
+<p class="figcap">表 3.1 肌纖維主要特徵對照(依原文表 1.1 與課文敘事整理)</p>
+<table>
+<tr><th>活動特性</th><th>主導的運動單元</th><th>代表項目</th></tr>
+<tr><td>長時間、強度平穩偏低</td><td>I 型(慢縮)為主</td><td>馬拉松、長距離單車、越野滑雪</td></tr>
+<tr><td>極短時間近最大收縮</td><td>多數運動單元參與募集,II 型(快縮)貢獻大</td><td>100 米、奧林匹克舉重、高翻、投擲</td></tr>
+<tr><td>間歇性高低起伏</td><td>I 型支撐平穩段,II 型應付間歇衝刺,兩型都用</td><td>足球、籃球、美式橄欖球、摔角、划船、網球、速度滑冰</td></tr>
+</table>
+<p class="figcap">表 3.2 活動類型與肌纖維相對參與(依原文表 1.2 的判定邏輯整理)</p>
+
+<h3>3.6 本體感受器:肌梭與高爾基腱器官</h3>
+<p>本體感受器分佈在關節、肌肉與肌腱中,對壓力與張力敏感,把肌肉的動態資訊傳入中樞神經,送達意識與潛意識兩個層面。大腦靠它們形成「運動覺」,知道身體各部位相對重力的位置;多數資訊由潛意識處理,你不用刻意去想就能維持姿勢。</p>
+<p>肌梭(muscle spindle)由結締組織鞘包埋的多根梭內肌纖維構成,與普通的梭外肌纖維並聯。它監測肌肉長度與長度變化速率。肌肉被拉長時,肌梭變形放電。衝動傳到脊髓,與支配同一塊肌肉的運動神經元形成突觸,引發這塊肌肉收縮。膝跳反射就是這個迴路:敲擊髕骨下方肌腱拉長肌梭,梭外纖維反射性收縮;纖維縮短後肌梭停止放電,反射自動結束。執行精細動作的肌肉單位質量內肌梭密度高,這保證了收縮的精密控制。</p>
+<p>高爾基腱器官(Golgi tendon organ, GTO)位於肌腱靠近肌肉的一端,與梭外肌纖維串聯,監測張力:肌肉與肌腱張力越大,放電越頻繁。它的感覺神經元經脊髓裡的抑制性中間神經元,壓制支配同一肌肉的運動神經元,讓張力回落,防止過大張力造成損傷。低負荷下 GTO 作用微乎其微;極重負荷時它介導的反射性抑制會削弱肌肉出力;運動皮層克服這種抑制的能力,可能就是高強度抗阻訓練的基本適應機制之一。</p>
+<div class="analogy">肌梭像裝在門軸上的彈簧,量的是「門開了多大、多快」;門被硬拉開,它就下指令把門拉回來。GTO 像保險絲,量的是「電流(張力)多大」;電流太大先熔斷減載,免得燒壞線路(拉傷)。</div>
+
+<h3>3.7 心臟與血管:雙泵、單向閥與傳導系統</h3>
+<p>心臟是兩個串聯又各自獨立的泵:右半把血打入肺,左半把血打向全身。心房把血液送給心室,心室才是肺循環與外周循環的動力源。瓣膜只靠壓力差被動開閉,自己不做功:三尖瓣與二尖瓣統稱房室瓣,在心室收縮期防止血液倒流回心房;主動脈瓣與肺動脈瓣統稱半月瓣,在心室舒張期防止動脈血倒流回心室。</p>
+<p>心臟自帶節拍器。竇房結(sinoatrial node, SA 結)是固有起搏點,自律放電每分鐘 60 至 80 次,衝動經結間通路傳到房室結(atrioventricular node, AV 結,自律頻率每分鐘 40 至 60 次)。房室結故意「卡一下」再放行,讓心房先收縮排空,心室才開始收縮;之後衝動經房室束、左右束支與浦肯野纖維快速傳遍心室,兩心室幾乎同時收縮。心室纖維的自律頻率只有每分鐘 15 至 40 次,但 SA 結每次都搶先激發它們,輪不到心室纖維自主放電。延髓心血管中樞經自主神經調速:交感神經加快竇房結去極化(變時作用),心率上升;副交感神經降低放電頻率,心率下降。心房受交感與副交感雙重支配,心室幾乎只有交感纖維。</p>
+<p>靜息心率正常範圍為每分鐘 60 至 100 次;低於 60 稱心搏過緩(bradycardia),高於 100 稱心搏過速(tachycardia)。在體表記錄心臟的電活動,即為心電圖(electrocardiogram, ECG):P 波對應心房去極化並引發心房收縮,QRS 波羣對應心室去極化並引發心室收縮,T 波對應心室復極化;心房復極化的波形落在心室去極化期間,QRS 波羣隨之將其掩蓋。去極化指膜電位反轉:膜內由負變略正,膜外變略負。</p>
+<p>血管是封閉管路。動脈壁厚而韌,以承受高壓;小動脈是控制毛細血管血流量的「水閘」,可完全閉合或擴張數倍;毛細血管壁薄,便於與組織液交換氧、營養、電解質與激素;靜脈壓力低、管壁薄,但容積可大幅變化,起儲血作用;腿部靜脈內有單向瓣。肌肉收縮擠壓靜脈、瓣膜防止逆流,把血一路送回心臟,這就是骨骼肌泵,久坐時起身活動能促進血液迴流,道理就在於此。血漿攜氧能力低,氧運輸靠紅血球裡的血紅蛋白(hemoglobin),它同時是重要的酸鹼緩衝劑;紅血球還含大量碳酸酐酶,催化二氧化碳與水的反應,幫助排出二氧化碳。</p>
+<div class="analogy">高壓鍋的保險閥沒有動力,純靠鍋內外壓差起落,心臟瓣膜同理。節拍器(SA 結)固定打點,腦幹只是轉「快慢鈕」的手,不能替節拍器打拍。</div>
+
+<h3>3.8 肺與呼吸:23 級管路、死腔與氣體運輸</h3>
+<p>空氣經鼻腔時得到加溫、濕潤與過濾,再沿氣管、支氣管、細支氣管下行;氣管計為第一級,左右主支氣管為第二級,空氣到達進行氣體交換的肺泡前約要經過 23 級氣道。平靜呼吸幾乎全由膈肌完成:膈肌收縮在胸腔造出負壓,空氣流入;膈肌放鬆時,肺、胸壁與腹腔結構彈性回縮,空氣排出。深呼吸與用力呼吸才動用其他肌肉:抬高胸廓的吸氣肌包括肋間外肌、胸鎖乳突肌、前鋸肌與斜角肌;呼氣肌是腹直肌、腹外斜肌、腹內斜肌、腹橫肌與肋間內肌,用力呼氣時,腹肌把腹腔向上推,擠壓膈肌。</p>
+<p>呼吸本身耗能:正常靜息呼吸佔人體總能量消耗的 3% 至 5%;劇烈運動時肺通氣耗能可升到 8% 至 15%,氣道阻力升高(如運動型氣喘)時更吃緊。氣體交換靠擴散:分子憑自身動能隨機運動,淨方向從高濃度、高分壓側流向低側。靜息時肺泡內氧分壓比肺毛細血管內約高 60 mmHg,氧擴散入血,二氧化碳反向擴散,過程幾乎瞬時完成。</p>
+<p>每次吸氣約有 150 毫升空氣停在鼻腔、氣管、支氣管等不交換氣體的氣道裡,這叫解剖死腔(anatomical dead space);它隨年齡增長而變大,深呼吸時氣道擴張也會讓它略增,但深呼吸帶進的新鮮空氣遠多於死腔的增加量,所以加深呼吸比加快呼吸更能提高肺泡通氣效率。潮氣量中約 350 毫升真正進入肺泡,參與氣體交換。肺泡因血流不暢、通氣不良而無效通氣的部分是生理死腔(physiological dead space),健康人幾乎可忽略;慢性阻塞性肺病可讓它擴大到解剖死腔的 10 倍。氧運輸:每升血漿只能溶解約 3 毫升氧,絕大部分氧由血紅蛋白攜帶,男性約 15 至 16 克/100 毫升血、女性約 14 克;1 克血紅蛋白可攜 1.34 毫升氧,男性每 100 毫升血攜氧能力約 20 毫升。二氧化碳清除:約 5% 溶於血漿,主要途徑(約 70%)是在碳酸酐酶催化下與水結合、以碳酸氫根離子形式運到肺;釋放出的氫離子由血紅蛋白緩衝,血漿氯離子移入紅血球補位。</p>
+<div class="analogy">吸管裡永遠存著一口水,吸一口先頂出這口(死腔),才喝到杯裡的。小口快速吸只是反覆搬吸管裡的水;一大口下去,真正入肚的量才大幅上升,這就是深呼吸勝過淺快呼吸的道理。</div>
+
+<h3>3.9 有氧運動的急性反應:方向與計算都要會</h3>
+<p>心輸出量(cardiac output, Q)= 每搏輸出量(stroke volume, SV)× 心率。靜息約每分鐘 5 升,最大強度可增至靜息的約 4 倍、達每分鐘 20 至 22 升。SV 從運動開始就上升,到約 40% 至 50% 最大攝氧量時趨於平穩。久坐男大學生最大 SV 平均約每搏 100 至 120 毫升,訓練後可達每搏 150 至 160 毫升;女性因平均體型與心肌較小,最大 SV 約比男性低 25%,訓練後約每搏 100 至 110 毫升。</p>
+<p>SV 受兩方面調節:一是舒張末期容積(end-diastolic volume, EDV),二是兒茶酚胺(腎上腺素與去甲腎上腺素)增強心室收縮力。運動時,靜脈收縮,骨骼肌泵與呼吸泵(呼吸頻率與潮氣量增加)共同推高靜脈迴流。EDV 增大將心肌纖維拉得更長,收縮因此更猛,收縮期排空更充分。這叫弗蘭克-斯塔林機制(Frank-Starling mechanism),特徵是射血分數(ejection fraction,射出量佔舒張末期容積的比例)上升。運動開始前,心率已出現預期性升高;運動中隨強度線性上升。預估最大心率 = 220 減年齡,標準差 ±10 至 12 次;薈萃分析顯示用 208 減 0.7 乘年齡預測健康成人更準。</p>
+<p>最大攝氧量(maximal oxygen uptake, VO₂max)是人體細胞能利用的最大氧量,與有氧運動能力高度相關,是公認的心肺適能金標準;它主要取決於心臟與循環系統輸氧能力,也受肌纖維類型、線粒體密度、肌肉毛細血管密度影響。靜息攝氧量約每公斤體重每分鐘 3.5 毫升,即 1 代謝當量(metabolic equivalent, MET);健康成人 VO₂max 一般在每公斤每分鐘 25 至 80 毫升之間,即 7.1 至 22.9 METs。攝氧量遵循菲克方程(Fick equation):攝氧量 = 心輸出量 × 動靜脈氧差;教材例題:72 次/分 × 65 毫升/搏 × 6 毫升氧/100 毫升血 = 281 毫升/分,再除以體重 80 公斤,得每公斤每分鐘 3.5 毫升。</p>
+<p>血壓:動脈壓隨心臟搏動波動,靜息約收縮壓 120 / 舒張壓 80 mmHg,正常靜息範圍收縮壓 110 至 139、舒張壓 60 至 89;血壓沿體循環逐段下降,到腔靜脈末端接近 0。最大強度有氧運動時收縮壓常升至 220 至 260 mmHg,舒張壓保持不變或略降(血管舒張使外周阻力下降)。平均動脈壓 = (收縮壓 − 舒張壓) ÷ 3 + 舒張壓,注意它不等於兩者平均。心率血壓乘積(rate-pressure product,雙重乘積)= 心率 × 收縮壓,用來估算心肌做功與耗氧。血流再分配:靜息時 15% 至 20% 的心輸出量分配給骨骼肌,劇烈運動時可高達約 90%。呼吸端同步放大:呼吸頻率從靜息每分鐘 12 至 15 次增至 35 至 45 次,潮氣量從 0.4 至 1 升增至 3 升以上,每分鐘通氣量可達靜息的 15 至 25 倍、即每分鐘 90 至 150 升。低至中等強度時通氣量增加主要靠潮氣量,通氣當量(每分鐘通氣量/攝氧量)約每消耗 1 升氧用 20 至 25 升空氣;強度再升高(未受訓者約 45% 至 65% VO₂max、受訓運動員約 70% 至 90%)時,呼吸頻率的貢獻轉大,通氣量增幅遠超攝氧量增幅,與血乳酸急升同步,通氣當量可升到 35 至 40。</p>
+<div class="analogy">橡皮筋拉得越長、彈回去越有力,心肌被迴心血「拉長」後收縮更猛就是同一件事(Frank-Starling)。城市高峯期把支路閥門關小、主幹道開到最大,血流往肌肉的再分配就是這樣。</div>
+
+<h3>3.10 抗阻運動的急性反應:高壓、延遲與充血</h3>
+<p>抗阻運動讓心血管指標短時急遽升高。在高強度(95% 1RM)腿舉中,文獻報導血壓峯值可達 320/250 mmHg,心率可達每分鐘 170 次。血壓反應隨主動肌肉量增加呈非線性上升,在同一動作的向心階段高於離心階段,在動作「黏滯點」最高。運動中胸內壓升高,血漿容量可減少達 22%。現有資料未顯示抗阻訓練對靜息血壓有不良影響。</p>
+<p>抗阻時的血液動力反應有個「延遲」特徵。組內做瓦爾薩爾瓦動作(憋氣發力),會推高胸內壓與腹內壓,限制靜脈迴流、降低舒張末期容積,SV 與 Q 主要在每次重複的離心階段增加;心輸出量反而在組間休息時升得更多,完成一組後前 5 秒內的心率比組內還高。低阻力多次數的反應則接近有氧運動。肌肉局部血流另有機制:收縮的肌肉壓迫微血管,強度超過最大自主收縮的約 20% 時就在組內阻斷外周血流,休息期再出現反應性充血(reactive hyperemia)。高負荷期血流減少、氫離子堆積、pH 下降,這些代謝壓力正是肌肥大的強烈刺激。急性反應幅度取決於強度、持續時間、參與肌肉量、休息時間與收縮速度。</p>
+<p>呼吸端:抗阻訓練每組期間通氣量顯著升高,休息期第一分鐘升得更多,每分鐘通氣量可超過 60 升;休息間隔越短(30 秒至 1 分鐘)升高越顯著。訓練適應表現為最大運動時潮氣量與呼吸頻率增加,次最大運動時呼吸頻率下降、潮氣量上升;訓練者通氣當量(通氣量/攝氧量)較低,通氣效率更高。</p>
+<div class="analogy">捏住澆花的水管:捏緊時水被截流(收縮壓閉微血管),一鬆手水猛衝出來(反應性充血)。憋氣發力像隔著厚棉被吹氣球,胸腔壓力高,迴流血的「管路」先被壓扁,該做的事只能等鬆手後補。</div>
+
+<h2 class="brk">四、考點速記</h2>
+<div class="exam">
+<b>結構與尺寸</b>
+<ul>
+<li>骨約 206 塊;骨骼肌超過 430 塊;肌束最多約含 150 根肌纖維。</li>
+<li>肌纖維直徑 50 至 100 微米;肌原纖維約 1 微米;粗絲(肌球蛋白)約 16 奈米、每條最多 200 個分子、每分子 2 條重鏈 + 4 條輕鏈;細絲(肌動蛋白)約 6 奈米。</li>
+<li>肌節靜息平均約 2.5 微米,每釐米肌肉約 4500 個;每條粗絲環繞 6 條細絲、每條細絲被 3 條粗絲包圍;1954 年 Huxley 與 Hanson 提出滑動絲理論。</li>
+<li>脊柱:頸椎 7、胸椎 12、腰椎 5、骶椎 5(融合)、尾椎 3 至 5;關節三類(纖維/軟骨/滑膜),軸數三類(單軸/雙軸/多軸)。</li>
+</ul>
+</div>
+<div class="exam">
+<b>神經與收縮</b>
+<ul>
+<li>每根肌細胞只有一個神經肌肉接頭;神經遞質是乙醯膽鹼;一個運動神經元可支配數百至數千根纖維。</li>
+<li>全或無原理作用於運動單元層面;力量分級 = 放電頻率 + 募集數量;募集順序先 I 型後 II 型(大小原則)。</li>
+<li>抽搐(毫秒級、力小)→ 疊加 → 非融合強直 → 融合強直(最大強直力 = 單元上限)。</li>
+<li>橫橋循環必需鈣與 ATP;力量正比於橫橋數量;收縮時 I 帶與 H 區變短、肌絲本身不縮。</li>
+<li>肌梭並聯、感測長度、促進收縮(膝跳反射);高爾基腱器官串聯、感測張力、抑制收縮。</li>
+<li>大強度舉重接近最大自主收縮約募集 90% 以上可用運動單元;收縮強度達約 20% 最大自主收縮即阻斷肌內血流。</li>
+</ul>
+</div>
+<div class="exam">
+<b>心肺數字(高頻)</b>
+<ul>
+<li>自律放電:SA 結 60 至 80 次/分、房室結 40 至 60、心室纖維 15 至 40。靜息心率 60 至 100;&lt;60 心搏過緩,&gt;100 心搏過速。</li>
+<li>心輸出量 = 每搏輸出量 × 心率;靜息約 5 升/分,最大可達 20 至 22 升/分(約 4 倍)。SV 升至 40% 至 50% 最大攝氧量後平穩;久坐男 100 至 120、訓練男 150 至 160、訓練女 100 至 110 毫升/搏,女性最大 SV 約比男性低 25%。</li>
+<li>預估最大心率 = 220 − 年齡(±10 至 12 次),或 208 − 0.7 × 年齡;1 MET = 3.5 mL·kg⁻¹·min⁻¹;VO₂max 正常 25 至 80 mL·kg⁻¹·min⁻¹(7.1 至 22.9 METs)。</li>
+<li>菲克方程:攝氧量 = 心輸出量 × 動靜脈氧差;心率血壓乘積 = 心率 × 收縮壓;平均動脈壓 = (收縮壓 − 舒張壓) ÷ 3 + 舒張壓。</li>
+<li>血壓:靜息約 120/80 mmHg;最大有氧收縮壓 220 至 260,舒張壓不變或略降;95% 1RM 腿舉血壓峯值可達 320/250、心率 170,血漿容量最多減 22%。</li>
+<li>骨骼肌血流佔心輸出量:靜息 15% 至 20%,劇烈運動可達約 90%。呼吸頻率 12 至 15 → 35 至 45 次/分;潮氣量 0.4 至 1 → 3 升以上;每分鐘通氣量可達 90 至 150 升(靜息 15 至 25 倍),抗阻時可超過 60 升;通氣當量 20 至 25,劇烈時 35 至 40。</li>
+<li>解剖死腔約 150 毫升;潮氣量中約 350 毫升參與肺泡氣體混合;生理死腔肺病時可達解剖死腔 10 倍;氣道約 23 級;通氣耗能靜息 3% 至 5%、劇烈運動 8% 至 15%。</li>
+<li>1 克血紅蛋白攜 1.34 毫升氧;血紅蛋白男 15 至 16 克/100 毫升血、女約 14 克;血漿溶氧約 3 毫升/升;二氧化碳約 70% 以碳酸氫根形式運輸、約 5% 溶於血漿。</li>
+</ul>
+</div>
+
+<h2 class="brk">五、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>運動單元</td><td>motor unit</td><td>一個運動神經元及其支配的全部肌纖維,興奮時整體收縮。</td></tr>
+<tr><td>神經肌肉接頭</td><td>neuromuscular junction (NMJ)</td><td>運動神經元與肌纖維的連接處,經神經遞質傳遞信號。</td></tr>
+<tr><td>乙醯膽鹼</td><td>acetylcholine (ACh)</td><td>神經肌肉接頭釋放、啟動肌膜動作電位的興奮性神經遞質。</td></tr>
+<tr><td>肌節</td><td>sarcomere</td><td>相鄰兩條 Z 線之間的段落,骨骼肌最小收縮單位。</td></tr>
+<tr><td>滑動絲理論</td><td>sliding filament theory</td><td>細絲沿粗絲滑動使肌節與肌纖維變短的收縮機制。</td></tr>
+<tr><td>橫橋</td><td>cross-bridge</td><td>肌球蛋白頭部與肌動蛋白結合形成的複合體,數量決定力量。</td></tr>
+<tr><td>動力衝程</td><td>power stroke</td><td>肌球蛋白頭部旋轉、把細絲拉向肌節中心的機械動作。</td></tr>
+<tr><td>全或無原理</td><td>all-or-none principle</td><td>運動單元一旦激活,其所屬全部肌纖維同時激活收縮。</td></tr>
+<tr><td>強直收縮</td><td>tetanus</td><td>高頻刺激使抽搐融合形成的持續收縮,分非融合與融合兩級。</td></tr>
+<tr><td>肌漿網</td><td>sarcoplasmic reticulum (SR)</td><td>肌細胞內儲存與釋放鈣離子的特異內質網系統。</td></tr>
+<tr><td>肌梭</td><td>muscle spindle</td><td>與肌纖維並聯的本體感受器,監測長度及其變化速率,促進收縮。</td></tr>
+<tr><td>高爾基腱器官</td><td>Golgi tendon organ (GTO)</td><td>與肌纖維串聯於肌腱的本體感受器,監測張力,抑制收縮。</td></tr>
+<tr><td>I 型肌纖維</td><td>type I muscle fiber</td><td>收縮慢、抗疲勞、有氧能力強的慢肌纖維。</td></tr>
+<tr><td>IIa 型肌纖維</td><td>type IIa muscle fiber</td><td>收縮快、抗疲勞中等的中間型快肌纖維。</td></tr>
+<tr><td>IIx 型肌纖維</td><td>type IIx muscle fiber</td><td>收縮最快最有力、最易疲勞的糖酵解型快肌纖維。</td></tr>
+<tr><td>心輸出量</td><td>cardiac output (Q)</td><td>每分鐘心臟泵出的血量 = 心率 × 每搏輸出量。</td></tr>
+<tr><td>每搏輸出量</td><td>stroke volume (SV)</td><td>一次心搏射出的血量。</td></tr>
+<tr><td>舒張末期容積</td><td>end-diastolic volume (EDV)</td><td>舒張充盈結束時心室可供泵出的血量。</td></tr>
+<tr><td>射血分數</td><td>ejection fraction</td><td>一次收縮射出量佔舒張末期容積的比例。</td></tr>
+<tr><td>弗蘭克-斯塔林機制</td><td>Frank-Starling mechanism</td><td>心肌纖維拉伸得越長,收縮力量越強。</td></tr>
+<tr><td>心率血壓乘積</td><td>rate-pressure product (double product)</td><td>心率 × 收縮壓,用以估算心肌耗氧。</td></tr>
+<tr><td>最大攝氧量</td><td>maximal oxygen uptake (VO₂max)</td><td>細胞能利用的最大氧量,公認心肺適能金標準。</td></tr>
+<tr><td>菲克方程</td><td>Fick equation</td><td>攝氧量 = 心輸出量 × 動靜脈氧差。</td></tr>
+<tr><td>潮氣量</td><td>tidal volume</td><td>每次呼吸吸進或呼出的空氣量。</td></tr>
+<tr><td>解剖死腔</td><td>anatomical dead space</td><td>傳氣但不交換的氣道容積,約 150 毫升。</td></tr>
+<tr><td>生理死腔</td><td>physiological dead space</td><td>通氣但交換受損的肺泡部分,健康人幾乎可忽略。</td></tr>
+<tr><td>心電圖</td><td>electrocardiogram (ECG)</td><td>體表記錄的心電活動,P 波與 QRS 為去極化、T 波為復極化。</td></tr>
+<tr><td>反應性充血</td><td>reactive hyperemia</td><td>收縮壓閉血流後,休息期血流量補償性增加。</td></tr>
+</table>
+
+<h2 class="brk">六、圖表</h2>
+<div class="fig">
+<svg width="660" height="320" viewBox="0 0 660 320">
+  <text x="93" y="44" font-size="11" text-anchor="middle" fill="#16213e">Z 線</text>
+  <text x="150" y="44" font-size="11" text-anchor="middle" fill="#16213e">I 帶</text>
+  <text x="300" y="44" font-size="11" text-anchor="middle" fill="#16213e">H 區</text>
+  <line x1="93" y1="48" x2="93" y2="52" stroke="#16213e"/>
+  <line x1="150" y1="48" x2="150" y2="65" stroke="#16213e"/>
+  <line x1="300" y1="48" x2="300" y2="62" stroke="#16213e"/>
+  <rect x="204" y="64" width="192" height="12" fill="#e6b800"/>
+  <rect x="96" y="67" width="110" height="6" fill="#0f3460"/>
+  <rect x="394" y="67" width="110" height="6" fill="#0f3460"/>
+  <rect x="90" y="52" width="6" height="36" fill="#e94560"/>
+  <rect x="504" y="52" width="6" height="36" fill="#e94560"/>
+  <text x="535" y="74" font-size="11" fill="#16213e">拉長:重疊少、力量低</text>
+  <text x="8" y="154" font-size="11" fill="#16213e">靜息(約 2.5 微米)</text>
+  <rect x="204" y="144" width="192" height="12" fill="#e6b800"/>
+  <rect x="156" y="147" width="110" height="6" fill="#0f3460"/>
+  <rect x="334" y="147" width="110" height="6" fill="#0f3460"/>
+  <rect x="150" y="132" width="6" height="36" fill="#e94560"/>
+  <rect x="444" y="132" width="6" height="36" fill="#e94560"/>
+  <text x="535" y="154" font-size="11" fill="#16213e">重疊最適、力量最高</text>
+  <text x="8" y="234" font-size="11" fill="#16213e">收縮</text>
+  <rect x="204" y="224" width="192" height="12" fill="#e6b800"/>
+  <rect x="211" y="227" width="106" height="6" fill="#0f3460"/>
+  <rect x="283" y="227" width="106" height="6" fill="#0f3460"/>
+  <rect x="205" y="212" width="6" height="36" fill="#e94560"/>
+  <rect x="389" y="212" width="6" height="36" fill="#e94560"/>
+  <line x1="218" y1="258" x2="244" y2="258" stroke="#e94560" stroke-width="2"/>
+  <polygon points="244,254 252,258 244,262" fill="#e94560"/>
+  <line x1="382" y1="258" x2="356" y2="258" stroke="#e94560" stroke-width="2"/>
+  <polygon points="356,254 348,258 356,262" fill="#e94560"/>
+  <text x="535" y="234" font-size="11" fill="#16213e">Z 線向中心移動</text>
+  <text x="330" y="286" font-size="11" text-anchor="middle" fill="#16213e">收縮時 I 帶與 H 區變短;肌絲自身長度與 A 帶不變,細絲只是滑動</text>
+  <rect x="30" y="300" width="18" height="5" fill="#0f3460"/>
+  <text x="52" y="307" font-size="11" fill="#16213e">肌動蛋白細絲</text>
+  <rect x="180" y="297" width="18" height="10" fill="#e6b800"/>
+  <text x="202" y="307" font-size="11" fill="#16213e">肌球蛋白粗絲</text>
+  <rect x="330" y="295" width="6" height="13" fill="#e94560"/>
+  <text x="342" y="307" font-size="11" fill="#16213e">Z 線</text>
+  <text x="420" y="307" font-size="11" fill="#16213e">A 帶 = 粗絲所在區域</text>
+</svg>
+<div class="figcap">圖 1.1 肌節結構與收縮時帶區變化:粗細肌絲等長,靠滑動拉近 Z 線(I 帶、H 區縮短)</div>
+</div>
+<div class="fig">
+<svg width="660" height="150" viewBox="0 0 660 150">
+  <rect x="8" y="16" width="116" height="88" fill="#0f3460"/>
+  <text x="66" y="42" font-size="11" text-anchor="middle" fill="#ffffff">1 水解 ATP</text>
+  <text x="66" y="60" font-size="11" text-anchor="middle" fill="#ffffff">ADP+Pi 掛頭部</text>
+  <text x="66" y="78" font-size="11" text-anchor="middle" fill="#ffffff">頭部入高能態</text>
+  <rect x="138" y="16" width="116" height="88" fill="#0f3460"/>
+  <text x="196" y="50" font-size="11" text-anchor="middle" fill="#ffffff">2 頭結合肌動蛋白</text>
+  <text x="196" y="68" font-size="11" text-anchor="middle" fill="#ffffff">橫橋形成</text>
+  <rect x="268" y="16" width="116" height="88" fill="#e94560"/>
+  <text x="326" y="42" font-size="11" text-anchor="middle" fill="#ffffff">3 釋放 Pi</text>
+  <text x="326" y="60" font-size="11" text-anchor="middle" fill="#ffffff">動力衝程發生</text>
+  <text x="326" y="78" font-size="11" text-anchor="middle" fill="#ffffff">細絲滑向中心</text>
+  <rect x="398" y="16" width="116" height="88" fill="#0f3460"/>
+  <text x="456" y="50" font-size="11" text-anchor="middle" fill="#ffffff">4 釋放 ADP</text>
+  <text x="456" y="68" font-size="11" text-anchor="middle" fill="#ffffff">新的 ATP 結合</text>
+  <rect x="528" y="16" width="116" height="88" fill="#0f3460"/>
+  <text x="586" y="50" font-size="11" text-anchor="middle" fill="#ffffff">5 橫橋解離</text>
+  <text x="586" y="68" font-size="11" text-anchor="middle" fill="#ffffff">頭回低能態</text>
+  <line x1="124" y1="60" x2="132" y2="60" stroke="#16213e" stroke-width="2"/>
+  <polygon points="132,55 140,60 132,65" fill="#16213e"/>
+  <line x1="254" y1="60" x2="262" y2="60" stroke="#16213e" stroke-width="2"/>
+  <polygon points="262,55 270,60 262,65" fill="#16213e"/>
+  <line x1="384" y1="60" x2="392" y2="60" stroke="#16213e" stroke-width="2"/>
+  <polygon points="392,55 400,60 392,65" fill="#16213e"/>
+  <line x1="514" y1="60" x2="522" y2="60" stroke="#16213e" stroke-width="2"/>
+  <polygon points="522,55 530,60 522,65" fill="#16213e"/>
+  <path d="M 586 104 V 138 H 66 V 112" stroke="#16213e" stroke-width="2" fill="none"/>
+  <polygon points="60,112 66,103 72,112" fill="#16213e"/>
+  <text x="330" y="131" font-size="11" text-anchor="middle" fill="#16213e">橫橋循環:鈣離子持續結合肌鈣蛋白時,以上循環快速重複</text>
+</svg>
+<div class="figcap">圖 1.2 橫橋循環五步驟:鈣暴露結合位、ATP 提供能量,兩者缺一不可</div>
+</div>
+<div class="fig">
+<svg width="660" height="250" viewBox="0 0 660 250">
+  <text x="70" y="16" font-size="11" text-anchor="middle" fill="#16213e">產生的張力</text>
+  <line x1="70" y1="26" x2="70" y2="200" stroke="#16213e" stroke-width="1.5"/>
+  <line x1="70" y1="200" x2="648" y2="200" stroke="#16213e" stroke-width="1.5"/>
+  <rect x="110" y="170" width="90" height="30" fill="#0f3460"/>
+  <rect x="250" y="140" width="90" height="60" fill="#0f3460"/>
+  <rect x="390" y="100" width="90" height="100" fill="#0f3460"/>
+  <rect x="530" y="50" width="90" height="150" fill="#e94560"/>
+  <text x="155" y="218" font-size="11" text-anchor="middle" fill="#16213e">單次抽搐</text>
+  <text x="295" y="218" font-size="11" text-anchor="middle" fill="#16213e">兩次抽搐疊加</text>
+  <text x="435" y="218" font-size="11" text-anchor="middle" fill="#16213e">非融合強直收縮</text>
+  <text x="575" y="218" font-size="11" text-anchor="middle" fill="#16213e">融合強直收縮</text>
+  <text x="575" y="42" font-size="11" text-anchor="middle" fill="#e94560">最大強直力 = 該單元上限</text>
+  <text x="222" y="155" font-size="11" fill="#16213e">放電頻率 ↑</text>
+  <polygon points="285,151 297,155 285,159" fill="#16213e"/>
+  <line x1="232" y1="155" x2="283" y2="155" stroke="#16213e" stroke-width="1.5"/>
+</svg>
+<div class="figcap">圖 1.3 提高放電頻率提升運動單元力量輸出:疊加、非融合強直、融合強直</div>
+</div>
+<div class="fig">
+<svg width="660" height="132" viewBox="0 0 660 132">
+  <rect x="8" y="18" width="150" height="66" fill="#0f3460"/>
+  <text x="83" y="42" font-size="12" text-anchor="middle" fill="#ffffff">竇房結(SA 結)</text>
+  <text x="83" y="62" font-size="10" text-anchor="middle" fill="#ffffff">固有起搏 60~80 次/分</text>
+  <rect x="170" y="18" width="150" height="66" fill="#e6b800"/>
+  <text x="245" y="36" font-size="12" text-anchor="middle" fill="#16213e">房室結(AV 結)</text>
+  <text x="245" y="52" font-size="10" text-anchor="middle" fill="#16213e">40~60 次/分</text>
+  <text x="245" y="70" font-size="10" text-anchor="middle" fill="#16213e">刻意延遲,先排空心房</text>
+  <rect x="332" y="18" width="150" height="66" fill="#3d7a3d"/>
+  <text x="407" y="42" font-size="12" text-anchor="middle" fill="#ffffff">房室束</text>
+  <text x="407" y="62" font-size="12" text-anchor="middle" fill="#ffffff">左、右束支</text>
+  <rect x="492" y="18" width="160" height="66" fill="#0f3460"/>
+  <text x="572" y="42" font-size="12" text-anchor="middle" fill="#ffffff">浦肯野纖維</text>
+  <text x="572" y="62" font-size="10" text-anchor="middle" fill="#ffffff">兩心室幾乎同時收縮</text>
+  <line x1="158" y1="51" x2="164" y2="51" stroke="#16213e" stroke-width="2"/>
+  <polygon points="164,46 172,51 164,56" fill="#16213e"/>
+  <line x1="320" y1="51" x2="326" y2="51" stroke="#16213e" stroke-width="2"/>
+  <polygon points="326,46 334,51 326,56" fill="#16213e"/>
+  <line x1="482" y1="51" x2="488" y2="51" stroke="#16213e" stroke-width="2"/>
+  <polygon points="488,46 496,51 488,56" fill="#16213e"/>
+  <text x="330" y="118" font-size="11" text-anchor="middle" fill="#16213e">心室纖維自律僅 15~40 次/分,總被 SA 結搶先激發;延髓中樞:交感升心率、副交感降心率</text>
+</svg>
+<div class="figcap">圖 1.4 心臟傳導系統路徑與各段自律放電頻率</div>
+</div>
+<table>
+<tr><th>指標</th><th>靜息</th><th>劇烈/最大有氧運動</th><th>備註</th></tr>
+<tr><td>心率</td><td>60 至 100 次/分</td><td>接近 220 減年齡</td><td>隨強度線性上升,運動前已預期性加快</td></tr>
+<tr><td>心輸出量</td><td>約 5 升/分</td><td>20 至 22 升/分(約 4 倍)</td><td>= 心率 × 每搏輸出量</td></tr>
+<tr><td>每搏輸出量</td><td>—</td><td>升至 40%~50% VO₂max 後平穩</td><td>久坐男 100 至 120、訓練男 150 至 160、訓練女 100 至 110 毫升/搏</td></tr>
+<tr><td>收縮壓 / 舒張壓</td><td>約 120 / 80 mmHg</td><td>220 至 260 / 不變或略降</td><td>舒張壓反映外周阻力,血管舒張使其下降</td></tr>
+<tr><td>骨骼肌血流佔心輸出量</td><td>15% 至 20%</td><td>可達約 90%</td><td>其他器官小動脈收縮,肌肉小動脈擴張</td></tr>
+<tr><td>呼吸頻率</td><td>12 至 15 次/分</td><td>35 至 45 次/分</td><td>健康年輕人數據</td></tr>
+<tr><td>潮氣量</td><td>0.4 至 1 升</td><td>3 升以上</td><td>其中約 150 毫升留在解剖死腔</td></tr>
+<tr><td>每分鐘通氣量</td><td>—</td><td>90 至 150 升/分(靜息 15 至 25 倍)</td><td>通氣當量 20 至 25,劇烈時升至 35 至 40</td></tr>
+<tr><td>通氣耗能佔比</td><td>3% 至 5%</td><td>8% 至 15%</td><td>氣道阻力高(如運動型氣喘)時更耗能</td></tr>
+</table>
+<p class="figcap">表 6.1 靜息與最大有氧運動的心肺指標對照(依原文 p83 至 p90 整理)</p>
+<table>
+<tr><th>抗阻運動急性反應</th><th>關鍵數字與事實</th></tr>
+<tr><td>血壓峯值</td><td>95% 1RM 腿舉報導達 320/250 mmHg;向心階段高於離心,黏滯點最高</td></tr>
+<tr><td>心率</td><td>可達 170 次/分;一組結束後前 5 秒高於組內</td></tr>
+<tr><td>每搏輸出量與心輸出量</td><td>主要在離心階段增加;受憋氣限制靜脈迴流影響,組間休息時升幅更大</td></tr>
+<tr><td>血漿容量</td><td>運動中可減少多達 22%</td></tr>
+<tr><td>肌肉局部血流</td><td>收縮強度超過約 20% 最大自主收縮即阻斷組內血流,休息期反應性充血</td></tr>
+<tr><td>每分鐘通氣量</td><td>休息期第一分鐘升幅最大,可超過 60 升;休息 30 秒至 1 分鐘時升高最顯著</td></tr>
+<tr><td>靜息血壓</td><td>現有資料未顯示抗阻訓練對其有不良影響</td></tr>
+</table>
+<p class="figcap">表 6.2 抗阻運動急性心肺反應要數(依原文 p95 至 p97 整理)</p>
+
+<h2 class="brk">七、易混陷阱</h2>
+<div class="trap"><b>肌梭 vs 高爾基腱器官。</b>兩個都是本體感受器,方向剛好相反:肌梭與肌纖維並聯,監測「長度與變化速率」,被拉長就促進同一肌肉收縮(膝跳反射);高爾基腱器官與肌纖維串聯、位於肌腱,監測「張力」,張力過大就經抑制性中間神經元壓制同一肌肉。記法:並聯促收縮、串聯促放鬆。</div>
+<div class="trap"><b>收縮時「什麼變短」。</b>變短的是 I 帶與 H 區(Z 線互相靠近);粗絲、細絲自身長度不變,A 帶寬度也不變,細絲只是在粗絲上滑動。選項寫「A 帶變短」「肌球蛋白絲變短」都是陷阱。</div>
+<div class="trap"><b>全或無 ≠ 肌肉出力全或無。</b>全或無只描述運動單元層面:單元內纖維全部收縮或不收縮。整塊肌肉的力量照樣分級,靠兩個旋鈕:提高放電頻率(抽搐疊加至強直)與募集更多運動單元。考試常把兩者混在同一題裡考方向。</div>
+<div class="trap"><b>解剖死腔 vs 生理死腔。</b>解剖死腔是傳氣但不交換的氣道容積,正常約 150 毫升,隨年齡與深呼吸時氣道擴張而增大;生理死腔是肺泡有通氣卻因血流或交換面問題交換受損,健康人可忽略,肺病時可達解剖死腔 10 倍。前者是正常構造,後者是病理損失。</div>
+<div class="trap"><b>有氧 vs 抗阻的血壓方向。</b>最大有氧:收縮壓升至 220 至 260,舒張壓不變或略降(外周阻力下降)。抗阻:收縮壓與舒張壓一起衝高(95% 1RM 腿舉 320/250),且「血壓峯值在組內黏滯點、心率峯值在一組結束後前 5 秒」,兩者節奏不同步。題目問「不會發生的反應」,答「心率下降」。</div>
+<div class="trap"><b>兩個最大心率公式。</b>220 減年齡只是快速估計,誤差 ±10 至 12 次;47 歲代入得 173,實際最大心率可能在 161 至 185。208 減 0.7 乘年齡出自薈萃分析,對健康成人預測更準。計算題先看清題目要哪個。</div>
+
+<h2 class="brk">八、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(是非題)依滑動絲理論,肌肉收縮時細肌絲本身變短。</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)橫橋循環進行時,肌纖維內必需哪兩種物質? (A) 鈉與脂肪酸 (B) 鈣與 ATP (C) ADP 與無機磷酸鹽 (D) 鈣與鐵</p></div>
+<div class="qa"><p><b>Q3.</b>(選擇題)關於運動單元的正確定義? (A) 一根肌纖維及其所有支配神經元 (B) 一個運動神經元及其支配的所有肌纖維 (C) 一個上與一個下運動神經元 (D) 一根肌纖維及其全部肌原纖維</p></div>
+<div class="qa"><p><b>Q4.</b>(選擇題)肌節收縮時會縮短的是? (A) A 帶 (B) 肌球蛋白絲 (C) I 帶與 H 區 (D) Z 線彼此分離</p></div>
+<div class="qa"><p><b>Q5.</b>(選擇題)I 型肌纖維的特徵是? (A) 纖維直徑大 (B) 肌球蛋白 ATP 酶反應快 (C) 線粒體密度高且分佈均勻 (D) 與毛細血管接觸少</p></div>
+<div class="qa"><p><b>Q6.</b>(是非題)弗蘭克-斯塔林機制指出:在一定範圍內,心肌纖維拉伸得越長,收縮力量越大。</p></div>
+<div class="qa"><p><b>Q7.</b>(選擇題)以 220 減年齡估算,47 歲者的最大心率約為? (A) 160 次/分 (B) 173 次/分 (C) 185 次/分 (D) 200 次/分</p></div>
+<div class="qa"><p><b>Q8.</b>(選擇題)某運動員心率 75 次/分、每搏輸出量 70 毫升、動靜脈氧差 8 毫升/100 毫升血,其攝氧量為? (A) 281 毫升/分 (B) 350 毫升/分 (C) 420 毫升/分 (D) 525 毫升/分</p></div>
+<div class="qa"><p><b>Q9.</b>(選擇題)對最大攝氧量影響最大的因素是? (A) 腿部 I 型纖維比例 (B) 總血容量 (C) 年齡預估最大心率 (D) 心臟與循環系統輸送氧氣的能力</p></div>
+<div class="qa"><p><b>Q10.</b>(選擇題)抗阻運動進行中,不會出現的心血管反應是? (A) 心率下降 (B) 每搏輸出量增加 (C) 心輸出量增加 (D) 血壓升高</p></div>
+
+<h2 class="brk">附錄、自我檢測解答與解析</h2><p>先把上一節題目做完,再回頭對照本頁。</p><div class="qa"><p><b>1.</b> Q1.(是非題)依滑動絲理論,肌肉收縮時細肌絲本身變短。 …</p><p class="ans">Ans:✕ — 粗細肌絲長度不變,只是彼此滑動,變短的是 I 帶與 H 區。</p></div><div class="qa"><p><b>2.</b> Q2.(選擇題)橫橋循環進行時,肌纖維內必需哪兩種物質? (A) 鈉與脂肪酸 ( …</p><p class="ans">Ans:B — 鈣暴露結合位、ATP 提供能量,教材原文死規則。</p></div><div class="qa"><p><b>3.</b> Q3.(選擇題)關於運動單元的正確定義? (A) 一根肌纖維及其所有支配神經元  …</p><p class="ans">Ans:B — 運動單元 = 一個運動神經元 + 其支配的全部肌纖維。</p></div><div class="qa"><p><b>4.</b> Q4.(選擇題)肌節收縮時會縮短的是? (A) A 帶 (B) 肌球蛋白絲 (C …</p><p class="ans">Ans:C — 細絲向內滑動,Z 線靠近,I 帶與 H 區縮短。</p></div><div class="qa"><p><b>5.</b> Q5.(選擇題)I 型肌纖維的特徵是? (A) 纖維直徑大 (B) 肌球蛋白 A …</p><p class="ans">Ans:C — 高密度且分佈均勻的線粒體、充足的毛細血管接觸與肌紅蛋白,是 I 型抗疲勞的結構基礎。</p></div><div class="qa"><p><b>6.</b> Q6.(是非題)弗蘭克-斯塔林機制指出:在一定範圍內,心肌纖維拉伸得越長,收縮力 …</p><p class="ans">Ans:○ — 迴心血增加舒張末期容積,心肌拉更長、收縮更猛,射血分數上升。</p></div><div class="qa"><p><b>7.</b> Q7.(選擇題)以 220 減年齡估算,47 歲者的最大心率約為? (A) 16 …</p><p class="ans">Ans:B — 220 − 47 = 173,該估計誤差 ±10 至 12 次(實際約 161 至 185)。</p></div><div class="qa"><p><b>8.</b> Q8.(選擇題)某運動員心率 75 次/分、每搏輸出量 70 毫升、動靜脈氧差  …</p><p class="ans">Ans:C — 菲克方程:75 × 70 × 8 ÷ 100 = 420 毫升/分。</p></div><div class="qa"><p><b>9.</b> Q9.(選擇題)對最大攝氧量影響最大的因素是? (A) 腿部 I 型纖維比例 ( …</p><p class="ans">Ans:D — 教材明示輸氧能力是主因,纖維類型與線粒體等只是次要因素。</p></div><div class="qa"><p><b>10.</b> Q10.(選擇題)抗阻運動進行中,不會出現的心血管反應是? (A) 心率下降 ( …</p><p class="ans">Ans:A — 抗阻時心率只升不降,組後前 5 秒還高於組內。</p></div></body></html>

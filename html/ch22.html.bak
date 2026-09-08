@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>CSCS 章節摘要樣板</title>
+<style>
+@page { size: A4; margin: 18mm 15mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei", "Microsoft YaHei", "Noto Sans CJK TC", sans-serif;
+       font-size: 10.5pt; line-height: 1.65; color: #1a1a2e; margin: 0; }
+h1 { font-size: 19pt; color: #0f3460; border-bottom: 4px solid #e94560; padding-bottom: 6px; margin: 0 0 4px 0; }
+h2 { font-size: 14pt; color: #0f3460; background: #eef2f7; padding: 5px 10px; border-left: 6px solid #e94560; margin: 20px 0 8px 0; page-break-after: avoid; }
+h3 { font-size: 11.5pt; color: #16213e; margin: 14px 0 5px 0; page-break-after: avoid; }
+p { margin: 5px 0; text-align: justify; }
+.subtitle { font-size: 11pt; color: #555; margin: 0 0 10px 0; }
+table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 9.5pt; page-break-inside: avoid; }
+th { background: #0f3460; color: #fff; padding: 4px 6px; text-align: left; }
+td { border: 1px solid #b8c4d0; padding: 4px 6px; vertical-align: top; }
+tr:nth-child(even) td { background: #f4f7fa; }
+.analogy { background: #fff8e6; border: 1px solid #e6c866; border-left: 6px solid #e6b800; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.analogy::before { content: "🧸 打個比方"; display: block; font-weight: bold; color: #8a6d00; margin-bottom: 3px; }
+.exam { background: #fdeef1; border: 1px solid #e94560; border-left: 6px solid #e94560; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.exam::before { content: "📌 考點(必背數字)"; display: block; font-weight: bold; color: #a11f3d; margin-bottom: 3px; }
+.trap { background: #eef7ee; border: 1px solid #4a8a4a; border-left: 6px solid #3d7a3d; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.trap::before { content: "⚠️ 易混陷阱"; display: block; font-weight: bold; color: #2d5a2d; margin-bottom: 3px; }
+.fig { text-align: center; margin: 10px 0; page-break-inside: avoid; }
+.figcap { font-size: 9pt; color: #666; margin-top: 3px; }
+.qa { margin: 6px 0; page-break-inside: avoid; }
+.qa .ans { color: #0f3460; font-size: 9.5pt; }
+ul, ol { margin: 4px 0; padding-left: 22px; }
+li { margin: 2px 0; }
+.term { font-weight: bold; color: #0f3460; }
+.eng { color: #666; font-size: 9pt; }
+svg text { font-family: "Microsoft JhengHei", "Microsoft YaHei", sans-serif; }
+.pagebreak { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<h1>第22章 週期化</h1>
+<p class="subtitle">Periodization(僅供術語對照) | 原文頁碼 p1579–p1629</p>
+
+<h2>一、本章一句話</h2>
+<p>週期化(periodization)就是把全年訓練拆成巨循環、中循環、微循環的階層結構,讓強度、訓練量與訓練重點呈現非線性的波浪起伏,讓選手的備戰狀態(readiness)在重要比賽那一天攀上最高點。</p>
+
+<h2>二、學完本章你會</h2>
+<ul>
+<li>說明週期化的三大理論支柱:一般適應症候群(GAS)、刺激-疲勞-恢復-適應理論、體能-疲勞範式,並用它們解釋週期化為什麼有效。</li>
+<li>背出巨循環/中循環/微循環的定義與時間尺度,畫出層級嵌套關係。</li>
+<li>說出傳統週期化模型四期(準備期、第一過渡期、比賽期、第二過渡期)與準備期兩階段(一般準備/專項準備)的訓練變數走向。</li>
+<li>把四期對應到休賽季、季前賽、賽季中、季後賽四個賽季。</li>
+<li>區分並行、序列、強調三種安排模型,以及傳統與每日波動(DUP)兩種負荷安排方式。</li>
+<li>設計減量(taper)與尖峯(peaking)策略,並說出賽季保持訓練的最低有效劑量。</li>
+</ul>
+
+<h2>三、把核心概念講給你聽(ELI5)</h2>
+
+<h3>3.1 週期化是什麼,和「排課」差在哪</h3>
+<p>教材的定義:週期化是把各項訓練介入有邏輯、有系統地排序與整合,藉此管理訓練過程,提高在適當時間點達到最佳表現的機率。文獻常把它與「訓練計畫(plan/program)」混用,但兩者層級不同。週期化是訓練過程的<span class="term">巨觀管理</span>,依比賽日程搭出全年框架。訓練計畫是<span class="term">微觀管理</span>,規定每一次課的動作、組數、負荷。監測(monitoring)則提供回饋,讓你看結果微調決策。三者是共生關係,缺一不可。</p>
+<p>歷史脈絡一句帶過即可:蓋倫(Galen)最早描述週期化力量訓練;馬特維耶夫(Matveyev)在 1960 年代提出支撐週期化的基本理論,後人尊他為週期化之父;Bompa、Verkhoshansky 等人同期發展相關理論;Stone、O'Bryant、Garhammer 把概念改寫成適用於力量與爆發力選手的模式(也就是本章表格數字的來源)。</p>
+<div class="analogy">蓋房子:週期化是建築圖紙和施工時程,先決定「什麼時候蓋到幾樓」;排課是瓦匠每天砌哪幾塊磚。圖紙錯了,磚砌得再漂亮,房子也會歪。</div>
+<p>為什麼要費這個事?因為最佳表現維持時間很短:研究指出只能維持約 7–14 天,而且平均維持時間與訓練計畫的平均強度成反比。巔峯不能「長期掛在身上」,只能精準地安排在比賽日。這就是週期化存在的理由。</p>
+
+<h3>3.2 三大理論支柱:身體為什麼需要週期</h3>
+<p><b>(1)一般適應症候群(GAS)。</b>Hans Selye 在 1930 年代提出,把壓力反應分三期:</p>
+<ul>
+<li><span class="term">警戒期(alarm stage)</span>:身體第一次遇到比平常強或全新的壓力(更重、更多的訓練),立刻出現疲勞、痠痛、僵硬、能量儲備下降,運動能力隨之下滑。此期持續數小時到數週不等。</li>
+<li><span class="term">抵抗期(resistance stage)</span>:身體開始適應壓力、恢復正常功能。若壓力安排得當且不過大,適應會帶來生化、結構、力學層面的調整,讓能力<span class="term">超過原本水準</span>,這叫<span class="term">超量恢復(supercompensation)</span>。</li>
+<li><span class="term">衰竭期(exhaustion stage)</span>:壓力拖太久,身體再也適應不了,症狀跟警戒期很像(疲勞、表現下滑)。走到這裡的選手很可能已進入過度訓練/訓練過度反應(見第24章)。訓練量過大、內容太單調或太雜,加上生活壓力(工作問題、睡眠不足、人際問題、飲食不良),都會把人推向衰竭期。</li>
+</ul>
+<p>重點:心理情緒壓力會<span class="term">加重警戒期反應、拉長恢復與抵抗期</span>,最終延後超量恢復。所以體能師不只盯訓練負荷,也要盯選手的心理狀態,把它算進負荷調整裡。考試若問「心理壓力大會讓 GAS 哪一期延長」,答案是抵抗期。</p>
+<p><b>(2)刺激-疲勞-恢復-適應理論(SFRA)。</b>這是 GAS 的延伸。訓練刺激強度越大,疲勞越深;疲勞持續累積,完全恢復與適應所需時間越長。進入恢復與適應階段後,疲勞消退,備戰狀態與表現上升。若沒有新刺激,就退回訓練不足/退化(detraining);引入新刺激,循環重來。每一堂訓練課、每一個訓練日與訓練週期都有這個循環。注意:<span class="term">不必每次都等到完全恢復,才排下一堂課</span>;以輕重日交替,就能調節疲勞與恢復的節奏。此理論是序列模型的基礎。</p>
+<p><b>(3)體能-疲勞範式(fitness-fatigue paradigm)。</b>Zatsiorsky 在 1995 年提出的雙因素模型。每一次訓練都同時產生兩種後效:體能(fitness)與疲勞(fatigue),兩者疊加等於<span class="term">備戰狀態(readiness)</span>。負荷最高時,體能漲,但疲勞漲更多,備戰狀態反而下降;負荷低時,疲勞少但體能漲幅有限,備戰狀態也高不起來。關鍵規律:<span class="term">疲勞消退的速度比體能快約三分之二</span>。所以比賽前刻意降負荷,疲勞快速退去、體能慢慢退,兩者的差值拉開,備戰狀態自然攀上巔峯。這就是減量(taper)的生理依據。每項訓練能力各有自己的體能/疲勞/備戰後效,這些<span class="term">殘留訓練效應(residual training effect)</span>會影響後續週期的備戰狀態——先練什麼、後練什麼因此有意義。</p>
+<div class="analogy">體能是儲蓄帳戶,疲勞是信用卡帳單,銀行餘額(備戰狀態)=存款減欠款。高負荷訓練時,存款與帳單一起跳,餘額反而變少;比賽前停止刷卡(減量),帳單掉得比存款快,餘額瞬間轉正衝高。所以賽前要「還債」,不是「繼續借」。</div>
+<div class="exam">三大理論名稱與提出者:GAS=Selye(1930s,警戒/抵抗/衰竭三期);SFRA=GAS 延伸;體能-疲勞範式=Zatsiorsky(1995,雙因素模型)。死規則:最佳表現僅維持 7–14 天,維持時間與平均強度成反比;疲勞消退快於體能(約快 2/3);心理壓力延長抵抗期、延後超量恢復。</div>
+
+<h3>3.3 三層結構:巨循環、中循環、微循環(必背)</h3>
+<p>週期化最終就是把訓練過程切成特定長度的時段,一層包一層;層級越低,目標越具體(見圖 6.1 洋蔥圖、表 6.1 時間尺度)。</p>
+<ul>
+<li><span class="term">多年計畫(multiyear plan)</span>:2–4 年,最常見是四年一循環(如奧運週期),包含相互關聯的年度計畫。</li>
+<li><span class="term">年度訓練計畫(annual plan)</span>:1 年,可含一個或多個巨循環,細分為準備期、比賽期、過渡期。</li>
+<li><span class="term">巨循環(macrocycle)</span>:數月至一年,含準備、比賽、過渡三個訓練階段。只打一季的運動(如美式足球)一年一個巨循環;田徑有室內、室外兩季就切兩個巨循環;一學年打橄欖球、籃球、田徑三項的高中選手就是三個巨循環。</li>
+<li><span class="term">中循環(mesocycle)</span>:2–6 週,最常見 4 週,又稱訓練模組(training block),由數個相連的微循環組成。</li>
+<li><span class="term">微循環(microcycle)</span>:數天至兩週,最常見 1 週(7 天),由數個訓練日/訓練課組成。</li>
+<li><span class="term">訓練日(training day)</span>:1 天,可含多節訓練課。<span class="term">訓練課(training session)</span>:數小時;兩節課之間間隔超過 30 分鐘,即視為兩節獨立訓練。</li>
+</ul>
+<div class="analogy">像學校曆:多年計畫是「四年學制目標」,巨循環是「學年」,中循環是「單元進度表」,微循環是「週課表」,訓練課是一堂堂課。沒人會拿四年目標直接當今天的教案——層級就是用來把大目標切成今天做得完的事。</div>
+<div class="exam">時間尺度死數字:多年 2–4 年(4 年最常見);巨循環數月至 1 年;中循環 2–6 週(4 週最常見);微循環數天至 2 週(1 週最常見);訓練課間隔 &gt;30 分鐘視為另一次訓練。</div>
+
+<h3>3.4 三種安排模型:並行、序列、強調</h3>
+<p>選完巨循環框架後,第二層要選「訓練模型」,決定各能力怎麼排。所有模型都逃不出三種(表 6.2):</p>
+<ul>
+<li><span class="term">並行訓練模型(parallel training model)</span>:在同一節課、同一天或同一微循環內同時練所有能力,又稱並發/complex訓練。符合長期運動員發展(LTAD)的早期階段,適合新手與發展期選手。缺點:選手進步後,總負荷要持續增加纔有效,很快就會超過承受力,對中進階到精英選手不是最佳解。</li>
+<li><span class="term">序列訓練模型(sequential training model)</span>:一次只聚焦一個或極少數訓練因素,依邏輯順序推進,適用於需要更強刺激的選手。舉重、越野滑雪、自由車、田徑、有氧耐力,以及美式足球、籃球、足球、冰球、手球等都有成功應用。</li>
+<li><span class="term">強調訓練模型(emphasis training model)</span>:折衷派。多種能力一起練,但重點大約每兩週輪調一次;主項給能刺激適應的負荷,副項只給維持甚至最低負荷(容忍副項小幅退步)。非常適合賽程密集的中進階個人與團體項目選手。</li>
+</ul>
+<div class="analogy">並行像每天每科都複習一遍(適合基礎期);序列像期中考前一週只攻數學;強調像主攻數學、其他科每天只花 15 分鐘保持手感。考哪種學生用哪招。</div>
+
+<h3>3.5 四期兩階段:各期練什麼、練多重、練幾組(考卷核心)</h3>
+<p>經典文獻把訓練分成準備期、比賽期、過渡期。Stone、O'Bryant、Garhammer 在準備期與比賽期之間加入<span class="term">第一過渡期(first transition period)</span>,之後的過渡期則稱<span class="term">第二過渡期(second transition period)</span>。本教材採用四期結構:<span class="term">準備期、第一過渡期、比賽期、第二過渡期</span>。完整變數對照見表 6.1(必背)。</p>
+<p><b>準備期(preparatory period)=休賽季。</b>沒有比賽,技術戰術與專項訓練都很有限。核心目標:建立基礎體能,讓身體承受後續更密集的訓練。從低強度、高訓練量開始:長距離慢跑/游泳、低強度增強式、輕至中負荷高次數阻力訓練。準備期再分兩階段:</p>
+<ul>
+<li><span class="term">一般準備階段</span>(早期):高量、低強度、方法多樣,發展一般運動能力與技能。阻力訓練對應<span class="term">肥大或力量耐力階段</span>:強度 1RM 的 50%–75%,3–6 組 ×8–20 次,目標是提升運動能力與肌肉量。此期動作可以與專項無關(短跑選手打基礎時可以跑比專項更長的距離、做雙腿跳、做後蹲與腿彎舉)。</li>
+<li><span class="term">專項準備階段</span>(後期):訓練轉向專項化。阻力訓練對應<span class="term">基礎力量階段</span>:強度 1RM 的 80%–95%,2–6 組 ×2–6 次,量比肥大期低、負荷更高,動作更貼近專項(後蹲、高翻、保加利亞分腿蹲)。</li>
+</ul>
+<p><b>第一過渡期=季前賽。</b>準備期與比賽期之間的橋,核心是把力量轉換成爆發力(power)。對應<span class="term">力量/爆發力階段</span>:負荷低到極高都有(30%–95% 1RM,<span class="term">依動作而定</span>),量低(2–5 組 ×2–5 次)。爆發力負荷不遵循典型的 %RM–次數曲線:例如懸垂高翻可用 80% 1RM,藥球胸前拋(bench throw 同理)約 50%–70% 1RM;要同時提升力量與爆發力就用混合式(重負荷+輕負荷搭配)。本期最後一週下修訓練量、強度或兩者,確保帶著完整恢復進入比賽期。</p>
+<p><b>比賽期(competition period)=賽季中。</b>目標:提升強度、壓低訓練量,繼續發展力量與爆發力並讓備戰狀態浮上水面。這裡有個兩難(用體能-疲勞模型想):量或強度削減太多,疲勞固然消退,體能也跟著下滑,備戰狀態仍然上不去。此期專項技術與戰術時間大增,體能訓練時間相對壓縮。分兩種做法:</p>
+<ul>
+<li><span class="term">尖峯期(peaking phase)</span>:適用於有明確巔峯賽事的項目,目標是在 1–2 週內把狀態推頂。強度 1RM 的 50% 到 ≥93%(隨減量進度從高強度走向低強度),量極低(1–3 組 ×1–3 次)。巔峯若想維持超過 1–2 週,結果就是體能流失或過度訓練。減量策略的走向:從高強度過渡到低強度,目的在於排空賽前疲勞。</li>
+<li><span class="term">維持期(maintenance)</span>:團體運動賽季長達數月,只能以微循環為單位調整強度與量,在比賽疲勞下守住力量與爆發力。強度中到高(1RM 的 85%–93%),量低到中(約 2–5 組 ×3–6 次)。教材示例顯示:賽季中力量訓練可壓至每週 1–3 次、每次約 30 分鐘,仍能維持力量——這就是<span class="term">保持階段的最低有效劑量</span>概念:中高強度+低中量,剛好足以守住適應,把剩下的時間與恢復預算留給比賽和技戰術。強調模型同理:非重點能力用維持量甚至最低量,接受一定程度的消退。</li>
+</ul>
+<p><b>第二過渡期=季後賽後,又稱<span class="term">積極休息(active rest)</span>。</b>持續 1–4 週,以低強度休閒活動(游泳、排球、球拍運動)搭配低負荷非專項訓練,讓身心休養、養傷。死規則:<span class="term">不要超過 4 週</span>(除非養傷需要);積極休息拖太長,下一個準備期就要拉更長才能回到狀態。同一詞另有一用法:在三週之類的較長階段之間,安排一週「減負週」調降強度與量,以降低過度訓練風險。注意別與微循環層級的減負混為一談(見第七節陷阱)。</p>
+<p>高手加碼題:高水準選手的訓練強度本來就貼近自身上限,適應窗口短,新手的有效負荷對他們只有維持效果(Zatsiorsky)。解法是準備期更早從高量轉向高強度,並使用比基礎模型更高的總量。基礎模型(圖 22.6)適用新手:強度由低漸升、量由高緩降,且新手的波動幅度要更小。</p>
+<div class="analogy">蓋房子工序:準備期打地基(肥大/基礎力量),第一過渡期架鋼骨接電(把力量接上爆發力),比賽期開幕剪綵(尖峯 1–2 週或整季維持),第二過渡期讓工地放假通風(1–4 週)。沒打地基就剪綵,就是季前賽才補基礎——一切都來不及。</div>
+
+<h3>3.6 四個賽季怎麼對到四期</h3>
+<p>多數大學與職業項目的一年賽程是:休賽季、季前賽、賽季中、季後賽。對應關係(考直覺題):<span class="term">休賽季=準備期</span>(從季後賽結束到約重要首賽前六週,內含一般準備與專項準備,肥大/基礎力量中循環依需求輪替;想增肌的橄欖球選手就排更多肥大中循環);<span class="term">季前賽=第一過渡期</span>(力量/爆發力;不是補基礎體能的時候——基礎是休賽季的事);<span class="term">賽季中=比賽期</span>(長賽季 12–16 週以上,用 3–4 週中循環,最後一個微循環減負,在關鍵賽前壓出超量恢復;其他場次靠訓練日層級的強度與量微調狀態);<span class="term">季後賽=第二過渡期</span>(季後賽打越久,消退越多,下個休賽季的準備期要拉越長)。</p>
+
+<h3>3.7 「線性」是誤稱,DUP 是什麼</h3>
+<p>先把概念校正:<span class="term">消除訓練過程中的線性</span>本來就是週期化的主要原則之一。馬特維耶夫的原始模型以 Yakovlev 的超量恢復概念為基礎,強調非線性、具節奏性的負荷變化。傳統阻力模型因為強度隨時間上升,常被<span class="term">誤稱</span>為「線性週期化」;實際上它在微循環與中循環層面本來就有強度與量的波動,所以不該稱為線性模型。</p>
+<p><span class="term">非線性週期化(nonlinear periodization)</span>又稱波動式或<span class="term">每日波動週期化(daily undulating periodization, DUP)</span>:在同一微循環內,<span class="term">每天大幅改變核心阻力動作的負荷、次數與訓練重點</span>。教材例子:週二 4 組 ×6RM(側重力量)、週四 3 組 ×10RM(側重肥大)、週六 5 組 ×3RM(側重爆發力)。傳統做法則相反:每天組數次數相同,只改負荷,例如組數不變、負荷由重到輕的 85%→75%→65% 1RM 安排。兩者的差別在「組數、次數與重點是否每天變動」,不在「有沒有波動」。</p>
+<p>研究證據:有些研究支持 DUP 較優,也有大量研究顯示兩者無差異、甚至傳統較優,結論未定。支持方認為,DUP 可避免傳統模型強度持續攀升造成的累積神經疲勞。反方則指出,DUP 總訓練量較高,代謝與週邊疲勞累積,可能增加受傷風險;從 SFRA 與體能-疲勞範式看,天天高負荷可能讓疲勞累積、拉低備戰狀態,對高水準選手甚至提高過度訓練風險。</p>
+<div class="trap">「每日波動」的重點是<b>次數/組數/重點每天換</b>(6RM 力量日、10RM 肥大日、3RM 爆發日)。如果一週三次只是以 85%、75%、65% 輪換重量,組數與次數都不變,那是傳統的由重到輕安排,不算 DUP。</div>
+
+<h3>3.8 怎麼設計一個週期化計畫(步驟、順序、禁忌)</h3>
+<p>教材的途徑是依序走過三個相互依存的層面:<b>第一步</b>,以比賽日程搭巨循環——決定一年幾個巨循環,切出準備/比賽/過渡。<b>第二步</b>,在計畫層選訓練模型(並行/序列/強調)。<b>第三步</b>,在安排(programming)層落地:選訓練模式與方法,規定強度、訓練量、組數等結構,並用監測方案持續回饋微調。評估需求時的慣例順序:先看訓練年齡(training age),再看測試成績,最後對照目標。教材示例也依此辦理:休賽季先排兩三週低強度低量,用 RPE/RIR 管控負荷讓選手重新適應,第三個微循環做完整測試(5RM 核心、10RM 輔助、體適能測試組合),再依測試值訂定後續負荷。示例年度計畫:5 月 1 日至次年 4 月 28 日單一巨循環,切 14 個中循環(2–4 週),肥大與基礎力量中循環末段都排減負微循環;賽季中不必操到最大次負荷(力竭會壓低功率輸出、提高過度訓練風險),改用 %RM 百分比區間管理。</p>
+<p>設計禁忌清單(考判斷題的素材):季前賽纔想補基礎體能;積極休息超過 4 週;巔峯超過 1–2 週還想續杯;休賽季不先減量重新適應就直接上高負荷;季後賽打滿卻不拉長下季準備期;對新手用過大的變數波動。</p>
+
+<h2>四、考點速記</h2>
+<div class="exam"><b>循環時間尺度:</b>多年計畫 2–4 年(4 年最常見)|巨循環數月至 1 年|中循環 2–6 週(<b>4 週最常見</b>,又稱訓練模組)|微循環數天至 2 週(<b>1 週最常見</b>)|訓練課間隔 &gt;30 分鐘算另一次訓練。</div>
+<div class="exam"><b>各期強度/組次(表 22.3 死數字):</b>肥大/力量耐力:50%–75% 1RM,3–6 組 ×8–20 次。基礎力量:80%–95% 1RM,2–6 組 ×2–6 次。力量/爆發力:30%–95% 1RM 依動作,2–5 組 ×2–5 次。尖峯:50% 至 ≥93% 1RM,1–3 組 ×1–3 次,為期 1–2 週。維持:85%–93% 1RM,約 2–5 組 ×3–6 次。積極休息 1–4 週、以 4 週為上限。</div>
+<div class="exam"><b>窗口與速率:</b>最佳表現僅維持 7–14 天,與平均強度成反比|疲勞消退比體能快速(約快 2/3),減量因此抬升備戰狀態|強調模型重點約每 2 週輪調一次|GAS 三期:警戒/抵抗/衰竭,心理壓力延長抵抗期。</div>
+<div class="exam"><b>爆發力與賽季操作:</b>懸垂高翻約 80% 1RM;拋擲類動作約 50%–70% 1RM;力量+爆發並進用混合式(重+輕搭配)。賽季中力量訓練每週 1–3 次、每次約 30 分鐘即可維持;避免練到力竭(功率輸出下降、過度訓練風險上升),用 %RM 百分比區間。長賽季(12–16 週以上)排 3–4 週中循環,末個微循環減負,壓出超量恢復。</div>
+
+<h2>五、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>週期化</td><td>periodization</td><td>把各項訓練介入有邏輯、有系統地排序與整合,管理訓練過程,以求在對的時機攀上巔峯。</td></tr>
+<tr><td>多年訓練計畫</td><td>multiyear plan</td><td>2–4 年(最常見 4 年)的多年框架,串接年度計畫。</td></tr>
+<tr><td>巨循環</td><td>macrocycle</td><td>數月至一年的訓練區塊,含準備、比賽、過渡三階段。</td></tr>
+<tr><td>中循環</td><td>mesocycle</td><td>2–6 週(最常見 4 週)的訓練模組,由多個微循環組成。</td></tr>
+<tr><td>微循環</td><td>microcycle</td><td>數天至 2 週(最常見 1 週),由多個訓練日/訓練課組成。</td></tr>
+<tr><td>一般適應症候群</td><td>general adaptation syndrome (GAS)</td><td>Selye 的壓力三階段模型:警戒、抵抗、衰竭。</td></tr>
+<tr><td>警戒期</td><td>alarm stage</td><td>新壓力初期的疲勞、痠痛、能力下降。</td></tr>
+<tr><td>抵抗期</td><td>resistance stage</td><td>身體適應壓力並恢復功能,安排得當時引發超量恢復。</td></tr>
+<tr><td>衰竭期</td><td>exhaustion stage</td><td>壓力過久導致適應失敗,等同過度訓練狀態。</td></tr>
+<tr><td>超量恢復</td><td>supercompensation</td><td>恢復後能力超過原本基線水準。</td></tr>
+<tr><td>刺激-疲勞-恢復-適應理論</td><td>stimulus-fatigue-recovery-adaptation theory</td><td>刺激越強疲勞越深、恢復越久;恢復過程備戰狀態上升。</td></tr>
+<tr><td>體能-疲勞範式</td><td>fitness-fatigue paradigm</td><td>備戰狀態=體能與疲勞兩種後效的疊加(Zatsiorsky 雙因素模型)。</td></tr>
+<tr><td>殘留訓練效應</td><td>residual training effect</td><td>一週期的訓練後效會延續,並影響後續週期的備戰狀態。</td></tr>
+<tr><td>準備期</td><td>preparatory period</td><td>無比賽、建基礎體能的時期,對應休賽季。</td></tr>
+<tr><td>一般準備階段</td><td>general preparation phase</td><td>準備期早期,高量低強度,發展一般體能。</td></tr>
+<tr><td>專項準備階段</td><td>specific preparation phase</td><td>準備期後期,訓練轉向專項化。</td></tr>
+<tr><td>肥大或力量耐力階段</td><td>hypertrophy or strength-endurance phase</td><td>50%–75% 1RM、3–6 組 ×8–20 次。</td></tr>
+<tr><td>基礎力量階段</td><td>basic strength phase</td><td>80%–95% 1RM、2–6 組 ×2–6 次。</td></tr>
+<tr><td>第一過渡期</td><td>first transition period</td><td>準備期與比賽期之間的橋,力量/爆發力階段,對應季前賽。</td></tr>
+<tr><td>力量/爆發力階段</td><td>strength/power phase</td><td>30%–95% 1RM 依動作、2–5 組 ×2–5 次。</td></tr>
+<tr><td>尖峯</td><td>peaking</td><td>1–2 週內把備戰狀態推上最高點的安排。</td></tr>
+<tr><td>維持</td><td>maintenance</td><td>賽季中以 85%–93% 1RM 低中量守住力量的最低有效劑量安排。</td></tr>
+<tr><td>第二過渡期(積極休息)</td><td>second transition period (active rest)</td><td>季後 1–4 週低強度休閒與養傷,不超過 4 週。</td></tr>
+<tr><td>每日波動週期化</td><td>daily undulating periodization (DUP)</td><td>微循環內每天的負荷、次數與重點大幅變動。</td></tr>
+<tr><td>並行/序列/強調訓練模型</td><td>parallel / sequential / emphasis training model</td><td>全能力同時練/一次聚焦少數能力/多能力並練但定期輪調重點。</td></tr>
+<tr><td>訓練年齡</td><td>training age</td><td>系統化訓練的年數,是評估與設計計畫的第一項依據。</td></tr>
+</table>
+
+<h2>六、圖表</h2>
+<div class="fig">
+<svg width="660" height="360" viewBox="0 0 660 360">
+  <rect x="6" y="6" width="648" height="348" rx="10" fill="none" stroke="#0f3460" stroke-width="2.5"/>
+  <text x="16" y="24" font-size="12.5" fill="#0f3460">多年訓練計畫(2–4 年,最常見 4 年)</text>
+  <rect x="24" y="32" width="612" height="314" rx="10" fill="none" stroke="#e94560" stroke-width="2.5"/>
+  <text x="34" y="50" font-size="12.5" fill="#e94560">年度訓練計畫(1 年,可含 1 至多個巨循環)</text>
+  <rect x="42" y="58" width="576" height="280" rx="10" fill="none" stroke="#3d7a3d" stroke-width="2.5"/>
+  <text x="52" y="76" font-size="12.5" fill="#3d7a3d">巨循環(數月至 1 年:準備期 → 比賽期 → 過渡期)</text>
+  <rect x="60" y="84" width="540" height="246" rx="10" fill="none" stroke="#e6b800" stroke-width="2.5"/>
+  <text x="70" y="102" font-size="12.5" fill="#8a6d00">中循環(2–6 週,最常見 4 週,又稱訓練模組)</text>
+  <rect x="78" y="110" width="504" height="212" rx="10" fill="none" stroke="#16213e" stroke-width="2.5"/>
+  <text x="88" y="128" font-size="12.5" fill="#16213e">微循環(數天至 2 週,最常見 1 週)</text>
+  <rect x="96" y="136" width="468" height="178" rx="10" fill="none" stroke="#e94560" stroke-width="2.5"/>
+  <text x="106" y="154" font-size="12.5" fill="#e94560">訓練日(1 天,可含多節訓練課)</text>
+  <rect x="114" y="162" width="432" height="134" rx="10" fill="#f4f7fa" stroke="#0f3460" stroke-width="2.5"/>
+  <text x="124" y="180" font-size="12.5" fill="#0f3460">訓練課(數小時;間隔超過 30 分鐘視為另一次訓練)</text>
+  <text x="330" y="230" font-size="13" text-anchor="middle" fill="#16213e">一層包一層:目標由多年到單節課,</text>
+  <text x="330" y="252" font-size="13" text-anchor="middle" fill="#16213e">越來越具體、越來越細節</text>
+</svg>
+<div class="figcap">圖 6.1 週期化結構「洋蔥圖」:多年計畫→年度計畫→巨循環→中循環→微循環→訓練日→訓練課,逐層嵌套(對應原文表 22.2)。</div>
+</div>
+
+<table>
+<tr><th>時期</th><th>階段</th><th>重點</th><th>強度</th><th>訓練量(組×次)</th><th>對應賽季</th></tr>
+<tr><td rowspan="2">準備期</td><td>一般準備 → 肥大/力量耐力階段</td><td>運動能力、肌肉量</td><td>低至中:50%–75% 1RM</td><td>高:3–6 組 ×8–20 次</td><td>休賽季</td></tr>
+<tr><td>專項準備 → 基礎力量階段</td><td>最大力量</td><td>高:80%–95% 1RM</td><td>中至高:2–6 組 ×2–6 次</td><td>休賽季</td></tr>
+<tr><td>第一過渡期</td><td>力量/爆發力階段</td><td>力量轉爆發力</td><td>低至極高:30%–95% 1RM(依動作)</td><td>低:2–5 組 ×2–5 次</td><td>季前賽</td></tr>
+<tr><td rowspan="2">比賽期</td><td>尖峯期</td><td>1–2 週推上巔峯</td><td>極高至極低:50% 至 ≥93% 1RM</td><td>極低:1–3 組 ×1–3 次</td><td>重要錦標賽前</td></tr>
+<tr><td>維持期</td><td>守住力量/爆發力</td><td>中至高:85%–93% 1RM</td><td>低到中:約 2–5 組 ×3–6 次</td><td>整個賽季</td></tr>
+<tr><td>第二過渡期</td><td>積極休息(1–4 週)</td><td>身心恢復、養傷</td><td>低強度休閒活動</td><td>可能不含阻力訓練</td><td>季後賽後</td></tr>
+</table>
+<div class="figcap">表 6.1 各期訓練變數對照(改寫自原文表 22.3)。組數不含熱身組與低強度恢復日;爆發力負荷不遵循典型 %RM–次數關係。</div>
+
+<table>
+<tr><th>模型</th><th>安排方式</th><th>適用對象</th><th>主要限制</th></tr>
+<tr><td>並行(parallel)</td><td>同一節課/日/微循環內同時練所有能力</td><td>新手、發展期選手;符合 LTAD 早期階段</td><td>進度提高後總負荷必須持續增加,易超過耐受力;對中進階以上非最佳</td></tr>
+<tr><td>序列(sequential)</td><td>一次聚焦一個或少數能力,按邏輯順序推進</td><td>需要更強刺激的選手;舉重、滑雪、自由車、田徑及多種團體運動</td><td>準備時間較長,不易配合密集賽程;模型本身對推進順序要求嚴謹</td></tr>
+<tr><td>強調(emphasis)</td><td>多能力並練,重點約每 2 週輪調;主項刺激量、副項維持/最低量</td><td>賽程密集的中進階個人與團體項目、戰術型人員</td><td>非重點能力接受一定程度消退</td></tr>
+</table>
+<div class="figcap">表 6.2 三種基本安排模型對比(對應原文圖 22.5)。</div>
+
+<div class="fig">
+<img src="../figs/fig_22_4.png" alt="原書圖 22.4" style="max-width:88%;max-height:820px;display:block;margin:6px auto;">
+<div class="figcap">原書圖 22.4(圖內標籤為原文英文):體能-疲勞範式示意:高負荷期體能與疲勞同步上升、備戰狀態下滑;減量期疲勞消退比體能快(約快 2/3),備戰狀態攀上巔峯(對應原文圖 22.4)。</div>
+</div>
+
+<div class="fig">
+<img src="../figs/fig_22_7.png" alt="原書圖 22.7" style="max-width:88%;max-height:820px;display:block;margin:6px auto;">
+<div class="figcap">原書圖 22.7(圖內標籤為原文英文):四期、四賽季與阻力訓練重點的對應(對應原文圖 22.7):HP=肥大/力量耐力,BS=基礎力量,SP=力量/爆發力,AR=積極休息。強度與量的曲線為總體走向,微循環層面仍有非線性波動。</div>
+</div>
+
+<table>
+<tr><th></th><th>傳統(常被誤稱「線性」)</th><th>每日波動(DUP/非線性)</th></tr>
+<tr><td>每天組數/次數</td><td>相同,只換負荷(例:85%→75%→65% 1RM 由重到輕)</td><td>大幅變動(例:週二 4×6RM 力量、週四 3×10RM 肥大、週六 5×3RM 爆發)</td></tr>
+<tr><td>支持理由</td><td>總量較可控,減少代謝/週邊疲勞累積</td><td>避免強度持續攀升造成的累積神經疲勞;刺激多樣</td></tr>
+<tr><td>疑慮</td><td>強度長期上行可能累積神經疲勞(傳統安排的支持者否認,因為模型實際並非線性)</td><td>總量偏高,可能增加受傷風險;高負荷日使疲勞累積,對高水準選手可能提高過度訓練風險</td></tr>
+</table>
+<div class="figcap">表 6.3 傳統與每日波動(DUP)安排對比。研究結果不一致:有支持 DUP 的,有支持傳統的,也有顯示無差異的。</div>
+
+<h2>七、易混陷阱</h2>
+<div class="trap"><b>「線性週期化」是誤稱。</b>傳統模型在微循環與中循環層面本就有強度與量的波動,畫在圖上像直線,不代表真的線性;消除線性本來就是週期化原則之一。「非線性/波動/DUP」專指<span class="term">每天</span>大幅改變次數、組數與重點的安排,不要把兩個名稱混用。</div>
+<div class="trap"><b>週期化 ≠ 排課(計畫)。</b>週期化是巨觀管理(依賽程搭框架、選模型),計畫/安排是微觀管理(落到每堂課的動作與負荷)。文獻常互換使用,考定義時要分清楚。</div>
+<div class="trap"><b>尖峯期 ≠ 維持期。</b>尖峯:個人項目,1–2 週把狀態推頂;強度 50% 至 ≥93% 1RM 並走向減量,量極低(1–3 組 ×1–3 次);超過 1–2 週便難維持。維持:團體項目整季數月,85%–93% 1RM、約 2–5 組 ×3–6 次,以微循環滾動調整。一個是「衝線」,一個是「長跑守成」。</div>
+<div class="trap"><b>警戒期與衰竭期症狀像,成因不同。</b>兩者都會出現疲勞、表現下降。警戒期是<span class="term">新壓力初期</span>的正常反應(數小時至數週),之後進入抵抗;衰竭期是壓力<span class="term">拖太久</span>適應失敗,已是過度訓練範疇。一看到痠痛與表現下滑就判定衰竭,是錯的。</div>
+<div class="trap"><b>季前賽不是補基礎期。</b>基礎體能(肥大、基礎力量)在休賽季(準備期)建好;季前賽是第一過渡期,任務是把力量轉爆發力、收割休賽季成果。季前賽才練基礎,等於準備期白排。</div>
+<div class="trap"><b>減負微循環 ≠ 積極休息。</b>減負(deload)在訓練結構內:階段或中循環末段調降強度與量,為下一階段做準備,仍屬訓練。積極休息(第二過渡期)在賽季結束後:為期 1–4 週,以非結構化的休閒活動為主,目標是身心恢復與養傷,且不宜超過 4 週。</div>
+
+<h2>八、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(是非題)中循環通常持續 2–6 週,其中最常見的安排是 4 週?</p><p class="ans">Ans:○ — 教材明定中循環 2–6 週、最常見 4 週;微循環纔是以 1 週最常見。</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)Selye 的一般適應症候群(GAS)包含哪三期?(A)準備、比賽、過渡 (B)警戒、抵抗、衰竭 (C)肥大、力量、爆發 (D)刺激、疲勞、適應</p><p class="ans">Ans:B — GAS 三期為警戒期、抵抗期、衰竭期;(D) 是 SFRA 理論的用詞。</p></div>
+<div class="qa"><p><b>Q3.</b>(選擇題)肥大/力量耐力階段的阻力訓練強度與組次是?(A)80%–95% 1RM,2–6 組 ×2–6 次 (B)85%–93% 1RM,約 2–5 組 ×3–6 次 (C)50%–75% 1RM,3–6 組 ×8–20 次 (D)50% 至 ≥93% 1RM,1–3 組 ×1–3 次</p><p class="ans">Ans:C — 肥大/力量耐力屬準備期一般準備,低至中強度、高量;(A) 是基礎力量,(B) 是維持,(D) 是尖峯。</p></div>
+<div class="qa"><p><b>Q4.</b>(是非題)基礎體能(肌肉肥大、基礎力量)主要在季前賽建立?</p><p class="ans">Ans:✕ — 基礎在休賽季(準備期)建立;季前賽是第一過渡期,做力量轉爆發力。</p></div>
+<div class="qa"><p><b>Q5.</b>(選擇題)尖峯(peaking)安排的目標時間長度約為?(A)3–4 天 (B)1–2 週 (C)4–6 週 (D)2–3 個月</p><p class="ans">Ans:B — 尖峯計畫以 1–2 週把狀態推到頂;最佳表現也只能維持約 7–14 天。</p></div>
+<div class="qa"><p><b>Q6.</b>(是非題)積極休息期越長越好,讓選手徹底放空?</p><p class="ans">Ans:✕ — 建議 1–4 週且以 4 週為上限;拖太長,下一個準備期要花更久才能回到狀態。</p></div>
+<div class="qa"><p><b>Q7.</b>(選擇題)某選手週二做 4 組 6RM(力量)、週四做 3 組 10RM(肥大)、週六做 5 組 3RM(爆發力)。這是哪種安排?(A)傳統週期化 (B)每日波動週期化(DUP) (C)並行模型 (D)序列模型</p><p class="ans">Ans:B — 微循環內每天的負荷、次數與重點都大幅變動,正是 DUP/非線性的定義。</p></div>
+<div class="qa"><p><b>Q8.</b>(選擇題)賽季中維持期(maintenance)力量訓練的典型強度是?(A)50%–65% 1RM (B)65%–75% 1RM (C)85%–93% 1RM (D)≥95% 1RM</p><p class="ans">Ans:C — 維持期用中到高強度 85%–93% 1RM、低到中量,以最低有效劑量守住力量與爆發力。</p></div>
+<div class="qa"><p><b>Q9.</b>(是非題)因為疲勞的消退速度比體能快速,賽前減少訓練負荷反而能抬高備戰狀態?</p><p class="ans">Ans:○ — 體能-疲勞範式的核心:減量時疲勞快速退去、體能保留,兩者差值讓備戰狀態衝上巔峯,這是 taper 的依據。</p></div>
+<div class="qa"><p><b>Q10.</b>(選擇題)選手長期承受高心理情緒壓力時,GAS 的哪一期會被延長?(A)警戒期 (B)抵抗期 (C)恢復期 (D)超量恢復期</p><p class="ans">Ans:B — 原文:心理壓力加重警戒期反應、拉長恢復,導致抵抗期延長、超量恢復延後。</p></div>
+
+</body>
+</html>

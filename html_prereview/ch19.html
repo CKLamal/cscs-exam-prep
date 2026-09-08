@@ -1,0 +1,252 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>CSCS 第19章 增強式訓練的方案設計與技巧</title>
+<style>
+@page { size: A4; margin: 18mm 15mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei", "Microsoft YaHei", "Noto Sans CJK TC", sans-serif;
+       font-size: 10.5pt; line-height: 1.65; color: #1a1a2e; margin: 0; }
+h1 { font-size: 19pt; color: #0f3460; border-bottom: 4px solid #e94560; padding-bottom: 6px; margin: 0 0 4px 0; }
+h2 { font-size: 14pt; color: #0f3460; background: #eef2f7; padding: 5px 10px; border-left: 6px solid #e94560; margin: 20px 0 8px 0; page-break-after: avoid; }
+h3 { font-size: 11.5pt; color: #16213e; margin: 14px 0 5px 0; page-break-after: avoid; }
+p { margin: 5px 0; text-align: justify; }
+.subtitle { font-size: 11pt; color: #555; margin: 0 0 10px 0; }
+table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 9.5pt; page-break-inside: avoid; }
+th { background: #0f3460; color: #fff; padding: 4px 6px; text-align: left; }
+td { border: 1px solid #b8c4d0; padding: 4px 6px; vertical-align: top; }
+tr:nth-child(even) td { background: #f4f7fa; }
+.analogy { background: #fff8e6; border: 1px solid #e6c866; border-left: 6px solid #e6b800; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.analogy::before { content: "🧸 打個比方"; display: block; font-weight: bold; color: #8a6d00; margin-bottom: 3px; }
+.exam { background: #fdeef1; border: 1px solid #e94560; border-left: 6px solid #e94560; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.exam::before { content: "📌 考點(必背數字)"; display: block; font-weight: bold; color: #a11f3d; margin-bottom: 3px; }
+.trap { background: #eef7ee; border: 1px solid #4a8a4a; border-left: 6px solid #3d7a3d; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.trap::before { content: "⚠️ 易混陷阱"; display: block; font-weight: bold; color: #2d5a2d; margin-bottom: 3px; }
+.fig { text-align: center; margin: 10px 0; page-break-inside: avoid; }
+.figcap { font-size: 9pt; color: #666; margin-top: 3px; }
+.qa { margin: 6px 0; page-break-inside: avoid; }
+.qa .ans { color: #0f3460; font-size: 9.5pt; }
+ul, ol { margin: 4px 0; padding-left: 22px; }
+li { margin: 2px 0; }
+.term { font-weight: bold; color: #0f3460; }
+.eng { color: #666; font-size: 9pt; }
+svg text { font-family: "Microsoft JhengHei", "Microsoft YaHei", sans-serif; }
+.pagebreak { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<h1>第19章 增強式訓練的方案設計與技巧</h1>
+<p class="subtitle">Plyometric Program Design and Technique(僅供術語對照) | 原文頁碼 p1260–p1397</p>
+
+<h2>一、本章一句話</h2>
+<p>增強式訓練（plyometric training）就是「先快速拉長肌肉、再立刻收縮」的彈跳與投擲訓練，靠拉伸-縮短週期（stretch-shortening cycle, SSC）把落地撞擊的能量變成下一次起跳的動力;設計它時要管好強度、頻率、恢復與腳部接觸次數,否則練的不是爆發力,是傷。</p>
+
+<h2>二、學完本章你會</h2>
+<ul>
+<li>解釋增強式訓練的機械模型與神經生理模型,說出 SSC 三個階段各自發生什麼。</li>
+<li>分辨爆發式（ballistic）與反彈式/反應式（rebound/reactive）增強式訓練。</li>
+<li>依經驗程度選擇每次訓練的腳部接觸次數（volume）、頻率、休息比。</li>
+<li>安排安全的前置條件與進階階梯,先落地、再單腳、再深度跳。</li>
+<li>說明下肢、上肢、軀幹各式動作的技巧要點與器材(跳箱、欄架、藥球)規則。</li>
+</ul>
+
+<h2>三、把核心概念講給你聽(ELI5)</h2>
+
+<h3>3.1 增強式訓練是什麼</h3>
+<p>「Plyometric」一詞來自希臘文:plyo 是「更多」,metric 是「測量」,字面意思是「增加測量」。實作上,它是指快速、有力的動作,會先預先拉長肌肉(反向動作),再利用拉伸-縮短週期（SSC）產生更大的力量。目標只有一個:讓肌肉在最短時間內產生最大力量。</p>
+<p>教材把增強式訓練分成兩大類。爆發式訓練只需要很少的 SSC 參與,例如深蹲跳（squat jump）、藥球過頭投擲。反彈式（反應式）訓練一定要有 SSC 的力學成分參與,例如跳躍落地、連續反向跳。這個分類會考,因為兩類的神經肌肉與力學需求不同,直接決定你怎麼排練習。</p>
+<div class="analogy">橡皮筋先拉開再放手,它彈回去的力道比直接掰它大得多。增強式訓練就是訓練身體這根「橡皮筋」:落地拉長肌肉(蓄能),立刻蹬出(放能)。爆發式訓練像直接扔橡皮筋,不靠它回彈。</div>
+
+<h3>3.2 兩個解釋模型:機械模型與神經生理模型</h3>
+<p>為什麼「先拉再收」比較有力?學術界用兩個模型解釋,兩個都成立、共同作用。</p>
+<p>機械模型（mechanical model）:快速拉長時,肌腱等串聯彈性成分（series elastic component, SEC）像彈簧一樣被拉長,儲存彈性勢能;緊接著的向心收縮會釋放這股能量,疊加到總輸出力量上。SEC 以肌腱為主體。另外,並聯彈性成分（parallel elastic component, PEC)(肌外膜、肌束膜等膠原結構)在肌肉未被活化而被拉長時產生被動力,提供穩定與保護。</p>
+<p>神經生理模型（neurophysiological model）:拉長肌肉會觸發牽張反射（stretch reflex）。肌梭（muscle spindle）是本體感受器,對被拉長的速度與幅度特別敏感;偵測到快速拉長,就反射性地提高肌肉活動。路徑是:肌梭經 Ia 型傳入神經把訊號傳到脊髓腹根,與 α 運動神經元形成突觸,α 運動神經元再命令agonist（agonist)更用力收縮。收縮更強,力更大。</p>
+<p>兩個模型都有同一個開關:拉長之後必須「立刻」收縮。中間拖太久,儲存的能量變熱散掉,反射的增益也消失,SSC 白做。</p>
+<div class="analogy">SEC 是弓,牽張反射是有人幫你推一把弓弦。但你拉滿弓要馬上放箭;搭著箭等兩秒,弓就軟了,幫忙那一下也過期了。</div>
+<div class="exam">牽張反射潛伏期(刺激到肌肉開始活動的時間)取決於神經傳導速度,神經越長潛伏期越久:股四頭肌約 20–30 毫秒,腓腸肌約 30–45 毫秒。緩衝期拖長造成的彈性勢能損失(臥推研究):停 0.35 秒損失 25%,0.9 秒損失 52%,1 秒損失 55%,1.5 秒損失 70%。</div>
+
+<h3>3.3 拉伸-縮短週期(SSC)三階段</h3>
+<p>SSC 固定分三個階段,順序不會變,這題直出率很高。</p>
+<ul>
+<li><b>第一階段:離心階段（eccentric phase)</b>。從靜止位置到反向動作最低點,主動肌被拉長預載。SEC 儲存彈性勢能,肌梭受刺激。對照垂直跳:就是往下蹲那段。</li>
+<li><b>第二階段:緩衝期(amortization phase,又稱耦合期)</b>。離心結束到向心開始之間的那一小段。Ia 傳入神經與 α 運動神經元完成突觸傳遞。時間必須極短,拖長就等於能量以熱耗散、反射失效。</li>
+<li><b>第三階段:向心階段（concentric phase)</b>。主動肌縮短,SEC 釋放儲存的勢能,α 運動神經元驅動反射性向心收縮,起跳蹬地。</li>
+</ul>
+<p>拉長速率（rate of stretch）決定 SSC 喫到多少:速率越快,向心階段能募集的肌肉越多。三種跳的對照最說明問題:靜蹲跳（squat jump,先蹲定 90 度再跳,幾乎沒有離心階段)最矮;反向跳（countermovement jump)有快速離心,較高地;助跑（一步或兩步)跳的離心更快更猛,跳得最高。落地技術也算數:主動前腳掌著地比平足著地的力生成速率（rate of force development)高約 45%,因為平足著地顯著拉長觸地時間。Schmidtbleicher 據觸地時間把增強式活動分為兩類:觸地時間 &gt;0.25 秒屬「慢」,短觸地 &lt;0.25 秒屬「快(反應式)」。</p>
+<p>高爾基腱器（golgi tendon organ, GTO）住在肌腱交界處,偵測肌腱受力的強度與速率;超過閾值就觸發反牽張反射,當場抑制運動單元的興奮。循序漸進的增強式訓練可以降低 GTO 的敏感度,讓運動單元更容易被興奮,表現隨之上升。</p>
+<div class="analogy">GTO 是家裡的電瓶總開關,電流太大立刻跳電保護線路。訓練久了,這個開關把跳電閾值調高,同樣的衝擊不再輕易斷電,你就跳得動更猛的落地。</div>
+
+<h3>3.4 三大模式:下肢、上肢、軀幹</h3>
+<p><b>下肢</b>是所有運動與復健場景的主力。術語要分清楚:單腳跳（hop)是單腳起、單腳落地;跨步跳/分腿跳（bound)是一腳起、另一腳落地或切換;跳（jump)是雙腳起雙腳落,可水平可垂直;深度跳（depth jump)是站上箱子跳下、落地後立刻再跳,強度由箱高決定,屬最高衝擊的一類。設計時不要只做矢狀面,單腳對雙腳、雙腳對單腳、腳對腳的轉換跟雙腳動作同樣重要。耐力型選手也該練:SSC 的神經生理與機械特性optimize跑步與騎車的經濟性,用更少的能量做更大的功。</p>
+<p><b>上肢</b>以爆發式為主:投（單臂或雙臂水平/垂直拋藥球)、砸（雙臂把藥球猛砸地面)、拉（爆發式仰臥划船、引體向上)、推（離地俯臥撐類,落地深、騰空時間等變因進階)。棒球、網球、田徑投擲類運動特別需要。要留意:多數投擲其實是全身動作,力量從髖、膝、踝發起,上肢只是傳導末端;好投手肩關節內旋速度可超過每秒 6000 度,球速卻是由腿部啟動、靠髖肩分離放大出來的。</p>
+<p><b>軀幹</b>很難做真正的增強式訓練,因為 SSC 要素常不齊。可以下半身固定做仰臥起坐式、上半身固定做抬腿式、或丟藥球。原則是:動作要更短更快才刺激到牽張反射;幅度大、耗時長的仰臥起坐對腹肌沒有反射增益。</p>
+<div class="analogy">下肢練習像把地板當彈簧牀,越硬的落地越快回彈;上肢練習像甩鞭子,力量從腳踩地開始,一路經髖、 torso 傳到手上,手只是鞭尾。</div>
+
+<h3>3.5 處方變數:強度、頻率、恢復、訓練量、進度</h3>
+<p>強度指肌肉、結締組織與關節承受的壓力。跳繩屬低強度,原地縱跳屬高強度。抬高強度的因素:單腳比雙腳衝擊大、水平速度越快越猛、要減速再變向的動作最傷、身體重心越高落地力越大、體重與額外負重(背心、槓鈴)直接疊加、技術越好(踝膝髖剛性與姿勢對齊)越能控制觸地時間與風險。鐵律:強度上升,訓練量下降。反應式動作的肌肉活化、力量與相對衝量都比爆發式高,所以也比較「重」。</p>
+<p>頻率:每週 1 到 4 次,看專項、經驗與賽季安排。美式足球員賽季中 1 次、賽季外 2 到 3 次;田徑賽季中 2 到 3 次、賽季外可到 3 到 4 次。兩次增強式訓練之間休息 48 到 72 小時;同一部位不要連續兩天做中高強度。</p>
+<p>恢復:增強式是力量訓練,不是有氧。類似縱跳的動作,每次重複之間休息 5 到 10 秒,組間休息 2 到 5 分鐘,訓練與休息比約 1:5 到 1:10。訓練後的疲勞與發炎反應會加重延遲性肌肉痠痛,跳躍表現可能受影響長達 72 小時(最大肌力通常不受影響),所以課表要避開比賽前。</p>
+<p>訓練量:下肢以每次訓練的腳部接觸次數計(單腳或雙腳同時觸地各算一次),跳躍類也可用距離(從每次 30 碼逐步增到 100 碼)。上肢以投擲或接球次數計,常用 3 到 5 組、每組 3 到 5 次,跟阻力訓練量級接近。各經驗程度的腳部接觸次數見「考點速記」的體積表。</p>
+<p>進度:遵循漸進超負荷,簡單規則是強度升、數量降。同一個彈跳練習,新手練 3 組 10 次熟練 SSC,中階改練縮短觸地時間,精英拿來當熱身收尾的神經激活;後面接的動作也分層:新手接跨欄跳,中階跳 61 公分(24 英吋)箱 2 組 4 次,精英才上 114 公分(45 英吋)箱 4 組 8 次的深度跳。計畫長度多數為 6 到 10 週,縱跳高度最快 4 週就有顯著提升;全套要按週期化安排。</p>
+<div class="analogy">這像開連鎖咖啡店:新店(新手)先賣低風險的品項、量少、每天練習;總店(精英)才玩高溫油炸(深度跳),而且一次只出幾份(強度升、量降)。直接讓新手開油炸鍋,結果就是燒店(受傷)。</div>
+
+<h3>3.6 上場前的門檻:技術、力量、平衡、體位</h3>
+<p><b>技術先看落地。</b>落地時肩膀要在膝蓋正上方、膝蓋要在腳趾正上方,靠踝背屈、膝屈、髖屈三層吸收;重心偏出支撐面,表現掉、受傷率升。膝內翻(dynamic valgus,動態外翻)是髕股疼痛與前交叉韌帶（anterior cruciate ligament, ACL）損傷的重要危險因子。落地要用「主動平足著地」:準備期踝保持背屈,著地前一刻用力蹠屈「用腳掌攻擊地面」,一是預先拉高腓腸肌-比目魚肌複合體的張力、提高 SSC 效率與輸出功率,二是確保落地-起跳全程腳跟離地。檢驗方法叫「信用卡規則」:訓練師的finger能從選手腳跟下塞進一張信用卡,代表觸地面積正確。</p>
+<p><b>力量門檻看動作選。</b>過去建議全身下肢增強式統一要 1RM 深蹲達 1.5 倍體重;新立場是門檻依動作分級:重複彈跳、反向跳等原地基本跳所需力量較低;重複跳躍與單腳跳約需 1 倍體重後蹲;跳上 30 公分(12 英吋)以下箱子的跳抓/縱跳約需 1.5 倍;超過 30 公分的箱跳與縱跳建議 2 倍體重後蹲。「後蹲等效力量」只是描述性推估,重點不只是力氣大小,還有在規定觸地時間內輸出力量的能力(Rate of force development)。</p>
+<p><b>平衡是前置。</b>平衡指一段時間內保持靜止。三級測試:站立即、四分之一蹲、半蹲,各分雙腳/單腳,難度由低到高,每式要撐 30 秒不倒;測試地面要與訓練地面一致。新手門檻=單腳站立 30 秒;要碰高階課程=單腳半蹲 30 秒不倒。</p>
+<p><b>體位與病史。</b>體重超過 220 磅(100 公斤)者關節負荷大,做大量、高強度與超過 46 公分(18 英吋)的縱跳要格外謹慎;有肌肉拉傷、關節病理性鬆弛、脊柱(含椎間盤)問題病史者同理,一律先評估再上強度。</p>
+<div class="analogy">落地姿勢檢查就是「三點一條線」:肩、膝、腳趾像交通號誌杆一樣疊在垂直線上。膝蓋往內倒,等於號誌杆歪了,時間一久一定壞(ACL)。</div>
+<div class="exam">死數字總表:反覆跳/反向跳=低力量門檻;重複跳與單腳跳≈1 倍體重後蹲;≤30 公分箱跳≈1.5 倍;&gt;30 公分箱跳/縱跳≈2 倍。平衡測試每式 30 秒。體重 &gt;100 公斤慎用高量高強度;縱跳箱高 &gt;46 公分要謹慎。</div>
+
+<h3>3.7 特殊族羣:兒童與高齡</h3>
+<p>沒有公認的「最低起始年齡」,7 到 8 歲進行漸進式增強式訓練不影響日後參與。但青春期前骨骺板（epiphyseal plate)未閉合,不該做最大縱跳與高強度下肢訓練;深度跳對兒童直接不適用。兒童課表以神經肌肉控制與動作品質為目標:研究支持的設計是每週 2 次、持續 8 到 10 周、每次從 50 到 60 次跳躍開始、每週漸進;受不了的_child改低強度、拉長時間。心理成熟度要夠,聽得懂指令、懂得風險。</p>
+<p>高齡運動員照成人原則設計,但要疊加三層考慮:與年齡相關的肌少症(力量流失)、關節退化與手術史、恢復變慢。做縱跳與單腳動作要保守,雙腿、交替腿跳躍是較佳替代;有膝手術史(例如部分半月板切除)或關節嚴重退化者,深度跳與單腳增強式視為禁忌。</p>
+
+<h3>3.8 和阻力訓練、有氧訓練拼課</h3>
+<p>搭配規矩:下肢阻力訓練配upper肢增強式,上肢阻力訓練配下肢增強式,錯開同一部位的雙重高衝擊。同一天做大重量阻力加增強式通常不建議;但復合訓練（complex training,在同一課內組合阻力與增強式)對發展快慢肌力有幫助,做時要在增強式與其它高強度內容之間留足恢復。復合訓練三種排法要分得清:對比訓練（contrast training)=大重量與高速動作交替、組間休息充足,例:大重量臥推交替擊掌伏臥撐;遞增式復合=一組高強度接一組相反特性的高強度,例:全力跳箱 2 組接大腿中段挺舉;遞減組=先多做高強度再做高速動作,例:負重深蹲 3 組每組 2 次,接過頭藥球拋 3 組每組 4 次。有氧會干擾爆發力輸出,所以順序是先增強式、後有氧耐力。</p>
+
+<h2>四、考點速記</h2>
+<p>每次訓練的腳部接觸次數(單腳觸地或雙腳同時觸地,各算一次)是本章最硬的死數字。規則是強度越高、次數越少;「Nr」表示該強度不建議提供給該經驗等級。</p>
+<table>
+<tr><th>增強式訓練經驗程度</th><th>低強度</th><th>中強度</th><th>高強度</th></tr>
+<tr><td>初學者(無經驗)</td><td>80–100 次</td><td>Nr(不建議)</td><td>Nr</td></tr>
+<tr><td>中級(有一些經驗)</td><td>100–120 次</td><td>80–100 次</td><td>Nr</td></tr>
+<tr><td>高級(經驗豐富)</td><td>120–200 次</td><td>100–120 次</td><td>20–40 次</td></tr>
+</table>
+<div class="exam">頻率:每週 1–4 次;兩次課間隔 48–72 小時;同一部位不連續兩天做中高強度。恢復:重複間 5–10 秒、組間 2–5 分鐘、工作休息比 1:5–1:10;訓練後跳躍表現最多受影響 72 小時。計畫長度 6–10 週,縱跳高度 4 週即可顯著提升。上肢量約 3–5 組 × 3–5 次。</div>
+<div class="exam">力量門檻:重複跳/反向跳=低門檻;重複跳躍與單腳跳≈1 倍體重後蹲;≤30 公分箱跳≈1.5 倍;&gt;30 公分箱跳/縱跳≈2 倍(舊建議:一律先達 1.5 倍體重深蹲)。平衡:三種姿勢每式撐 30 秒。緩衝期能量損失:0.35 秒=25%、0.9 秒=52%、1 秒=55%、1.5 秒=70%。牽張反射潛伏期:股四頭肌 20–30 毫秒、腓腸肌 30–45 毫秒;觸地 &lt;0.25 秒屬快速反應式。</div>
+<div class="exam">器材死數字:深度跳建議箱高 41–107 公分(16–42 英吋),標準 76–81 公分(30–32 英吋);48 英吋(122 公分)為上限、對多數人太難;體重 &gt;100 公斤(220 磅)者箱高 ≤46 公分(18 英吋)。跳箱本身 15–107 公分(6–42 英吋),箱面至少 46×61 公分(18×24 英吋)。場地:直道至少 30 碼/公尺,天花板 ≥3 公尺(10 英吋級距:10 英尺)。落地面:草地、懸空地板、橡膠墊;避免混凝土、瓷磚、硬木;墊子 ≥15 公分(6 英吋)太厚會拖長緩衝期。</div>
+
+<h2>五、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>增強式訓練</td><td>plyometric exercise</td><td>利用預先拉長與拉伸-縮短週期,讓肌肉最短時間產生最大力量的快速有力動作。</td></tr>
+<tr><td>拉伸-縮短週期</td><td>stretch-shortening cycle, SSC</td><td>離心拉長儲存能量、經緩衝期、立刻向心釋放增力的三階段循環。</td></tr>
+<tr><td>離心階段</td><td>eccentric phase</td><td>SSC 第一階段,主動肌被拉長,SEC 儲能、肌梭受刺激。</td></tr>
+<tr><td>緩衝期(耦合期)</td><td>amortization phase</td><td>SSC 第二階段,離心與向心之間的轉換延遲,時間必須極短。</td></tr>
+<tr><td>向心階段</td><td>concentric phase</td><td>SSC 第三階段,主動肌縮短,釋放勢能並產生反射性收縮。</td></tr>
+<tr><td>串聯彈性成分</td><td>series elastic component, SEC</td><td>以肌腱為主的彈性結構,拉長時儲存、收縮時釋放彈性勢能。</td></tr>
+<tr><td>並聯彈性成分</td><td>parallel elastic component, PEC</td><td>肌束膜等膠原結構,未被活化的肌肉被拉長時產生被動力。</td></tr>
+<tr><td>牽張反射</td><td>stretch reflex</td><td>肌肉被快速拉長時,經肌梭與 Ia 傳入神經引發的非自主收縮增強。</td></tr>
+<tr><td>牽張反射潛伏期</td><td>stretch reflex latency</td><td>從反射刺激到主動肌開始活動的時間,隨神經長度增加。</td></tr>
+<tr><td>肌梭</td><td>muscle spindle</td><td>感受拉長速度與幅度的本體感受器,啟動牽張反射。</td></tr>
+<tr><td>高爾基腱器</td><td>golgi tendon organ, GTO</td><td>偵測肌腱受力強度與速率,過度張力時抑制運動單元的保護機制。</td></tr>
+<tr><td>爆發式練習</td><td>ballistic exercise</td><td>只需少量 SSC 參與的增強式動作,如深蹲跳、藥球過頭投。</td></tr>
+<tr><td>反彈式(反應式)訓練</td><td>rebound training</td><td>必須用到 SSC 力學成分的動作,如落地反彈、連續反向跳。</td></tr>
+<tr><td>單腳跳</td><td>hop</td><td>單腳起、同一腳落地。</td></tr>
+<tr><td>跨步跳(分腿跳)</td><td>bound</td><td>一腳起、換另一腳落地,髮展水平方向加速減速。</td></tr>
+<tr><td>跳</td><td>jump</td><td>雙腳起、雙腳落地,可水平或垂直。</td></tr>
+<tr><td>深度跳</td><td>depth jump</td><td>由箱上踏下、落地後立刻反彈的高強度衝擊動作。</td></tr>
+<tr><td>主動平足著地</td><td>active flat-foot landing</td><td>落地前用力蹠屈、以腳掌攻擊地面且腳跟不落地(信用卡規則)。</td></tr>
+<tr><td>動態外翻(膝內翻)</td><td>dynamic valgus</td><td>落地時膝蓋向內偏離腳趾正上方,是 ACL 損傷危險因子。</td></tr>
+<tr><td>復合訓練</td><td>complex training</td><td>同一課內組合阻力訓練與增強式訓練以兼顧快慢肌力。</td></tr>
+<tr><td>對比訓練</td><td>contrast training</td><td>高負荷與高速度動作交替、組間休息充分,如大重量臥推配擊掌伏臥撐。</td></tr>
+<tr><td>後蹲等效力量</td><td>back squat equivalent</td><td>推估安全完成某動作所需力量程度的描述性門檻。</td></tr>
+<tr><td>腳部接觸次數</td><td>foot contact</td><td>下肢增強式訓練量的計數單位。</td></tr>
+</table>
+
+<h2>六、圖表</h2>
+<div class="fig">
+<svg width="660" height="216" viewBox="0 0 660 216">
+  <rect x="12" y="18" width="186" height="104" rx="8" fill="#0f3460"/>
+  <text x="105" y="42" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">第一階段 離心階段</text>
+  <text x="105" y="62" font-size="10.5" text-anchor="middle" fill="#f4f7fa">主動肌被拉長預載</text>
+  <text x="105" y="80" font-size="10.5" text-anchor="middle" fill="#f4f7fa">SEC 儲存彈性勢能</text>
+  <text x="105" y="98" font-size="10.5" text-anchor="middle" fill="#f4f7fa">肌梭受刺激</text>
+  <path d="M 202 66 L 226 66 L 226 58 L 244 72 L 226 86 L 226 78 L 202 78 Z" fill="#e94560"/>
+  <rect x="248" y="18" width="164" height="104" rx="8" fill="#e6b800"/>
+  <text x="330" y="42" font-size="13" font-weight="bold" text-anchor="middle" fill="#16213e">第二階段 緩衝期</text>
+  <text x="330" y="62" font-size="10.5" text-anchor="middle" fill="#16213e">Ia→α 運動神經元突觸</text>
+  <text x="330" y="80" font-size="10.5" text-anchor="middle" fill="#16213e">時間越短越好</text>
+  <text x="330" y="98" font-size="10.5" text-anchor="middle" fill="#16213e">拖長=能量變熱散掉</text>
+  <path d="M 416 66 L 440 66 L 440 58 L 458 72 L 440 86 L 440 78 L 416 78 Z" fill="#e94560"/>
+  <rect x="462" y="18" width="186" height="104" rx="8" fill="#3d7a3d"/>
+  <text x="555" y="42" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">第三階段 向心階段</text>
+  <text x="555" y="62" font-size="10.5" text-anchor="middle" fill="#f4f7fa">SEC 釋放彈性勢能</text>
+  <text x="555" y="80" font-size="10.5" text-anchor="middle" fill="#f4f7fa">α 運動神經元驅動</text>
+  <text x="555" y="98" font-size="10.5" text-anchor="middle" fill="#f4f7fa">反射性收縮輸出更大力量</text>
+  <line x1="12" y1="146" x2="648" y2="146" stroke="#16213e" stroke-width="1.5"/>
+  <text x="12" y="168" font-size="11" fill="#e94560">停頓代價(臥推研究):緩衝 0.35 秒損失 25%|0.9 秒損失 52%|1 秒損失 55%|1.5 秒損失 70%</text>
+  <text x="12" y="192" font-size="11" fill="#0f3460">觸地時間分類(Schmidtbleicher):&gt;0.25 秒=慢|&lt;0.25 秒=快(反應式);前腳掌主動著地力率比平足高 45%</text>
+</svg>
+<div class="figcap">圖19.1 拉伸-縮短週期(SSC)三階段流程圖:能量在第一階段儲存、第三階段釋放,緩衝期是整個循環的效率閘門。</div>
+</div>
+
+<div class="fig">
+<svg width="660" height="346" viewBox="0 0 660 346">
+  <path d="M 40 300 L 620 60" stroke="#e94560" stroke-width="2.5" fill="none"/>
+  <path d="M 620 60 L 606 58 L 612 72 Z" fill="#e94560"/>
+  <rect x="10" y="245" width="122" height="88" rx="6" fill="#3d7a3d"/>
+  <text x="71" y="263" font-size="11.5" font-weight="bold" text-anchor="middle" fill="#ffffff">① 落地練習</text>
+  <text x="71" y="281" font-size="10" text-anchor="middle" fill="#f4f7fa">落地定格(低強度)</text>
+  <text x="71" y="297" font-size="10" text-anchor="middle" fill="#f4f7fa">幾乎所有課程第一步</text>
+  <text x="71" y="313" font-size="10" text-anchor="middle" fill="#f4f7fa">先過單腳站 30 秒</text>
+  <rect x="138" y="200" width="122" height="88" rx="6" fill="#0f3460"/>
+  <text x="199" y="218" font-size="11.5" font-weight="bold" text-anchor="middle" fill="#ffffff">② 原地低強度跳</text>
+  <text x="199" y="236" font-size="10" text-anchor="middle" fill="#f4f7fa">彈跳桿、深蹲跳</text>
+  <text x="199" y="252" font-size="10" text-anchor="middle" fill="#f4f7fa">觸高跳、立定跳遠</text>
+  <text x="199" y="268" font-size="10" text-anchor="middle" fill="#f4f7fa">接觸量 80–100 次起</text>
+  <rect x="266" y="155" width="122" height="88" rx="6" fill="#e94560"/>
+  <text x="327" y="173" font-size="11.5" font-weight="bold" text-anchor="middle" fill="#ffffff">③ 連續多方向跳</text>
+  <text x="327" y="191" font-size="10" text-anchor="middle" fill="#f4f7fa">連續跨欄跳、之字跳</text>
+  <text x="327" y="207" font-size="10" text-anchor="middle" fill="#f4f7fa">分腿跳、多欄跳</text>
+  <text x="327" y="223" font-size="10" text-anchor="middle" fill="#f4f7fa">中強度,先雙腳</text>
+  <rect x="394" y="110" width="122" height="88" rx="6" fill="#e6b800"/>
+  <text x="455" y="128" font-size="11.5" font-weight="bold" text-anchor="middle" fill="#16213e">④ 單腳與反應</text>
+  <text x="455" y="146" font-size="10" text-anchor="middle" fill="#16213e">單腳跳、連續單腳跳</text>
+  <text x="455" y="162" font-size="10" text-anchor="middle" fill="#16213e">需 1 倍體重後蹲</text>
+  <text x="455" y="178" font-size="10" text-anchor="middle" fill="#16213e">單腳半蹲 30 秒門檻</text>
+  <rect x="522" y="65" width="122" height="88" rx="6" fill="#0f3460"/>
+  <text x="583" y="83" font-size="11.5" font-weight="bold" text-anchor="middle" fill="#ffffff">⑤ 深度跳系列</text>
+  <text x="583" y="101" font-size="10" text-anchor="middle" fill="#f4f7fa">箱 41–107 公分</text>
+  <text x="583" y="117" font-size="10" text-anchor="middle" fill="#f4f7fa">標準 76–81 公分</text>
+  <text x="583" y="133" font-size="10" text-anchor="middle" fill="#f4f7fa">&gt;100 公斤者 ≤46 公分</text>
+  <text x="12" y="30" font-size="11.5" fill="#0f3460">強度↑,腳部接觸次數↓(高強度高級也僅 20–40 次)</text>
+  <text x="12" y="338" font-size="10.5" fill="#16213e">兒童止步於第③階;深度跳對青春期前兒童與膝術後高齡者不適用。</text>
+</svg>
+<div class="figcap">圖19.2 增強式訓練進階階梯圖:先落地、再雙腳、再多方向、再單腳、最後纔是深度跳;每一階都以前一階的技術與力量門檻為入場券。</div>
+</div>
+
+<h3>6.1 教材收錄動作的強度分級(節選)</h3>
+<table>
+<tr><th>強度</th><th>代表動作(教材編號動作整理)</th></tr>
+<tr><td>低</td><td>落地定格(drop freeze)、彈跳桿、深蹲跳、跳躍觸高、分腿蹲跳、立定跳遠、原地單腳跳 hop、單腿/側向蹬地、箱式跳、箱式單腳跳、藥球胸前傳球、過頭雙臂投、旋轉投擲、維京舉、單臂反手投</td></tr>
+<tr><td>中</td><td>腳踝跳、抱膝跳、循環分腿蹲跳、屈體跳、跳過障礙、連續低欄跳、之字形雙腿跳、單腳線性跳、橫向跳、分腿跳(bound)、後腳抬高多向跳、左右推離、側向箱式跳、單臂投擲、深度伏臥撐、45 度仰臥接拋球、坐姿旋轉投擲</td></tr>
+<tr><td>中高</td><td>多重障礙跳躍(欄高由矮漸增即由中轉高)</td></tr>
+<tr><td>高</td><td>塔克跳、四欄跳、漸進式側向跳、側向箱跳返回、深度跳全部變化式(垂直/跳上箱/落地衝刺/縱跳轉遠/180 度轉體/單腳)、功率下落接拋、側向伏臥撐、腿部下壓</td></tr>
+</table>
+<p>注意反直覺的兩格:箱式跳雖可跳到 107 公分箱,仍是低強度(向上克服重力,落地力低於體重);落地定格(drop freeze)與深度跳都從箱上踏下,一個「落地定住」是低強度入門動作,一個「落地就彈」是高強度。</p>
+
+<h3>6.2 器材、場地與鞋的規則</h3>
+<table>
+<tr><th>項目</th><th>規則</th></tr>
+<tr><td>落地面</td><td>要會吸震:草地、懸空木地板、橡膠墊;不用混凝土、瓷磚、硬木;超過 15 公分(6 英吋)的厚墊與迷你蹦牀會拖長緩衝期,只適合復健入門。</td></tr>
+<tr><td>跳箱</td><td>堅固、頂面防滑;高 15–107 公分(6–42 英吋);箱面至少 46×61 公分(18×24 英吋);可用 1.9 公分(3/4 英吋)膠合板、厚金屬或高密度泡綿加硬麪;防滑可用防滑條、沙漆或橡膠墊。</td></tr>
+<tr><td>場地空間</td><td>跳跑類直道至少 30 碼(公尺),部分需 100 碼;原地與箱上動作佔地小,但天花板至少 3 公尺(10 英尺)。</td></tr>
+<tr><td>鞋</td><td>要踝足支撐、側向穩定、寬防滑底。鞋底過窄/中足支撐差→踝傷;支撐不足→足弓與小腿;緩衝不足→膝髖;緩衝過厚→幹擾緩衝期;內建旋前強化(如舉重鞋)→幹擾地面接觸力學。</td></tr>
+<tr><td>藥球重量(節選)</td><td>單臂投擲 0.5–2.3 公斤(1–5 磅)最輕;胸前傳 4–14 公斤(8–30 磅);功率下落 2–18 公斤(5–40 磅);維京舉 5–23 公斤(10–50 磅)。重量本身就是強度旋鈕。</td></tr>
+</table>
+
+<h2>七、易混陷阱</h2>
+<div class="trap"><b>爆發式 vs 反應式(反彈式)。</b>深蹲跳、藥球過頭投是爆發式:幾乎不喫 SSC。落地反彈、連續反向跳是反應式:一定要 SSC 參與,肌肉活化、力量與相對衝量都比較高。強度評估與排序時別把兩者混在同一檔。</div>
+<div class="trap"><b>箱式跳 vs 深度跳。</b>都用到箱子,性質相反。箱式跳:往上跳上箱,克服重力做正功,落地衝擊低於體重,屬低強度。深度跳:從箱上往下踏,重力疊加落地衝擊,落地後立刻反彈,屬高強度。看到「箱」就答高強度,這題會錯。</div>
+<div class="trap"><b>肌梭 vs 高爾基腱器。</b>肌梭量「拉長的速度幅度」,走牽張反射,幫你加油;GTO 量「肌腱張力」,走反牽張反射,幫你踩煞車。訓練適配之一是降低 GTO 敏感度;考路徑時別把 Ia 傳入神經掛到 GTO 名下。</div>
+<div class="trap"><b>hop、bound、jump 三_defs。</b>hop=單腳起同腳落;bound=一腳起換腳落地(分腿跳/跨步跳);jump=雙腳起雙腳落。題幹若寫「交替落地」,答案是 bound 不是 hop。</div>
+<div class="trap"><b>對比訓練 vs 遞增式 vs 遞減組。</b>對比=大重量與高速交替且休息充分(臥推配擊掌伏臥撐);遞增=一組高強度接一組特性相反的高強度(全力跳箱接挺舉);遞減=先多組高強度再做高速動作(負重深蹲 3×2 接藥球拋 3×4)。三者都是復合訓練的子類,定義各異。</div>
+
+<h2>八、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(是非題)彈性勢能在緩衝期被釋放出來以增加力量輸出。</p><p class="ans">Ans:✕ — 離心階段儲存、向心階段釋放;緩衝期只是神經傳導的轉換站,拖越久損失越多。</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)下列何者屬於「低強度」動作? (A)塔克跳 (B)四欄跳 (C)箱式跳 (D)深度跳</p><p class="ans">Ans:C — 箱式跳落地力低於體重,教材列為低強度;塔克跳、四欄跳、深度跳都是高強度。</p></div>
+<div class="qa"><p><b>Q3.</b>(選擇題)中級運動員每次訓練的建議腳部接觸次數約為? (A)50–60 (B)80–100 (C)100–120 (D)120–200</p><p class="ans">Ans:C — 初學者 80–100、中級 100–120、高級 120–200(低強度欄位)。</p></div>
+<div class="qa"><p><b>Q4.</b>(是非題)要開始高階增強式課程,運動員需能單腳半蹲維持 30 秒不跌倒。</p><p class="ans">Ans:○ — 新手門檻是單腳站立 30 秒;高階課程要求單腳半蹲 30 秒,且測試地面要與訓練地面相同。</p></div>
+<div class="qa"><p><b>Q5.</b>(選擇題)體重 110 公斤的選手做深度跳,教材建議箱高上限為何? (A)≤30 公分 (B)≤46 公分 (C)≤76 公分 (D)無限制</p><p class="ans">Ans:B — 超過 100 公斤(220 磅)者深度跳箱以 46 公分(18 英吋)或更低為原則。</p></div>
+<div class="qa"><p><b>Q6.</b>(是非題)一般情況下,大重量阻力訓練與增強式訓練排同一天是首選做法。</p><p class="ans">Ans:✕ — 通常不建議同天;進階者的復合訓練是例外,且要留足恢復,並採上下肢錯開搭配。</p></div>
+<div class="qa"><p><b>Q7.</b>(選擇題)牽張反射的正確傳導順序是? (A)肌梭→α 運動神經元→Ia 傳入神經 (B)肌梭→Ia 傳入神經→脊髓腹根 α 運動神經元→主動肌 (C)GTO→Ib→主動肌 (D)Ia→肌梭→α 運動神經元</p><p class="ans">Ans:B — 肌梭偵測拉長後經 Ia 傳入脊髓腹根,與 α 運動神經元形成突觸,再驅動主動肌。</p></div>
+<div class="qa"><p><b>Q8.</b>(是非題)與有氧訓練同課安排時,應先做增強式訓練、後做有氧耐力訓練。</p><p class="ans">Ans:○ — 有氧會干擾爆發力輸出,增強式要排在前面。</p></div>
+<div class="qa"><p><b>Q9.</b>(選擇題)落地技術描述何者正確? (A)先腳跟著地再滾到前掌 (B)著地前一刻用力背屈踝關節 (C)著地前用力蹠屈、腳跟保持不落地 (D)膝蓋可略向內夾以吸收衝擊</p><p class="ans">Ans:C — 主動平足著地要在接觸前蹠屈「攻擊地面」,腳跟不落(信用卡規則);膝內翻(動態外翻)反而是危險因子。</p></div>
+<div class="qa"><p><b>Q10.</b>(是非題)青春期的足球員可以把深度跳列入每週訓練內容。</p><p class="ans">Ans:✕ — 骨骺板未閉合前,深度跳與高強度下肢增強式不適用;兒童課表以每週 2 次、8–10 週、每次自 50–60 跳起步。</p></div>
+
+</body>
+</html>

@@ -1,0 +1,295 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>運動與訓練的生物能量學</title><style>
+@page { size: A4; margin: 20mm 19mm 22mm 19mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei","Noto Sans TC","PingFang TC","MS JhengHei",sans-serif;
+  font-size: 11.5pt; line-height: 1.95; color: #1a1a2e; margin: 0; }
+.cover { page-break-after: always; text-align: center; padding-top: 6mm; }
+.cover .chip { display:inline-block; background:#0f3460; color:#fff; padding:6px 22px;
+  border-radius:99px; font-size:11pt; letter-spacing:.2em; }
+.cover .chno { margin-top:7mm; font-size:16pt; color:#e94560; font-weight:700; letter-spacing:.15em; }
+.cover .ctitle { font-size:30pt; font-weight:800; color:#0f3460; margin-top:3mm; line-height:1.4; }
+.cover .cent { font-size:12pt; color:#555; font-style:italic; margin-top:2mm; }
+.cover .keybox { text-align:left; background:#f4f7fa; border:1px solid #d7e0ea; border-left:6px solid #0f3460;
+  border-radius:8px; padding:12px 18px; margin:5mm 6mm 0; font-size:11pt; line-height:1.65; }
+.cover .keybox ul { margin:6px 0 0; padding-left:1.3em; }
+.cover .toc { text-align:left; margin:4mm 6mm 0; font-size:9.5pt; color:#333; }
+.cover .toc ol { margin:6px 0 0; padding-left:1.6em; line-height:1.55; }
+h1 { font-size:19pt; text-align:center; color:#0f3460; margin:0 0 6px; }
+h2 { page-break-after: avoid; background:#0f3460; color:#ffffff; font-size:15pt;
+  padding:8px 16px; border-radius:6px; margin:0 0 14px; letter-spacing:.06em; }
+.qa, .fig { page-break-inside: avoid; }
+h2.brk { page-break-before: always; }
+h3 { color:#0f3460; border-left:4px solid #e6b800; padding-left:9px; margin-top:16px; font-size:12.5pt; }
+p { margin: 8px 0; }
+.exam { background:#fdecec; border:1px solid #f2b8b8; border-left:5px solid #c1121f;
+  padding:10px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; line-height:1.65; }
+.analogy { background:#eaf3fb; border:1px solid #bcd7ee; border-left:5px solid #2b6cb0;
+  padding:10px 14px; border-radius:6px; margin:12px 0; }
+.analogy::before { content:"打個比方"; display:block; font-weight:bold; color:#2b6cb0; font-size:10pt; margin-bottom:4px; }
+.trap { background:#fff4d6; border:1px solid #ecd9a0; border-left:5px solid #b8860b;
+  padding:10px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; }
+.trap::before { content:"容易混淆"; display:block; font-weight:bold; color:#b8860b; font-size:10pt; margin-bottom:4px; }
+.term { background:#eaf6ec; border:1px solid #bcdcc2; border-left:5px solid #3d7a3d;
+  padding:8px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; }
+.qa { background:#f4f7fa; border:1px solid #d7e0ea; border-left:5px solid #0f3460;
+  padding:8px 14px; border-radius:6px; margin:10px 0; font-size:10.5pt; }
+.ans { color:#1b5e20; margin-top:4px; }
+table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size:10pt; line-height:1.6; }
+th,td { border:1px solid #cfd6dd; padding:7px 9px; text-align:left; vertical-align:top; }
+th { background:#0f3460; color:#fff; font-weight:600; }
+tbody tr:nth-child(even) td { background:#f2f5f8; }
+thead { display: table-header-group; }
+svg { display:block; margin:14px auto; max-width:660px; width:100%; height:auto; }
+code { font-family:Consolas,monospace; background:#eef1f5; padding:1px 5px; border-radius:3px; font-size:9.5pt; }
+.footer { margin-top:24px; padding-top:8px; border-top:1px solid #cfd6dd; font-size:9pt; color:#555; text-align:center; }
+</style></head><body>
+<div class="cover">
+ <div class="chip">CSCS 考綱學習摘要</div>
+ <div class="chno">第 03 章</div>
+ <div class="ctitle">運動與訓練的生物能量學</div>
+ <div class="cent">Bioenergetics of Exercise and Training</div>
+ <div class="keybox"><b>本章主軸</b>
+  <ul><li>分辨分解代謝、合成代謝、放能反應、吸能反應，並說明 ATP 是細胞的直接能量載體。</li><li>寫出磷酸原、醣解、氧化三套系統的反應位置、關鍵酵素與淨 ATP 產量。</li><li>更正「乳酸造成痠痛」的舊觀念，說明檸檬酸堆積、代謝性酸中毒與疲勞的真實關係，並定義乳酸閾值(LT)與 OBLA。</li><li>背出磷酸肌酸與肝醣的消耗、補充時間軸，安排訓練間歇與運動後攝取。</li><li>解釋氧虧(oxygen deficit)與運動後過量氧耗(excess post-exercise oxygen consumption, EPOC)的差別與影響因素。</li><li>用工作休息比表設計間歇訓練，評估 HIIT 與同步訓練的代謝特異性。</li></ul>
+ </div>
+ <div class="toc"><b>本章目錄</b><ol><li>一、本章一句話</li><li>二、學完本章你會</li><li>三、把核心概念講給你聽(ELI5)</li><li>四、考點速記</li><li>五、術語速查(中英對照)</li><li>六、圖表</li><li>七、易混陷阱</li><li>八、自我檢測</li><li>附錄、自我檢測解答與解析</li></ol></div>
+</div>
+
+<h1>第3章 運動與訓練的生物能量學</h1>
+<p class="subtitle">Bioenergetics of Exercise and Training | 原文頁碼 p174 至 p226</p>
+
+<h2>一、本章一句話</h2>
+<p>運動時人體靠三套系統再合成三磷酸腺苷(adenosine triphosphate, ATP)，哪套系統負責，主要看運動強度、其次看持續時間；訓練計畫用強度、時間與休息比去「選」你要練的那套系統，這就是代謝特異性(metabolic specificity)。</p>
+
+<h2>二、學完本章你會</h2>
+<ul>
+<li>分辨分解代謝、合成代謝、放能反應、吸能反應，並說明 ATP 是細胞的直接能量載體。</li>
+<li>寫出磷酸原、醣解、氧化三套系統的反應位置、關鍵酵素與淨 ATP 產量。</li>
+<li>更正「乳酸造成痠痛」的舊觀念，說明檸檬酸堆積、代謝性酸中毒與疲勞的真實關係，並定義乳酸閾值(LT)與 OBLA。</li>
+<li>背出磷酸肌酸與肝醣的消耗、補充時間軸，安排訓練間歇與運動後攝取。</li>
+<li>解釋氧虧(oxygen deficit)與運動後過量氧耗(excess post-exercise oxygen consumption, EPOC)的差別與影響因素。</li>
+<li>用工作休息比表設計間歇訓練，評估 HIIT 與同步訓練的代謝特異性。</li>
+</ul>
+
+<h2 class="brk">三、把核心概念講給你聽(ELI5)</h2>
+
+<h3>3.1 細胞只花一種錢：ATP</h3>
+<p>生物能量學(bioenergetics)研究生物系統裡的能量流動。重點只有一件事：碳水、脂肪、蛋白質裡的化學能，怎麼變成細胞能直接用的形式。大分子拆成小分子並釋放能量，叫分解代謝(catabolism)，例如蛋白質拆成胺基酸；小分子合成大分子，叫合成代謝(anabolism)。釋放能量的反應叫放能反應(exergonic reaction)，多半屬於分解代謝；吸收能量的反應叫吸能反應(endergonic reaction)，肌肉收縮就是吸能反應。代謝(metabolism)是這四類反應的總稱。</p>
+<p>放能反應的能量不會直接去驅動肌肉，它必須先交給中間載體，這個載體就是 ATP。ATP 由腺苷加三個磷酸基組成，末端兩個磷酸鍵儲存大量能量。ATP 水解(hydrolysis)需要水參與，由三磷酸腺苷酶(ATPase)催化，產物是二磷酸腺苷(adenosine diphosphate, ADP)、無機磷酸(inorganic phosphate, Pi)、氫離子(hydrogen ion, H+)與能量。肌球蛋白 ATP 酶靠這個能量驅動橫橋循環，鈣 ATP 酶在收縮後把鈣泵回肌漿網，鈉鉀 ATP 酶維持肌膜離子梯度。ADP 再水解會脫去第二個磷酸，生成一磷酸腺苷(adenosine monophosphate, AMP)。</p>
+<p>考試必背：全身任一時刻只存放 80 至 100 克 ATP，撐不過幾秒高強度輸出。就算在實驗中練到力竭，肌肉 ATP 也只降到運動前的 50% 至 60%，永遠不會見底。ATP 供應趕上需求叫穩態(steady state)；趕不上，就是疲勞。訓練不改變動作本身，它提升的是再合成速度。</p>
+<div class="analogy">你錢包裡的現金就是 ATP：只有幾百元，夠搭一趟捷運，不夠應付整趟旅行。錢包永遠不會歸零，因為後面一直有人在幫你補錢。疲勞不是你破產，是補錢速度跟不上花錢速度。</div>
+
+<h3>3.2 磷酸原系統：手上的行動電源</h3>
+<p>磷酸原系統(phosphagen system)運作於肌漿(sarcoplasm)，不需要氧，全是單步酵素反應，所以 ATP 再合成速率在三套系統裡最快。主力反應：磷酸肌酸(creatine phosphate, CP；也寫作 PCr)加上 ADP，由肌酸激酶(creatine kinase)催化，直接生成 ATP 與肌酸。CP 是磷酸供應者，靜息濃度約為 ATP 的 4 至 6 倍，但總量仍小，撐不久。第二個單步反應：2 ADP 由腺苷酸激酶(adenylate kinase，又稱肌激酶 myokinase)催化生成 ATP 加 AMP，而 AMP 是醣解的強效刺激劑，等於幫下一套系統踩油門。</p>
+<p>這套系統由質量作用定律(law of mass action)控制：反應方向由反應物與產物濃度決定。運動開始，ADP 與 Pi 瞬間上升，把肌酸激酶與腺苷酸激酶反應推往合成方向；強度下降、ATP 回升，反應就減速甚至反轉，把遊離肌酸重新磷酸化。所以這些反應叫近平衡反應(near-equilibrium reaction)。II 型(快肌)纖維的 CP 濃度高於 I 型(慢肌)纖維，快肌比例高的人爆發瞬間補 ATP 更快。</p>
+<div class="analogy">CP 就是手機旁的行動電源：插上去幾秒就能回血，讓你再打完一局遊戲。但行動電源本身容量小，放完就要插上插座慢慢充，這個插座是有氧系統。</div>
+
+<h3>3.3 醣解：有兩個出口的葡萄糖高速公路</h3>
+<p>醣解(glycolysis)分解肌肉肝醣或血糖來再合成 ATP，同樣在肌漿進行，不直接需氧。三大營養素裡，只有碳水可以不靠氧直接代謝，所以碳水是無氧供能的主角。醣解是多步酵素反應，速率比不上單步反應的磷酸原系統，但燃料儲量大，總產量較高。</p>
+<p>醣解的終產物丙酮酸(pyruvate)有兩個出口。能量需求高時，丙酮酸與 NADH 的濃度超過丙酮酸脫氫酶(pyruvate dehydrogenase)的處理能力，丙酮酸就在肌漿轉成乳酸(lactate)並再生 NAD+，這叫快速醣解(fast glycolysis，常被稱作無氧醣解)。需求平緩、氧氣充足時，丙酮酸進粒線體繼續氧化，這叫慢速醣解(slow glycolysis)。路徑怎麼選，取決於細胞的能量需求，不是固定分工。</p>
+<p>兩個淨反應要會認：生成乳酸時，「葡萄糖 + 2Pi + 2ADP → 2乳酸 + 2ATP + 2H2O」；丙酮酸進粒線體時，「葡萄糖 + 2Pi + 2ADP + 2NAD+ → 2丙酮酸 + 2ATP + 2NADH + 2H2O」。注意生理 pH 下的產物是乳酸(lactate)，不是乳酸酸(lactic acid)。</p>
+<p>淨 ATP 看起點：醣解合成 4 個 ATP，但磷酸果糖激酶那一步要先付 1 個；起點若是血糖，己糖激酶(hexokinase)磷酸化又要付 1 個，淨得 2。起點若是肌肉肝醣，肝醣分解(glycogenolysis)出來的葡萄糖已經磷酸化，省掉一筆，淨得 3。這是維持肝醣儲存的代謝意義。</p>
+<p>醣解有三個守門酵素，都受變構調節(allosteric regulation)，也就是終產物回饋抑制或激活：己糖激酶被葡萄糖-6-磷酸抑制；磷酸果糖激酶(phosphofructokinase, PFK)是醣解最慢的限速步驟(rate-limiting step)，因此是最重要的調節因子，被 ATP 抑制、被 AMP 與氨激活；丙酮酸激酶(pyruvate kinase)被 ATP 與乙醯輔酶A(acetyl-CoA)抑制，被 AMP 與果糖-1,6-二磷酸激活。邏輯只有一條：細胞內 ATP 堆滿就減速，ADP 與 AMP 堆積就踩油門。</p>
+<div class="analogy">這條高速公路有兩個出口。業務量爆炸（高強度）時，車流直接右轉「乳酸出口」，速度快但路口會冒煙；車流平緩（低強度）時，全部直行進發電廠（粒線體），慢但乾淨。</div>
+
+<h3>3.4 乳酸沒有放火：代謝性酸中毒與 LT</h3>
+<p>本章花整節翻一樁舊案：乳酸不是疲勞的直接原因。乳酸脫氫酶(lactate dehydrogenase, LDH)反應本身反而消耗 H+，會讓 pH 微幅上升；高強度運動時飆升的 H+ 主要來自 ATP 的快速水解。所以「乳酸性酸中毒(lactic acidosis)」是誤稱，正確說法是代謝性酸中毒(metabolic acidosis)，指運動引起的 pH 下降。</p>
+<p>H+ 堆積有三害：抑制醣解酵素、幹擾鈣與肌鈣蛋白結合、打亂橫橋再循環，這些共同造成外周疲勞；間質鉀離子與無機磷酸升高導致鈣釋放受損，也是共犯。乳酸本身則常充當燃料，I 型纖維與心肌特別愛用；它還能經血液送到肝臟，經糖質新生(gluconeogenesis)變回葡萄糖，這條路叫科裏循環(Cori cycle)。</p>
+<p>血乳酸數字：靜息 0.5 至 2.2 mmol/L；II 型纖維乳酸生成速率約為 I 型的兩倍；血乳酸 20 至 25 mmol/L 可能出現嚴重疲勞，多次動態運動後可超過 30；濃度峯值在停止運動後約 5 分鐘（組織緩衝與轉運需要時間）；通常 1 小時內回到運動前水準；主動恢復比被動恢復清除得快，有氧與無氧受訓者清除都快。血液裡的碳酸氫根(bicarbonate, HCO3-)負責緩衝：接住 H+ 變成碳酸，再拆成水與二氧化碳，從肺呼出。</p>
+<p>訓練會改變乳酸曲線：相同絕對負荷下，受訓者血乳酸較低；最大強度下，受訓者反而升得更高。血乳酸開始急升超過基線的強度叫乳酸閾值(lactate threshold, LT，即 LT1)，它與換氣閾(ventilatory threshold, VT)高度吻合：未受訓者落在最大攝氧量(maximal oxygen uptake, VO2max)的 50% 至 60%，耐力受訓者在 70% 至 80%。更高強度會出現第二個指數級拐點，叫血乳酸堆積起始點(onset of blood lactate accumulation, OBLA，即 LT2)，約在 4 mmol/L。拐點可能分別對應中型與大型運動單位的動員，這些單位屬於擅長產生乳酸的 II 型纖維。在 LT 附近或以上的強度訓練，會把 LT 與 OBLA 往右推：同強度下乳酸更晚堆積，因為兒茶酚胺釋放減少、粒線體增加、更依賴遊離脂肪酸。</p>
+<div class="analogy">放火的縱火犯是 H+（來自 ATP 水解），乳酸只是碰巧在案發現場送外送的餐點。把火災怪外送員，是運動生理學著名的三十年冤案。碳酸氫根是血液裡的滅火器，滅完的火變成二氧化碳，靠呼吸排出去。</div>
+
+<h3>3.5 氧化系統：供電正常的大電廠</h3>
+<p>氧化系統(oxidative system)是靜息與低強度活動的 ATP 主要來源，反應在粒線體(mitochondria)進行，包含克雷布斯循環(Krebs cycle，即三羧酸循環)與電子傳遞鏈(electron transport chain, ETC)，氧氣是最終電子受體，接完電子生成水。底物以碳水與脂肪為主；蛋白質貢獻不大，但長時間（超過 90 分鐘）運動或長期飢餓時可佔能量需求的 3% 至 18%。</p>
+<p>底物配比隨強度移動，這組數字要記：靜息時約 70% 的 ATP 來自脂肪、30% 來自碳水；強度上升，底物從脂肪轉向碳水；碳水充足的高強度有氧運動，幾乎 100% 靠碳水；超長時間穩態運動則因肝醣下滑，又逐步轉回脂肪。肌肉裡主要被氧化的胺基酸是支鏈胺基酸(branched-chain amino acids, BCAA)：亮氨酸、異亮氨酸、纈氨酸；含氮廢物經尿素與少量氨排出，氨有毒且與疲勞有關。</p>
+<p>碳水路線：丙酮酸進粒線體後轉成乙醯輔酶A並釋放二氧化碳，進入克雷布斯循環。每個葡萄糖完整氧化約得 32 個 ATP：醣解淨 2，經蘋果酸-天冬胺酸穿梭且起點為肝醣時最多 34。其中 NADH(還原型煙醯胺腺嘌呤二核苷酸)每個經氧化磷酸化供 2.5 個 ATP，FADH2(還原型黃素腺嘌呤二核苷酸)供 1.5 個（傳統生化課本寫 3 與 2）。氧化磷酸化(oxidative phosphorylation)佔完整氧化產量的 90% 以上；醣解與克雷布斯循環裡的單步直接合成叫底物水平磷酸化(substrate-level phosphorylation)。</p>
+<p>脂肪路線：激素敏感性脂肪酶(hormone-sensitive lipase)把脂肪細胞裡的甘油三酯拆成遊離脂肪酸(free fatty acid, FFA)與甘油；遊離脂肪酸進入肌肉粒線體，經 β-氧化(beta-oxidation)生成乙醯輔酶A，進入克雷布斯循環。一個棕櫚酸可產生超過 100 個 ATP，含三個棕櫚酸的脂肪分子超過 300 個。容量驚人，速率最慢。</p>
+<p>控制：克雷布斯循環的限速步驟是異檸檬酸脫氫酶(isocitrate dehydrogenase)催化的反應，受 ADP 刺激、ATP 抑制；NAD+ 與 FAD 不夠時循環減速；電子傳遞鏈被 ATP 抑制、被 ADP 刺激。</p>
+<div class="analogy">電廠要輸煤（氧氣）才能運轉：啟動慢，但一噸煤（脂肪）能供一個社區好幾天。NADH 與 FADH2 是來回送氫的貨車，貨車卸完不回來（NAD+ 不夠），整條產線就塞車。</div>
+
+<h3>3.6 底物消耗與補充：先把油箱算清楚</h3>
+<p>疲勞與兩樣儲量的消耗直接掛鉤：磷酸肌酸與肝醣。遊離脂肪酸、乳酸、胺基酸的消耗幾乎從不限制運動表現，考試最愛在這一點上挖坑。高強度時 CP 在第一階段（5 至 30 秒）就掉 50% 至 70%，極高強度到力竭幾乎耗盡；動態收縮比等長收縮耗得更多。補充時間軸：CP 約 30 秒補回一半，ATP 完全再合成約 3 至 5 分鐘，CP 完全恢復要 8 分鐘，而且主要靠有氧代謝完成。這就是「短休息還能輸出，但爆發力要真正回滿得等幾分鐘」的原因。</p>
+<p>肝醣庫存：肌肉約 300 至 400 克，肝臟約 70 至 100 克。消耗速率跟著強度走：強度為 50%、75%、100% VO2max 時，肌肝醣分解速率約為每分鐘 0.7、1.4、3.4 mmol/kg。超過 60% VO2max，肌肝醣越來越喫緊，部分肌纖維甚至清空；低強度與長時間則靠肝醣撐場面。高強度阻力訓練就算組數很少，也能讓肌肝醣掉 20% 至 60%；高訓練量時 II 型纖維肝醣優先耗盡，肝醣就變成限制因素。血糖方面：低於 50% VO2max 時相對穩定，很少跌破 2.8 mmol/L；超過 90 分鐘且強度高於 50% VO2max，肝醣耗盡會讓血糖跌到 2.5 至 3.0 mmol/L，低於 2.5 mmol/L 可能出現低血糖(hypoglycemia)反應。</p>
+<p>補充：運動後每 2 小時攝取每公斤體重 0.7 至 3.0 克的碳水，可在運動後 4 至 6 小時內最大化肝醣再合成；攝入足夠時 24 小時內完全補回。大量離心收縮造成肌肉損傷時，補糖時間會拉長。限制因素總結：長時間有氧與重複高強度都受肝醣耗竭限制；阻力、短跑則以代謝性酸中毒對收縮力的抑制最為關鍵；此外無機磷酸堆積、氨、ADP 上升與肌漿網鈣釋放受損也列入嫌疑名單。</p>
+<div class="analogy">肌肝醣是汽車油箱，肝醣是備用油桶。激烈操駕（高強度）油表掉得飛快；長途巡航（超過 90 分鐘）連備用桶都可能見底，儀錶板亮起紅燈（低血糖）。運動後進食就是加油，前 4 至 6 小時是快充樁，錯過只剩慢充。</div>
+
+<h3>3.7 氧虧與 EPOC：開店墊款與關店收尾</h3>
+<p>低強度穩態運動時，攝氧量在最初幾分鐘上升後達到穩定狀態。但運動剛開始時氧氣供應還沒爬到位，那部分能量由無氧機制先墊付，這就是氧虧(oxygen deficit)。運動結束後，攝氧量仍高於靜息值一段的時間，叫運動後過量氧耗(EPOC，舊稱氧債 oxygen debt)，用途是把身體調回運動前的穩態。氧虧與 EPOC 只有小到中度的相關，兩者是兩本帳，不相等。</p>
+<p>影響 EPOC 的因素以強度最大：強度超過 50% 至 60% VO2max 且持續超過 40 分鐘時 EPOC 最大；短暫、間歇的超最大強度（超過 100% VO2max）能在較低總運動量下誘發最大 EPOC。阻力訓練方面，大重量（80% 至 90% 1RM、每組 8 下力竭、共 3 組的 8 個動作）比循環式（50% 1RM、15 下、4 組）造成更大的 EPOC。EPOC 期間的耗能用途包括：補充體內氧氣、再合成 ATP 與 CP、支撐升高的體溫與通氣、甘油三酯-脂肪酸循環、蛋白質更新等。</p>
+<p>最大輸出騎車時的無氧、有氧佔比要看熟：0 至 5 秒無氧佔 96%，30 秒 75%，60 秒 50%，90 秒 35%，150 秒 30%，200 秒 22%。60 秒左右兩者交叉，之後有氧當主力；不超過 60 秒的運動，無氧系統是主角。</p>
+<div class="analogy">開店第一天現金進帳，但銀行（有氧系統）匯款要幾天後纔到，你只好先墊自己的錢，這是氧虧。關店後你還得留下對帳、補貨、等冷氣關掉，這是 EPOC。墊的錢和關店工時是兩筆帳，別記在同一本。</div>
+
+<h3>3.8 代謝特異性：用工作休息比「選」系統</h3>
+<p>訓練想練哪套系統，靠強度、持續時間與休息比去選。多數團隊運動的代謝需求接近「間歇衝到力竭」，對棒球選手而言，大量低強度長跑帶來的回報，遠不如同時練無氧功率與能力的間歇訓練。</p>
+<p>間歇訓練(interval training)的價值有經典數據：用 5 分鐘就會跑到力竭的速度，持續跑只能跑 1.3 公里；同一速度改成 30 分鐘的間歇跑，工作休息比 2:1、1:1、1:2 分別完成 6.66、5、3.33 公里。另一項兩週研究（4 至 7 次 30 秒最大騎乘、休息 4 分鐘、比率 1:8、共 6 次）讓氧化能力、緩衝能力、肝醣含量、計時賽成績全面改善，有氧耐力翻倍。設計依據見表 3.6：磷酸原用 90% 至 100% 最大功率、5 至 10 秒、比率 1:12 至 1:20；快速醣解 75% 至 90%、15 至 30 秒、1:3 至 1:5；快速醣解加氧化 30% 至 75%、1 至 3 分鐘、1:3 至 1:4；氧化系統 20% 至 30%、超過 3 分鐘、1:1 至 1:3。CP 完全回收要 3 至 8 分鐘，所以「每次都要真最大品質」的比率必須拉得很長。</p>
+<p>高強度間歇訓練(high-intensity interval training, HIIT)是短重複高強度加上間歇恢復，有九個可調變數，其中最重要的是工作期與恢復期的強度和時間。目標是把強度達 90% VO2max 及以上的時間累計到幾分鐘。它同時動員大量運動單位並讓心輸出量接近最大，所以氧化纖維適應與心肌肥大一起發生。Gibala 的對照：4 至 6 次 30 秒、約 250% VO2max 的衝刺，練 6 次，緩衝能力與肝醣的改善等同 65% VO2max 持續騎 90 至 120 分鐘練 6 次；計時賽成績提升 10.1% 與 7.5%。</p>
+<p>最後分清三個詞。組合訓練(combined training)：任何包含多種練習的計畫，例如 800 公尺選手同時做長慢跑與專項強度訓練。交叉訓練(cross training)：刻意換運動方式，但代謝目標相同，並避免對專項肌肉造成過度刺激，例如跑者改划船。同步訓練(concurrent training)：同一時期（甚至同一天）並排無氧阻力與有氧耐力。證據兩面：有氧適能與衝刺後功率、磷酸肌酸的恢復呈正相關；但 Hickson 的同步訓練讓深蹲在第 1 至 7 週上升、第 8 至 9 週進入平臺、最後兩週下滑，同步訓練也可能削弱肌肉圍度、最大力量、速度與爆發力的增長。可能機制包括快速自主激活下降、肝醣長期偏低、纖維類型慢化。反例也存在：訓練有素的跑者做 12 週同步訓練，力量、峯值跑速、3 公里計時都進步，VO2max 不降。結論：力量型選手為了「恢復」硬塞大量有氧，常常沒必要，甚至產生反效果，因為專項無氧訓練本身就能帶動有氧能力與恢復指標。</p>
+<div class="analogy">間歇訓練像練罰籃：投一球要休息夠久，下一球才維持比賽品質；休息縮水，總出手數與品質一起崩。同步訓練像兩個老闆同一個人，不一定出事，但「力量」那個老闆的專案經常被拖垮。</div>
+
+<h2 class="brk">四、考點速記</h2>
+<div class="exam"><b>ATP 與磷酸原：</b>全身 ATP 儲存 80 至 100 克；力竭時 ATP 也只降到運動前 50% 至 60%；靜息 CP 濃度為 ATP 的 4 至 6 倍；5 至 30 秒高強度初期 CP 掉 50% 至 70%，極高強度至力竭幾乎耗盡；CP 約 30 秒補回一半，ATP 完全再合成約 3 至 5 分鐘，CP 完全恢復要 8 分鐘，主要靠有氧代謝。</div>
+<div class="exam"><b>乳酸與酸中毒：</b>靜息血乳酸 0.5 至 2.2 mmol/L；嚴重疲勞見於 20 至 25 mmol/L，可超過 30；峯值在停止運動後約 5 分鐘；1 小時內回到運動前；主動恢復較快；OBLA 血乳酸約 4 mmol/L；LT：未受訓 50% 至 60% VO2max，耐力受訓 70% 至 80%；II 型纖維乳酸生成速率約為 I 型兩倍。H+ 主要來自 ATP 水解，不是乳酸。</div>
+<div class="exam"><b>ATP 產量：</b>醣解淨 ATP：血糖起點 2 個、肌肝醣起點 3 個；一個葡萄糖完整氧化約 32 個（肝醣起點最多 34）；氧化磷酸化佔 90% 以上；1 個 NADH 供 2.5、1 個 FADH2 供 1.5（傳統值 3 與 2）；一個棕櫚酸超過 100 個、含三個棕櫚酸的脂肪分子超過 300 個。</div>
+<div class="exam"><b>肝醣與底物配比：</b>肌肝醣 300 至 400 克、肝醣 70 至 100 克；肌肝醣分解速率在 50%、75%、100% VO2max 約為 0.7、1.4、3.4 mmol/kg/min；高強度阻力訓練耗肝醣 20% 至 60%；運動後每 2 小時碳水 0.7 至 3.0 g/kg，4 至 6 小時窗口內最大化，24 小時補滿；靜息供能約 70% 脂肪加 30% 碳水；超過 90 分鐘運動蛋白質可佔 3% 至 18%；血糖很少低於 2.8 mmol/L，低於 2.5 mmol/L 可能低血糖。</div>
+<div class="exam"><b>EPOC 與無氧有氧佔比：</b>強度對 EPOC 影響最大；強度超過 50% 至 60% VO2max 且持續超過 40 分鐘時 EPOC 最大；超過 100% VO2max 的短暫超最大間歇可在低運動量下最大化 EPOC；80% 至 90% 1RM 大重量比 50% 1RM 循環式造成更大 EPOC。最大騎車無氧佔比：5 秒 96%、30 秒 75%、60 秒 50%、90 秒 35%、150 秒 30%、200 秒 22%（約 60 秒交叉）。</div>
+<div class="exam"><b>訓練參數：</b>工作休息比：磷酸原 1:12 至 1:20、快速醣解 1:3 至 1:5、醣解加氧化 1:3 至 1:4、氧化 1:1 至 1:3。HIIT 目標：90% VO2max 以上時間累計數分鐘。Gibala：4 至 6 次 30 秒約 250% VO2max，等同 65% VO2max 持續 90 至 120 分鐘；計時賽提升 10.1% 與 7.5%。Hickson 同步訓練：深蹲 1 至 7 週上升、8 至 9 週平臺、10 至 12 週下滑。Christensen：持續跑 1.3 公里，對照 2:1 間歇 30 分鐘跑 6.66 公里。</div>
+
+<h2 class="brk">五、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>生物能量學</td><td>bioenergetics</td><td>研究生物系統裡能量流動與轉換的學科。</td></tr>
+<tr><td>分解代謝／合成代謝</td><td>catabolism / anabolism</td><td>大分子拆分放能／小分子合成耗能的兩類代謝。</td></tr>
+<tr><td>三磷酸腺苷</td><td>adenosine triphosphate (ATP)</td><td>細胞直接使用的能量硬幣，水解即釋放能量。</td></tr>
+<tr><td>磷酸肌酸</td><td>creatine phosphate (CP, PCr)</td><td>快速捐磷酸給 ADP 再合成 ATP，靜息濃度為 ATP 的 4～6 倍。</td></tr>
+<tr><td>磷酸原系統</td><td>phosphagen system</td><td>靠 CP 與肌酸激酶單步再合成 ATP，最快、最短、在肌漿。</td></tr>
+<tr><td>腺苷酸激酶反應</td><td>adenylate kinase (myokinase) reaction</td><td>2ADP 生成 ATP 加 AMP，AMP 刺激醣解。</td></tr>
+<tr><td>醣解</td><td>glycolysis</td><td>分解肝醣或葡萄糖再合成 ATP，在肌漿、不直接需氧。</td></tr>
+<tr><td>限速步驟／磷酸果糖激酶</td><td>rate-limiting step / PFK</td><td>醣解最慢步驟與其催化酵素，ATP 抑制、AMP 激活。</td></tr>
+<tr><td>變構調節</td><td>allosteric regulation</td><td>終產物或激活劑結合酵素其他位點，調整其週轉率。</td></tr>
+<tr><td>代謝性酸中毒</td><td>metabolic acidosis</td><td>運動導致 H+ 堆積、pH 下降，是外周疲勞的重要因素。</td></tr>
+<tr><td>科裏循環</td><td>Cori cycle</td><td>乳酸經血液送到肝臟再合成葡萄糖的循環。</td></tr>
+<tr><td>乳酸閾值</td><td>lactate threshold (LT, LT1)</td><td>血乳酸開始急升超過基線的強度，未受訓者約 50%～60% VO2max。</td></tr>
+<tr><td>血乳酸堆積起始點</td><td>onset of blood lactate accumulation (OBLA, LT2)</td><td>乳酸曲線第二個拐點，約 4 mmol/L。</td></tr>
+<tr><td>克雷布斯循環</td><td>Krebs cycle (TCA cycle)</td><td>粒線體內循環氧化乙醯輔酶A，供氫給電子傳遞鏈。</td></tr>
+<tr><td>電子傳遞鏈／氧化磷酸化</td><td>electron transport chain (ETC) / oxidative phosphorylation</td><td>以氧為最終電子受體，在 ETC 上再合成 ATP。</td></tr>
+<tr><td>底物水平磷酸化</td><td>substrate-level phosphorylation</td><td>代謝途徑單步反應中直接磷酸化 ADP 生成 ATP。</td></tr>
+<tr><td>β-氧化</td><td>beta-oxidation</td><td>把脂肪酸拆成乙醯輔酶A進入克雷布斯循環。</td></tr>
+<tr><td>支鏈胺基酸</td><td>branched-chain amino acids (BCAA)</td><td>亮氨酸、異亮氨酸、纈氨酸，肌肉主要氧化的胺基酸。</td></tr>
+<tr><td>氧虧</td><td>oxygen deficit</td><td>運動初期由無氧系統供能的部分。</td></tr>
+<tr><td>運動後過量氧耗</td><td>EPOC</td><td>運動後攝氧量高於靜息值，用以恢復運動前穩態。</td></tr>
+<tr><td>質量作用定律</td><td>law of mass action</td><td>反應方向與速率由反應物、產物濃度決定。</td></tr>
+<tr><td>同步訓練</td><td>concurrent training</td><td>同一時期並排無氧阻力與有氧耐力訓練。</td></tr>
+<tr><td>工作休息比</td><td>work:rest ratio</td><td>間歇訓練中工作期與休息期之比，用來「選」能量系統。</td></tr>
+</table>
+
+<h2 class="brk">六、圖表</h2>
+
+<div class="fig">
+<svg width="660" height="215" viewBox="0 0 660 215">
+  <text x="330" y="16" font-size="13" text-anchor="middle" fill="#1a1a2e">主要能量系統與活動時間對應（表 3.2 圖版）</text>
+  <text x="132" y="44" font-size="11" text-anchor="end" fill="#1a1a2e">磷酸原</text>
+  <rect x="140" y="30" width="80" height="20" fill="#e94560"/>
+  <text x="180" y="44" font-size="10" text-anchor="middle" fill="#ffffff">主系統</text>
+  <rect x="220" y="30" width="90" height="20" fill="#e94560" opacity="0.35"/>
+  <text x="132" y="76" font-size="11" text-anchor="end" fill="#1a1a2e">快速醣解</text>
+  <rect x="220" y="62" width="200" height="20" fill="#e6b800"/>
+  <text x="320" y="76" font-size="10" text-anchor="middle" fill="#1a1a2e">6～30 秒與磷酸原並重，30 秒後獨挑大樑</text>
+  <text x="132" y="108" font-size="11" text-anchor="end" fill="#1a1a2e">慢速醣解</text>
+  <rect x="420" y="94" width="80" height="20" fill="#3d7a3d"/>
+  <text x="460" y="108" font-size="10" text-anchor="middle" fill="#ffffff">＋氧化</text>
+  <text x="132" y="140" font-size="11" text-anchor="end" fill="#1a1a2e">氧化系統</text>
+  <rect x="500" y="126" width="140" height="20" fill="#0f3460"/>
+  <text x="570" y="140" font-size="10" text-anchor="middle" fill="#ffffff">主系統</text>
+  <line x1="140" y1="152" x2="645" y2="152" stroke="#1a1a2e" stroke-width="1"/>
+  <line x1="140" y1="152" x2="140" y2="158" stroke="#1a1a2e"/><text x="140" y="172" font-size="10" text-anchor="middle" fill="#1a1a2e">0秒</text>
+  <line x1="220" y1="152" x2="220" y2="158" stroke="#1a1a2e"/><text x="220" y="172" font-size="10" text-anchor="middle" fill="#1a1a2e">6秒</text>
+  <line x1="310" y1="152" x2="310" y2="158" stroke="#1a1a2e"/><text x="310" y="172" font-size="10" text-anchor="middle" fill="#1a1a2e">30秒</text>
+  <line x1="420" y1="152" x2="420" y2="158" stroke="#1a1a2e"/><text x="420" y="172" font-size="10" text-anchor="middle" fill="#1a1a2e">2分</text>
+  <line x1="500" y1="152" x2="500" y2="158" stroke="#1a1a2e"/><text x="500" y="172" font-size="10" text-anchor="middle" fill="#1a1a2e">3分</text>
+  <line x1="640" y1="152" x2="640" y2="158" stroke="#1a1a2e"/><text x="628" y="172" font-size="10" text-anchor="middle" fill="#1a1a2e">&gt;3分</text>
+  <text x="140" y="198" font-size="10" fill="#555">時間軸為示意（非等比例）；三大系統任何時刻同時運轉，圖中只畫「主要」來源。</text>
+</svg>
+<div class="figcap">圖3.1 活動越短越激烈，越靠左側（磷酸原、快速醣解）；越長越緩和，越靠氧化系統。</div>
+</div>
+
+<table>
+<tr><th>活動持續時間</th><th>活動強度</th><th>主要能量系統</th></tr>
+<tr><td>0 至 6 秒</td><td>極高</td><td>磷酸原</td></tr>
+<tr><td>6 至 30 秒</td><td>非常高</td><td>磷酸原＋快速醣解</td></tr>
+<tr><td>30 秒至 2 分鐘</td><td>高</td><td>快速醣解</td></tr>
+<tr><td>2 至 3 分鐘</td><td>中</td><td>慢速醣解＋氧化系統</td></tr>
+<tr><td>超過 3 分鐘</td><td>低</td><td>氧化系統</td></tr>
+</table>
+<div class="figcap">表6.1 活動時間、強度與主要能量系統（改自原文表 3.2，假設運動員追求該項目最佳成績）</div>
+
+<div class="fig">
+<svg width="660" height="250" viewBox="0 0 660 250">
+  <text x="330" y="18" font-size="13" text-anchor="middle" fill="#1a1a2e">最大輸出騎車時無氧與有氧系統的貢獻佔比</text>
+  <text x="112" y="52" font-size="11" text-anchor="end" fill="#1a1a2e">0～5秒</text><rect x="150" y="38" width="384" height="20" fill="#e94560"/><rect x="534" y="38" width="16" height="20" fill="#0f3460"/><text x="342" y="52" font-size="11" text-anchor="middle" fill="#ffffff">無氧 96%</text><text x="556" y="52" font-size="10" fill="#0f3460">有氧 4%</text>
+  <text x="112" y="84" font-size="11" text-anchor="end" fill="#1a1a2e">30秒</text><rect x="150" y="70" width="300" height="20" fill="#e94560"/><rect x="450" y="70" width="100" height="20" fill="#0f3460"/><text x="300" y="84" font-size="11" text-anchor="middle" fill="#ffffff">無氧 75%</text><text x="556" y="84" font-size="10" fill="#0f3460">有氧 25%</text>
+  <text x="112" y="116" font-size="11" text-anchor="end" fill="#1a1a2e">60秒</text><rect x="150" y="102" width="200" height="20" fill="#e94560"/><rect x="350" y="102" width="200" height="20" fill="#0f3460"/><text x="250" y="116" font-size="11" text-anchor="middle" fill="#ffffff">無氧 50%</text><text x="556" y="116" font-size="10" fill="#0f3460">有氧 50%</text>
+  <text x="112" y="148" font-size="11" text-anchor="end" fill="#1a1a2e">90秒</text><rect x="150" y="134" width="140" height="20" fill="#e94560"/><rect x="290" y="134" width="260" height="20" fill="#0f3460"/><text x="220" y="148" font-size="11" text-anchor="middle" fill="#ffffff">無氧 35%</text><text x="556" y="148" font-size="10" fill="#0f3460">有氧 65%</text>
+  <text x="112" y="180" font-size="11" text-anchor="end" fill="#1a1a2e">150秒</text><rect x="150" y="166" width="120" height="20" fill="#e94560"/><rect x="270" y="166" width="280" height="20" fill="#0f3460"/><text x="210" y="180" font-size="11" text-anchor="middle" fill="#ffffff">無氧 30%</text><text x="556" y="180" font-size="10" fill="#0f3460">有氧 70%</text>
+  <text x="112" y="212" font-size="11" text-anchor="end" fill="#1a1a2e">200秒</text><rect x="150" y="198" width="88" height="20" fill="#e94560"/><rect x="238" y="198" width="312" height="20" fill="#0f3460"/><text x="194" y="212" font-size="11" text-anchor="middle" fill="#ffffff">無氧 22%</text><text x="556" y="212" font-size="10" fill="#0f3460">有氧 78%</text>
+  <rect x="150" y="230" width="14" height="12" fill="#e94560"/><text x="170" y="240" font-size="10" fill="#1a1a2e">無氧系統</text>
+  <rect x="250" y="230" width="14" height="12" fill="#0f3460"/><text x="270" y="240" font-size="10" fill="#1a1a2e">有氧系統</text>
+  <text x="420" y="240" font-size="10" fill="#555">約 60 秒處兩者交叉</text>
+</svg>
+<div class="figcap">圖3.2 改自原文表 3.5：不超過 60 秒的最大運動以無氧為主，之後有氧成主力。</div>
+</div>
+
+<div class="fig">
+<svg width="660" height="320" viewBox="0 0 660 320">
+  <text x="330" y="20" font-size="13" text-anchor="middle" fill="#1a1a2e">ATP 再合成三條途徑（位置、時間與訓練比率）</text>
+  <rect x="200" y="34" width="260" height="36" rx="4" fill="#16213e"/>
+  <text x="330" y="57" font-size="12" text-anchor="middle" fill="#ffffff">肌肉活動 → ATP 水解 → ADP + Pi</text>
+  <line x1="330" y1="70" x2="115" y2="103" stroke="#555" stroke-width="1.5"/>
+  <line x1="330" y1="70" x2="330" y2="103" stroke="#555" stroke-width="1.5"/>
+  <line x1="330" y1="70" x2="545" y2="103" stroke="#555" stroke-width="1.5"/>
+  <rect x="15" y="105" width="200" height="100" rx="4" fill="#e94560"/>
+  <text x="115" y="125" font-size="12" text-anchor="middle" fill="#ffffff">磷酸原系統</text>
+  <text x="115" y="143" font-size="10" text-anchor="middle" fill="#ffffff">肌漿・無氧</text>
+  <text x="115" y="161" font-size="10" text-anchor="middle" fill="#ffffff">CP + ADP → ATP</text>
+  <text x="115" y="179" font-size="10" text-anchor="middle" fill="#ffffff">肌酸激酶催化</text>
+  <text x="115" y="197" font-size="10" text-anchor="middle" fill="#ffffff">5～10秒／1:12～1:20</text>
+  <rect x="230" y="105" width="200" height="100" rx="4" fill="#e6b800"/>
+  <text x="330" y="125" font-size="12" text-anchor="middle" fill="#1a1a2e">醣解系統</text>
+  <text x="330" y="143" font-size="10" text-anchor="middle" fill="#1a1a2e">肌漿・不直接需氧</text>
+  <text x="330" y="161" font-size="10" text-anchor="middle" fill="#1a1a2e">肝醣/葡萄糖→丙酮酸</text>
+  <text x="330" y="179" font-size="10" text-anchor="middle" fill="#1a1a2e">→乳酸(快速)／入粒線體(慢速)</text>
+  <text x="330" y="197" font-size="10" text-anchor="middle" fill="#1a1a2e">15秒～3分／1:3～1:5</text>
+  <rect x="445" y="105" width="200" height="100" rx="4" fill="#0f3460"/>
+  <text x="545" y="125" font-size="12" text-anchor="middle" fill="#ffffff">氧化系統</text>
+  <text x="545" y="143" font-size="10" text-anchor="middle" fill="#ffffff">粒線體・需氧</text>
+  <text x="545" y="161" font-size="10" text-anchor="middle" fill="#ffffff">克雷布斯循環 + ETC</text>
+  <text x="545" y="179" font-size="10" text-anchor="middle" fill="#ffffff">氧為最終電子受體</text>
+  <text x="545" y="197" font-size="10" text-anchor="middle" fill="#ffffff">超過2分／1:1～1:3</text>
+  <line x1="115" y1="205" x2="220" y2="243" stroke="#555" stroke-width="1.5"/>
+  <line x1="330" y1="205" x2="330" y2="243" stroke="#555" stroke-width="1.5"/>
+  <line x1="545" y1="205" x2="440" y2="243" stroke="#555" stroke-width="1.5"/>
+  <rect x="110" y="245" width="440" height="58" rx="4" fill="none" stroke="#0f3460" stroke-width="1.5"/>
+  <text x="330" y="269" font-size="12" text-anchor="middle" fill="#0f3460">誰當主力：主要看強度，其次看持續時間。</text>
+  <text x="330" y="291" font-size="12" text-anchor="middle" fill="#0f3460">三大系統任何時刻同時運轉，沒有純單一切換。</text>
+</svg>
+<div class="figcap">圖3.3 ATP 再合成路徑總覽：路徑決定位置與速度，訓練比率對應各系統。</div>
+</div>
+
+<table>
+<tr><th>系統</th><th>ATP 生成速率排名</th><th>ATP 生成容量排名</th></tr>
+<tr><td>磷酸原</td><td>1（最快）</td><td>5（最低）</td></tr>
+<tr><td>快速醣解</td><td>2</td><td>4</td></tr>
+<tr><td>慢速醣解</td><td>3</td><td>3</td></tr>
+<tr><td>碳水氧化</td><td>4</td><td>2</td></tr>
+<tr><td>脂肪與蛋白質氧化</td><td>5（最慢）</td><td>1（最高）</td></tr>
+</table>
+<div class="figcap">表6.2 速率與容量呈反比（1=最快／最好，5=最慢／最差，改自原文表 3.3）</div>
+
+<table>
+<tr><th>主要針對系統</th><th>強度（佔最大功率%）</th><th>典型工作時間</th><th>工作休息比範圍</th></tr>
+<tr><td>磷酸原</td><td>90%～100%</td><td>5～10 秒</td><td>1:12～1:20</td></tr>
+<tr><td>快速醣解</td><td>75%～90%</td><td>15～30 秒</td><td>1:3～1:5</td></tr>
+<tr><td>快速醣解＋氧化</td><td>30%～75%</td><td>1～3 分鐘</td><td>1:3～1:4</td></tr>
+<tr><td>氧化系統</td><td>20%～30%</td><td>超過 3 分鐘</td><td>1:1～1:3</td></tr>
+</table>
+<div class="figcap">表6.3 用間歇訓練針對特定能量系統（改自原文表 3.6）</div>
+
+<h2 class="brk">七、易混陷阱</h2>
+<div class="trap"><b>乳酸 ≠ 放火的酸。</b>考題寫「乳酸造成代謝性酸中毒」就是錯的。H+ 主要來自 ATP 快速水解；乳酸脫氫酶反應反而消耗 H+，產物是乳酸(lactate)而非乳酸酸(lactic acid)。正確術語是代謝性酸中毒，乳酸本身還能當燃料並走科裏循環。</div>
+<div class="trap"><b>氧虧 ≠ EPOC（氧債）。</b>氧虧在運動「開頭」：氧氣沒跟上，無氧先墊付。EPOC 在運動「結束後」：攝氧量高於靜息，用來恢復穩態。兩者只有小到中度相關，問「氧債等於氧虧嗎」，答案是等號不成立。</div>
+<div class="trap"><b>速率 ≠ 容量。</b>ATP 生成速率與生成容量呈反比：磷酸原速率第 1、容量第 5；脂肪氧化容量第 1、速率第 5。題目問「最大 ATP 生成容量」選脂肪氧化，問「最快速率」選磷酸原，別選反。</div>
+<div class="trap"><b>LT ≠ OBLA。</b>LT(LT1) 是血乳酸開始急升的第一個拐點，對應未受訓 50%～60%、受訓 70%～80% VO2max；OBLA(LT2) 是第二個拐點，定義在血乳酸約 4 mmol/L。一個看曲線起飛，一個固定濃度。</div>
+<div class="trap"><b>底物水平磷酸化 ≠ 氧化磷酸化。</b>前者在單步反應直接磷酸化 ADP（醣解與克雷布斯循環裡發生）；後者在電子傳遞鏈上進行，佔葡萄糖完整氧化 ATP 的 90% 以上。</div>
+<div class="trap"><b>組合、交叉、同步訓練三者不同。</b>組合＝計畫裡有多種練習（最寬鬆的統稱）；交叉＝換運動方式但代謝目標相同、不讓專項肌肉過度刺激；同步＝同一時期甚至同一天並排阻力與耐力。考試給情境要你認定義，照這三句對號。</div>
+
+<h2 class="brk">八、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(是非題)高強度運動時肌肉的 H+ 堆積主要來自丙酮酸轉化為乳酸的過程。</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)決定哪套能量系統為主貢獻系統的主要因素與次要因素是？(A)主要：持續時間，次要：強度 (B)主要：強度，次要：持續時間 (C)主要：肌纖維類型，次要：營養 (D)主要：強度，次要：訓練狀態</p></div>
+<div class="qa"><p><b>Q3.</b>(是非題)運動中造成的氧虧與運動後的 EPOC 大小相等。</p></div>
+<div class="qa"><p><b>Q4.</b>(選擇題)力竭性高強度運動後，CP 完全再合成約需多久？(A)30 秒 (B)3 至 5 分鐘 (C)8 分鐘 (D)24 小時</p></div>
+<div class="qa"><p><b>Q5.</b>(選擇題)醣解最重要的調節酵素是哪一個，為什麼？(A)己糖激酶，因為它是限速步驟 (B)PFK，因為它是限速步驟 (C)PFK，因為它具有變構激活 (D)丙酮酸激酶，因為它是限速步驟</p></div>
+<div class="qa"><p><b>Q6.</b>(是非題)耐力受訓運動員的乳酸閾值約出現在 50% 至 60% VO2max。</p></div>
+<div class="qa"><p><b>Q7.</b>(選擇題)丙酮酸轉化為乳酸時，醣解的正確淨反應是？(A)葡萄糖+2Pi+2ADP→2乳酸+2ATP+2H2O (B)葡萄糖+ADP+CP→ATP+肌酸 (C)葡萄糖+2ADP→乳酸+2ATP (D)血糖完整氧化路徑</p></div>
+<div class="qa"><p><b>Q8.</b>(選擇題)血乳酸濃度約在何區間可能出現嚴重疲勞？(A)4～6 mmol/L (B)0.5～2.2 mmol/L (C)20～25 mmol/L (D)超過 50 mmol/L</p></div>
+<div class="qa"><p><b>Q9.</b>(是非題)一個血糖分子完整氧化約產生 32 個 ATP，其中超過 90% 來自氧化磷酸化。</p></div>
+<div class="qa"><p><b>Q10.</b>(選擇題)訓練目標是磷酸原系統（5 至 10 秒最大輸出）時，建議的工作休息比是？(A)1:1 至 1:3 (B)1:3 至 1:5 (C)1:12 至 1:20 (D)1:3 至 1:4</p></div>
+
+<h2 class="brk">附錄、自我檢測解答與解析</h2><p>先把上一節題目做完,再回頭對照本頁。</p><div class="qa"><p><b>1.</b> Q1.(是非題)高強度運動時肌肉的 H+ 堆積主要來自丙酮酸轉化為乳酸的過程。 …</p><p class="ans">Ans:✕ — H+ 主要來自 ATP 快速水解；乳酸脫氫酶反應反而消耗 H+。</p></div><div class="qa"><p><b>2.</b> Q2.(選擇題)決定哪套能量系統為主貢獻系統的主要因素與次要因素是？(A)主要： …</p><p class="ans">Ans:B — 教材反覆強調：主要看強度，其次看持續時間。</p></div><div class="qa"><p><b>3.</b> Q3.(是非題)運動中造成的氧虧與運動後的 EPOC 大小相等。 …</p><p class="ans">Ans:✕ — 兩者只有小到中度相關，氧虧可能影響 EPOC 大小，但不相等。</p></div><div class="qa"><p><b>4.</b> Q4.(選擇題)力竭性高強度運動後，CP 完全再合成約需多久？(A)30 秒 ( …</p><p class="ans">Ans:C — 30 秒補回一半，ATP 完全再合成約 3 至 5 分鐘，CP 完全恢復要 8 分鐘。</p></div><div class="qa"><p><b>5.</b> Q5.(選擇題)醣解最重要的調節酵素是哪一個，為什麼？(A)己糖激酶，因為它是限 …</p><p class="ans">Ans:B — PFK 催化醣解最慢的限速步驟，因此是最重要的調節因子。</p></div><div class="qa"><p><b>6.</b> Q6.(是非題)耐力受訓運動員的乳酸閾值約出現在 50% 至 60% VO2ma …</p><p class="ans">Ans:✕ — 50% 至 60% 是未受訓者；耐力受訓者的 LT 在 70% 至 80%。</p></div><div class="qa"><p><b>7.</b> Q7.(選擇題)丙酮酸轉化為乳酸時，醣解的正確淨反應是？(A)葡萄糖+2Pi+2 …</p><p class="ans">Ans:A — 原文方程式 3.4，產物寫乳酸（lactate）。</p></div><div class="qa"><p><b>8.</b> Q8.(選擇題)血乳酸濃度約在何區間可能出現嚴重疲勞？(A)4～6 mmol/L …</p><p class="ans">Ans:C — 20 至 25 mmol/L 可能嚴重疲勞；0.5 至 2.2 是靜息值，4 是 OBLA 定義點。</p></div><div class="qa"><p><b>9.</b> Q9.(是非題)一個血糖分子完整氧化約產生 32 個 ATP，其中超過 90%  …</p><p class="ans">Ans:○ — 醣解淨 2 屬底物水平磷酸化，其餘經 ETC；肝醣起點經特定穿梭最高可達 34。</p></div><div class="qa"><p><b>10.</b> Q10.(選擇題)訓練目標是磷酸原系統（5 至 10 秒最大輸出）時，建議的工作 …</p><p class="ans">Ans:C — 表 3.6：磷酸原 90%～100% 最大功率、5～10 秒、1:12～1:20，因為 CP 完全回收要 3 至 8 分鐘。</p></div></body></html>

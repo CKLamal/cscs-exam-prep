@@ -1,0 +1,280 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>測試選擇與管理原則</title><style>
+@page { size: A4; margin: 20mm 19mm 22mm 19mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei","Noto Sans TC","PingFang TC","MS JhengHei",sans-serif;
+  font-size: 11.5pt; line-height: 1.95; color: #1a1a2e; margin: 0; }
+.cover { page-break-after: always; text-align: center; padding-top: 6mm; }
+.cover .chip { display:inline-block; background:#0f3460; color:#fff; padding:6px 22px;
+  border-radius:99px; font-size:11pt; letter-spacing:.2em; }
+.cover .chno { margin-top:7mm; font-size:16pt; color:#e94560; font-weight:700; letter-spacing:.15em; }
+.cover .ctitle { font-size:30pt; font-weight:800; color:#0f3460; margin-top:3mm; line-height:1.4; }
+.cover .cent { font-size:12pt; color:#555; font-style:italic; margin-top:2mm; }
+.cover .keybox { text-align:left; background:#f4f7fa; border:1px solid #d7e0ea; border-left:6px solid #0f3460;
+  border-radius:8px; padding:12px 18px; margin:5mm 6mm 0; font-size:11pt; line-height:1.65; }
+.cover .keybox ul { margin:6px 0 0; padding-left:1.3em; }
+.cover .toc { text-align:left; margin:4mm 6mm 0; font-size:9.5pt; color:#333; }
+.cover .toc ol { margin:6px 0 0; padding-left:1.6em; line-height:1.55; }
+h1 { font-size:19pt; text-align:center; color:#0f3460; margin:0 0 6px; }
+h2 { page-break-after: avoid; background:#0f3460; color:#ffffff; font-size:15pt;
+  padding:8px 16px; border-radius:6px; margin:0 0 14px; letter-spacing:.06em; }
+.qa, .fig { page-break-inside: avoid; }
+h2.brk { page-break-before: always; }
+h3 { color:#0f3460; border-left:4px solid #e6b800; padding-left:9px; margin-top:16px; font-size:12.5pt; }
+p { margin: 8px 0; }
+.exam { background:#fdecec; border:1px solid #f2b8b8; border-left:5px solid #c1121f;
+  padding:10px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; line-height:1.65; }
+.analogy { background:#eaf3fb; border:1px solid #bcd7ee; border-left:5px solid #2b6cb0;
+  padding:10px 14px; border-radius:6px; margin:12px 0; }
+.analogy::before { content:"打個比方"; display:block; font-weight:bold; color:#2b6cb0; font-size:10pt; margin-bottom:4px; }
+.trap { background:#fff4d6; border:1px solid #ecd9a0; border-left:5px solid #b8860b;
+  padding:10px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; }
+.trap::before { content:"容易混淆"; display:block; font-weight:bold; color:#b8860b; font-size:10pt; margin-bottom:4px; }
+.term { background:#eaf6ec; border:1px solid #bcdcc2; border-left:5px solid #3d7a3d;
+  padding:8px 14px; border-radius:6px; margin:12px 0; font-size:10.5pt; }
+.qa { background:#f4f7fa; border:1px solid #d7e0ea; border-left:5px solid #0f3460;
+  padding:8px 14px; border-radius:6px; margin:10px 0; font-size:10.5pt; }
+.ans { color:#1b5e20; margin-top:4px; }
+table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size:10pt; line-height:1.6; }
+th,td { border:1px solid #cfd6dd; padding:7px 9px; text-align:left; vertical-align:top; }
+th { background:#0f3460; color:#fff; font-weight:600; }
+tbody tr:nth-child(even) td { background:#f2f5f8; }
+thead { display: table-header-group; }
+svg { display:block; margin:14px auto; max-width:660px; width:100%; height:auto; }
+code { font-family:Consolas,monospace; background:#eef1f5; padding:1px 5px; border-radius:3px; font-size:9.5pt; }
+.footer { margin-top:24px; padding-top:8px; border-top:1px solid #cfd6dd; font-size:9pt; color:#555; text-align:center; }
+</style></head><body>
+<div class="cover">
+ <div class="chip">CSCS 考綱學習摘要</div>
+ <div class="chno">第 13 章</div>
+ <div class="ctitle">測試選擇與管理原則</div>
+ <div class="cent">Testing Selection and Administration Principles</div>
+ <div class="keybox"><b>本章主軸</b>
+  <ul><li>說清為什麼要對運動員做測試:評估天賦、找弱點、設目標、追蹤進度、篩查疲勞與受傷風險。</li><li>分辨測試、測量、評估、監測、前測、期中測試、形成性評價、後測這八個詞。</li><li>判斷一個測試有沒有效度(構念、表面、內容、效標)與信度,並舉出反例。</li><li>依專項特異性(能量系統、動作模式)、年齡、性別、訓練狀態與環境條件選測試。</li><li>背出七階段測試順序與各階段最低休息時間,並能安排出安全的測試流程。</li></ul>
+ </div>
+ <div class="toc"><b>本章目錄</b><ol><li>一、本章一句話</li><li>二、學完本章你會</li><li>三、把核心概念講給你聽(ELI5)</li><li>四、考點速記</li><li>五、術語速查(中英對照)</li><li>六、圖表</li><li>七、易混陷阱</li><li>八、自我檢測</li><li>附錄、自我檢測解答與解析</li></ol></div>
+</div>
+
+<h1>第13章 測試選擇與管理原則</h1>
+<p class="subtitle">Testing Selection and Administration Principles(僅供術語對照) | 原文頁碼 p729～p763</p>
+
+<h2>一、本章一句話</h2>
+<p>測試必須「測得準(效度)、測得穩(信度)、排得對(順序)、管得好(安全與標準化)」,否則測了等於白測。</p>
+
+<h2>二、學完本章你會</h2>
+<ul>
+<li>說清為什麼要對運動員做測試:評估天賦、找弱點、設目標、追蹤進度、篩查疲勞與受傷風險。</li>
+<li>分辨測試、測量、評估、監測、前測、期中測試、形成性評價、後測這八個詞。</li>
+<li>判斷一個測試有沒有效度(構念、表面、內容、效標)與信度,並舉出反例。</li>
+<li>依專項特異性(能量系統、動作模式)、年齡、性別、訓練狀態與環境條件選測試。</li>
+<li>背出七階段測試順序與各階段最低休息時間,並能安排出安全的測試流程。</li>
+</ul>
+
+<h2 class="brk">三、把核心概念講給你聽(ELI5)</h2>
+
+<h3>3.1 為什麼要測試:數據是訓練計劃的地基</h3>
+<p>測試把「感覺變強了」變成「深蹲 1RM 漲了 10 公斤」。教練靠測試客觀評估運動天賦,這條路叫人才識別(talent identification)。測試也能對照常模數據,找出哪些能力能練、哪些是天生素質,從而定出訓練優先順序。前測(預測)確立基線,期中測試與後測則檢驗訓練計劃有沒有效果。定期測試還能反映疲勞程度、準備狀態與受傷風險,讓教練提前調整課表。以測試結果為依據設定目標,每個人的小目標拼起來就是團隊目標。</p>
+<div class="analogy">測試就像體重計。不站上去,你只能「感覺自己胖了」;站上去,數字告訴你從哪練起、練了有沒有用。教練不能靠目測開課表。</div>
+<p>循證測試(evidence-based testing)要求訓練和評估都站在科學證據上,好處包括:確保測試有效且可靠、個別化訓練、預防損傷、優化表現、監測進度、提升專業信譽。可靠資訊來源有同儕評審期刊、教科書、專業組織、統合分析與系統性回顧、會議、循證資料庫,以及自家長期累積的內部數據。</p>
+
+<h3>3.2 八個術語,定義常考,先分清楚</h3>
+<p><span class="term">測試(test)</span>是評估特定領域能力的程序。<span class="term">測量(measurement)</span>是收集測試數據的過程。<span class="term">評估(assessment)</span>是分析測試結果並據此做決策。三個動作一條線:做測試、拿數據、做判斷。</p>
+<p><span class="term">監測(monitoring)</span>是對運動員重複測量,用數據指導訓練。<span class="term">場地測試(field test)</span>在實驗室以外進行,不需要大量培訓或昂貴設備。<span class="term">前測(pretest)</span>在訓練期開始前做,定初始水平。<span class="term">期中測試(midtest)</span>在訓練期間做,評估進度並修改計劃。<span class="term">形成性評價(formative assessment)</span>是按固定間隔做的定期再評估,除了追蹤進度,還能讓課表保持新鮮、避免身心倦怠。<span class="term">後測(posttest)</span>在訓練期結束後做,檢驗訓練目標達成沒有。</p>
+<div class="analogy">把訓練想成開車去目的地:前測是出發前看油表和里程,期中測試是路上偶爾低頭看儀表,後測是到目的地核對油耗。測量是讀儀表數字,評估是決定「要不要繞開塞車」。</div>
+
+<h3>3.3 效度:這把尺到底測的是不是你想測的東西</h3>
+<p><span class="term">效度(validity)</span>指測試測到其聲稱要測屬性的程度,是測試最重要的特徵。身高體重這類生理指標的效度易於判斷(彈簧秤與校準天平讀數高度一致即可);運動能力的效度較難判斷,要拆成幾種類型看。</p>
+<p><span class="term">構念效度(construct validity)</span>是整體效度,指測試能否代表其背後的理論構念,實際測到設計要測的內容。它含兩個亞型:<span class="term">聚合效度(convergent validity)</span>要求新測試與公認「金標準」結果高度正相關;若新測試相關性夠高,又更省時間與設備,反而可能優於金標準(例:1RM 背蹲與需測力板的等長蹲高度相關,證明兩者測的都是下肢力量)。<span class="term">區分效度(discriminant validity)</span>要求測試與「不同構念」的測試相關性低(例:1RM 深蹲與最大攝氧量(V̇O₂max)不相關,證明深蹲測的是力量不是耐力)。表面、內容、效標效度都是為構念效度提供證據的輔助指標。</p>
+<p><span class="term">表面效度(face validity)</span>是測試在運動員和外行眼裡「看起來像在測聲稱的東西」。心理學測試有時刻意降低表面效度,以防受試者作假;體能測試卻必須把表面效度做高,因為看起來可信的測試,能激勵想表現好的運動員。<span class="term">內容效度(content validity)</span>指專家判斷測試是否涵蓋全部相關構成能力,且各項比例恰當。足球測試組合至少要有衝刺速度、敏捷性、有氧耐力和踢球力量;某項能力在總分裡的佔比,要與它對表現的重要性成比例。表面效度是「外行看像不像」,內容效度是「專家核實真不真」。</p>
+<p><span class="term">效標效度(criterion-related validity)</span>看測試分數與衡量同一能力的其他指標的關聯,分兩種:<span class="term">同時效度(concurrent validity)</span>對照「現在」的公認測試(例:新體脂設備與雙能量 X 光吸收法(DXA)分數算皮爾森相關);<span class="term">預測效度(predictive validity)</span>對照「未來」的表現(例:籃球潛能測試總分與賽季得分、籃板、助攻等表現數據的相關)。</p>
+<div class="analogy">效度就是尺的刻度。拿體重計量身高,反覆量都一樣(穩定)但完全測錯(無效)。測試也一樣:測量身高卻想給有氧能力打分,再多次也沒用。</div>
+<div class="exam">有效體能測試應具備:測專項重要能力、結果可重複、每次只測一名運動員(除非方案另有規定)、難度適中、能區分能力等級、易於準確計分、試次足夠、經得起統計檢驗。兩種測試同樣有效時,選更簡單、更省錢的那個。</div>
+
+<h3>3.4 信度:同一個人測兩次,分數要一樣</h3>
+<p><span class="term">信度(reliability)</span>是測試結果一致性或可重複性的程度。能力不變的運動員兩次測試分數相同,信度就高。測試必須先有信度才談得上效度;但高信度不保證有效——60 公尺(66 碼)衝刺和 1.5 英里(2.4 公里)跑都是可靠的測試,只有 1.5 英里跑纔是有效的有氧適能場地測試。信度還會因族羣而異:同一測試對大學網球選手可能高度可靠,對國小網球選手只有中等可靠。</p>
+<p>檢驗信度最直接的方法:對同一組運動員反覆施測同一測試。統計上可用兩次分數的<span class="term">組內相關係數(ICC)</span>。<span class="term">重測信度(test-retest reliability)</span>用多次結果的差異來衡量,差異即測量誤差。<span class="term">典型誤差(TE)</span>另計,包含設備誤差與運動員的生物變異。兩次分數不一致,來源有三:受試者內變異性(本人表現不穩定)、評分者間信度不足或評分者內變異性、測試本身設計不良(技術要求過高,動作不熟悉,結果就不穩定)。</p>
+<p><span class="term">評分者間信度(inter-rater reliability)</span>又稱客觀性(objectivity),指不同評分者得出一致結果的程度;需依靠明確的計分系統與受過訓練的評分者來保障。未經訓練的人員用秒錶計時會引入誤差:計時員聽到槍響才按表,起點有反應延遲;終點看得見運動員衝線,按表較不遲延,所以手持秒錶量出的衝刺時間通常比自動計時<b>更短</b>。為準確衡量進步,前測與後測應由同一位評分者執行;若前後標準不一(例:深蹲深度要求放寬),成績就不可比。評分者性格、地位、激勵方式不同,也會造成系統性偏差。</p>
+<div class="analogy">信度就像射擊遊戲。每次都射在靶心旁邊同一個點,是「穩定但沒瞄準」——穩定(信度)有了,準(效度)沒有。瞄準靶心又槍槍偏十環,就是又有效又不可靠的壞槍。</div>
+
+<h3>3.5 選測試:先問「要回答什麼問題」,再看專項特異性</h3>
+<p>科學流程從「測試能回答什麼問題」開始。問題不明確,就是為測而測,既浪費資源,也可能有違倫理。選測試必須考慮專項特異性、運動員經驗、訓練狀態、年齡與環境。選測試前先對動作分類,四個維度:動作模式(推、拉、蹲、髖鉸鏈、旋轉、穩定)、目標肌羣、主要能量系統(磷酸原、醣解、氧化)、技能水平與複雜度。分類能拼出覆蓋全面的測試組合,也能辨識肌肉不平衡。</p>
+<p><span class="term">代謝能量系統特異性</span>:有效測試必須模擬專項的能量需求。籃球主要屬無氧運動,選跑測就要考慮比賽的衝刺距離與方向,而不是拿馬拉松式測試去考後衛。<span class="term">生物力學動作模式特異性</span>:其他條件相同時,測試與專項動作越像越好。垂直跳對籃球、排球有效,對冰球相關性就低。同項目不同位置要求也不同:美式足球防守鋒線需要推力與 5～15 碼(5～14 公尺)短衝,臥推加 10 碼(9 公尺)衝刺更貼合需求;外接手要跑 30～100 碼(27～91 公尺),應改用長距離衝刺測試。</p>
+<p><span class="term">經驗與訓練狀態</span>:技術性強的測試適合有經驗的運動員;對新手,「動作不會拖累成績」這個假設並不成立(單腳跳 27 碼(25 公尺)計次數,對跳遠熟練者有效且可靠,對新手則不然)。測試也要配合近期訓練內容:讓只做腿舉的運動員測平行式深蹲、讓一直在衝間歇的棒球運動員在秋訓前一週測 3 英里(4.8 公里)跑,都不理想。</p>
+<p><span class="term">年齡與性別</span>:1.5 英里(2.4 公里)跑對大學生有效可靠,對青春期前兒童就不適用(缺乏持續跑的經驗和興趣)。引體向上最大次數測試對男性摔跤運動員是有效的肘屈肌耐力測試;對女性則可能因上肢拉力差異,難以區分耐力等級,改用改良式水平引體向上(腳跟著地)更合適。</p>
+<div class="analogy">選測試像選考卷:要考數學(有氧),卻發一張體育課卷(40 碼衝刺),考得再認真也答非所問。考卷還要分難易——拿研究生素卷考小學生的跳遠成績,只能說明他沒練過。</div>
+
+<h3>3.6 環境:溫度、濕度、海拔都會污染數據</h3>
+<p>氣溫接近 80°F(27°C)時,尤其濕度超過 50%,有氧耐力表現和間歇衝刺表現都會受影響。高溫下測得的 1.5 英里跑成績,會低估最大攝氧量。低溫同樣影響跑績,所以溫差大的地區不適合戶外有氧測試,可改用室內跑道、跑步機或固定單車。海拔影響有氧耐力測試,但不影響力量和爆發力測試。海拔超過 1900 英尺(579 公尺)就應調整測試標準;在約 9000 英尺(2743 公尺)以下,海拔每升高 3000 英尺(914 公尺),最大攝氧量約下降 5%,海拔更高時降幅更大。長期住在海平面的運動員到高海拔地區測試,至少先適應 10 天。所有測試都應測量並記錄環境條件,解讀成績時納入這些因素。</p>
+<div class="analogy">環境條件就像考試時的噪音和悶熱。同一批學生,一次在安靜冷氣房考、一次在 38 度的操場考,分數不能直接比。記錄溫度濕度,就是給成績標上「考試環境」。</div>
+
+<h3>3.7 測試管理:安全、受訓人員、標準化流程</h3>
+<p>首要考慮是健康與安全。劇烈運動(極限跑、1RM 測試)可能讓潛藏的心臟問題顯現或惡化(如心肌供血不足、心律不整),常規體檢未必查得出。持續出現胸悶胸痛、頭暈、意識混亂、頭痛、皮膚深紅或冰冷濕黏、脈搏不規則、骨骼關節疼痛、視力模糊、噁心,以及與強度不符或休息後未緩解的呼吸急促、脈搏加快,就要考慮轉介就醫;症狀嚴重的(例如昏厥)出現一次就要立即就醫。炎熱潮濕環境下測試要遵守圖 13.2 的溫濕度上限,標準再保守 5°F(3°C);來自涼爽氣候地區的運動員,先做至少 1 週熱適應;測試前 24 小時充分補水,尿液清澈是好訊號,一般應避免鹽錠;1 小時以內的運動喝白開水即可;穿著淺色、寬鬆、透氣的衣物;用心率監測熱反應;留意中暑、熱衰竭與低血鈉(水中毒)症狀——低血鈉因大量飲水使血鈉濃度危險下降,體溫不升高,可能致命,應立即送醫。</p>
+<p>第二是人的把關:測試管理員必須受訓,新手計時員與判定 1RM 重量的人員,都要練習到與資深人員高度一致。對一組人大喊加油、對另一組不吭聲,會直接破壞信度。測試前備好書面規範和材料清單。計分表(紙本或電子)要提前做好,預留欄位記錄成績、評語、環境條件與設置細節(例:深蹲架固定銷的高度),既省時間,也減少記錄錯誤。</p>
+<p>第三是組織形式:受測人數較多時,使用重複測試站(例:300 碼(274 公尺)折返跑搭兩條航道)。在保證信度的前提下,同一運動員可連續做最多兩項非疲勞性測試(例:垂直跳接靜態跳)。最好由同一人測試所有人,可一次排除評分者間差異;做不到時,簡單明確的測試(如計算俯臥撐個數)可交給不同的人員,需要專業判斷的(如深蹲姿勢)則交給最資深的人員。一位測試管理員一次只專注一項測試,可在站點間輪調,但每項測試的判定標準保持不變。測試組合(test battery)各測試間至少隔 5 分鐘,避免疲勞污染下一項。</p>
+<div class="analogy">測試現場像駕駛考場:考官要先受訓、標準一致,同一批考生不能換五個考官各給各的分;考場要劃好動線,別讓考生剛跑完 800 公尺就去考倒車入庫。</div>
+
+<h3>3.8 測試順序與休息時間:先技術、後力量、最後才讓人生不如死</h3>
+<p>順序的原則只有一條:前一項不影響後一項。完全耗盡磷酸原系統的測試要 3～5 分鐘才完全恢復;完全耗盡無氧醣解系統的測試至少要 1 小時。所以敏捷性這類高技巧測試必須排在疲勞項目之前。標準七階段順序(個別測試可有微調):非疲勞性測試(身高體重、柔韌、皮褶圍度、垂直跳)→ 敏捷性測試(T 形測試、5-10-5、5-0-5、伊利諾伊)→ 最大力量與爆發力(1RM 潔淨、深蹲、臥推)→ 衝刺(40 米衝刺,記錄 10、20 米分段成績)→ 局部肌肉耐力(俯臥撐、半程仰臥起坐、YMCA 臥推)→ 疲勞性無氧能力(300 碼(274 公尺)折返跑、90 秒跳箱)→ 有氧能力(1.5 英里(2.4 公里)跑、12 分鐘跑、Yo-Yo 間歇恢復、最大有氧速度、30-15 間歇體能測試)。無氧與有氧這種「毀一天」的測試最好另找一天;若必須同日進行,應放在最後,充分休息後再測。測試間最低休息:未接近最大負荷至少 2 分鐘;接近最大負荷至少 3 分鐘;測試組合之間至少 5 分鐘。為避開生理晝夜節律波動,應固定一天中的同一時段施測,並優先安排在室內。</p>
+<div class="analogy">順序就像遊樂園玩雲霄飛車:先玩精細的射箭攤位(敏捷),再舉重比賽(最大力量),最後纔去跑馬拉松雲霄飛車(有氧)。腿軟之後沒人射得準,所以最喫技術的排最前面。</div>
+
+<h3>3.9 測試前準備:熟流程、做熱身、給指令</h3>
+<p>測試日期、時間、目的要提前公佈。沒測過或很久沒測的運動員,正式測試前 1～3 天做一次有監督的熟悉性練習,強度略低於全力;也可以把測試動作融進平常訓練的動態熱身。說明要涵蓋測試目的、方法、建議熱身時間、允許練習次數、測試次數、計分標準、取消資格的判據、提升成績的建議;說明越清晰簡潔,信度和客觀性越高。管理員要示範,並在運動員示範前後允許提問;對所有運動員給予相同的激勵,不偏不倚;每項測試完成後立即回報成績,激勵後續表現。測試前熱身(一般熱身+專項熱身)能提高信度;依方案可允許 2～3 次專項熱身,其後成績可計入,最終成績取最佳或平均。心率大幅上升的測試之後,要安排有監督的緩和運動:跑完 300 碼折返跑後,不要立即坐或躺,用低強度活動加輕柔拉伸做主動恢復。</p>
+<div class="analogy">就像考科舉前要先看考場規則、踩點一次:知道卷子怎麼作答、幾點開考,纔不會因為慌張而考砸。熱身是開考前活動手腕,不是浪費時間。</div>
+
+<h2 class="brk">四、考點速記</h2>
+<div class="exam">
+<b>休息與恢復(死數字):</b>未接近最大負荷的兩次測試間 ≥2 分鐘;接近最大負荷 ≥3 分鐘;測試組合各測試間 ≥5 分鐘;完全耗盡磷酸原系統後完全恢復 3～5 分鐘;完全耗盡無氧醣解系統後完全恢復 ≥1 小時;同一運動員最多連續做 2 項非疲勞性測試。
+</div>
+<div class="exam">
+<b>環境閾值(死數字):</b>氣溫接近 80°F(27°C)、濕度超過 50% 會影響有氧耐力與間歇衝刺;高溫測試建議再保守 5°F(3°C);熱適應至少 1 週;海平面居民到高海拔先適應至少 10 天;海拔超過 1900 英尺(579 公尺)調整標準;9000 英尺(2743 公尺)以下,每升 3000 英尺(914 公尺)最大攝氧量約降 5%;運動不超過 1 小時喝白開水,避免鹽錠;測試前 24 小時充分補水。
+</div>
+<div class="exam">
+<b>順序與準備(死規則):</b>七階段順序固定:非疲勞→敏捷→最大力量爆發力→衝刺→局部肌肉耐力→疲勞性無氧→有氧;測試安排在一天中同一時間、優先室內;正式測試前 1～3 天做熟悉性預練習;可允許 2～3 次專項熱身並計入成績(取最佳或平均)。
+</div>
+<div class="exam">
+<b>定義死規則:</b>信度是效度的必要條件(不可靠必無效,可靠未必有效);測試必須先明確「要回答什麼問題」;前測與後測應由同一人、在同一時間、同一環境執行,成績纔可比。
+</div>
+
+<h2 class="brk">五、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>測試</td><td>test</td><td>評估特定領域能力的程序。</td></tr>
+<tr><td>測量</td><td>measurement</td><td>收集測試數據的過程。</td></tr>
+<tr><td>評估</td><td>assessment</td><td>分析測試結果並據此做決策的過程。</td></tr>
+<tr><td>監測</td><td>monitoring</td><td>對運動員重複測量,用適當數據指導訓練。</td></tr>
+<tr><td>場地測試</td><td>field test</td><td>在實驗室外進行、不需昂貴設備或大量培訓的測試。</td></tr>
+<tr><td>前測</td><td>pretest</td><td>訓練開始前測,確定初始能力水平。</td></tr>
+<tr><td>期中測試</td><td>midtest</td><td>訓練期間施測,評估進度並修改計劃。</td></tr>
+<tr><td>形成性評價</td><td>formative assessment</td><td>依固定間隔定期再評估,追蹤進度並調整課表。</td></tr>
+<tr><td>後測</td><td>posttest</td><td>訓練期結束後施測,檢驗目標達成度。</td></tr>
+<tr><td>效度</td><td>validity</td><td>測試測到其聲稱要測屬性的程度。</td></tr>
+<tr><td>構念效度</td><td>construct validity</td><td>測試代表其理論構念、測到設計內容的整體效度。</td></tr>
+<tr><td>聚合效度</td><td>convergent validity</td><td>與公認金標準結果高度正相關。</td></tr>
+<tr><td>區分效度</td><td>discriminant validity</td><td>與不同構念測試相關性低,能區分兩種構念。</td></tr>
+<tr><td>表面效度</td><td>face validity</td><td>在外行人眼裡「看起來像在測聲稱能力」。</td></tr>
+<tr><td>內容效度</td><td>content validity</td><td>專家認定測試涵蓋全部構成能力且佔比恰當。</td></tr>
+<tr><td>效標效度</td><td>criterion-related validity</td><td>分數與同一能力其他指標的關聯程度,含同時與預測兩種。</td></tr>
+<tr><td>同時效度</td><td>concurrent validity</td><td>與現行公認測試分數的關聯程度。</td></tr>
+<tr><td>預測效度</td><td>predictive validity</td><td>分數與未來行為或表現的吻合程度。</td></tr>
+<tr><td>信度</td><td>reliability</td><td>測試結果一致性或可重複性的程度。</td></tr>
+<tr><td>重測信度</td><td>test-retest reliability</td><td>以多次測試結果的差異衡量,差異即測量誤差。</td></tr>
+<tr><td>組內相關係數</td><td>intraclass correlation coefficient (ICC)</td><td>衡量兩次測試分數一致性的統計量。</td></tr>
+<tr><td>典型誤差</td><td>typical error (TE)</td><td>包含設備誤差與運動員生物變異的誤差統計量。</td></tr>
+<tr><td>評分者間信度(客觀性)</td><td>inter-rater reliability / objectivity</td><td>不同評分者得出一致結果的程度。</td></tr>
+<tr><td>評分者內變異性</td><td>intra-rater variability</td><td>同一評分者給分不一致。</td></tr>
+<tr><td>受試者內變異性</td><td>intra-subject variability</td><td>受測者本人表現缺乏一致性。</td></tr>
+<tr><td>準備狀態</td><td>readiness</td><td>身心皆已充分準備好訓練與比賽的狀態。</td></tr>
+<tr><td>人才識別</td><td>talent identification</td><td>用場地測試評估運動員是否具備專項身體潛能。</td></tr>
+<tr><td>測試組合</td><td>test battery</td><td>一組依序施測的測試,項間至少休息 5 分鐘。</td></tr>
+</table>
+
+<h2 class="brk">六、圖表</h2>
+<div class="fig">
+<svg width="660" height="368" viewBox="0 0 660 368">
+  <rect x="50" y="8" width="560" height="32" fill="#3d7a3d"/>
+  <text x="330" y="28" font-size="12" text-anchor="middle" fill="#ffffff">1 非疲勞性測試(身高體重、柔韌、皮褶圍度、垂直跳)</text>
+  <path d="M330 44 l0 10 m-4 -6 l4 6 l4 -6" stroke="#0f3460" stroke-width="2" fill="none"/>
+  <rect x="50" y="58" width="560" height="32" fill="#e6b800"/>
+  <text x="330" y="78" font-size="12" text-anchor="middle" fill="#1a1a2e">2 敏捷性測試(T 形、5-10-5、5-0-5、伊利諾伊)</text>
+  <path d="M330 94 l0 10 m-4 -6 l4 6 l4 -6" stroke="#0f3460" stroke-width="2" fill="none"/>
+  <rect x="50" y="108" width="560" height="32" fill="#0f3460"/>
+  <text x="330" y="128" font-size="12" text-anchor="middle" fill="#ffffff">3 最大力量與爆發力(1RM 潔淨、深蹲、臥推)</text>
+  <path d="M330 144 l0 10 m-4 -6 l4 6 l4 -6" stroke="#0f3460" stroke-width="2" fill="none"/>
+  <rect x="50" y="158" width="560" height="32" fill="#e94560"/>
+  <text x="330" y="178" font-size="12" text-anchor="middle" fill="#ffffff">4 衝刺測試(40 米,記 10、20 米分段)</text>
+  <path d="M330 194 l0 10 m-4 -6 l4 6 l4 -6" stroke="#0f3460" stroke-width="2" fill="none"/>
+  <rect x="50" y="208" width="560" height="32" fill="#0f3460"/>
+  <text x="330" y="228" font-size="12" text-anchor="middle" fill="#ffffff">5 局部肌肉耐力(俯臥撐、半程仰臥起坐、YMCA 臥推)</text>
+  <path d="M330 244 l0 10 m-4 -6 l4 6 l4 -6" stroke="#0f3460" stroke-width="2" fill="none"/>
+  <rect x="50" y="258" width="560" height="32" fill="#e94560"/>
+  <text x="330" y="278" font-size="12" text-anchor="middle" fill="#ffffff">6 疲勞性無氧能力(300 碼折返跑、90 秒跳箱)</text>
+  <path d="M330 294 l0 10 m-4 -6 l4 6 l4 -6" stroke="#0f3460" stroke-width="2" fill="none"/>
+  <rect x="50" y="308" width="560" height="32" fill="#16213e"/>
+  <text x="330" y="328" font-size="12" text-anchor="middle" fill="#ffffff">7 有氧能力(1.5 英里跑、12 分鐘跑、Yo-Yo、30-15)</text>
+  <text x="330" y="358" font-size="11" text-anchor="middle" fill="#666">原則:前一項不得影響後一項;無氧與有氧最好另日施測,同天則放最後並充分休息</text>
+</svg>
+<div class="figcap">圖13.1 測試順序七階段流程圖:從非疲勞性測試一路排到有氧能力測試,越耗竭越往後。</div>
+</div>
+
+<div class="fig">
+<svg width="660" height="236" viewBox="0 0 660 236">
+  <rect x="200" y="10" width="260" height="36" fill="#0f3460"/>
+  <text x="330" y="33" font-size="13" text-anchor="middle" fill="#ffffff">構念效度(整體效度)</text>
+  <rect x="480" y="10" width="170" height="36" fill="#f4f7fa" stroke="#0f3460" stroke-dasharray="4 3"/>
+  <text x="565" y="26" font-size="11" text-anchor="middle" fill="#1a1a2e">兩個亞型:</text>
+  <text x="565" y="40" font-size="11" text-anchor="middle" fill="#1a1a2e">聚合效度 / 區分效度</text>
+  <line x1="460" y1="28" x2="480" y2="28" stroke="#0f3460" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="330" y1="46" x2="330" y2="66" stroke="#e94560" stroke-width="2"/>
+  <line x1="130" y1="66" x2="530" y2="66" stroke="#e94560" stroke-width="2"/>
+  <line x1="130" y1="66" x2="130" y2="84" stroke="#e94560" stroke-width="2"/>
+  <line x1="330" y1="66" x2="330" y2="84" stroke="#e94560" stroke-width="2"/>
+  <line x1="530" y1="66" x2="530" y2="84" stroke="#e94560" stroke-width="2"/>
+  <rect x="45" y="84" width="170" height="36" fill="#e6b800"/>
+  <text x="130" y="100" font-size="12" text-anchor="middle" fill="#1a1a2e">表面效度</text>
+  <text x="130" y="114" font-size="10" text-anchor="middle" fill="#1a1a2e">(外行看「像不像」)</text>
+  <rect x="245" y="84" width="170" height="36" fill="#3d7a3d"/>
+  <text x="330" y="100" font-size="12" text-anchor="middle" fill="#ffffff">內容效度</text>
+  <text x="330" y="114" font-size="10" text-anchor="middle" fill="#ffffff">(專家核「全不全」)</text>
+  <rect x="445" y="84" width="170" height="36" fill="#e94560"/>
+  <text x="530" y="100" font-size="12" text-anchor="middle" fill="#ffffff">效標效度</text>
+  <text x="530" y="114" font-size="10" text-anchor="middle" fill="#ffffff">(與指標關聯高不高)</text>
+  <line x1="480" y1="120" x2="480" y2="150" stroke="#0f3460" stroke-width="1.5"/>
+  <line x1="580" y1="120" x2="580" y2="150" stroke="#0f3460" stroke-width="1.5"/>
+  <rect x="425" y="150" width="110" height="32" fill="#f4f7fa" stroke="#0f3460"/>
+  <text x="480" y="170" font-size="12" text-anchor="middle" fill="#1a1a2e">同時效度</text>
+  <rect x="545" y="150" width="110" height="32" fill="#f4f7fa" stroke="#0f3460"/>
+  <text x="600" y="170" font-size="12" text-anchor="middle" fill="#1a1a2e">預測效度</text>
+  <text x="200" y="163" font-size="11" text-anchor="middle" fill="#666">表面、內容、效標效度</text>
+  <text x="200" y="178" font-size="11" text-anchor="middle" fill="#666">都是為構念效度</text>
+  <text x="200" y="193" font-size="11" text-anchor="middle" fill="#666">提供證據的輔助指標</text>
+  <text x="330" y="222" font-size="11" text-anchor="middle" fill="#666">同時效度對照「現在」的公認測試;預測效度對照「未來」的專項表現</text>
+</svg>
+<div class="figcap">圖13.2 效度家族層級圖:構念效度是整體效度,表面/內容/效標效度為其提供證據;效標效度再分同時與預測。</div>
+</div>
+
+<h3>測試休息時間速查</h3>
+<table>
+<tr><th>情境</th><th>最低休息/恢復</th><th>依據</th></tr>
+<tr><td>兩次測試(未接近最大負荷)</td><td>≥2 分鐘</td><td>依前一次測試的相對難度判斷</td></tr>
+<tr><td>兩次測試(接近最大負荷)</td><td>≥3 分鐘</td><td>同上</td></tr>
+<tr><td>測試組閤中各測試之間</td><td>≥5 分鐘</td><td>防止疲勞混淆後續成績</td></tr>
+<tr><td>最大程度消耗磷酸原系統後完全恢復</td><td>3～5 分鐘</td><td>磷酸原系統再合成時間</td></tr>
+<tr><td>最大程度消耗無氧醣解系統後完全恢復</td><td>≥1 小時</td><td>醣解相關恢復耗時長</td></tr>
+<tr><td>同一運動員連續施測</td><td>最多 2 項非疲勞性測試</td><td>能保證信度的前提下</td></tr>
+</table>
+
+<h3>常用身體評估測試一覽(整理自原書表 13.1)</h3>
+<table>
+<tr><th>身體能力</th><th>測試名稱</th><th>說明與專項舉例</th></tr>
+<tr><td>有氧能力</td><td>Yo-Yo 間歇恢復測試、最大攝氧量測試</td><td>足球、曲棍球等;測有氧適能與高強度後的恢復能力</td></tr>
+<tr><td>敏捷性</td><td>T 形測試、伊利諾伊測試</td><td>足球、籃球、美式足球;計時完成變向路線</td></tr>
+<tr><td>無氧能力</td><td>溫蓋特(Wingate)無氧測試</td><td>在功率自行車上測 30 秒輸出功率</td></tr>
+<tr><td>人體測量</td><td>身高、體重、臂展、圍度、四肢長度</td><td>通用;測尺寸與身體比例</td></tr>
+<tr><td>平衡與穩定</td><td>BESS 平衡誤差計分系統、星形偏移平衡測試(SEBT)</td><td>BESS 記錄六次 20 秒單腳站立的誤差次數;SEBT 測八方向最大伸展(動態平衡)</td></tr>
+<tr><td>身體成分</td><td>空氣置換體積描記法(Bod Pod)、生物電阻抗、DXA、皮褶、水下稱重</td><td>通用;各法原理與精度不同</td></tr>
+<tr><td>柔韌性</td><td>坐位體前屈、過頭深蹲</td><td>前者測膕旁肌與下背;後者屬動作篩查,測多關節活動度</td></tr>
+<tr><td>肌肉耐力</td><td>平板支撐、俯臥撐</td><td>通用;計最長時間或規定時間內次數</td></tr>
+<tr><td>最大肌肉力量與爆發力</td><td>垂直跳、立定跳遠、1RM 潔淨/臥推/深蹲/硬舉、等量大腿中段拉</td><td>垂直跳測下肢爆發力(籃球、排球);1RM 測最大力量(美式足球、力量舉)</td></tr>
+<tr><td>速度</td><td>40 碼(37 公尺)衝刺</td><td>美式足球、橄欖球;測特定距離衝刺速度</td></tr>
+</table>
+
+<h2 class="brk">七、易混陷阱</h2>
+<div class="trap"><b>信度 vs 效度:</b>信度管「穩不穩」,效度管「準不準」。60 公尺(66 碼)衝刺成績很穩定(有信度),用來當作有氧適能測試卻無效;只有 1.5 英里(2.4 公里)跑纔是有效的有氧場地測試。口訣:不可靠必無效,可靠未必有效。</div>
+<div class="trap"><b>表面效度 vs 內容效度:</b>表面效度是外行看「像不像」在測聲稱的能力;內容效度是專家核「真的涵不涵蓋」全部構成能力且佔比恰當。一個是印象,一個是實質審核,不能互換。</div>
+<div class="trap"><b>同時效度 vs 預測效度:</b>兩者都屬效標效度,差在時間軸。同時效度對照「現在」的公認測試(新體脂計 vs DXA);預測效度對照「未來」的表現(選才測試分 vs 賽季數據)。看到「與未來行為吻合」就選預測效度。</div>
+<div class="trap"><b>聚合效度 vs 區分效度:</b>聚合效度要「該高的相關高」(新測試 vs 金標準);區分效度要「該低的相關低」(1RM 深蹲 vs V̇O₂max 不相關)。一個證明同一構念,一個證明不同構念。</div>
+<div class="trap"><b>評分者間信度 vs 評分者內變異性:</b>前者是「不同人」給分一致不一致(客觀性);後者是「同一個人自己」前後給分飄移(例如期待進步而在後測悄悄放寬標準)。題目出現「兩位評分員標準不同」選前者,出現「同一位評分員前後不一」選後者。</div>
+<div class="trap"><b>形成性評價 vs 前測/後測:</b>前測、後測各只發生一次(訓練期前、後);形成性評價是訓練期間按固定間隔的多次定期再評估,功能包括追蹤進度、調整課表、保持新鮮感。看到「定期、固定間隔」就不是前測或後測。</div>
+
+<h2 class="brk">八、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(是非題)測試只要信度夠高,效度就一定沒問題?</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)1RM 深蹲分數與 V̇O₂max 分數相關性很低,這支持哪種效度? (A)聚合效度 (B)區分效度 (C)表面效度 (D)預測效度</p></div>
+<div class="qa"><p><b>Q3.</b>(選擇題)兩次接近最大負荷的測試之間,最低應休息多久? (A)1 分鐘 (B)2 分鐘 (C)3 分鐘 (D)5 分鐘</p></div>
+<div class="qa"><p><b>Q4.</b>(是非題)手持秒錶測得的衝刺時間通常比自動計時器更短。</p></div>
+<div class="qa"><p><b>Q5.</b>(選擇題)最大程度消耗無氧醣解系統後,完全恢復需要? (A)30 秒 (B)3～5 分鐘 (C)30 分鐘 (D)至少 1 小時</p></div>
+<div class="qa"><p><b>Q6.</b>(選擇題)標準測試順序中,敏捷性測試排在第幾階段? (A)第一 (B)第二 (C)第四 (D)最後</p></div>
+<div class="qa"><p><b>Q7.</b>(選擇題)海拔約 9000 英尺(2743 公尺)以下,海拔每升高 3000 英尺(914 公尺),最大攝氧量約下降多少? (A)2% (B)5% (C)10% (D)15%</p></div>
+<div class="qa"><p><b>Q8.</b>(是非題)測試組閤中,各測試之間應至少間隔 5 分鐘,以防止疲勞污染後續成績。</p></div>
+<div class="qa"><p><b>Q9.</b>(選擇題)下列哪項屬於第一階段(非疲勞性)測試? (A)俯臥撐測試 (B)皮褶厚度測量 (C)T 形測試 (D)40 米衝刺</p></div>
+<div class="qa"><p><b>Q10.</b>(是非題)從未測過某測試的運動員,宜在正式測試前 1～3 天做有監督、強度略低於全力的熟悉性練習。</p></div>
+
+<h2 class="brk">附錄、自我檢測解答與解析</h2><p>先把上一節題目做完,再回頭對照本頁。</p><div class="qa"><p><b>1.</b> Q1.(是非題)測試只要信度夠高,效度就一定沒問題? …</p><p class="ans">Ans:✕ — 信度是效度的必要條件而非充分條件;60 公尺衝刺很可靠,卻不是有效的有氧場測。</p></div><div class="qa"><p><b>2.</b> Q2.(選擇題)1RM 深蹲分數與 V̇O₂max 分數相關性很低,這支持哪種效 …</p><p class="ans">Ans:B — 與「不同構念」測試相關低,正是區分效度的證據。</p></div><div class="qa"><p><b>3.</b> Q3.(選擇題)兩次接近最大負荷的測試之間,最低應休息多久? (A)1 分鐘 ( …</p><p class="ans">Ans:C — 接近最大負荷 ≥3 分鐘;未接近最大負荷纔是 ≥2 分鐘。</p></div><div class="qa"><p><b>4.</b> Q4.(是非題)手持秒錶測得的衝刺時間通常比自動計時器更短。 …</p><p class="ans">Ans:○ — 計時員對槍聲有反應延遲(起點晚按),終點看得見人,按表及時,結果偏短。</p></div><div class="qa"><p><b>5.</b> Q5.(選擇題)最大程度消耗無氧醣解系統後,完全恢復需要? (A)30 秒 (B …</p><p class="ans">Ans:D — 醣解系統完全恢復至少 1 小時;3～5 分鐘是磷酸原系統的恢復時間。</p></div><div class="qa"><p><b>6.</b> Q6.(選擇題)標準測試順序中,敏捷性測試排在第幾階段? (A)第一 (B)第二 …</p><p class="ans">Ans:B — 順序為非疲勞→敏捷→最大力量爆發力→衝刺→肌肉耐力→疲勞性無氧→有氧;高技巧項目必須排在疲勞項目之前。</p></div><div class="qa"><p><b>7.</b> Q7.(選擇題)海拔約 9000 英尺(2743 公尺)以下,海拔每升高 300 …</p><p class="ans">Ans:B — 約降 5%;海拔超過 1900 英尺(579 公尺)就應調整測試標準。</p></div><div class="qa"><p><b>8.</b> Q8.(是非題)測試組閤中,各測試之間應至少間隔 5 分鐘,以防止疲勞污染後續成 …</p><p class="ans">Ans:○ — 這是測試組合的最低間隔規定。</p></div><div class="qa"><p><b>9.</b> Q9.(選擇題)下列哪項屬於第一階段(非疲勞性)測試? (A)俯臥撐測試 (B) …</p><p class="ans">Ans:B — 身高體重、柔韌、皮褶圍度、垂直跳屬第一階段;俯臥撐屬肌肉耐力(第五階段)。</p></div><div class="qa"><p><b>10.</b> Q10.(是非題)從未測過某測試的運動員,宜在正式測試前 1～3 天做有監督、強 …</p><p class="ans">Ans:○ — 熟悉流程能提高信度;練習離正式測試太近(當天)或太久,效果都差。</p></div></body></html>

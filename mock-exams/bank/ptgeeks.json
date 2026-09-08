@@ -1,0 +1,76 @@
+{
+  "source": "practicetestgeeks",
+  "source_url": "https://practicetestgeeks.com/pdf/NSCA-CSCS_Practice_Test_Questions_and_Answers.pdf",
+  "retrieved_utc": "2026-09-08",
+  "license_note": "Practice Test Geeks free PDF teaser ('All Rights Reserved'); personal study use. PDF is a 1-page flyer: it contains only 4 sample questions plus an answer key, no explanations. The companion web page is Cloudflare-gated (JS challenge), not scrapable.",
+  "questions": [
+    {
+      "id": "ptgeeks-001",
+      "part": null,
+      "domain": null,
+      "textbook_chapter": null,
+      "question": "What does CSCS stand for in the NSCA certification?",
+      "options": [
+        "Certified Strength and Conditioning Specialist",
+        "Certified Sports and Conditioning Specialist",
+        "Certified Safety and Conditioning Specialist",
+        "Certified Strength and Cardiovascular Specialist"
+      ],
+      "answer": 0,
+      "answer_text": "Certified Strength and Conditioning Specialist",
+      "explanation_en": null,
+      "tags": ["certification-basics"]
+    },
+    {
+      "id": "ptgeeks-002",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "What is the primary energy system used during a 100-meter sprint?",
+      "options": [
+        "Aerobic system",
+        "Lactate system",
+        "Phosphocreatine system",
+        "Oxidative system"
+      ],
+      "answer": 2,
+      "answer_text": "Phosphocreatine system",
+      "explanation_en": null,
+      "tags": ["energy-systems"]
+    },
+    {
+      "id": "ptgeeks-003",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "Which training principle refers to gradually increasing training demands?",
+      "options": [
+        "Specificity",
+        "Progressive overload",
+        "Reversibility",
+        "Individual differences"
+      ],
+      "answer": 1,
+      "answer_text": "Progressive overload",
+      "explanation_en": null,
+      "tags": ["training-principles"]
+    },
+    {
+      "id": "ptgeeks-004",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "What is the recommended rest period between sets for maximum strength training?",
+      "options": [
+        "30-60 seconds",
+        "1-2 minutes",
+        "2-5 minutes",
+        "5-10 minutes"
+      ],
+      "answer": 2,
+      "answer_text": "2-5 minutes",
+      "explanation_en": null,
+      "tags": ["rest-intervals"]
+    }
+  ]
+}

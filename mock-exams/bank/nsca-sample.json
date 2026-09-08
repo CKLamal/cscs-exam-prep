@@ -1,0 +1,72 @@
+{
+  "source": "nsca-certification-handbook-appendix-f",
+  "source_url": "https://www.nsca.com/globalassets/certification/certification-pdfs/nsca-certification-handbook.pdf",
+  "retrieved_utc": "2026-09-08",
+  "license_note": "Official NSCA Certification Handbook, Appendix F 'CSCS Detailed Content Outlines and Sample Questions' (PDF page 48 / handbook page 44). Only 5 sample questions are published there, each with 3 options (A-C) and an answer key; no explanations. Part assignments below are inferred, not stated by NSCA.",
+  "questions": [
+    {
+      "id": "nsca-sample-001",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following shoulder movements and planes of motion are associated with the upward movement phase of the side lateral shoulder raise exercise?",
+      "options": ["flexion/transverse", "abduction/sagittal", "abduction/frontal"],
+      "answer": 2,
+      "answer_text": "abduction/frontal",
+      "explanation_en": null,
+      "tags": ["official", "biomechanics", "planes-of-motion"]
+    },
+    {
+      "id": "nsca-sample-002",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "An untrained college-aged athlete begins a resistance training program. After training for three weeks, her strength increases dramatically. Which of the following is the most influential factor responsible for this improvement?",
+      "options": [
+        "decreased cross-sectional area of Type I fibers",
+        "increased number of muscle fibers",
+        "improved neuromuscular efficiency"
+      ],
+      "answer": 2,
+      "answer_text": "improved neuromuscular efficiency",
+      "explanation_en": null,
+      "tags": ["official", "neuromuscular-adaptations"]
+    },
+    {
+      "id": "nsca-sample-003",
+      "part": 1,
+      "domain": "Nutrition",
+      "textbook_chapter": null,
+      "question": "What is the minimum amount of carbohydrates that a 132-lb (60-kg) competitive Olympic triathlete should consume on a daily basis?",
+      "options": ["120 g", "480 g", "960 g"],
+      "answer": 1,
+      "answer_text": "480 g",
+      "explanation_en": null,
+      "tags": ["official", "nutrition", "carbohydrate"]
+    },
+    {
+      "id": "nsca-sample-004",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "When running, which of the following contributes the most to minimizing the braking effect of a heel foot strike?",
+      "options": ["eccentric hip flexion", "concentric hip extension", "eccentric knee extension"],
+      "answer": 1,
+      "answer_text": "concentric hip extension",
+      "explanation_en": null,
+      "tags": ["official", "biomechanics", "running"]
+    },
+    {
+      "id": "nsca-sample-005",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following components of mechanical load is the least important for stimulating new bone formation?",
+      "options": ["rest period", "magnitude", "rate of loading"],
+      "answer": 0,
+      "answer_text": "rest period",
+      "explanation_en": null,
+      "tags": ["official", "bone-adaptation"]
+    }
+  ]
+}

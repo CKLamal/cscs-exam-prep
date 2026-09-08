@@ -1,0 +1,10 @@
+import re
+p = open(r'D:\dgx-spark\cscs-exam-prep\mock-exams\raw_sources\brainscape\probe2_14791808_browser.html', encoding='utf-8').read()
+i1 = p.find('data-number="25"')
+i2 = p.find('data-number="27"')
+print("### block around 25-26:")
+print(p[i1-700:i2+50])
+print()
+i25 = p.find('data-number="102"')
+print("### block around 102 (to end of card region):")
+print(p[i25-600:i25+1500])

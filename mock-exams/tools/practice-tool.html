@@ -1,0 +1,1393 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CSCS 模擬練習工具｜NSCA 體能訓練專家</title>
+<style>
+/* ============ 主題變數 ============ */
+:root{
+  --bg:#f4f6f8; --panel:#ffffff; --panel2:#eef1f5; --ink:#1c2430; --muted:#5b6775;
+  --line:#d8dee6; --line2:#c3ccd6;
+  --accent:#1f5e7c; --accent-strong:#174a62; --accent-ink:#ffffff; --accent-soft:#e3eef4;
+  --ok:#1a7f37; --ok-bg:#e2f3e6; --ok-line:#9ed3ab;
+  --bad:#b42318; --bad-bg:#fbe9e7; --bad-line:#efb4ae;
+  --mark:#b45309; --mark-bg:#fdf0dc;
+  --shadow:0 1px 3px rgba(16,24,40,.07),0 1px 2px rgba(16,24,40,.05);
+  --radius:10px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme]){
+    --bg:#10151c; --panel:#181f28; --panel2:#1f2833; --ink:#e6edf3; --muted:#98a4b2;
+    --line:#2b3540; --line2:#3a4653;
+    --accent:#4da3c7; --accent-strong:#6db8d8; --accent-ink:#0d1b24; --accent-soft:#1d3441;
+    --ok:#4ade80; --ok-bg:#12301c; --ok-line:#2c6e42;
+    --bad:#f87171; --bad-bg:#3a1712; --bad-line:#7f3229;
+    --mark:#fbbf24; --mark-bg:#3a2c10;
+    --shadow:0 1px 3px rgba(0,0,0,.4);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#10151c; --panel:#181f28; --panel2:#1f2833; --ink:#e6edf3; --muted:#98a4b2;
+  --line:#2b3540; --line2:#3a4653;
+  --accent:#4da3c7; --accent-strong:#6db8d8; --accent-ink:#0d1b24; --accent-soft:#1d3441;
+  --ok:#4ade80; --ok-bg:#12301c; --ok-line:#2c6e42;
+  --bad:#f87171; --bad-bg:#3a1712; --bad-line:#7f3229;
+  --mark:#fbbf24; --mark-bg:#3a2c10;
+  --shadow:0 1px 3px rgba(0,0,0,.4);
+}
+:root[data-theme="light"]{
+  --bg:#f4f6f8; --panel:#ffffff; --panel2:#eef1f5; --ink:#1c2430; --muted:#5b6775;
+  --line:#d8dee6; --line2:#c3ccd6;
+  --accent:#1f5e7c; --accent-strong:#174a62; --accent-ink:#ffffff; --accent-soft:#e3eef4;
+  --ok:#1a7f37; --ok-bg:#e2f3e6; --ok-line:#9ed3ab;
+  --bad:#b42318; --bad-bg:#fbe9e7; --bad-line:#efb4ae;
+  --mark:#b45309; --mark-bg:#fdf0dc;
+  --shadow:0 1px 3px rgba(16,24,40,.07),0 1px 2px rgba(16,24,40,.05);
+}
+
+/* ============ 基礎 ============ */
+*{box-sizing:border-box}
+html{font-size:16px}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:system-ui,-apple-system,"Segoe UI","Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif;
+  line-height:1.65;
+}
+button{font:inherit; color:inherit; cursor:pointer}
+select,input[type=number]{font:inherit; color:inherit; background:var(--panel); border:1px solid var(--line2); border-radius:8px; padding:6px 10px}
+select:focus-visible,input:focus-visible,button:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+[hidden]{display:none !important}
+h1,h2,h3{line-height:1.35; margin:.2em 0 .5em}
+h1{font-size:1.35rem} h2{font-size:1.15rem} h3{font-size:1rem}
+.wrap{max-width:880px; margin:0 auto; padding:20px 16px 80px}
+p{margin:.4em 0}
+.small{font-size:.85rem} .muted{color:var(--muted)}
+.mono-num{font-variant-numeric:tabular-nums}
+
+/* ============ 標頭 ============ */
+header{
+  position:sticky; top:0; z-index:20;
+  background:var(--panel); border-bottom:1px solid var(--line);
+  box-shadow:var(--shadow);
+}
+.head-inner{max-width:960px; margin:0 auto; padding:10px 16px; display:flex; flex-wrap:wrap; align-items:center; gap:10px}
+.brand{font-weight:700; letter-spacing:.02em; font-size:1.05rem; margin-right:auto}
+.brand .sub{display:block; font-weight:400; font-size:.72rem; color:var(--muted); letter-spacing:.08em}
+nav{display:flex; gap:6px; flex-wrap:wrap}
+.tab{
+  border:1px solid transparent; background:transparent; border-radius:999px;
+  padding:6px 14px; color:var(--muted); font-weight:600;
+}
+.tab:hover{background:var(--panel2); color:var(--ink)}
+.tab[aria-selected="true"]{background:var(--accent); color:var(--accent-ink)}
+.tab .badge{
+  display:inline-block; min-width:1.25em; text-align:center; margin-left:5px;
+  font-size:.72rem; background:var(--bad); color:#fff; border-radius:999px; padding:0 5px; vertical-align:1px;
+}
+.theme-btn{border:1px solid var(--line2); background:var(--panel); border-radius:999px; padding:5px 12px; font-size:.82rem}
+.theme-btn:hover{border-color:var(--accent)}
+
+/* ============ 卡片 / 通用 ============ */
+.card{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); box-shadow:var(--shadow); padding:18px 20px; margin-bottom:16px}
+.chip{
+  display:inline-block; font-size:.74rem; color:var(--muted);
+  border:1px solid var(--line); border-radius:6px; padding:1px 7px; margin:0 5px 4px 0;
+  background:var(--panel2);
+}
+.btn{
+  border:1px solid var(--line2); background:var(--panel); border-radius:8px;
+  padding:8px 18px; font-weight:600; transition:transform .08s ease, border-color .12s ease;
+}
+.btn:hover{border-color:var(--accent); transform:translateY(-1px)}
+.btn:active{transform:translateY(0)}
+.btn.primary{background:var(--accent); border-color:var(--accent); color:var(--accent-ink)}
+.btn.primary:hover{background:var(--accent-strong)}
+.btn.small{padding:4px 12px; font-size:.82rem; font-weight:500}
+.btn.danger-ghost{color:var(--bad)}
+.btn:disabled{opacity:.45; cursor:default; transform:none}
+.qtext{font-size:1.08rem; line-height:1.75; max-width:72ch; margin:.6em 0 1em; white-space:pre-wrap}
+.toolbar{display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:10px 0}
+
+/* ============ 表單（K書篩選） ============ */
+.filters{display:grid; grid-template-columns:repeat(auto-fill,minmax(190px,1fr)); gap:12px 16px}
+.filters label{display:block; font-size:.85rem; font-weight:600; color:var(--muted); margin-bottom:3px}
+.filters select{width:100%}
+.opts-row{display:flex; flex-wrap:wrap; gap:14px 22px; margin-top:14px; font-size:.92rem}
+.opts-row label{display:flex; align-items:center; gap:7px; cursor:pointer; color:var(--ink)}
+.hint{font-size:.8rem; color:var(--muted); margin-top:4px}
+
+/* ============ 選項 ============ */
+.opt{
+  display:block; width:100%; text-align:left; margin-bottom:9px;
+  background:var(--panel); border:1.5px solid var(--line2); border-radius:9px;
+  padding:11px 14px; line-height:1.55; transition:border-color .12s ease, transform .08s ease;
+}
+.opt:hover:not(:disabled){border-color:var(--accent); transform:translateY(-1px)}
+.opt .key{
+  display:inline-block; width:1.6em; height:1.6em; line-height:1.6em; text-align:center;
+  border:1px solid var(--line2); border-radius:5px; margin-right:10px; font-size:.8rem; color:var(--muted);
+}
+.opt.sel{border-color:var(--accent); background:var(--accent-soft)}
+.opt.right{border-color:var(--ok-line); background:var(--ok-bg)}
+.opt.right .key{border-color:var(--ok); color:var(--ok)}
+.opt.wrong{border-color:var(--bad-line); background:var(--bad-bg)}
+.opt.wrong .key{border-color:var(--bad); color:var(--bad)}
+.opt:disabled{cursor:default; transform:none}
+
+/* ============ 解說面板 ============ */
+.fb{border-radius:var(--radius); border:1px solid var(--line); padding:14px 18px; margin-top:14px}
+.fb.ok{background:var(--ok-bg); border-color:var(--ok-line)}
+.fb.bad{background:var(--bad-bg); border-color:var(--bad-line)}
+.fb .verdict{font-weight:700; margin-bottom:6px}
+.fb.ok .verdict{color:var(--ok)} .fb.bad .verdict{color:var(--bad)}
+.fb .body{max-width:72ch; white-space:pre-wrap}
+.fb .en{margin-top:8px}
+.fb .ans-line{margin-top:8px}
+.zh{margin-top:8px; padding-left:12px; border-left:3px solid var(--accent)}
+
+/* ============ 字卡 ============ */
+.fc-card{
+  min-height:280px; display:flex; flex-direction:column; justify-content:center; align-items:center;
+  text-align:center; padding:34px 26px; cursor:pointer; user-select:none;
+  border:1.5px solid var(--line2); border-radius:14px; background:var(--panel);
+}
+.fc-card:hover{border-color:var(--accent)}
+.fc-front{font-size:1.5rem; font-weight:700; max-width:24ch; line-height:1.5; overflow-wrap:anywhere}
+.fc-back{font-size:1.12rem; line-height:1.8; max-width:46ch; white-space:pre-wrap; overflow-wrap:anywhere}
+.fc-hint{margin-top:18px; font-size:.8rem; color:var(--muted)}
+.rate-row{display:flex; gap:10px; justify-content:center; flex-wrap:wrap; margin-top:16px}
+.rate-row .btn{min-width:110px}
+.rate-forgot{border-color:var(--bad-line)} .rate-forgot:hover{border-color:var(--bad)}
+.rate-vague{border-color:var(--mark)} .rate-vague:hover{border-color:var(--mark)}
+.rate-knew{border-color:var(--ok-line)} .rate-knew:hover{border-color:var(--ok)}
+
+/* ============ 進度列 ============ */
+.sess-bar{display:flex; align-items:center; gap:12px; margin-bottom:12px; font-size:.85rem; color:var(--muted)}
+.sess-bar .track{flex:1; height:6px; background:var(--panel2); border-radius:3px; overflow:hidden}
+.sess-bar .fill{height:100%; background:var(--accent); border-radius:3px; transition:width .2s ease}
+
+/* ============ 考試設定 ============ */
+table.blue{border-collapse:collapse; width:100%; font-size:.9rem; margin:8px 0}
+table.blue th,table.blue td{border:1px solid var(--line); padding:7px 10px; text-align:left}
+table.blue th{background:var(--panel2); font-weight:600}
+.sec-choices{display:flex; flex-direction:column; gap:10px; margin:12px 0}
+.sec-choice{
+  display:flex; gap:12px; align-items:flex-start; border:1.5px solid var(--line2);
+  border-radius:10px; padding:12px 16px; cursor:pointer;
+}
+.sec-choice:hover{border-color:var(--accent)}
+.sec-choice input{margin-top:5px}
+.sec-choice.checked{border-color:var(--accent); background:var(--accent-soft)}
+.custom-fields{display:none; gap:18px; padding:4px 0 0 30px; flex-wrap:wrap}
+.custom-fields.show{display:flex}
+.custom-fields label{font-size:.9rem}
+.custom-fields input{width:100px}
+
+/* ============ 考試畫面 ============ */
+.exam-top{display:flex; justify-content:space-between; align-items:center; gap:14px; flex-wrap:wrap; margin-bottom:10px}
+.timer{
+  font-size:1.7rem; font-weight:700; font-variant-numeric:tabular-nums; letter-spacing:.03em;
+  padding:4px 16px; border:1.5px solid var(--line2); border-radius:10px; background:var(--panel);
+}
+.timer.warn{color:var(--mark); border-color:var(--mark)}
+.timer.danger{color:var(--bad); border-color:var(--bad); animation:pulse 1.2s ease infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.55}}
+.exam-warn-banner{background:var(--mark-bg); border:1px solid var(--mark); color:var(--mark); border-radius:8px; padding:8px 14px; font-weight:600; margin-bottom:12px}
+.palette{display:grid; grid-template-columns:repeat(auto-fill,minmax(38px,1fr)); gap:6px; margin:14px 0}
+.pchip{
+  position:relative; height:38px; border:1px solid var(--line2); background:var(--panel);
+  border-radius:7px; font-size:.82rem; color:var(--muted); padding:0;
+  font-variant-numeric:tabular-nums;
+}
+.pchip:hover{border-color:var(--accent)}
+.pchip.ans{background:var(--accent); border-color:var(--accent); color:var(--accent-ink); font-weight:600}
+.pchip.mk::after{content:"\2691"; position:absolute; top:-1px; right:2px; font-size:.62rem; color:var(--mark)}
+.pchip.mk.ans::after{color:var(--mark-bg)}
+.pchip.cur{outline:2.5px solid var(--mark); outline-offset:1px}
+.legend{display:flex; gap:16px; flex-wrap:wrap; font-size:.78rem; color:var(--muted); margin-top:4px}
+.legend i{display:inline-block; width:12px; height:12px; border-radius:3px; border:1px solid var(--line2); margin-right:5px; vertical-align:-1px}
+.legend i.a{background:var(--accent); border-color:var(--accent)}
+.legend i.m{border-color:var(--mark)}
+.exam-nav{display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-top:14px}
+.exam-nav .spacer{flex:1}
+
+/* ============ 成績報告 ============ */
+.score-hero{display:flex; align-items:center; gap:26px; flex-wrap:wrap}
+.score-num{font-size:3rem; font-weight:800; font-variant-numeric:tabular-nums; line-height:1.1}
+.pass-pill{display:inline-block; padding:4px 16px; border-radius:999px; font-weight:700}
+.pass-pill.pass{background:var(--ok-bg); color:var(--ok); border:1px solid var(--ok-line)}
+.pass-pill.fail{background:var(--bad-bg); color:var(--bad); border:1px solid var(--bad-line)}
+.bars .row{display:grid; grid-template-columns:minmax(120px,220px) 1fr 90px; gap:10px; align-items:center; padding:4px 0; font-size:.88rem}
+.bars .track{height:10px; background:var(--panel2); border-radius:5px; overflow:hidden; border:1px solid var(--line)}
+.bars .fill{height:100%; background:var(--accent); border-radius:5px}
+.bars .fill.lo{background:var(--bad)} .bars .fill.mid{background:var(--mark)} .bars .fill.hi{background:var(--ok)}
+.review-item{border-top:1.5px solid var(--line); padding:16px 2px}
+.review-item:first-of-type{border-top:none}
+.rev-opt{display:block; padding:5px 10px; border-radius:6px; margin:2px 0; max-width:72ch}
+.rev-opt.correct{background:var(--ok-bg); border:1px solid var(--ok-line)}
+.rev-opt.mine-bad{background:var(--bad-bg); border:1px solid var(--bad-line)}
+.rev-opt .tag{font-size:.74rem; font-weight:700; margin-left:8px}
+.rev-opt.correct .tag{color:var(--ok)} .rev-opt.mine-bad .tag{color:var(--bad)}
+.unanswered-tag{color:var(--muted); font-weight:600}
+
+/* ============ 錯題本 ============ */
+.wrong-row{display:flex; gap:12px; align-items:center; justify-content:space-between; border:1px solid var(--line); border-radius:9px; padding:10px 14px; margin-bottom:8px; background:var(--panel); flex-wrap:wrap}
+.wrong-row .t{flex:1; min-width:220px}
+.wrong-row .meta{font-size:.76rem; color:var(--muted)}
+
+/* ============ 錯誤畫面 ============ */
+#fatal{max-width:620px; margin:15vh auto 0; text-align:center; padding:30px; background:var(--panel); border:1px solid var(--bad-line); border-radius:14px}
+#fatal h1{color:var(--bad)}
+#fatal code{background:var(--panel2); padding:2px 8px; border-radius:5px; font-size:.95em}
+
+/* ============ 響應式 ============ */
+@media (max-width:640px){
+  html{font-size:15px}
+  .wrap{padding:14px 10px 60px}
+  .card{padding:14px 14px}
+  .palette{grid-template-columns:repeat(auto-fill,minmax(34px,1fr))}
+  .timer{font-size:1.3rem}
+  .brand .sub{display:none}
+  .bars .row{grid-template-columns:110px 1fr 70px}
+}
+
+/* ============ 列印 ============ */
+@media print{
+  header,.no-print,#view-study,#view-wrong,#view-stats{display:none !important}
+  body{background:#fff; color:#000}
+  .card{box-shadow:none; border:none; padding:0}
+  .review-item{page-break-inside:avoid}
+  #exam-review{display:block !important}
+}
+</style>
+</head>
+<body>
+
+<div id="fatal" hidden>
+  <h1>無法載入題庫</h1>
+  <p>找不到 <code>window.CSCS_BANK</code> 題庫資料。</p>
+  <p>請確認 <code>bank-data.js</code> 與本檔案放在<strong>同一個資料夾</strong>，且檔名完全相同，然後重新整理頁面。</p>
+  <p class="muted small">本工具離線運作，只從相對於本页的 <code>&lt;script src="bank-data.js"&gt;</code> 載入資料，不會走網路。</p>
+</div>
+
+<header class="no-print" id="app-header" hidden>
+  <div class="head-inner">
+    <div class="brand">CSCS 模擬練習工具<span class="sub">NSCA CERTIFIED STRENGTH AND CONDITIONING SPECIALIST</span></div>
+    <nav role="tablist" aria-label="主要功能">
+      <button class="tab" id="tab-study" role="tab" aria-selected="true">K書模式</button>
+      <button class="tab" id="tab-wrong" role="tab" aria-selected="false">錯題本<span class="badge" id="wrong-badge" hidden>0</span></button>
+      <button class="tab" id="tab-exam" role="tab" aria-selected="false">模擬考試</button>
+      <button class="tab" id="tab-stats" role="tab" aria-selected="false">學習統計</button>
+    </nav>
+    <button class="theme-btn" id="theme-btn" title="切換主題">主題：跟隨系統</button>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ============ K書模式 ============ -->
+  <section id="view-study" role="tabpanel">
+    <div class="card" id="study-setup">
+      <h1>K書模式</h1>
+      <p class="muted small">依條件篩選題目後開始練習。选择题作答后立即显示正解与解说；字卡翻面后自评记忆状况，自动排入复习_queue_。</p>
+      <div class="filters">
+        <div><label for="f-part">考科 Part</label>
+          <select id="f-part"><option value="all">全部</option><option value="1">Part 1 科學基礎</option><option value="2">Part 2 實務應用</option></select>
+        </div>
+        <div><label for="f-type">題型</label>
+          <select id="f-type"><option value="all">全部題型</option><option value="mcq">選擇題 MCQ</option><option value="flashcard">字卡 Flashcard</option></select>
+        </div>
+        <div><label for="f-source">來源</label><select id="f-source"><option value="all">全部來源</option></select></div>
+        <div><label for="f-chapter">課本章節</label><select id="f-chapter"><option value="all">全章節（含未標章節）</option></select></div>
+        <div><label for="f-count">題數</label>
+          <select id="f-count"><option value="5">5 題</option><option value="10">10 題</option><option value="20" selected>20 題</option><option value="50">50 題</option><option value="100">100 題</option><option value="all">全部（符合篩選）</option></select>
+        </div>
+      </div>
+      <div class="opts-row">
+        <label><input type="checkbox" id="f-shuffle-q" checked> 亂序出題</label>
+        <label><input type="checkbox" id="f-shuffle-o" checked> 選項亂序（作答自動重排）</label>
+        <label><input type="checkbox" id="f-instant" checked> 立即回饋（選后立即顯示正解）</label>
+      </div>
+      <div class="toolbar">
+        <button class="btn primary" id="study-start">開始練習</button>
+        <span class="muted small" id="pool-preview"></span>
+      </div>
+      <div class="toolbar" id="queue-bar-wrap">
+        <button class="btn small" id="queue-drill">到復習佇列（<span id="queue-count">0</span> 張到期字卡）</button>
+      </div>
+    </div>
+    <div id="study-host"></div>
+  </section>
+
+  <!-- ============ 錯題本 ============ -->
+  <section id="view-wrong" role="tabpanel" hidden>
+    <div class="card">
+      <h1>錯題本 <span class="muted small" id="wrong-count-label"></span></h1>
+      <p class="muted small">答錯的題目自動收錄。同一題<strong>連續答對兩次</strong>後自動移除；也可手動移除。</p>
+      <div class="toolbar no-print">
+        <button class="btn primary small" id="wrong-drill-all">全部重練</button>
+        <button class="btn small" id="wrong-clear">清空錯題本</button>
+      </div>
+    </div>
+    <div id="wrong-host"></div>
+  </section>
+
+  <!-- ============ 模擬考試 ============ -->
+  <section id="view-exam" role="tabpanel" hidden>
+    <div id="exam-host"></div>
+  </section>
+
+  <!-- ============ 學習統計 ============ -->
+  <section id="view-stats" role="tabpanel" hidden>
+    <div id="stats-host"></div>
+  </section>
+
+</main>
+
+<script src="bank-data.js"></script>
+<script>
+'use strict';
+(function(){
+
+/* ================= 資料載入 ================= */
+var BANK = window.CSCS_BANK;
+if (!BANK || !Array.isArray(BANK.questions) || BANK.questions.length === 0){
+  document.getElementById('fatal').hidden = false;
+  return;
+}
+document.getElementById('app-header').hidden = false;
+
+var QS = BANK.questions;
+var MCQS = [], FCS = [];
+QS.forEach(function(q){
+  q.__fc = (q.item_type === 'flashcard');
+  (q.__fc ? FCS : MCQS).push(q);
+});
+var byId = new Map();
+QS.forEach(function(q){ byId.set(q.id, q); });
+function isMcq(q){ return !q.__fc && Array.isArray(q.options) && q.options.length >= 2 && Number.isInteger(q.answer); }
+function drillable(q){ return q.__fc || isMcq(q); }
+var SOURCES = [];
+QS.forEach(function(q){ if (q.source && SOURCES.indexOf(q.source) < 0) SOURCES.push(q.source); });
+SOURCES.sort();
+
+/* 領域別名正規化（統計與報告分組用；不影響題目原文） */
+var DOMAIN_ALIAS = {
+  'Exercise Science': 'Exercise Sciences',
+  'Organization and Administration': 'Organization & Administration'
+};
+function domainOf(q){
+  if (!q.domain) return '未分類';
+  return DOMAIN_ALIAS[q.domain] || q.domain;
+}
+
+/* 2025-07-01 現行考試大綱（DCO）——計分題藍圖常數 */
+var BLUEPRINT = {
+  sf: { key:'sf', name:'Section 1｜科學基礎 Scientific Foundations', scored:80, minutes:90, part:1,
+        sub:[['Exercise Sciences 運動科學',48],['Sport Psychology 運動心理學',20],['Nutrition 營養學',12]] },
+  pa: { key:'pa', name:'Section 2｜實務與應用 Practical / Applied', scored:110, minutes:150, part:2,
+        sub:[['Program Design 課程設計',44],['Exercise Technique 動作技術',28],['Program Implementation 課程實施',22],['Organization & Administration 組織與行政',16]] }
+};
+
+/* ================= localStorage（安靜處理容量錯誤） ================= */
+var LS_KEY = '***';
+var store = { stats:{}, wrong:{}, fc:{}, exams:[], theme:'auto' };
+try {
+  var raw = localStorage.getItem(LS_KEY);
+  if (raw){ var p = JSON.parse(raw);
+    if (p && typeof p === 'object'){
+      ['stats','wrong','fc','theme'].forEach(function(k){ if (p[k] && typeof p[k]==='object' ? !Array.isArray(p[k]) : (p[k] && typeof p[k]==='string')) store[k]=p[k]; });
+      if (Array.isArray(p.exams)) store.exams = p.exams;
+    }
+  }
+} catch(e){}
+var saveTimer = null;
+function save(){
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(function(){
+    try { localStorage.setItem(LS_KEY, JSON.stringify(store)); } catch(e){}
+  }, 250);
+}
+
+/* ================= 小工具 ================= */
+function h(tag, cls, text){
+  var e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;
+  return e;
+}
+function qs(id){ return document.getElementById(id); }
+function clearEl(el){ while (el.firstChild) el.removeChild(el.firstChild); }
+function shuffle(arr){
+  var a = arr.slice();
+  for (var i = a.length-1; i > 0; i--){
+    var j = Math.floor(Math.random()*(i+1));
+    var t = a[i]; a[i] = a[j]; a[j] = t;
+  }
+  return a;
+}
+function pct(n, d){ return d > 0 ? Math.round(n/d*1000)/10 : 0; }
+function fmtTime(sec){
+  sec = Math.max(0, Math.floor(sec));
+  var mm = Math.floor(sec/60), ss = sec%60;
+  if (mm >= 60){ var hh = Math.floor(mm/60); mm = mm%60;
+    return hh + ':' + String(mm).padStart(2,'0') + ':' + String(ss).padStart(2,'0'); }
+  return String(mm).padStart(2,'0') + ':' + String(ss).padStart(2,'0');
+}
+
+/* ================= 學習紀錄 ================= */
+function recordAnswer(id, correct){
+  var s = store.stats[id] || (store.stats[id] = {a:0, c:0});
+  s.a++; if (correct) s.c++;
+}
+function wrongAdd(id, lastWrong){
+  var w = store.wrong[id] || (store.wrong[id] = {n:0, streak:0, last:null, at:0});
+  w.n++; w.streak = 0; w.last = lastWrong; w.at = Date.now();
+  save(); updateWrongBadge();
+}
+function wrongCorrectStreak(id){
+  var w = store.wrong[id];
+  if (!w) return;
+  w.streak++;
+  if (w.streak >= 2) delete store.wrong[id];
+  save(); updateWrongBadge();
+}
+function updateWrongBadge(){
+  var n = Object.keys(store.wrong).length;
+  var b = qs('wrong-badge');
+  b.hidden = n === 0;
+  b.textContent = String(n);
+  var lab = qs('wrong-count-label');
+  if (lab) lab.textContent = n ? '（共 ' + n + ' 題）' : '';
+}
+
+/* 復習佇列：SM-2-lite（天為單位的簡化間隔重複） */
+var DAY = 86400000;
+function rateFC(id, r){ /* 0=忘記 1=記得一點 2=記得 */
+  var e = store.fc[id] || (store.fc[id] = {r:0, d:0, due:0});
+  var now = Date.now();
+  if (r === 0){
+    e.r = 0; e.d = 0; e.due = now;
+    wrongAdd(id, '自我評分：忘記');
+  } else {
+    if (r === 2){
+      e.r++;
+      e.d = (e.r === 1) ? 1 : (e.r === 2) ? 3 : Math.min(Math.round(e.d * 2.5), 60);
+      wrongCorrectStreak(id);
+    } else {
+      e.d = (e.d === 0) ? 1 : Math.max(1, Math.round(e.d * 1.3));
+    }
+    e.due = now + e.d * DAY;
+  }
+  save(); updateQueueBar();
+}
+function dueCount(){
+  var now = Date.now(), n = 0;
+  var fc = store.fc;
+  Object.keys(fc).forEach(function(id){ if (fc[id].due <= now) n++; });
+  return n;
+}
+function dueIds(){
+  var now = Date.now(), out = [];
+  var fc = store.fc;
+  Object.keys(fc).forEach(function(id){
+    if (fc[id].due <= now && byId.has(id) && byId.get(id).__fc) out.push(id);
+  });
+  return out;
+}
+function updateQueueBar(){
+  var n = dueCount();
+  var c = qs('queue-count'); if (c) c.textContent = String(n);
+  var w = qs('queue-bar-wrap'); if (w) w.hidden = (n === 0);
+}
+
+/* ================= 檢視切換 ================= */
+var VIEWS = ['study','wrong','exam','stats'];
+var currentView = 'study';
+function showView(v){
+  currentView = v;
+  VIEWS.forEach(function(x){
+    qs('view-' + x).hidden = (x !== v);
+    var t = qs('tab-' + x);
+    t.setAttribute('aria-selected', x === v ? 'true' : 'false');
+  });
+  if (v === 'wrong') renderWrongView();
+  if (v === 'stats') renderStatsView();
+  if (v === 'exam') renderExamView();
+}
+VIEWS.forEach(function(x){
+  qs('tab-' + x).addEventListener('click', function(){
+    if (currentView === 'exam' && exam.state === 'run' && x !== 'exam'){
+      if (!confirm('考試進行中（計時不會中斷）。確定離開模擬考試畫面？')) return;
+    }
+    showView(x);
+  });
+});
+
+/* ================= 主題 ================= */
+var THEME_LABELS = { auto:'主題：跟隨系統', light:'主題：浅色', dark:'主題：深色' };
+function applyTheme(){
+  var t = store.theme;
+  if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+  else document.documentElement.removeAttribute('data-theme');
+  qs('theme-btn').textContent = THEME_LABELS[t] || THEME_LABELS.auto;
+}
+qs('theme-btn').addEventListener('click', function(){
+  store.theme = store.theme === 'auto' ? 'light' : store.theme === 'light' ? 'dark' : 'auto';
+  save(); applyTheme();
+});
+
+/* ================= 題目元資訊列 ================= */
+function metaChips(host, q){
+  var box = h('div', 'toolbar no-print');
+  var items = [];
+  if (q.part === 1) items.push('Part 1 科學基礎');
+  if (q.part === 2) items.push('Part 2 實務應用');
+  if (q.domain) items.push('領域 ' + q.domain);
+  if (q.textbook_chapter != null) items.push('第 ' + q.textbook_chapter + ' 章');
+  if (q.source) items.push('來源 ' + q.source);
+  items.forEach(function(t){ box.appendChild(h('span', 'chip', t)); });
+  host.appendChild(box);
+}
+
+/* ================= 解說面板（共用） ================= */
+function renderExplanation(parent, q, forReview){
+  var body = h('div', 'body');
+  var ans = q.answer_text || (isMcq(q) ? q.options[q.answer] : null);
+  if (ans){
+    var line = h('div', 'ans-line');
+    line.appendChild(h('strong', null, forReview ? '正解：' : '正確答案：'));
+    line.appendChild(h('span', null, ans));
+    body.appendChild(line);
+  }
+  if (q.explanation_en){ body.appendChild(h('div', 'en', q.explanation_en)); }
+  if (q.explanation_zh && String(q.explanation_zh).trim()){
+    body.appendChild(h('div', 'zh', q.explanation_zh));
+  }
+  if (body.childNodes.length) parent.appendChild(body);
+}
+
+/* ================= K書模式：練習引擎 ================= */
+/* sess = {list, i, mode:'study'|'drill', label, answered:-1, revealed:false, flipped:false,
+           displayOrder:[], nRight:0, nWrong:0, nFC:0, awaitingConfirm:null} */
+var sess = null;
+
+function buildStudyList(){
+  var part = qs('f-part').value, type = qs('f-type').value,
+      src = qs('f-source').value, ch = qs('f-chapter').value,
+      cnt = qs('f-count').value;
+  var pool = QS.filter(function(q){
+    if (part !== 'all' && q.part !== Number(part)) return false;
+    if (type === 'mcq' && q.__fc) return false;
+    if (type === 'flashcard' && !q.__fc) return false;
+    if (src !== 'all' && q.source !== src) return false;
+    if (ch !== 'all' && q.textbook_chapter !== Number(ch)) return false;
+    return true;
+  });
+  var total = pool.length;
+  if (qs('f-shuffle-q').checked) pool = shuffle(pool);
+  if (cnt !== 'all') pool = pool.slice(0, Number(cnt));
+  pool = pool.filter(drillable);
+  return { list: pool, total: total };
+}
+function updatePoolPreview(){
+  var r = buildStudyList();
+  qs('pool-preview').textContent = '符合篩選：' + r.total + ' 題 → 本次練習 ' + r.list.length + ' 題';
+}
+function startSession(list, mode, label){
+  if (!list.length){ alert('沒有符合條件的題目。'); return; }
+  sess = { list:list, i:0, mode:mode, label:label||'',
+           answered:-1, revealed:false, flipped:false,
+           displayOrder:[], nRight:0, nWrong:0, nFC:0 };
+  renderStudySession();
+}
+qs('study-start').addEventListener('click', function(){
+  var r = buildStudyList();
+  startSession(r.list, 'study');
+});
+qs('queue-drill').addEventListener('click', function(){
+  var ids = dueIds();
+  if (!ids.length){ alert('復習佇列目前沒有到期字卡。'); return; }
+  startSession(shuffle(ids.map(function(id){ return byId.get(id); })), 'drill', '復習佇列');
+});
+
+function studyStatusBar(host){
+  var bar = h('div', 'sess-bar');
+  var label = h('span', null, (sess.label ? sess.label + '｜' : '') + '第 ' + (sess.i+1) + ' / ' + sess.list.length + ' 題');
+  bar.appendChild(label);
+  var track = h('div', 'track'); var fill = h('div', 'fill');
+  fill.style.width = (sess.i / sess.list.length * 100) + '%';
+  track.appendChild(fill); bar.appendChild(track);
+  var sc = h('span', 'mono-num', '對 ' + sess.nRight + '／錯 ' + sess.nWrong + '／字卡 ' + sess.nFC);
+  bar.appendChild(sc);
+  host.appendChild(bar);
+}
+
+function renderStudySession(){
+  var host = qs('study-host');
+  clearEl(host);
+  if (!sess){ return; }
+  if (sess.i >= sess.list.length){ renderSessionSummary(host); return; }
+
+  var setupCard = qs('study-setup');
+  setupCard.hidden = true;
+
+  var card = h('div', 'card');
+  studyStatusBar(card);
+  var q = sess.list[sess.i];
+
+  if (q.__fc) renderStudyFlashcard(card, q);
+  else renderStudyMcq(card, q);
+
+  host.appendChild(card);
+}
+
+function studyAdvance(){
+  sess.i++; sess.answered = -1; sess.revealed = false; sess.flipped = false; sess.displayOrder = [];
+  renderStudySession();
+}
+
+function renderStudyMcq(card, q){
+  metaChips(card, q);
+  card.appendChild(h('div', 'qtext', q.question));
+
+  var order = qs('f-shuffle-o').checked && sess.mode === 'study' ? shuffle(q.options.map(function(_, i){ return i; }))
+            : q.options.map(function(_, i){ return i; });
+  sess.displayOrder = order;
+
+  var optBtns = [];
+  function renderOptions(){
+    order.forEach(function(origIdx, d){
+      var b = h('button', 'opt');
+      b.type = 'button';
+      b.appendChild(h('span', 'key', String(d+1)));
+      b.appendChild(h('span', null, q.options[origIdx]));
+      b.addEventListener('click', function(){ choose(d); });
+      card.appendChild(b);
+      optBtns.push(b);
+    });
+  }
+
+  var confirmBtn = null;
+  if (!qs('f-instant').checked){
+    var tb = h('div', 'toolbar');
+    confirmBtn = h('button', 'btn primary', '提交答案');
+    confirmBtn.disabled = true;
+    confirmBtn.addEventListener('click', function(){ if (sess.answered >= 0) revealMcq(q, card, optBtns, order); });
+    tb.appendChild(confirmBtn);
+    card.appendChild(tb);
+  }
+
+  function choose(d){
+    if (sess.revealed) return;
+    if (qs('f-instant').checked){
+      revealMcq(q, card, optBtns, order, d);
+    } else {
+      sess.answered = d;
+      optBtns.forEach(function(b, i){ b.classList.toggle('sel', i === d); });
+      if (confirmBtn) confirmBtn.disabled = false;
+    }
+  }
+
+  renderOptions();
+
+  if (sess.revealed) revealMcq(q, card, optBtns, order, sess.answered, true);
+
+  var nav = h('div', 'toolbar');
+  var next = h('button', 'btn primary', (sess.i + 1 >= sess.list.length) ? '完成並檢視結果' : '下一題（空白鍵）');
+  next.addEventListener('click', studyAdvance);
+  if (!qs('f-instant').checked && !sess.revealed) next.disabled = sess.answered < 0;
+  nav.appendChild(next);
+  var stop = h('button', 'btn', '結束練習');
+  stop.addEventListener('click', function(){ endSession(); });
+  nav.appendChild(stop);
+  card.appendChild(nav);
+}
+
+function revealMcq(q, card, optBtns, order, chosen, rerender){
+  if (chosen == null) chosen = sess.answered;
+  if (chosen < 0) return;
+  if (!rerender && sess.revealed) return;
+  if (!rerender){
+    sess.answered = chosen;
+    sess.revealed = true;
+    var correctOrig = q.answer;
+    var isRight = order[chosen] === correctOrig;
+    recordAnswer(q.id, isRight);
+    if (isRight){ sess.nRight++; wrongCorrectStreak(q.id); }
+    else { sess.nWrong++; wrongAdd(q.id, q.options[order[chosen]]); }
+    save();
+  }
+  var correctPos = order.indexOf(q.answer);
+  optBtns.forEach(function(b, i){
+    b.disabled = true;
+    if (i === correctPos) b.classList.add('right');
+    else if (i === chosen) b.classList.add('wrong');
+  });
+  var isRightNow = chosen === correctPos;
+  var fb = h('div', 'fb ' + (isRightNow ? 'ok' : 'bad'));
+  fb.appendChild(h('div', 'verdict', isRightNow ? '✓ 答對了' : '✗ 答錯了'));
+  renderExplanation(fb, q, false);
+  card.appendChild(fb);
+
+  var navs = card.querySelectorAll('.toolbar');
+  var lastNav = navs[navs.length-1];
+  if (lastNav){
+    var next = lastNav.querySelector('button');
+    if (next) next.disabled = false;
+  }
+}
+
+function renderStudyFlashcard(card, q){
+  metaChips(card, q);
+  var box = h('div', 'fc-card');
+  box.setAttribute('role','button');
+  box.setAttribute('tabindex','0');
+  var front = h('div', 'fc-front', q.question);
+  box.appendChild(front);
+
+  function buildBack(){
+    clearEl(box);
+    box.appendChild(h('div', 'small muted', '答案'));
+    box.appendChild(h('div', 'fc-back', q.answer_text || '（本題無答案文字）'));
+    if (q.explanation_en) box.appendChild(h('div', 'small muted', q.explanation_en));
+    if (q.explanation_zh && String(q.explanation_zh).trim()) box.appendChild(h('div', 'zh small', q.explanation_zh));
+    var rr = h('div', 'rate-row');
+    [['忘記','rate-forgot',0],['記得一點','rate-vague',1],['記得','rate-knew',2]].forEach(function(item){
+      var b = h('button', 'btn ' + item[1], item[0]);
+      b.addEventListener('click', function(){
+        rateFC(q.id, item[2]);
+        sess.nFC++;
+        studyAdvance();
+      });
+      rr.appendChild(b);
+    });
+    card.insertBefore(rr, box.nextSibling);
+  }
+  function flip(){
+    if (sess.flipped) return;
+    sess.flipped = true;
+    buildBack();
+  }
+  box.addEventListener('click', flip);
+  box.addEventListener('keydown', function(e){ if (e.key === 'Enter'){ flip(); } });
+  card.appendChild(box);
+
+  var hint = h('p', 'fc-hint', '點擊卡片或按空白鍵翻面，翻面後自我評分');
+  card.appendChild(hint);
+
+  var nav = h('div', 'toolbar');
+  var skip = h('button', 'btn', '跳過（不計分）');
+  skip.addEventListener('click', function(){ studyAdvance(); });
+  nav.appendChild(skip);
+  card.appendChild(nav);
+
+  if (sess.flipped) buildBack();
+}
+
+function renderSessionSummary(host){
+  var card = h('div', 'card');
+  card.appendChild(h('h1', null, '練習完成'));
+  var total = sess.list.length;
+  var line = h('p', null);
+  line.appendChild(h('span', null, '選擇題 ' + (sess.nRight + sess.nWrong) + ' 題：答對 ' + sess.nRight + ' 題、答錯 ' + sess.nWrong + ' 題'));
+  card.appendChild(line);
+  if (sess.nRight + sess.nWrong > 0)
+    card.appendChild(h('p', 'muted', '本次選擇題正確率 ' + pct(sess.nRight, sess.nRight + sess.nWrong) + '%。'));
+  if (sess.nFC > 0)
+    card.appendChild(h('p', null, '字卡自评 ' + sess.nFC + ' 張，已依記憶狀況排入復習佇列（到期 ' + dueCount() + ' 張）。'));
+  var tb = h('div', 'toolbar');
+  var again = h('button', 'btn primary', '返回設定');
+  again.addEventListener('click', function(){ endSession(); });
+  tb.appendChild(again);
+  var goWrong = h('button', 'btn', '檢視錯題本');
+  goWrong.addEventListener('click', function(){ endSession(); showView('wrong'); });
+  tb.appendChild(goWrong);
+  card.appendChild(tb);
+  host.appendChild(card);
+  sess = null;
+}
+function endSession(){
+  sess = null;
+  qs('study-setup').hidden = false;
+  clearEl(qs('study-host'));
+  updatePoolPreview();
+}
+
+/* ================= 錯題本 ================= */
+function wrongIdsSorted(){
+  var ids = Object.keys(store.wrong).filter(function(id){ return byId.has(id); });
+  ids.sort(function(a,b){ return (store.wrong[b].at||0) - (store.wrong[a].at||0); });
+  return ids;
+}
+function renderWrongView(){
+  var host = qs('wrong-host');
+  clearEl(host);
+  var ids = wrongIdsSorted();
+  if (!ids.length){
+    host.appendChild(h('div', 'card muted', '錯題本是空的。在 K書模式答錯選擇題，或字卡自評「忘記」，會自動收錄在這裡。'));
+    return;
+  }
+  ids.forEach(function(id){
+    var q = byId.get(id), w = store.wrong[id];
+    var row = h('div', 'wrong-row');
+    var t = h('div', 't');
+    var preview = q.question.length > 90 ? q.question.slice(0, 90) + '…' : q.question;
+    t.appendChild(h('div', null, preview));
+    var meta = [];
+    meta.push(q.__fc ? '字卡' : '選擇題');
+    if (q.source) meta.push(q.source);
+    if (q.textbook_chapter != null) meta.push('第 ' + q.textbook_chapter + ' 章');
+    meta.push('錯 ' + (w.n||1) + ' 次');
+    if (w.last) meta.push('上次錯答：' + w.last);
+    t.appendChild(h('div', 'meta', meta.join('｜')));
+    row.appendChild(t);
+
+    var btns = h('div', 'toolbar');
+    var drill = h('button', 'btn small primary', '重練');
+    drill.addEventListener('click', function(){
+      showView('study');
+      startSession([q], 'drill', '錯題重練');
+    });
+    btns.appendChild(drill);
+    var rm = h('button', 'btn small', '移除');
+    rm.addEventListener('click', function(){ delete store.wrong[id]; save(); updateWrongBadge(); renderWrongView(); });
+    btns.appendChild(rm);
+    row.appendChild(btns);
+    host.appendChild(row);
+  });
+}
+qs('wrong-drill-all').addEventListener('click', function(){
+  var list = wrongIdsSorted().map(function(id){ return byId.get(id); }).filter(drillable);
+  if (!list.length) return;
+  showView('study');
+  startSession(shuffle(list), 'drill', '錯題本全部重練');
+});
+qs('wrong-clear').addEventListener('click', function(){
+  if (!Object.keys(store.wrong).length) return;
+  if (confirm('確定清空錯題本？（學習統計不受影響）')){
+    store.wrong = {}; save(); updateWrongBadge(); renderWrongView();
+  }
+});
+
+/* ================= 模擬考試 ================= */
+var exam = { state:'setup', sec:'sf', list:[], ans:[], mark:[], idx:0, end:0, dur:0, warned5:false, timerId:null, label:'' };
+
+function examPool(part){
+  if (part == null) return shuffle(MCQS.filter(isMcq));
+  var pref = MCQS.filter(function(q){ return q.part === part && isMcq(q); });
+  var fill = MCQS.filter(function(q){ return q.part == null && isMcq(q); });
+  return shuffle(pref).concat(shuffle(fill));
+}
+
+function renderExamView(){
+  if (exam.state === 'run'){ renderExamRun(); return; }
+  if (exam.state === 'report'){ renderExamReport(); return; }
+  renderExamSetup();
+}
+
+function renderExamSetup(){
+  var host = qs('exam-host');
+  clearEl(host);
+  var card = h('div', 'card');
+  card.appendChild(h('h1', null, '模擬考試'));
+  card.appendChild(h('p', 'muted small', '依 2025-07-01 現行考試大綱（DCO）之計分題配置。題目只從選擇題（MCQ）抽樣：優先抽取對應考科（Part）的題目，不足時以未標 Part 的題目補足，絕不混入字卡。'));
+
+  card.appendChild(h('h2', null, '考試藍圖（計分題）'));
+  ['sf','pa'].forEach(function(k){
+    var bp = BLUEPRINT[k];
+    var t = h('table', 'blue');
+    var thead = h('tr');
+    thead.appendChild(h('th', null, bp.name + '（' + bp.scored + ' 題計分／' + bp.minutes + ' 分鐘）'));
+    thead.appendChild(h('th', null, '題數'));
+    t.appendChild(thead);
+    bp.sub.forEach(function(s){
+      var tr = h('tr');
+      tr.appendChild(h('td', null, s[0]));
+      tr.appendChild(h('td', 'mono-num', String(s[1])));
+      t.appendChild(tr);
+    });
+    card.appendChild(t);
+  });
+  card.appendChild(h('p', 'small muted', '及格標準：原始正確率 70%（實際考試採用換算後量尺分數 ≥ 70，本工具以原始百分比顯示）。'));
+
+  card.appendChild(h('h2', null, '選擇測驗'));
+  var box = h('div', 'sec-choices');
+  var radios = [];
+  function secChoice(radio, title, desc){
+    var lab = h('label', 'sec-choice');
+    lab.appendChild(radio);
+    var div = h('div');
+    div.appendChild(h('div', null, title));
+    div.appendChild(h('div', 'small muted', desc));
+    lab.appendChild(div);
+    radio.addEventListener('change', sync);
+    lab.addEventListener('click', function(){ setTimeout(sync, 0); });
+    box.appendChild(lab);
+    radios.push({radio:radio, lab:lab});
+  }
+  var r1 = h('input'); r1.type='radio'; r1.name='exsec'; r1.value='sf'; if (exam.sec==='sf') r1.checked=true;
+  secChoice(r1, BLUEPRINT.sf.name, BLUEPRINT.sf.scored + ' 題計分／' + BLUEPRINT.sf.minutes + ' 分鐘｜抽樣自 Part 1 選擇題（可用 ' + examPoolCount(1) + ' 題）');
+  var r2 = h('input'); r2.type='radio'; r2.name='exsec'; r2.value='pa'; if (exam.sec==='pa') r2.checked=true;
+  secChoice(r2, BLUEPRINT.pa.name, BLUEPRINT.pa.scored + ' 題計分／' + BLUEPRINT.pa.minutes + ' 分鐘｜抽樣自 Part 2 選擇題（可用 ' + examPoolCount(2) + ' 題）');
+  var r3 = h('input'); r3.type='radio'; r3.name='exsec'; r3.value='custom'; if (exam.sec==='custom') r3.checked=true;
+  secChoice(r3, '自訂測驗', '自行決定題數與分鐘，從全部 ' + MCQS.filter(isMcq).length + ' 題選擇題抽樣（不分 Part）');
+
+  var cf = h('div', 'custom-fields');
+  var cntInp = h('input'); cntInp.type='number'; cntInp.min='5'; cntInp.max='1604'; cntInp.value='30'; cntInp.id='custom-n';
+  var minInp = h('input'); minInp.type='number'; minInp.min='1'; minInp.value='40'; minInp.id='custom-min';
+  var l1 = h('label', null, ' 題數 '); l1.appendChild(cntInp);
+  var l2 = h('label', null, ' 分鐘 '); l2.appendChild(minInp);
+  cf.appendChild(l1); cf.appendChild(l2);
+  box.appendChild(cf);
+  card.appendChild(box);
+
+  function sync(){
+    var v = r1.checked ? 'sf' : r2.checked ? 'pa' : 'custom';
+    exam.sec = v;
+    cf.classList.toggle('show', v === 'custom');
+    radios.forEach(function(r){ r.lab.classList.toggle('checked', r.radio.checked); });
+  }
+  sync();
+
+  var tb = h('div', 'toolbar');
+  var startBtn = h('button', 'btn primary', '開始考試');
+  startBtn.addEventListener('click', function(){
+    var n, min, label, part;
+    if (exam.sec === 'sf'){ n = BLUEPRINT.sf.scored; min = BLUEPRINT.sf.minutes; label = BLUEPRINT.sf.name; part = 1; }
+    else if (exam.sec === 'pa'){ n = BLUEPRINT.pa.scored; min = BLUEPRINT.pa.minutes; label = BLUEPRINT.pa.name; part = 2; }
+    else {
+      n = Math.max(1, parseInt(cntInp.value, 10) || 30);
+      min = Math.max(1, parseInt(minInp.value, 10) || 40);
+      label = '自訂測驗'; part = null;
+    }
+    startExam(label, part, n, min);
+  });
+  tb.appendChild(startBtn);
+  card.appendChild(tb);
+  host.appendChild(card);
+}
+function examPoolCount(part){ return examPool(part).length; }
+
+function startExam(label, part, n, min){
+  var pool = examPool(part).slice(0, n);
+  if (pool.length < n){
+    if (!confirm('可用題目只有 ' + pool.length + ' 題（低於目標 ' + n + ' 題），照常進行？')) return;
+  }
+  if (!pool.length){ alert('沒有可用的選擇題。'); return; }
+  exam.state = 'run';
+  exam.label = label;
+  exam.list = shuffle(pool);
+  exam.ans = new Array(exam.list.length).fill(-1);
+  exam.mark = new Array(exam.list.length).fill(false);
+  exam.idx = 0;
+  exam.dur = min * 60;
+  exam.end = Date.now() + min * 60000;
+  exam.warned5 = false;
+  clearInterval(exam.timerId);
+  exam.timerId = setInterval(examTick, 500);
+  showView('exam');
+}
+function examTick(){
+  if (exam.state !== 'run') return;
+  var remain = (exam.end - Date.now()) / 1000;
+  var t = qs('exam-timer');
+  if (t){
+    t.textContent = fmtTime(remain);
+    t.classList.toggle('warn', remain <= 300 && remain > 60);
+    t.classList.toggle('danger', remain <= 60);
+  }
+  if (remain <= 300 && !exam.warned5){
+    exam.warned5 = true;
+    var b = qs('exam-warn');
+    if (b){ b.hidden = false; b.textContent = '剩餘不足 5 分鐘，請檢查未作答的題目。'; }
+  }
+  if (remain <= 0) submitExam(true);
+}
+function examStatus(i){
+  if (exam.ans[i] >= 0 && exam.mark[i]) return 'ans mk';
+  if (exam.ans[i] >= 0) return 'ans';
+  if (exam.mark[i]) return 'mk';
+  return '';
+}
+function renderExamRun(){
+  var host = qs('exam-host');
+  clearEl(host);
+  var i = exam.idx, q = exam.list[i];
+  var n = exam.list.length;
+
+  var top = h('div', 'card');
+  var topRow = h('div', 'exam-top');
+  topRow.appendChild(h('h1', null, exam.label));
+  var timer = h('div', 'timer mono-num'); timer.id = 'exam-timer';
+  timer.textContent = fmtTime((exam.end - Date.now())/1000);
+  topRow.appendChild(timer);
+  top.appendChild(topRow);
+  var warn = h('div', 'exam-warn-banner'); warn.id = 'exam-warn'; warn.hidden = true;
+  top.appendChild(warn);
+  if (exam.warned5){ warn.hidden = false; warn.textContent = '剩餘不足 5 分鐘，請檢查未作答的題目。'; }
+  var remain0 = (exam.end - Date.now())/1000;
+  timer.classList.toggle('warn', remain0 <= 300 && remain0 > 60);
+  timer.classList.toggle('danger', remain0 <= 60);
+  host.appendChild(top);
+
+  var card = h('div', 'card');
+  card.appendChild(h('div', 'sess-bar', null));
+  var bar = card.lastChild;
+  bar.appendChild(h('span', null, '第 ' + (i+1) + ' / ' + n + ' 題'));
+  var track = h('div', 'track'); var fill = h('div', 'fill');
+  fill.style.width = ((i+1)/n*100) + '%';
+  track.appendChild(fill); bar.appendChild(track);
+  var un = exam.ans.filter(function(a){ return a < 0; }).length;
+  var mk = exam.mark.filter(Boolean).length;
+  bar.appendChild(h('span', 'mono-num', '未答 ' + un + '｜標記 ' + mk));
+
+  metaChips(card, q);
+  card.appendChild(h('div', 'qtext', q.question));
+
+  q.options.forEach(function(optText, oi){
+    var b = h('button', 'opt'); b.type = 'button';
+    b.appendChild(h('span', 'key', String(oi+1)));
+    b.appendChild(h('span', null, optText));
+    if (exam.ans[i] === oi) b.classList.add('sel');
+    b.addEventListener('click', function(){ examChoose(oi); });
+    card.appendChild(b);
+  });
+
+  var nav = h('div', 'exam-nav');
+  var prev = h('button', 'btn', '← 上一題'); prev.disabled = i === 0;
+  prev.addEventListener('click', function(){ examGo(i-1); });
+  var next = h('button', 'btn', '下一題 →'); next.disabled = i === n-1;
+  next.addEventListener('click', function(){ examGo(i+1); });
+  var mkBtn = h('button', 'btn', exam.mark[i] ? '取消標記 ⚑' : '標記本題 ⚑');
+  mkBtn.addEventListener('click', function(){ exam.mark[i] = !exam.mark[i]; renderExamRun(); });
+  var sub = h('button', 'btn primary', '交卷');
+  sub.addEventListener('click', function(){ submitExam(false); });
+  nav.appendChild(prev); nav.appendChild(next); nav.appendChild(mkBtn);
+  nav.appendChild(h('span', 'spacer'));
+  nav.appendChild(sub);
+  card.appendChild(nav);
+  host.appendChild(card);
+
+  var pal = h('div', 'card');
+  pal.appendChild(h('h3', null, '題號導航'));
+  var grid = h('div', 'palette');
+  for (var k = 0; k < n; k++){
+    (function(k){
+      var c = h('button', 'pchip ' + examStatus(k) + (k === i ? ' cur' : ''), String(k+1));
+      c.title = '第 ' + (k+1) + ' 題';
+      c.addEventListener('click', function(){ examGo(k); });
+      grid.appendChild(c);
+    })(k);
+  }
+  pal.appendChild(grid);
+  var legend = h('div', 'legend');
+  var li1 = h('span'); li1.appendChild(h('i')); li1.appendChild(document.createTextNode('未作答 '));
+  var li2 = h('span'); li2.appendChild(h('i', 'a')); li2.appendChild(document.createTextNode('已作答 '));
+  var li3 = h('span'); li3.appendChild(h('i', 'm')); li3.appendChild(document.createTextNode('邊框=標記 ⚑ '));
+  legend.appendChild(li1); legend.appendChild(li2); legend.appendChild(li3);
+  pal.appendChild(legend);
+  host.appendChild(pal);
+}
+function examChoose(oi){
+  if (exam.state !== 'run') return;
+  exam.ans[exam.idx] = oi;
+  renderExamRun();
+}
+function examGo(k){
+  exam.idx = Math.max(0, Math.min(exam.list.length-1, k));
+  renderExamRun();
+}
+function submitExam(auto){
+  if (exam.state !== 'run') return;
+  if (!auto){
+    var un = exam.ans.filter(function(a){ return a < 0; }).length;
+    var msg = un ? '尚有 ' + un + ' 題未作答，確定交卷？' : '確定交卷？';
+    if (!confirm(msg)) return;
+  }
+  clearInterval(exam.timerId);
+  exam.state = 'report';
+  var correct = 0;
+  exam.list.forEach(function(q, i){
+    if (exam.ans[i] < 0) return;
+    var right = exam.ans[i] === q.answer;
+    recordAnswer(q.id, right);
+    if (right){ wrongCorrectStreak(q.id); }
+    else { wrongAdd(q.id, q.options[exam.ans[i]]); }
+    if (right) correct++;
+  });
+  save();
+  store.exams.push({ t: Date.now(), label: exam.label, n: exam.list.length, c: correct });
+  if (store.exams.length > 20) store.exams = store.exams.slice(-20);
+  save();
+  updateWrongBadge();
+  if (auto && currentView !== 'exam'){
+    try { alert('考試時間已結束，已自動交卷。請切換到「模擬考試」分頁檢視成績報告。'); } catch(e){}
+  }
+  renderExamReport();
+}
+
+function renderExamReport(){
+  var host = qs('exam-host');
+  clearEl(host);
+  var n = exam.list.length, correct = 0;
+  exam.list.forEach(function(q, i){ if (exam.ans[i] === q.answer) correct++; });
+  var p = pct(correct, n);
+  var pass = p >= 70;
+
+  var card = h('div', 'card');
+  card.appendChild(h('h1', null, '成績報告｜' + exam.label));
+  var hero = h('div', 'score-hero');
+  var num = h('div', 'score-num mono-num', p + '%');
+  hero.appendChild(num);
+  var col = h('div');
+  col.appendChild(h('div', null, '原始正確 ' + correct + ' / ' + n + ' 題'));
+  col.appendChild(h('div', 'small muted', '及格線：原始正確率 70%（實際考試以換算量尺分數 ≥ 70 判定）'));
+  hero.appendChild(col);
+  var pill = h('div', 'pass-pill ' + (pass ? 'pass' : 'fail'), pass ? '達標' : '未達標');
+  hero.appendChild(pill);
+  card.appendChild(hero);
+  var tb = h('div', 'toolbar no-print');
+  var back = h('button', 'btn primary', '返回測驗設定');
+  back.addEventListener('click', function(){ exam.state = 'setup'; renderExamSetup(); });
+  tb.appendChild(back);
+  var pr = h('button', 'btn', '列印報告');
+  pr.addEventListener('click', function(){ window.print(); });
+  tb.appendChild(pr);
+  card.appendChild(tb);
+  host.appendChild(card);
+
+  function groupBreakdown(title, keyFn){
+    var g = {};
+    exam.list.forEach(function(q, i){
+      var k = keyFn(q);
+      var rec = g[k] || (g[k] = {c:0, n:0});
+      rec.n++;
+      if (exam.ans[i] === q.answer) rec.c++;
+    });
+    var sec = h('div', 'card');
+    sec.appendChild(h('h2', null, title));
+    var bars = h('div', 'bars');
+    Object.keys(g).sort().forEach(function(k){
+      var rec = g[k], acc = pct(rec.c, rec.n);
+      var row = h('div', 'row');
+      row.appendChild(h('span', null, k));
+      var track = h('div', 'track'); var fill = h('div', 'fill ' + (acc < 50 ? 'lo' : acc < 70 ? 'mid' : 'hi'));
+      fill.style.width = acc + '%';
+      track.appendChild(fill); row.appendChild(track);
+      row.appendChild(h('span', 'mono-num small', rec.c + '/' + rec.n + '（' + acc + '%）'));
+      bars.appendChild(row);
+    });
+    sec.appendChild(bars);
+    host.appendChild(sec);
+  }
+  groupBreakdown('各領域表現', domainOf);
+  groupBreakdown('各來源表現', function(q){ return q.source || '未標來源'; });
+
+  var rev = h('div', 'card');
+  rev.appendChild(h('h2', null, '完整檢討（' + n + ' 題）'));
+  rev.appendChild(h('p', 'small muted no-print', '包含未作答的題目。綠色＝正確答案，紅色＝你的作答。'));
+  var review = h('div'); review.id = 'exam-review';
+  exam.list.forEach(function(q, i){
+    var item = h('div', 'review-item');
+    item.appendChild(h('h3', null, '第 ' + (i+1) + ' 題'));
+    item.appendChild(h('div', 'qtext', q.question));
+    var my = exam.ans[i];
+    q.options.forEach(function(optText, oi){
+      var line = h('div', 'rev-opt');
+      line.appendChild(document.createTextNode(String(oi+1) + '. ' + optText));
+      if (oi === q.answer){ line.classList.add('correct'); line.appendChild(h('span', 'tag', '正解')); }
+      if (my === oi && oi !== q.answer){ line.classList.add('mine-bad'); line.appendChild(h('span', 'tag', '你的作答')); }
+      item.appendChild(line);
+    });
+    if (my < 0) item.appendChild(h('div', 'unanswered-tag', '（本題未作答）'));
+    else if (my === q.answer) item.appendChild(h('div', 'small', '你的作答：' + q.options[my] + '（正確）'));
+    var fb = h('div', 'fb'); fb.style.marginTop = '10px';
+    renderExplanation(fb, q, true);
+    if (fb.childNodes.length) item.appendChild(fb);
+    review.appendChild(item);
+  });
+  rev.appendChild(review);
+  host.appendChild(rev);
+}
+
+/* ================= 學習統計 ================= */
+function renderStatsView(){
+  var host = qs('stats-host');
+  clearEl(host);
+  var ids = Object.keys(store.stats).filter(function(id){ return byId.has(id) && store.stats[id].a > 0; });
+  var totalA = 0, totalC = 0;
+  ids.forEach(function(id){ totalA += store.stats[id].a; totalC += store.stats[id].c; });
+
+  var card = h('div', 'card');
+  card.appendChild(h('h1', null, '學習統計'));
+  if (!ids.length){
+    card.appendChild(h('p', 'muted', '還沒有學習紀錄。到「K書模式」開始練習後，這裡會顯示進度、各領域與各章節正確率。'));
+  } else {
+    var grid = h('div', 'toolbar');
+    grid.appendChild(chipLine('已作答題數', ids.length + ' / ' + QS.length + ' 題'));
+    grid.appendChild(chipLine('作答總次數', String(totalA)));
+    grid.appendChild(chipLine('整體正確率', pct(totalC, totalA) + '%'));
+    grid.appendChild(chipLine('錯題本', Object.keys(store.wrong).length + ' 題'));
+    grid.appendChild(chipLine('復習佇列到期', dueCount() + ' 張'));
+    card.appendChild(grid);
+  }
+  host.appendChild(card);
+
+  if (!ids.length && !store.exams.length) return;
+
+  if (ids.length){
+    /* 各領域 */
+    var dom = {}, ch = {};
+    ids.forEach(function(id){
+      var q = byId.get(id), s = store.stats[id];
+      var d = domainOf(q);
+      var rd = dom[d] || (dom[d] = {a:0,c:0}); rd.a += s.a; rd.c += s.c;
+      if (q.textbook_chapter != null){
+        var rc = ch[q.textbook_chapter] || (ch[q.textbook_chapter] = {a:0,c:0});
+        rc.a += s.a; rc.c += s.c;
+      }
+    });
+    var domCard = h('div', 'card');
+    domCard.appendChild(h('h2', null, '各領域正確率（作答過的題目）'));
+    domCard.appendChild(makeBars(dom));
+    host.appendChild(domCard);
+
+    /* 各章節 */
+    var chCard = h('div', 'card');
+    chCard.appendChild(h('h2', null, '各章節正確率'));
+    var chObj = {};
+    Object.keys(ch).forEach(function(k){ chObj['第 ' + k + ' 章'] = ch[k]; });
+    if (!Object.keys(chObj).length) chCard.appendChild(h('p', 'muted small', '作答過的題目都沒有標記課本章節。'));
+    else chCard.appendChild(makeBars(chObj, function(k){ return parseInt(k.replace(/\D/g,''),10)||0; }));
+    host.appendChild(chCard);
+  }
+
+  /* 歷次考試 */
+  if (store.exams.length){
+    var exCard = h('div', 'card');
+    exCard.appendChild(h('h2', null, '歷次模擬考（最近 ' + store.exams.length + ' 次）'));
+    var list = h('div');
+    store.exams.slice(-10).reverse().forEach(function(e){
+      var row = h('div', 'wrong-row');
+      var d = new Date(e.t);
+      var ds = d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0') + ' ' + String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0');
+      row.appendChild(h('div', 't', e.label + '｜' + e.c + '/' + e.n + '（' + pct(e.c, e.n) + '%）　' + ds));
+      list.appendChild(row);
+    });
+    exCard.appendChild(list);
+    host.appendChild(exCard);
+  }
+
+  /* 重設 */
+  var resetCard = h('div', 'card no-print');
+  var rb = h('button', 'btn danger-ghost', '清空學習進度（含錯題本與復習佇列）');
+  rb.addEventListener('click', function(){
+    if (confirm('確定清空所有學習紀錄？題目本身不受影響，無法復原。')){
+      store.stats = {}; store.wrong = {}; store.fc = {}; store.exams = [];
+      save(); updateWrongBadge(); updateQueueBar(); renderStatsView();
+    }
+  });
+  resetCard.appendChild(rb);
+  host.appendChild(resetCard);
+}
+function chipLine(label, value){
+  var c = h('div', 'card');
+  c.style.margin = '0'; c.style.padding = '10px 16px'; c.style.flex = '1'; c.style.minWidth = '150px';
+  c.appendChild(h('div', 'small muted', label));
+  c.appendChild(h('div', null, value)).style.fontSize = '1.15rem';
+  return c;
+}
+function makeBars(obj, sortFn){
+  var wrap = h('div', 'bars');
+  var keys = Object.keys(obj);
+  if (sortFn) keys.sort(function(a,b){ return sortFn(a) - sortFn(b); });
+  else keys.sort();
+  keys.forEach(function(k){
+    var rec = obj[k], acc = pct(rec.c, rec.a);
+    var row = h('div', 'row');
+    row.appendChild(h('span', null, k));
+    var track = h('div', 'track'); var fill = h('div', 'fill ' + (acc < 50 ? 'lo' : acc < 70 ? 'mid' : 'hi'));
+    fill.style.width = acc + '%';
+    track.appendChild(fill); row.appendChild(track);
+    row.appendChild(h('span', 'mono-num small', acc + '%（' + rec.c + '/' + rec.a + '）'));
+    wrap.appendChild(row);
+  });
+  return wrap;
+}
+
+/* ================= 鍵盤 ================= */
+document.addEventListener('keydown', function(e){
+  var tag = (e.target && e.target.tagName) || '';
+  if (/^(INPUT|SELECT|TEXTAREA)$/.test(tag)) return;
+
+  if (exam.state === 'run' && currentView === 'exam' && !qs('view-exam').hidden){
+    var q = exam.list[exam.idx];
+    if (e.key >= '1' && e.key <= '4'){
+      var oi = Number(e.key) - 1;
+      if (q.options[oi] != null){ e.preventDefault(); examChoose(oi); }
+      return;
+    }
+    if (e.key === 'ArrowLeft'){ e.preventDefault(); examGo(exam.idx-1); return; }
+    if (e.key === 'ArrowRight'){ e.preventDefault(); examGo(exam.idx+1); return; }
+    if (e.code === 'Space' && tag !== 'BUTTON'){ e.preventDefault(); examGo(exam.idx+1); return; }
+    return;
+  }
+
+  if (currentView === 'study' && sess && !qs('view-study').hidden){
+    var cur = sess.list[sess.i];
+    if (cur && cur.__fc && e.code === 'Space' && tag !== 'BUTTON'){
+      e.preventDefault();
+      var card = qs('study-host').querySelector('.fc-card');
+      if (card && !sess.flipped) card.click();
+      else studyAdvance();
+      return;
+    }
+    if (cur && !cur.__fc){
+      if (e.key >= '1' && e.key <= '4'){
+        var oi2 = Number(e.key) - 1;
+        if (sess.displayOrder[oi2] != null && !sess.revealed){
+          e.preventDefault();
+          var btns = qs('study-host').querySelectorAll('.opt');
+          if (btns[oi2]) btns[oi2].click();
+        }
+        return;
+      }
+      if (e.code === 'Space' && tag !== 'BUTTON' && sess.revealed){ e.preventDefault(); studyAdvance(); return; }
+      if (e.key === 'ArrowRight' && sess.revealed){ e.preventDefault(); studyAdvance(); return; }
+    }
+  }
+});
+
+/* 考試中離開頁面提醒 */
+window.addEventListener('beforeunload', function(e){
+  if (exam.state === 'run'){ e.preventDefault(); e.returnValue = ''; }
+});
+
+/* ================= 初始化 ================= */
+(function init(){
+  var srcSel = qs('f-source');
+  SOURCES.forEach(function(s){
+    var o = document.createElement('option'); o.value = s; o.textContent = s;
+    srcSel.appendChild(o);
+  });
+  var chSel = qs('f-chapter');
+  for (var c = 1; c <= 26; c++){
+    var o2 = document.createElement('option'); o2.value = String(c); o2.textContent = '第 ' + c + ' 章';
+    chSel.appendChild(o2);
+  }
+  ['f-part','f-type','f-source','f-chapter','f-count'].forEach(function(id){
+    qs(id).addEventListener('change', updatePoolPreview);
+  });
+  applyTheme();
+  updateWrongBadge();
+  updateQueueBar();
+  updatePoolPreview();
+  showView('study');
+})();
+
+})();
+</script>
+</body>
+</html>

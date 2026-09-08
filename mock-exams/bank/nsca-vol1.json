@@ -1,0 +1,1062 @@
+{
+  "source": "nsca-cscs-practice-exam-volume-one",
+  "source_url": "https://idoc.pub/documents/cscs-practice-exampdf-546g30okz7n8 (mirror: https://www.pdfcoffee.com/cscs-prac-exam-pdf-free.html)",
+  "retrieved_utc": "2026-09-08",
+  "license_note": "Legacy official NSCA 'CSCS Practice Exam Volume One' (copyright 2006, NSCA Certification Commission, second-edition era). Recovered from OCR text previews of the scanned booklet (two independent mirrors cross-checked). 50 of 64 questions shipped: Q28-40 dropped (video/photo-dependent, media lost) and Q63 dropped (volume-load data table corrupted in OCR). Answer key and per-question domain labels are official (self-scoring/reference sheets); minor OCR typos repaired; a few option strings reconstructed from column-interleaved OCR where the correct reading is unambiguous.",
+  "questions": [
+    {
+      "id": "nsca-vol1-001",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "During the upward movement phase of the low-bar back squat, which of the following muscles acts synergistically to the rectus femoris?",
+      "options": [
+        "biceps femoris",
+        "rectus abdominis",
+        "anterior tibialis",
+        "iliopsoas"
+      ],
+      "answer": 0,
+      "answer_text": "biceps femoris",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q1"
+      ]
+    },
+    {
+      "id": "nsca-vol1-002",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following upper arm muscle groups and types of muscle actions are associated with the dumbbell biceps curl exercise? Primary muscle group / primary muscle action: I. flexors, eccentric  II. extensors, eccentric  III. flexors, concentric  IV. extensors, concentric",
+      "options": [
+        "II and III only",
+        "I and IV only",
+        "I and III only",
+        "II and IV only"
+      ],
+      "answer": 2,
+      "answer_text": "I and III only",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q2",
+        "table-question"
+      ]
+    },
+    {
+      "id": "nsca-vol1-003",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following is an approximate rest interval for a middle distance runner performing 800-meter (875-yd) running intervals in 2 minutes?",
+      "options": [
+        "1 minute",
+        "2 minutes",
+        "4 minutes",
+        "6 minutes"
+      ],
+      "answer": 3,
+      "answer_text": "6 minutes",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q3"
+      ]
+    },
+    {
+      "id": "nsca-vol1-004",
+      "part": 1,
+      "domain": "Nutrition",
+      "textbook_chapter": null,
+      "question": "A 165-pound (75-kg) athlete has an average daily intake of 450 grams of carbohydrate, 75 grams of protein, and 100 grams of fat. What percent of the total kilocalorie intake is carbohydrate?",
+      "options": [
+        "72%",
+        "60%",
+        "45%",
+        "25%"
+      ],
+      "answer": 1,
+      "answer_text": "60%",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q4"
+      ]
+    },
+    {
+      "id": "nsca-vol1-005",
+      "part": 1,
+      "domain": "Nutrition",
+      "textbook_chapter": null,
+      "question": "A 110-pound (50-kg) marathon runner started her pre-race taper and chose to carbohydrate load prior to the race. Approximately how many grams of carbohydrates should she consume per day?",
+      "options": [
+        "100 g",
+        "500 g",
+        "880 g",
+        "1100 g"
+      ],
+      "answer": 1,
+      "answer_text": "500 g",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q5"
+      ]
+    },
+    {
+      "id": "nsca-vol1-006",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "As compared to males, the potential for force production of females per muscle cross-sectional area is:",
+      "options": [
+        "lower",
+        "equal",
+        "higher",
+        "dependent on the type of muscle"
+      ],
+      "answer": 1,
+      "answer_text": "equal",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q6"
+      ]
+    },
+    {
+      "id": "nsca-vol1-007",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following cardiovascular adaptations to chronic aerobic exercise contribute the most to improved aerobic endurance performance?",
+      "options": [
+        "increased maximal cardiac output",
+        "decreased resting blood pressure",
+        "decreased resting heart rate",
+        "increased submaximal arterial-venous oxygen (a-vO2) difference"
+      ],
+      "answer": 0,
+      "answer_text": "increased maximal cardiac output",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q7"
+      ]
+    },
+    {
+      "id": "nsca-vol1-008",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following events occurs in the hamstring muscles during the concentric muscle action of the leg (knee) curl exercise?",
+      "options": [
+        "chloride ions are released inside the muscle fiber",
+        "each sarcomere is stimulated by a motor neuron",
+        "the actin cross-bridges attach to the myosin filaments",
+        "the H-zone decreases as the Z-discs are pulled toward each other"
+      ],
+      "answer": 3,
+      "answer_text": "the H-zone decreases as the Z-discs are pulled toward each other",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q8"
+      ]
+    },
+    {
+      "id": "nsca-vol1-009",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "The depletion of which of the following fuel sources may contribute to fatigue in prolonged aerobic endurance events AND repeated anaerobic exercise bouts?",
+      "options": [
+        "muscle glycogen",
+        "triglycerides",
+        "free fatty acids",
+        "creatine phosphate"
+      ],
+      "answer": 0,
+      "answer_text": "muscle glycogen",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q9"
+      ]
+    },
+    {
+      "id": "nsca-vol1-010",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following competitive situations would inspire an athlete with a high motive to achieve success (MAS)?",
+      "options": [
+        "a very easy competition in which success is virtually guaranteed",
+        "an extremely difficult situation in which the likelihood of success is limited",
+        "a competition that causes a fear that there is a threat to self-esteem",
+        "a challenging situation in which the probability of success to failure is even"
+      ],
+      "answer": 3,
+      "answer_text": "a challenging situation in which the probability of success to failure is even",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q10"
+      ]
+    },
+    {
+      "id": "nsca-vol1-011",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following is a characteristic of fast-twitch muscle fibers?",
+      "options": [
+        "low contraction speed",
+        "high resistance to fatigue",
+        "low anaerobic enzyme content",
+        "high power output"
+      ],
+      "answer": 3,
+      "answer_text": "high power output",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q11"
+      ]
+    },
+    {
+      "id": "nsca-vol1-012",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following activities places the LEAST metabolic demand on the phosphagen energy system?",
+      "options": [
+        "tennis",
+        "football",
+        "basketball",
+        "cross-country skiing"
+      ],
+      "answer": 3,
+      "answer_text": "cross-country skiing",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q12"
+      ]
+    },
+    {
+      "id": "nsca-vol1-013",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "During isokinetic testing at high angular velocities (>240 degrees/sec), what is the approximate torque capability of eccentric muscle actions as compared to concentric muscle actions?",
+      "options": [
+        "60% lower",
+        "120% greater",
+        "60% greater",
+        "120% lower"
+      ],
+      "answer": 1,
+      "answer_text": "120% greater",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q13"
+      ]
+    },
+    {
+      "id": "nsca-vol1-014",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following exercises stimulates the GREATEST increase in axial skeleton bone mineral density?",
+      "options": [
+        "biceps curl",
+        "lat pulldown",
+        "shoulder press",
+        "lying triceps extension"
+      ],
+      "answer": 2,
+      "answer_text": "shoulder press",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q14"
+      ]
+    },
+    {
+      "id": "nsca-vol1-015",
+      "part": 1,
+      "domain": "Nutrition",
+      "textbook_chapter": null,
+      "question": "Which of the following is a dietary source of an incomplete protein?",
+      "options": [
+        "legumes",
+        "eggs",
+        "milk",
+        "fish"
+      ],
+      "answer": 0,
+      "answer_text": "legumes",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q15"
+      ]
+    },
+    {
+      "id": "nsca-vol1-016",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following exercises involves a first-class lever?",
+      "options": [
+        "leg (knee) curl",
+        "triceps pushdown",
+        "lateral raise",
+        "dumbbell biceps curl"
+      ],
+      "answer": 1,
+      "answer_text": "triceps pushdown",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q16"
+      ]
+    },
+    {
+      "id": "nsca-vol1-017",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Dynamically pre-stretching a muscle is associated with which type of subsequent muscle action?",
+      "options": [
+        "eccentric",
+        "concentric",
+        "isometric",
+        "kinesthetic"
+      ],
+      "answer": 1,
+      "answer_text": "concentric",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q17"
+      ]
+    },
+    {
+      "id": "nsca-vol1-018",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "All of the following applied program design variables of a resistance training program contribute to significant exercise-induced increases in serum testosterone concentrations EXCEPT:",
+      "options": [
+        "heavy loads",
+        "high volumes",
+        "long rest periods",
+        "large muscle group exercises"
+      ],
+      "answer": 2,
+      "answer_text": "long rest periods",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q18"
+      ]
+    },
+    {
+      "id": "nsca-vol1-019",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following decreases as a result of resistance training and increases due to aerobic training?",
+      "options": [
+        "glycogen stores",
+        "mitochondrial density",
+        "maximal force production",
+        "creatine phosphate stores"
+      ],
+      "answer": 1,
+      "answer_text": "mitochondrial density",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q19"
+      ]
+    },
+    {
+      "id": "nsca-vol1-020",
+      "part": 1,
+      "domain": "Nutrition",
+      "textbook_chapter": null,
+      "question": "Performance decrements from dehydration among aerobic endurance athletes may begin to occur after the loss of what percentage of body mass?",
+      "options": [
+        "1%",
+        "3%",
+        "5%",
+        "7%"
+      ],
+      "answer": 1,
+      "answer_text": "3%",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q20"
+      ]
+    },
+    {
+      "id": "nsca-vol1-021",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "Which of the following causes the largest increase in serum growth hormone concentration?",
+      "options": [
+        "oral ingestion of arginine",
+        "oral ingestion of ornithine",
+        "a low-intensity aerobic exercise session",
+        "a high-intensity resistance exercise session"
+      ],
+      "answer": 3,
+      "answer_text": "a high-intensity resistance exercise session",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q21"
+      ]
+    },
+    {
+      "id": "nsca-vol1-022",
+      "part": 1,
+      "domain": "Nutrition",
+      "textbook_chapter": null,
+      "question": "Which of the following is the MOST appropriate course of action if an eating disorder is suspected with an athlete?",
+      "options": [
+        "Schedule weekly weigh-in sessions.",
+        "Provide comprehensive nutrition information.",
+        "Refer the athlete to the team physician.",
+        "Monitor the athlete's food intake."
+      ],
+      "answer": 2,
+      "answer_text": "Refer the athlete to the team physician.",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q22"
+      ]
+    },
+    {
+      "id": "nsca-vol1-023",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "An untrained college-aged athlete begins a resistance training program. After training for 3 weeks, her strength increases dramatically. Which of the following is the MOST influential factor responsible for this improvement?",
+      "options": [
+        "increased cross-sectional area of muscle fibers",
+        "increased quantity of muscle fibers",
+        "improved ratio of muscle to fat components",
+        "improved neuromuscular efficiency"
+      ],
+      "answer": 3,
+      "answer_text": "improved neuromuscular efficiency",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q23"
+      ]
+    },
+    {
+      "id": "nsca-vol1-024",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "All of the following are potential indicators of overtraining EXCEPT:",
+      "options": [
+        "decreased muscle glycogen stores",
+        "increased sleep disturbances",
+        "decreased exercise heart rate",
+        "increased resting blood pressure"
+      ],
+      "answer": 2,
+      "answer_text": "decreased exercise heart rate",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q24"
+      ]
+    },
+    {
+      "id": "nsca-vol1-025",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "When lifting maximal loads, the use of a weight belt may provide the MOST benefit when performing which of the following exercises?",
+      "options": [
+        "machine shoulder press",
+        "bench press",
+        "hip sled",
+        "front squat"
+      ],
+      "answer": 3,
+      "answer_text": "front squat",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q25"
+      ]
+    },
+    {
+      "id": "nsca-vol1-026",
+      "part": 1,
+      "domain": "Nutrition",
+      "textbook_chapter": null,
+      "question": "A 6-foot, 2-inch (188 cm), 220-pound (100-kg) college football player desires to gain muscle weight. Which of the following should be his first nutritional priority if his current 3000 calories/day intake consists of 18% protein (1.4 g/kg), 55% carbohydrate (4.1 g/kg), and 27% fat (0.9 g/kg)?",
+      "options": [
+        "increase calories",
+        "increase protein",
+        "decrease fat",
+        "decrease carbohydrate"
+      ],
+      "answer": 0,
+      "answer_text": "increase calories",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q26"
+      ]
+    },
+    {
+      "id": "nsca-vol1-027",
+      "part": 1,
+      "domain": "Exercise Sciences",
+      "textbook_chapter": null,
+      "question": "During a single aerobic exercise session, oxygen is delivered to the working muscles at an elevated rate due to an increase in",
+      "options": [
+        "total blood hemoglobin.",
+        "cardiac output.",
+        "blood glucose.",
+        "plasma volume."
+      ],
+      "answer": 1,
+      "answer_text": "cardiac output.",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q27"
+      ]
+    },
+    {
+      "id": "nsca-vol1-041",
+      "part": 2,
+      "domain": "Exercise Technique",
+      "textbook_chapter": null,
+      "question": "How is the exercise technique needed for jogging modified when performing a warm-up drill for plyometrics?",
+      "options": [
+        "greatly increasing hip and knee flexion",
+        "not allowing the heels to touch the ground",
+        "extending the knees to touch the heels to the buttocks",
+        "limiting multidirectional changes"
+      ],
+      "answer": 1,
+      "answer_text": "not allowing the heels to touch the ground",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q41"
+      ]
+    },
+    {
+      "id": "nsca-vol1-042",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "Which of the following exercises requires the MOST similar quadriceps muscle function as landing from a rebound in basketball?",
+      "options": [
+        "alternate leg bound",
+        "downhill running",
+        "plyometric jump to box",
+        "resisted sprinting"
+      ],
+      "answer": 1,
+      "answer_text": "downhill running",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q42"
+      ]
+    },
+    {
+      "id": "nsca-vol1-043",
+      "part": 2,
+      "domain": "Testing and Evaluation",
+      "textbook_chapter": null,
+      "question": "Which of the following will be improved if the same strength and conditioning professional evaluates an athlete's body composition during the pre-season AND the post-season?",
+      "options": [
+        "reliability",
+        "validity",
+        "variability",
+        "subjectivity"
+      ],
+      "answer": 0,
+      "answer_text": "reliability",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q43"
+      ]
+    },
+    {
+      "id": "nsca-vol1-044",
+      "part": 2,
+      "domain": "Testing and Evaluation",
+      "textbook_chapter": null,
+      "question": "A college baseball player was tested ten weeks before the start of the season with these results: 1RM bench press: 275 pounds (125 kg); vertical jump: 24 inches (61 cm); T-Test: 11.6 seconds; 40-yard sprint: 4.8 seconds; 1-minute sit-up: 37. Which of the following need to be improved in the pre-season training program?",
+      "options": [
+        "agility and muscular strength",
+        "power and local muscular endurance",
+        "power and muscular strength",
+        "agility and local muscular endurance"
+      ],
+      "answer": 3,
+      "answer_text": "agility and local muscular endurance",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q44",
+        "table-question"
+      ]
+    },
+    {
+      "id": "nsca-vol1-045",
+      "part": 2,
+      "domain": "Exercise Technique",
+      "textbook_chapter": null,
+      "question": "Which of the following muscles is an antagonist to the deltoid muscle during the upward movement phase of the seated barbell shoulder press?",
+      "options": [
+        "serratus anterior",
+        "latissimus dorsi",
+        "supraspinatus",
+        "trapezius"
+      ],
+      "answer": 1,
+      "answer_text": "latissimus dorsi",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q45"
+      ]
+    },
+    {
+      "id": "nsca-vol1-046",
+      "part": 2,
+      "domain": "Exercise Technique",
+      "textbook_chapter": null,
+      "question": "As the rear leg swings forward for the next stride in sprinting, which of the following muscle groups (of that same leg) eccentrically controls forward momentum?",
+      "options": [
+        "quadriceps",
+        "gastrocnemius",
+        "iliopsoas",
+        "hamstrings"
+      ],
+      "answer": 3,
+      "answer_text": "hamstrings",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q46"
+      ]
+    },
+    {
+      "id": "nsca-vol1-047",
+      "part": 2,
+      "domain": "Testing and Evaluation",
+      "textbook_chapter": null,
+      "question": "A junior college basketball forward is administered a battery of tests to determine her training status. Based upon the results shown below, her training program should be designed to emphasize improvement in which of the following areas? Height: 69 inches (175 cm); Weight: 150 pounds (68 kg); Percent body fat: 20%; 1RM bench press: 100 pounds (45 kg); 1RM squat: 215 pounds (98 kg); Vertical jump: 19 inches (48 cm).",
+      "options": [
+        "body composition",
+        "upper body strength",
+        "lower body strength",
+        "anaerobic power"
+      ],
+      "answer": 1,
+      "answer_text": "upper body strength",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q47",
+        "table-question"
+      ]
+    },
+    {
+      "id": "nsca-vol1-048",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "During a single training session, which of the following exercise sequences is the MOST appropriate for the strength/power phase of an athlete's program?",
+      "options": [
+        "power clean, bench press, back squat, bent-over row, leg (knee) curl",
+        "leg press, front squat, snatch, push press, incline bench press",
+        "lunge, pec deck, hip ab/adduction, snatch, lateral raise",
+        "push press, shoulder press, power clean, deadlift, power pull"
+      ],
+      "answer": 0,
+      "answer_text": "power clean, bench press, back squat, bent-over row, leg (knee) curl",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q48"
+      ]
+    },
+    {
+      "id": "nsca-vol1-049",
+      "part": 2,
+      "domain": "Exercise Technique",
+      "textbook_chapter": null,
+      "question": "When running, which of the following contributes the most to minimizing the braking effect of a heel foot strike?",
+      "options": [
+        "eccentric hip extension",
+        "concentric hip extension",
+        "eccentric hip adduction",
+        "concentric hip adduction"
+      ],
+      "answer": 1,
+      "answer_text": "concentric hip extension",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q49"
+      ]
+    },
+    {
+      "id": "nsca-vol1-050",
+      "part": 2,
+      "domain": "Exercise Technique",
+      "textbook_chapter": null,
+      "question": "Which of the following is the MOST appropriate type of surface for performing high-intensity lower-body plyometric drills?",
+      "options": [
+        "artificial turf",
+        "grass field",
+        "minitrampoline",
+        "outdoor basketball court"
+      ],
+      "answer": 1,
+      "answer_text": "grass field",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q50"
+      ]
+    },
+    {
+      "id": "nsca-vol1-051",
+      "part": 2,
+      "domain": "Exercise Technique",
+      "textbook_chapter": null,
+      "question": "In a turn-and-run maneuver when transitioning from a backpedal into a forward sprint in the same direction, which of the following body parts initiates the movement?",
+      "options": [
+        "head",
+        "shoulders",
+        "hips",
+        "feet"
+      ],
+      "answer": 0,
+      "answer_text": "head",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q51"
+      ]
+    },
+    {
+      "id": "nsca-vol1-052",
+      "part": 2,
+      "domain": "Testing and Evaluation",
+      "textbook_chapter": null,
+      "question": "Which of the following sequences will produce the MOST reliable results? 1. T-Test  2. 1RM incline bench press  3. 1RM power clean  4. 1-minute sit-up test",
+      "options": [
+        "3, 1, 4, 2",
+        "1, 3, 2, 4",
+        "4, 2, 1, 3",
+        "2, 3, 1, 4"
+      ],
+      "answer": 1,
+      "answer_text": "1, 3, 2, 4",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q52",
+        "table-question"
+      ]
+    },
+    {
+      "id": "nsca-vol1-053",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "In response to a heavy loading session, the muscle groups stressed in which of the following exercises require the longest recovery time?",
+      "options": [
+        "bench press",
+        "leg (knee) extension",
+        "front squat",
+        "dumbbell chest fly"
+      ],
+      "answer": 2,
+      "answer_text": "front squat",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q53"
+      ]
+    },
+    {
+      "id": "nsca-vol1-054",
+      "part": 2,
+      "domain": "Testing and Evaluation",
+      "textbook_chapter": null,
+      "question": "Which of the following is a test for aerobic power?",
+      "options": [
+        "1 RM power clean",
+        "vertical jump",
+        "T-Test",
+        "1.5 mile run"
+      ],
+      "answer": 3,
+      "answer_text": "1.5 mile run",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q54"
+      ]
+    },
+    {
+      "id": "nsca-vol1-055",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "Which of the following is the MOST sport-specific exercise for a sprinter?",
+      "options": [
+        "dumbbell lunge",
+        "upright row",
+        "ankle dorsiflexion",
+        "leg (knee) curl"
+      ],
+      "answer": 0,
+      "answer_text": "dumbbell lunge",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q55"
+      ]
+    },
+    {
+      "id": "nsca-vol1-056",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "For the shoulder press exercise, how many repetitions can typically be performed with a load of 85% of the 1 RM?",
+      "options": [
+        "12",
+        "10",
+        "6",
+        "2"
+      ],
+      "answer": 2,
+      "answer_text": "6",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q56"
+      ]
+    },
+    {
+      "id": "nsca-vol1-057",
+      "part": 2,
+      "domain": "Organization and Administration",
+      "textbook_chapter": null,
+      "question": "The tallest machines or pieces of equipment in a strength and conditioning facility should be placed next to the:",
+      "options": [
+        "emergency exits.",
+        "supervisor stations.",
+        "room entrances.",
+        "perimeter walls."
+      ],
+      "answer": 3,
+      "answer_text": "perimeter walls.",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q57"
+      ]
+    },
+    {
+      "id": "nsca-vol1-058",
+      "part": 2,
+      "domain": "Organization and Administration",
+      "textbook_chapter": null,
+      "question": "Which of the following are recommended to be completed prior to a new athlete using the strength and conditioning facility? I. 1 RM testing  II. \"Assumption of Risk\" form  III. medical examination  IV. exercise technique orientation",
+      "options": [
+        "I, II, and IV only",
+        "II, III, and IV only",
+        "I, II, and III only",
+        "I, III, and IV only"
+      ],
+      "answer": 1,
+      "answer_text": "II, III, and IV only",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q58"
+      ]
+    },
+    {
+      "id": "nsca-vol1-059",
+      "part": 2,
+      "domain": "Exercise Technique",
+      "textbook_chapter": null,
+      "question": "All of the following are commonly-accepted benefits of properly performed static stretching movements EXCEPT:",
+      "options": [
+        "increased joint range of motion",
+        "decreased muscle stiffness",
+        "decreased superficial muscle temperature",
+        "increased localized blood flow"
+      ],
+      "answer": 2,
+      "answer_text": "decreased superficial muscle temperature",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q59"
+      ]
+    },
+    {
+      "id": "nsca-vol1-060",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "Which of the following factors should be determined FIRST when designing a training program for a specific team sport?",
+      "options": [
+        "layout of the facility",
+        "type of available equipment",
+        "number of individuals on the team",
+        "metabolic demands of the activity"
+      ],
+      "answer": 3,
+      "answer_text": "metabolic demands of the activity",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q60"
+      ]
+    },
+    {
+      "id": "nsca-vol1-061",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "A baseball pitcher has an elbow flexion to elbow extension strength ratio of 1:3. Which of the following exercises should be added to his program to reduce the risk of throwing-related injuries?",
+      "options": [
+        "dumbbell biceps curl",
+        "decline bench press",
+        "bent-over lateral raise",
+        "overhead triceps extension"
+      ],
+      "answer": 0,
+      "answer_text": "dumbbell biceps curl",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q61"
+      ]
+    },
+    {
+      "id": "nsca-vol1-062",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "Which of the following is a structural exercise that can only be performed using free weights?",
+      "options": [
+        "front squat",
+        "snatch",
+        "bent-over row",
+        "overhead dumbbell triceps extension"
+      ],
+      "answer": 1,
+      "answer_text": "snatch",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q62"
+      ]
+    },
+    {
+      "id": "nsca-vol1-064",
+      "part": 2,
+      "domain": "Program Design",
+      "textbook_chapter": null,
+      "question": "Which of the following is the typical sequence of periodization periods within one macrocycle?",
+      "options": [
+        "competition, transition, active rest, preparatory",
+        "preparatory, transition, competition, active rest",
+        "transition, preparatory, active rest, competition",
+        "active rest, transition, competition, preparatory"
+      ],
+      "answer": 1,
+      "answer_text": "preparatory, transition, competition, active rest",
+      "explanation_en": null,
+      "tags": [
+        "legacy",
+        "official-nsca",
+        "orig-q64"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>CSCS 章節摘要樣板</title>
+<style>
+@page { size: A4; margin: 18mm 15mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei", "Microsoft YaHei", "Noto Sans CJK TC", sans-serif;
+       font-size: 10.5pt; line-height: 1.65; color: #1a1a2e; margin: 0; }
+h1 { font-size: 19pt; color: #0f3460; border-bottom: 4px solid #e94560; padding-bottom: 6px; margin: 0 0 4px 0; }
+h2 { font-size: 14pt; color: #0f3460; background: #eef2f7; padding: 5px 10px; border-left: 6px solid #e94560; margin: 20px 0 8px 0; page-break-after: avoid; }
+h3 { font-size: 11.5pt; color: #16213e; margin: 14px 0 5px 0; page-break-after: avoid; }
+p { margin: 5px 0; text-align: justify; }
+.subtitle { font-size: 11pt; color: #555; margin: 0 0 10px 0; }
+table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 9.5pt; page-break-inside: avoid; }
+th { background: #0f3460; color: #fff; padding: 4px 6px; text-align: left; }
+td { border: 1px solid #b8c4d0; padding: 4px 6px; vertical-align: top; }
+tr:nth-child(even) td { background: #f4f7fa; }
+.analogy { background: #fff8e6; border: 1px solid #e6c866; border-left: 6px solid #e6b800; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.analogy::before { content: "🧸 打個比方"; display: block; font-weight: bold; color: #8a6d00; margin-bottom: 3px; }
+.exam { background: #fdeef1; border: 1px solid #e94560; border-left: 6px solid #e94560; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.exam::before { content: "📌 考點(必背數字)"; display: block; font-weight: bold; color: #a11f3d; margin-bottom: 3px; }
+.trap { background: #eef7ee; border: 1px solid #4a8a4a; border-left: 6px solid #3d7a3d; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.trap::before { content: "⚠️ 易混陷阱"; display: block; font-weight: bold; color: #2d5a2d; margin-bottom: 3px; }
+.fig { text-align: center; margin: 10px 0; page-break-inside: avoid; }
+.figcap { font-size: 9pt; color: #666; margin-top: 3px; }
+.qa { margin: 6px 0; page-break-inside: avoid; }
+.qa .ans { color: #0f3460; font-size: 9.5pt; }
+ul, ol { margin: 4px 0; padding-left: 22px; }
+li { margin: 2px 0; }
+.term { font-weight: bold; color: #0f3460; }
+.eng { color: #666; font-size: 9pt; }
+svg text { font-family: "Microsoft JhengHei", "Microsoft YaHei", sans-serif; }
+.pagebreak { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<!-- ============ 以下為章節結構範例,代理照順序撰寫 ============ -->
+
+<h1>第X章 章節標題</h1>
+<p class="subtitle">English Chapter Title(僅供術語對照) | 原文頁碼 pXX–pXX</p>
+
+<h2>一、本章一句話</h2>
+<p>一句話說清本章在講什麼。</p>
+
+<h2>二、學完本章你會</h2>
+<ul><li>目標一</li><li>目標二</li></ul>
+
+<h2>三、把核心概念講給你聽(ELI5)</h2>
+<h3>3.1 小節標題</h3>
+<p>用五歲小孩聽得懂的話解釋,一個句子只講一件事。</p>
+<div class="analogy">用玩具、食物、動物、操場等生活情境做比喻。</div>
+<div class="exam">考試會考的死數字、死規則,列清楚。</div>
+<div class="trap">兩個很像但不一樣的東西,寫出差別。</div>
+
+<h2>四、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>三磷酸腺苷</td><td>ATP</td><td>細胞直接使用的能量硬幣。</td></tr>
+</table>
+
+<h2>五、圖表</h2>
+<div class="fig">
+<!-- SVG 範例:長條圖/時間軸/流程圖都可用原生 rect/line/text/circle 畫。寬度最大 660,高度自定,字級 >=10,顏色用本模板色系(#0f3460/#e94560/#e6b800/#3d7a3d)。 -->
+<svg width="660" height="120" viewBox="0 0 660 120">
+  <rect x="20" y="20" width="100" height="60" fill="#0f3460"/>
+  <text x="70" y="100" font-size="12" text-anchor="middle" fill="#1a1a2e">範例方塊</text>
+  <text x="70" y="55" font-size="13" text-anchor="middle" fill="#ffffff">數值</text>
+</svg>
+<div class="figcap">圖X.1 說明文字</div>
+</div>
+
+<h2>六、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(是非題)題目?</p><p class="ans">Ans:○/✕ — 一句話理由。</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)題目? (A)… (B)… (C)… (D)…</p><p class="ans">Ans:C — 一句話理由。</p></div>
+
+</body>
+</html>

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>CSCS 章節摘要樣板</title>
+<style>
+@page { size: A4; margin: 18mm 15mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei", "Microsoft YaHei", "Noto Sans CJK TC", sans-serif;
+       font-size: 10.5pt; line-height: 1.65; color: #1a1a2e; margin: 0; }
+h1 { font-size: 19pt; color: #0f3460; border-bottom: 4px solid #e94560; padding-bottom: 6px; margin: 0 0 4px 0; }
+h2 { font-size: 14pt; color: #0f3460; background: #eef2f7; padding: 5px 10px; border-left: 6px solid #e94560; margin: 20px 0 8px 0; page-break-after: avoid; }
+h3 { font-size: 11.5pt; color: #16213e; margin: 14px 0 5px 0; page-break-after: avoid; }
+p { margin: 5px 0; text-align: justify; }
+.subtitle { font-size: 11pt; color: #555; margin: 0 0 10px 0; }
+table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 9.5pt; page-break-inside: avoid; }
+th { background: #0f3460; color: #fff; padding: 4px 6px; text-align: left; }
+td { border: 1px solid #b8c4d0; padding: 4px 6px; vertical-align: top; }
+tr:nth-child(even) td { background: #f4f7fa; }
+.analogy { background: #fff8e6; border: 1px solid #e6c866; border-left: 6px solid #e6b800; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.analogy::before { content: "🧸 打個比方"; display: block; font-weight: bold; color: #8a6d00; margin-bottom: 3px; }
+.exam { background: #fdeef1; border: 1px solid #e94560; border-left: 6px solid #e94560; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.exam::before { content: "📌 考點(必背數字)"; display: block; font-weight: bold; color: #a11f3d; margin-bottom: 3px; }
+.trap { background: #eef7ee; border: 1px solid #4a8a4a; border-left: 6px solid #3d7a3d; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.trap::before { content: "⚠️ 易混陷阱"; display: block; font-weight: bold; color: #2d5a2d; margin-bottom: 3px; }
+.fig { text-align: center; margin: 10px 0; page-break-inside: avoid; }
+.figcap { font-size: 9pt; color: #666; margin-top: 3px; }
+.qa { margin: 6px 0; page-break-inside: avoid; }
+.qa .ans { color: #0f3460; font-size: 9.5pt; }
+ul, ol { margin: 4px 0; padding-left: 22px; }
+li { margin: 2px 0; }
+.term { font-weight: bold; color: #0f3460; }
+.eng { color: #666; font-size: 9pt; }
+svg text { font-family: "Microsoft JhengHei", "Microsoft YaHei", sans-serif; }
+.pagebreak { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<h1>第24章 過度訓練、過度運動與恢復</h1>
+<p class="subtitle">Overtraining, Overreaching, and Recovery | 原文頁碼 p1679–p1726</p>
+
+<h2>一、本章一句話</h2>
+<p>加重訓練負荷本身不是壞事。只有當「訓練壓力加生活壓力的總和」長期超過「恢復能力」時,身體才會從有用的短期超載(功能性過度運動)滑向非功能性過度運動,再惡化為過度訓練症候羣。所有恢復手段的第一步,都是先降低訓練壓力。</p>
+
+<h2>二、學完本章你會</h2>
+<ul>
+<li>用 ECSS 與 ACSM 共識定義,區辨過度訓練(OT)、過度運動(OR)、功能性過度運動(FOR)、非功能性過度運動(NFOR)與過度訓練症候羣(OTS),並記住各自的持續時間。</li>
+<li>說出交感型(SOTS)與副交感型(POTS)過度訓練症候羣的差別,以及各自好發的運動員類型。</li>
+<li>解釋異質性負荷:為什麼過度訓練不只由訓練造成,生活壓力、營養與睡眠都要計入總負荷。</li>
+<li>記住表現指標的下降順序:速度最先、功率其次、最大力量最後,並理解心理指標的監測價值。</li>
+<li>設計分三級的運動員監測計畫,並說明荷爾蒙檢查為什麼只能提示「有壓力」而不能診斷 OTS。</li>
+<li>按證據強度排列恢復策略:修改訓練計畫最強,減量與優質睡眠次之,按摩、冷水浸泡等只能保守看待。</li>
+</ul>
+
+<h2>三、把核心概念講給你聽(ELI5)</h2>
+
+<h3>3.1 週期化與一般適應症候羣:為什麼要故意把身體逼過頭</h3>
+<p>要充分發揮運動潛能,訓練計畫裡通常要有高訓練量、高強度的區塊(見第22章)。壓力本身不是敵人。漢斯·塞利(Hans Selye)提出的一般適應症候羣(General Adaptation Syndrome, GAS)描述生物系統面對壓力的三個階段:警戒、抵抗、適應。對應到訓練上就是:表現先下降,接著恢復,最後提升並超過原點。</p>
+<p>但如果壓力大到系統抵抗不住,後果就是崩潰。對運動員而言,這就是一路下滑,進入過度訓練症候羣(overtraining syndrome, OTS)。教材特別提醒:GAS 和週期化都只是模型,不是物理定律,甚至有學者質疑抗阻訓練必然累積疲勞的說法。不過絕大多數研究者與實務者仍接受這個核心邏輯:施加超載、給足恢復、產生適應。教練的專業就在於製造恰到好處的超載,並安排正確的恢復時機。</p>
+<div class="analogy">橡皮筋拉開會彈回去,還彈得更遠;一直拉著不放手,或一次拉過頭,橡皮筋就鬆掉甚至斷掉。訓練是拉橡皮筋,恢復是放手。</div>
+
+<h3>3.2 先把詞說清楚:OT 是過程,OTS 是結果</h3>
+<p>「過度訓練」這個詞在健身圈使用得很隨意,考試時必須依循教科書的定義。歐洲運動科學學院(ECSS)與美國運動醫學會(ACSM)曾成立聯合工作小組,發表「過度訓練症候羣的預防、診斷與治療」立場聲明(2006 年,2013 年更新),給出共識定義。</p>
+<p><span class="term">過度訓練(overtraining, OT)</span>:訓練與非訓練壓力累積,導致運動表現<span class="term">長期</span>下降,伴隨或不伴隨生理與心理的適應不良徵兆,恢復可能需要數週或數月。</p>
+<p><span class="term">過度運動(overreaching, OR)</span>:同樣是壓力累積,但表現下降是<span class="term">短期</span>的,恢復可能只需數天到數週。兩條定義幾乎一樣,差別只在嚴重程度與恢復時間。</p>
+<p>工作小組同時釐清了一件關鍵的事:過度訓練是一個<span class="term">過程</span>(訓練量、強度過高這件正在發生的事),而 OTS 是這個過程的<span class="term">結果</span>(一整套生理心理症狀加上表現下降)。用「症候羣」一詞,正是在強調症狀眾多、彼此關聯、難以處理。而<span class="term">運動表現下降是 OTS 成立的必要條件</span>:沒有長期表現下滑,就談不上 OTS。此外,人類早在 1866 年就記錄過「體力消耗超過身體能承受、又未以足夠飲食與休息補回」的問題。這不是新概念,只是近年研究才迅速普及。</p>
+<div class="exam">必要條件只有一個:運動表現下降(且需長期恢復)。睪固酮下降、皮質醇升高、比賽輸球、生活壓力大,都只是次要因素或成因,都不是必要條件。這是課本學習題第 1 題的考法。</div>
+
+<h3>3.3 一把階梯:最佳訓練 → FOR → NFOR → OTS</h3>
+<p>不是所有「練過頭」都一樣壞。教科書把訓練強度排在同一把階梯上:從無訓練、最佳訓練、刻意的高強度區塊,一路到 FOR、NFOR、OTS。不同專項(長跑、摔跤、鉛球)跌落這把階梯的方式與速度各不相同。</p>
+<p><span class="term">功能性過度運動(functional overreaching, FOR)</span>是刻意安排的短期超載。多數計畫會刻意排入大訓練量的微週期或中週期,例如季前營一天練兩到三次。短期內表現下降,但數天到數週就能恢復,而且常伴隨超量恢復(supercompensation),表現可超過原基線。FOR 是許多成功教練的常用工具,也是 GAS 模型裡正常的一環。</p>
+<p><span class="term">非功能性過度運動(non-functional overreaching, NFOR)</span>看起來像 FOR,但有兩個決定性差別:短期累積的疲勞更大;恢復時間更長。NFOR 之後不會出現超量恢復,只能回到基線。名字裡的「非功能性」就是徒勞:沒有表現增益,還白白付出了壓力與風險。</p>
+<p><span class="term">過度訓練症候羣(OTS)</span>是階梯最底層。表現長期下降,恢復以數週到數月計,教材記載大量長跑的極端案例恢復長達一年。它會嚴重幹擾甚至中斷賽季。另外,最輕的一層是<span class="term">表現停滯(performance plateau)</span>:認真的訓練者都會遇到週期性瓶頸,停滯本身不必然是過度運動,只有當它源自訓練負荷安排不當時,才需要修正。</p>
+<table>
+<tr><th>層級</th><th>性質</th><th>恢復時間(依教材)</th><th>超量恢復?</th><th>對計畫的意義</th></tr>
+<tr><td>最佳訓練</td><td>負荷與恢復平衡</td><td>每次課後即恢復</td><td>持續正進步</td><td>理想狀態</td></tr>
+<tr><td>FOR 功能性過度運動</td><td>刻意短期加量(如季前營一天 2–3 練)</td><td>數天到數週</td><td>有,表現可超過基線</td><td>有效工具,成功教練常用</td></tr>
+<tr><td>NFOR 非功能性過度運動</td><td>疲勞累積更大</td><td>更長(週計)</td><td>沒有,只回到基線</td><td>白費力氣,還附帶風險</td></tr>
+<tr><td>OTS 過度訓練症候羣</td><td>長期 OT 過程的結果</td><td>數週到數月,極端案例一年</td><td>談不上,表現長期下滑</td><td>毀滅性,需專業介入</td></tr>
+</table>
+<div class="analogy">把體力想成銀行帳戶。FOR 是預支一週開銷再補回,補回時帳戶反而變大;NFOR 是借了錢只能慢慢還清,還完也只是回到原點;OTS 是拖了好幾個月的壞帳,連信用都垮了。</div>
+
+<h3>3.4 OTS 的兩張自主神經面孔:SOTS 與 POTS</h3>
+<p>1976 年,Israel 提出把 OTS 依自主神經系統(autonomic nervous system)的反應方式分成兩型。這一分型沿用至今,考試常考。</p>
+<p><span class="term">交感神經過度訓練症候羣(sympathetic OTS, SOTS)</span>:長期僅為假設,直到在一組因高強度抗阻訓練而過度訓練的受試者身上獲得證實(Fry, 1994)。主要特徵是運動與訓練時腎上腺素(epinephrine)反應<span class="term">增強</span>。兒茶酚胺(catecholamines)長期偏高,會導致骨骼肌上的 β2 受體下調(downregulation),這是 SOTS 伴隨肌肉收縮能力受損的重要機制。曾有假設認為 SOTS 會先於 POTS 出現,但未被證實。它與力量、爆發力取向的訓練關聯最深。</p>
+<p><span class="term">副交感神經過度訓練症候羣(parasympathetic OTS, POTS)</span>:舊稱艾迪生氏症候羣,因為常伴隨應激荷爾蒙皮質醇(cortisol)濃度降低,表現為副交感神經活動佔上風。最常見於訓練量極大的有氧耐力運動員。診斷陷阱:靜息心率(resting heart rate)下降通常是心血管健康的表徵,但對 POTS 者而言,過低的靜息心率反而是病態警訊。POTS 者對運動的腎上腺素反應<span class="term">鈍化</span>,舊文獻甚至把這種腎上腺素生成能力不足稱作「腎上腺衰竭」。Lehmann 團隊對中長跑運動員超大訓練量的經典研究支持此一分型,案例恢復期長達一年。</p>
+<p>請注意教科書的謹慎之處:它對 SOTS/POTS 的描述重點是自主神經與荷爾蒙的<span class="term">生理特徵</span>,失眠、食慾改變這類行為症狀在文獻中常見,但本章原文的重點是腎上腺素反應方向與皮質醇。考試答這兩型的差別,就答「腎上腺素反應增強對比鈍化」「皮質醇降低」「力量型對比耐力型好發」。</p>
+
+<h3>3.5 病根不只在訓練場:異質性負荷與成因模型</h3>
+<p>理解 OT/OR 的第一步,是檢視壓力與恢復的天平。天平的兩端都不只有訓練。訓練端:訓練量(總次數、訓練負荷、機械功、代謝功、頻率)與訓練強度(相對 %RM、絕對重量 kg、主觀用力程度)過高都會引發問題;週期化設計不良、訓練負荷缺乏變化(可用變異係數 coefficient of variation,%CV = SD/平均值的百分比量化)、賽前未妥善減量,同屬訓練端成因;專項練習與比賽本身的壓力也必須計入訓練總量。</p>
+<p>訓練場外的一端,教科書稱為<span class="term">異質性負荷(heterostatic overload)</span>。這個 1993 年提出的概念,指的是所有前因(促成因素)累積造成的身體損耗:生活事件、工作與學業、人際與家庭、差旅與時差、環境改變(高溫、低溫、潮濕、海拔)、月經週期、傷病史、營養不足、睡眠欠缺。這些次要因素既可能誘發 OTS,也可能是 OTS 的產物,實務上必須分辨它們是訓練之外的誘發因素,還是過度訓練本身造成的後果。</p>
+<p>幾件必記的衍生知識:相對能量不足症候羣(relative energy deficiency in sport, RED-S,舊稱女運動員三聯徵)與 OTS 症狀大量重疊、互為因果,懷疑 RED-S 時應轉介專業人員,教練要懂得判斷轉介時機。臨牀憂鬱症、創傷後壓力症候羣也與 OTS 相似。高風險情境包括:訓練計畫缺乏密切監控、僅有網路教練而缺乏面對面交流、完全沒有客觀監測、<span class="term">訓練水平愈高、體能愈好的運動員,風險反而愈大</span>、大賽前進行極限訓練卻未安排減量、由經驗不足者帶課。</p>
+<div class="analogy">身體是一個水桶。訓練是倒進去的水,生活壓力、營養不足、睡不飽也是水。任何一根水管都能讓水溢出,不能只盯著訓練那一條。營養就是桶底的洞:洞越大,同樣的水量越快溢出。</div>
+
+<h3>3.6 哪些能力最先喪失?速度最先,最大力量最後;表現下降 ≠ 過度訓練</h3>
+<p>OTS 必帶表現下降,但哪些指標先掉有順序。在抗阻訓練造成的過度訓練中,<span class="term">速度(例如短跑)最敏感,通常比其他多數指標先下降</span>;緊接著是功率(力×速度)下滑;<span class="term">最大力量(如 1RM)往往是最後才降的指標之一,可說「力量被保護得很好」</span>。等速力量、垂直跳高度與跳躍動力學都屬高敏感指標,一週內就能看到變化。心理面更敏感:<span class="term">恢復知覺可在數天內惡化(敏感性極高)</span>,訓練慾望、自我效能約一週內受影響。所以監測要速度、跳躍、心理指標三管齊下,不能只盯深蹲數字。</p>
+<p>另一半同樣重要:不是所有表現不佳都是過度訓練。疾病、RED-S、心理因素都會造成表現低落。教科書特別提醒一個經典誤判:<span class="term">訓練巔峯與比賽時間錯開</span>,賽前還在消化大訓練量,比賽表現自然不佳。這看起來像 OT,實際原因是訓練時機錯位,不是訓練過度。把「表現差」直接等於「練太多」,是教練最昂貴的錯誤之一。</p>
+<div class="analogy">礦坑裡的金絲雀。速度與心情是金絲雀,先嗆到;最大力量是最後一個走出礦坑的人。看到金絲雀不對就要撤人,別等礦工倒下。</div>
+
+<h3>3.7 怎麼監測:晨間心率、HRV、問卷,以及荷爾蒙檢查的侷限</h3>
+<p>監測用的測試需同時符合四項條件:對專項與相關生理系統有效、結果可靠、對訓練與比賽刺激敏感、容易融入例行流程。測試操作必須標準化,受試者必須盡全力,否則數據失去意義;結果要能快速回饋,才來得及調整訓練。</p>
+<p>日常監測的常用工具(教材圖 24.15 節錄)包括:訓練負荷監控(內部與外部)、晨間醒來時的靜息心率、運動後恢復心率、心率變異度(heart rate variability, HRV)、肌肉氧飽和度、無氧閾、RPE(rating of perceived exertion, 自覺用力程度)對乳酸、垂直跳高度與起跳力量功率、相同絕對負荷下的槓鈴速度、衝刺(加速、第一步速度、最大速度、減速)、變向與反應時間、認知測驗、飲食紀錄、睡眠紀錄、訓練問卷、比賽數據與教練主觀評價。晨間體重應每天量測:短時間急降多為脫水或肝糖流失,持續下降要警覺能量赤字(連回 RED-S)。</p>
+<p>問卷類(教材表 24.3 節錄):Borg RPE/CR10、情緒狀態量表(profile of mood states, POMS)、運動員生活需求問卷(DALDA)、運動員恢復壓力問卷(REST-Q)、整體恢復質量問卷(TQR)、胡珀指數(Hooper Index,彙整睡眠、疲勞、肌肉痠痛、壓力、心情五項日常評分)等。選擇問卷要考慮:長度、是否通過驗證、受試者是否讀得懂、資料是否易於處理、能否在無壓力下填寫、對過度訓練刺激是否敏感。教練營造的動機氛圍與教練自身的心理健康,教材也指出會影響選手,屬於容易忽略的監測項目。</p>
+<p>荷爾蒙與血液檢查(睪固酮、皮質醇、睪固酮/皮質醇比值、生長激素、細胞因子、免疫指標等)在機製表中列為「強」證據的內分泌幹擾途徑,但要分清楚:那是<span class="term">致病機制</span>的證據強度,不是<span class="term">診斷工具</span>的可靠性。教材的注意事項寫得很直白:<span class="term">荷爾蒙水平變化反映的是壓力,不是過度訓練本身</span>,任何壓力源都能讓數值異常。因此荷爾蒙檢查適合排在後段,不能當第一線雷達。</p>
+<p>教材採納 Bernaciková 等人的建議,把監測工具分三級,循序升級,避免不必要的高成本檢查:</p>
+<table>
+<tr><th>類別</th><th>頻率</th><th>特性</th></tr>
+<tr><td>第一類</td><td>每天</td><td>操作簡便、便宜、結果快速,教練與運動員都方便(晨間心率、RPE、睡眠紀錄)</td></tr>
+<tr><td>第二類</td><td>每隔幾天</td><td>較長且較複雜的問卷,略不方便,但結果仍快速(REST-Q、POMS、Hooper 指數)</td></tr>
+<tr><td>第三類</td><td>偶爾(如每月)</td><td>複雜、具侵入性、昂貴、結果較慢(血液荷爾蒙、實驗室測試)</td></tr>
+</table>
+<p>監測流程從第一類開始;第一類示警才升級到第二類;第二類示警才升級到第三類。</p>
+<div class="analogy">荷爾蒙檢查像火災警報器:叫了代表「屋裡有火」,但不告訴你是哪間房燒起來。所以先裝便宜靈敏的小感測器(晨間心率、問卷),確認有煙再去破牆查管線(抽血)。</div>
+
+<h3>3.8 恢復策略:先把火關小,其他都是配角(證據強度要誠實)</h3>
+<p>一旦懷疑 OT/OR/OTS,首要原則永遠是:降低訓練負荷。教材表 24.4 的證據分級很清楚,<span class="term">修改訓練計畫(降低訓練量、頻率、強度,甚至暫停)是「最強」證據</span>;<span class="term">減量訓練(taper)屬「強」</span>,而且設計得當的減量還能提升表現測驗成績。時間參考:出現過度運動(OR)後停止訓練,表現最快一週內即可回升;較嚴重的過度訓練,高強度抗阻訓練後的恢復可能長達四周;大量長跑後的恢復需數月甚至一年。注意:暫停一週抗阻訓練對力量與肌肥大的損失其實很有限,這個成本遠比讓選手持續惡化便宜。</p>
+<p>非訓練手段中,<span class="term">優質睡眠是唯一拿到「強」證據的恢復方式</span>。睡眠同時支撐本章的三大支柱:荷爾蒙(第 4 章:深層睡眠與生長激素等合成代謝荷爾蒙分泌密切相關,睡不好等於抽走恢復的化學原料)、心理(第 9 章:情緒調節、動機與專注都會因睡眠不足而衰退;教材也把正念介入列為「有前景」)、表現(睡眠債直接反映在速度與跳躍指標上)。營養方面,教材把碳水化合物列為「有前景」,蛋白質、支鏈氨基酸、硝酸鹽、L-穀氨醯胺、維生素、口服 ATP 都只有「可能的」等級;充足熱量、蛋白質、肝糖補回、微量營養素與水分是恢復的基礎(連回第 10、11 章)。</p>
+<p>其餘手段要保守:<span class="term">按摩與多數冷凍療法「結論不明」</span>,冷水浸泡(cold water immersion)只是「有前景」,肌筋膜放鬆、振動泡沫軸、壓力衣、水合、針灸、紅光療法全部停在「可能的」。臥牀休息有助於傷病恢復,卻不利於體能維持,別開錯藥方。教科書直說:很多復健手段的證據是從一般族羣的治療推斷過來的,直接套用到 OTS 的資料很少。宣稱前要保守,優先順序不能排錯:訓練調整 &gt; 睡眠 &gt; 營養 &gt; 其他。</p>
+<p>預防清單(圖 24.16 節錄,比治療更便宜):訓練中安排主動與被動恢復;常規安排一天或多天完全休息,休息日至關重要;限制過長的課程與過高的訓練頻率;訓練量短時間大幅增加(超過 30%)時務必謹慎;曾穩定承受訓練壓力者耐受力較高,因此刺激應漸進;訓練刺激要變化,善用週期化;把抗阻訓練與專項、其他體能訓練的壓力<span class="term">加總</span>監控;納入睡眠、飲食、心理技能;監測外部壓力;建立正式運動員監測計畫。備註:肌酸、恢復飲料、蛋白質與碳水補充劑等補充品「可能有幫助」,但仍是輔助層。</p>
+<div class="analogy">廚房著火了,第一步是關瓦斯(減訓練),開窗、扇煙、吹電扇(按摩、冷敷、補充劑)都是事後清理。瓦斯沒關,窗開再大也沒用。</div>
+
+<h2>四、考點速記</h2>
+<div class="exam">
+<b>時間分界(必背)</b><br>
+OR(含 FOR/NFOR):表現短期下降,恢復<span class="term">數天到數週</span>。OTS:表現長期下降,恢復<span class="term">數週到數月</span>(耐力極端案例一年)。<br>
+停止訓練的恢復速度:OR → 最快<span class="term">1 週</span>;嚴重高強度抗阻訓練 → 可能達<span class="term">4 週</span>;大量長跑 → <span class="term">數月到一年</span>。<br>
+訓練量短時間增加<span class="term">&gt;30%</span> = 高風險訊號,務必謹慎。</div>
+<div class="exam">
+<b>必守規則(必背)</b><br>
+1. OTS 成立的必要條件:<span class="term">運動表現下降</span>(且需長期恢復)。荷爾蒙異常不是必要條件。<br>
+2. OT 是<span class="term">過程</span>,OTS 是<span class="term">結果</span>。<br>
+3. 下降順序:<span class="term">速度 → 功率 → 最大力量(最後,受保護)</span>;恢復知覺數天內即惡化。<br>
+4. SOTS:腎上腺素反應<span class="term">增強</span>、β2 受體下調、力量爆發型好發。POTS:腎上腺素反應<span class="term">鈍化</span>、皮質醇<span class="term">降低</span>、靜息心率異常<span class="term">偏低</span>、高訓練量耐力型好發。<br>
+5. FOR 有超量恢復;NFOR 只回基線;兩者皆屬短期,同為 OR 的範圍。
+</div>
+<div class="exam">
+<b>數字與出處(必背)</b><br>
+1866 年最早記錄過度消耗問題;1976 年 Israel 提出 SOTS/POTS 分型;ECSS–ACSM 聯合立場聲明 2006 年發表、2013 年更新;異質性負荷概念 1993 年提出;季前營常見一天 2–3 練(FOR 情境);監測分三級:每日、每隔幾天、偶爾(如每月),由第一類開始升級;恢復證據分級:修改訓練=最強,減量、優質睡眠=強,碳水、正念、冷水浸泡=有前景,按摩與其他冷凍療法=結論不明。
+</div>
+
+<h2>五、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>過度訓練</td><td>overtraining (OT)</td><td>壓力累積導致表現長期下降的過程,恢復需數週到數月。</td></tr>
+<tr><td>過度訓練症候羣</td><td>overtraining syndrome (OTS)</td><td>OT 過程的結果:生理心理適應不良症狀羣,表現下降為必要條件。</td></tr>
+<tr><td>過度運動</td><td>overreaching (OR)</td><td>壓力累積造成的短期表現下降,恢復需數天到數週。</td></tr>
+<tr><td>功能性過度運動</td><td>functional overreaching (FOR)</td><td>刻意安排的短期超載,恢復後可出現超量恢復。</td></tr>
+<tr><td>非功能性過度運動</td><td>non-functional overreaching (NFOR)</td><td>疲勞累積更大、恢復更長,只能回到基線,無表現增益。</td></tr>
+<tr><td>一般適應症候羣</td><td>General Adaptation Syndrome (GAS)</td><td>塞利的壓力模型:警戒、抵抗、適應三階段。</td></tr>
+<tr><td>交感神經過度訓練症候羣</td><td>sympathetic OTS (SOTS)</td><td>運動時腎上腺素反應增強,伴 β2 受體下調,力量型好發。</td></tr>
+<tr><td>副交感神經過度訓練症候羣</td><td>parasympathetic OTS (POTS)</td><td>副交感主導、皮質醇降低、靜息心率異常偏低,高訓練量耐力型好發。</td></tr>
+<tr><td>異質性負荷</td><td>heterostatic overload</td><td>訓練與生活等所有前因累積造成的身體總損耗。</td></tr>
+<tr><td>相對能量不足症候羣</td><td>relative energy deficiency in sport (RED-S)</td><td>長期能量攝取不足引發的多系統症候羣,症狀與 OTS 重疊。</td></tr>
+<tr><td>運動表現停滯</td><td>performance plateau</td><td>最輕微的表現卡住,認真的訓練者也會遇到,不必然是過度運動。</td></tr>
+<tr><td>超量恢復</td><td>supercompensation</td><td>恢復後表現超過原基線的現象,FOR 的目標。</td></tr>
+<tr><td>下調</td><td>downregulation</td><td>刺激長期過強導致受體數目減少,SOTS 中指 β2 受體減少。</td></tr>
+<tr><td>兒茶酚胺</td><td>catecholamines</td><td>腎上腺素等應激遞質的總稱,長期偏高與 OTS 相關。</td></tr>
+<tr><td>皮質醇</td><td>cortisol</td><td>應激荷爾蒙;POTS 常伴其濃度降低。</td></tr>
+<tr><td>變異係數</td><td>coefficient of variation (CV)</td><td>SD 除以平均值,可用於量化訓練負荷是否有變化。</td></tr>
+<tr><td>減量訓練</td><td>taper</td><td>賽前系統性降低負荷以恢復並提升表現,證據「強」。</td></tr>
+<tr><td>心率變異度</td><td>heart rate variability (HRV)</td><td>心跳間期的波動幅度,常用的自主神經監測指標。</td></tr>
+<tr><td>胡珀指數</td><td>Hooper Index</td><td>彙整睡眠、疲勞、肌肉痠痛、壓力、心情的每日問卷總分。</td></tr>
+<tr><td>自主神經系統</td><td>autonomic nervous system</td><td>調控心跳、腺體等的不隨意神經系統,分為交感與副交感兩支。</td></tr>
+</table>
+
+<h2>六、圖表</h2>
+<div class="fig">
+<svg width="660" height="310" viewBox="0 0 660 310">
+  <line x1="30" y1="25" x2="630" y2="228" stroke="#16213e" stroke-width="2" stroke-dasharray="6 4"/>
+  <polygon points="640,235 622,226 630,242" fill="#16213e"/>
+  <rect x="20" y="35" width="140" height="60" fill="#3d7a3d"/>
+  <text x="90" y="60" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">最佳訓練</text>
+  <text x="90" y="80" font-size="10" text-anchor="middle" fill="#ffffff">負荷與恢復平衡</text>
+  <rect x="170" y="95" width="140" height="70" fill="#e6b800"/>
+  <text x="240" y="115" font-size="13" font-weight="bold" text-anchor="middle" fill="#16213e">FOR 功能性</text>
+  <text x="240" y="132" font-size="10" text-anchor="middle" fill="#16213e">恢復:數天到數週</text>
+  <text x="240" y="147" font-size="10" text-anchor="middle" fill="#16213e">可有超量恢復</text>
+  <text x="240" y="160" font-size="10" text-anchor="middle" fill="#16213e">→ 有效工具</text>
+  <rect x="320" y="165" width="140" height="75" fill="#e94560"/>
+  <text x="390" y="186" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">NFOR 非功能性</text>
+  <text x="390" y="203" font-size="10" text-anchor="middle" fill="#ffffff">恢復更長(週計)</text>
+  <text x="390" y="218" font-size="10" text-anchor="middle" fill="#ffffff">只回到基線</text>
+  <text x="390" y="232" font-size="10" text-anchor="middle" fill="#ffffff">→ 白費力氣</text>
+  <rect x="470" y="240" width="170" height="55" fill="#0f3460"/>
+  <text x="555" y="262" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">OTS 過度訓練症候羣</text>
+  <text x="555" y="281" font-size="10" text-anchor="middle" fill="#ffffff">恢復數週到數月,極端一年</text>
+  <text x="20" y="305" font-size="10" fill="#666666">往下一格,傷害與所需恢復都更重;OTS 再分交感型(SOTS)與副交感型(POTS)兩型。</text>
+</svg>
+<div class="figcap">圖 24-A 過度負荷階梯:正常→FOR→NFOR→OTS,嚴重度與恢復成本逐級上升(FOR 之後仍屬過度運動 OR 的短期範圍)。</div>
+</div>
+
+<div class="fig">
+<svg width="660" height="320" viewBox="0 0 660 320">
+  <rect x="20" y="20" width="300" height="55" fill="#0f3460"/>
+  <text x="170" y="43" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">訓練壓力</text>
+  <text x="170" y="61" font-size="10" text-anchor="middle" fill="#ffffff">量 · 強度 · 頻率 · 專項練習 · 比賽</text>
+  <rect x="340" y="20" width="300" height="55" fill="#0f3460"/>
+  <text x="490" y="43" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">非訓練壓力</text>
+  <text x="490" y="61" font-size="10" text-anchor="middle" fill="#ffffff">生活事件 · 睡眠不足 · 營養欠佳 · 差旅 · 環境</text>
+  <line x1="170" y1="75" x2="280" y2="105" stroke="#16213e" stroke-width="2"/>
+  <line x1="490" y1="75" x2="380" y2="105" stroke="#16213e" stroke-width="2"/>
+  <rect x="120" y="105" width="420" height="50" fill="#e6b800"/>
+  <text x="330" y="126" font-size="12" font-weight="bold" text-anchor="middle" fill="#16213e">異質性負荷:所有前因造成的身體總損耗</text>
+  <text x="330" y="145" font-size="10" text-anchor="middle" fill="#16213e">總和一旦超過恢復能力,天平即失衡</text>
+  <line x1="330" y1="155" x2="330" y2="178" stroke="#16213e" stroke-width="2"/>
+  <polygon points="330,184 324,172 336,172" fill="#16213e"/>
+  <rect x="140" y="184" width="380" height="45" fill="#e94560"/>
+  <text x="330" y="212" font-size="12" text-anchor="middle" fill="#ffffff">OT 過程:壓力持續超過恢復能力</text>
+  <line x1="330" y1="229" x2="330" y2="248" stroke="#16213e" stroke-width="2"/>
+  <polygon points="330,254 324,242 336,242" fill="#16213e"/>
+  <rect x="90" y="254" width="480" height="50" fill="#16213e"/>
+  <text x="330" y="275" font-size="11" font-weight="bold" text-anchor="middle" fill="#ffffff">OTS:運動表現長期下降(必要條件)</text>
+  <text x="330" y="293" font-size="10" text-anchor="middle" fill="#ffffff">+ 生理與心理適應不良症狀羣</text>
+</svg>
+<div class="figcap">圖 24-B 過度訓練的成因模型:訓練壓力與非訓練壓力共同構成異質性負荷,超過恢復能力後進入 OT 過程,結果是 OTS。</div>
+</div>
+
+<div class="fig">
+<svg width="660" height="155" viewBox="0 0 660 155">
+  <text x="15" y="43" font-size="12" fill="#1a1a2e">① 速度(短跑)</text>
+  <rect x="170" y="27" width="440" height="22" fill="#e94560"/>
+  <text x="390" y="42" font-size="11" text-anchor="middle" fill="#ffffff">最敏感 · 最先下降</text>
+  <text x="15" y="84" font-size="12" fill="#1a1a2e">② 功率(力×速度)</text>
+  <rect x="170" y="68" width="330" height="22" fill="#e6b800"/>
+  <text x="335" y="83" font-size="11" text-anchor="middle" fill="#16213e">緊隨其後</text>
+  <text x="15" y="125" font-size="12" fill="#1a1a2e">③ 最大力量(1RM)</text>
+  <rect x="170" y="109" width="220" height="22" fill="#0f3460"/>
+  <text x="280" y="124" font-size="11" text-anchor="middle" fill="#ffffff">最後下降 · 受保護</text>
+  <text x="15" y="150" font-size="10" fill="#666666">長條長度僅表示下降的先後順序,不代表幅度;心理指標(恢復知覺、訓練慾望)往往比身體指標更早惡化。</text>
+</svg>
+<div class="figcap">圖 24-C 過度訓練時運動表現指標的下降順序:速度→功率→最大力量。</div>
+</div>
+
+<table>
+<tr><th>表現指標(依教材表 24.1 整理)</th><th>敏感性</th><th>下降出現速度</th></tr>
+<tr><td>恢復知覺、心情狀態</td><td>非常高</td><td>數天內</td></tr>
+<tr><td>短跑速度</td><td>高</td><td>最快出現,常於一週後浮現</td></tr>
+<tr><td>功率(抗阻訓練)、衝刺表現</td><td>高</td><td>一週以上</td></tr>
+<tr><td>垂直跳高度、跳躍動力學/運動學</td><td>高</td><td>一週內</td></tr>
+<tr><td>等速力量、刺激力(單關節)</td><td>高</td><td>一週內</td></tr>
+<tr><td>自我效能(自信)、訓練慾望</td><td>高</td><td>一週內</td></tr>
+<tr><td>變向與敏捷性</td><td>中</td><td>一週以上</td></tr>
+<tr><td>訓練能力(對高強度、高頻率訓練的耐受力)</td><td>中</td><td>發生較慢</td></tr>
+<tr><td>最大力量(動態恆定外在阻力 1RM、多關節)</td><td>低</td><td>最後才發生</td></tr>
+</table>
+<div class="figcap">表 24-A 過度訓練對運動表現相關指標的影響(敏感性與出現速度)。</div>
+
+<table>
+<tr><th>恢復策略(依教材表 24.4 整理)</th><th>證據強度(教材分級)</th></tr>
+<tr><td>修改訓練計畫(降量、降頻、降強度,甚至暫停)</td><td><b>最強</b></td></tr>
+<tr><td>減量訓練(taper)</td><td><b>強</b></td></tr>
+<tr><td>優質睡眠</td><td><b>強</b></td></tr>
+<tr><td>正念介入</td><td>有前景</td></tr>
+<tr><td>碳水化合物補充</td><td>有前景</td></tr>
+<tr><td>冷水浸泡</td><td>有前景</td></tr>
+<tr><td>肌筋膜放鬆、振動泡沫軸、壓力衣、水合、針灸、紅光療法</td><td>可能的</td></tr>
+<tr><td>蛋白質、支鏈氨基酸、硝酸鹽、L-穀氨醯胺、維生素、口服 ATP</td><td>可能的</td></tr>
+<tr><td>按摩、其他冷凍療法</td><td>結論不明</td></tr>
+<tr><td>臥牀休息</td><td>對傷病有益,對體能不利</td></tr>
+</table>
+<div class="figcap">表 24-B 過度訓練、過度運動與 OTS 的可能恢復策略及效力分級。注意:非訓練手段多由一般族羣復健數據推斷,證據保守看待。</div>
+
+<h2>七、易混陷阱</h2>
+<div class="trap"><b>FOR vs NFOR</b>:兩者都是短期表現下降,都屬 OR。關鍵差別只有兩點:NFOR 累積的疲勞更大、恢復更長;FOR 恢復後有超量恢復(表現超過基線),NFOR 只能回到基線。是否具功能性的判準是<span class="term">有無表現增益</span>,不是累不累。</div>
+<div class="trap"><b>OT vs OTS</b>:OT 是正在發生的<span class="term">過程</span>(訓練量/強度過高),OTS 是過程釀成的<span class="term">結果</span>(症狀羣加長期表現下降)。題目問「過程」選 OT,問「症候羣/結果」選 OTS。</div>
+<div class="trap"><b>SOTS vs POTS</b>:速記口訣:SOTS=油門卡死(腎上腺素反應增強、β2 受體下調、力量爆發型);POTS=省電模式(副交感主導、皮質醇降低、靜息心率偏低、腎上腺素反應鈍化、高訓練量耐力型)。POTS 舊稱艾迪生氏症候羣,「腎上腺衰竭」之說對應的是腎上腺素生成不足。</div>
+<div class="trap"><b>靜息心率低 ≠ 心肺好</b>:訓練適應會讓靜息心率下降,但 POTS 者的心率是<span class="term">病態性偏低</span>,容易把警訊當成好消息。判讀要看趨勢搭配主觀指標,不能只抓單一數字。</div>
+<div class="trap"><b>表現下滑 ≠ 過度訓練</b>:訓練巔峯與比賽時機錯開、疾病、RED-S、憂鬱與生活壓力都能造成同樣的成績曲線。先排除時機與健康因素,再貼 OT 標籤。</div>
+<div class="trap"><b>荷爾蒙異常 ≠ OTS 診斷</b>:睪固酮/皮質醇比值等內分泌幹擾在<span class="term">機制</span>上證據強,但荷爾蒙波動反映的是「有壓力」,不專屬於過度訓練。它們不是 OTS 的必要條件,第一線監測請用第一類工具。</div>
+
+<h2>八、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(是非題)過度訓練(OT)指的是一組症狀,過度訓練症候羣(OTS)指的是訓練過程?</p><p class="ans">Ans:✕ — 剛好相反:OT 是過程,OTS 是過程導致的結果。</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)下列哪一項是 OTS 存在的必要條件?(A)表現受損且需長期恢復 (B)睪固酮下降、皮質醇升高 (C)比賽成績不佳 (D)非訓練壓力累積</p><p class="ans">Ans:A — 沒有長期運動表現下降,就談不上 OTS;荷爾蒙與比賽輸贏都不是必要條件。</p></div>
+<div class="qa"><p><b>Q3.</b>(選擇題)抗阻訓練造成過度訓練時,哪類能力最敏感、最先下降?(A)高速運動(短跑) (B)最大力量 (C)攝氧能力 (D)重複間歇耐受力</p><p class="ans">Ans:A — 速度最先下降,功率隨後,最大力量往往最後才降。</p></div>
+<div class="qa"><p><b>Q4.</b>(選擇題)訓練與比賽之外的各種促成因素(生活事件、睡眠、營養等)的總稱是?(A)異質性負荷 (B)社會心理功能障礙 (C)訓練量負荷 (D)自主神經功能障礙</p><p class="ans">Ans:A — 教材定義 heterostatic overload 為所有前因造成的身體總損耗。</p></div>
+<div class="qa"><p><b>Q5.</b>(是非題)安排得當的功能性過度運動(FOR)是一種有效的訓練工具?</p><p class="ans">Ans:○ — 短期下降後數天到數週恢復,可產生超量恢復,成功教練常用。</p></div>
+<div class="qa"><p><b>Q6.</b>(是非題)副交感型 OTS(POTS)的運動員靜息心率通常上升,所以容易發現?</p><p class="ans">Ans:✕ — POTS 的靜息心率常異常偏低,與「心肺適應良好」混淆,診斷反而更棘手。</p></div>
+<div class="qa"><p><b>Q7.</b>(選擇題)非功能性過度運動(NFOR)妥善恢復後,最終結果通常是?(A)超過基線 (B)只回到基線 (C)永遠無法恢復 (D)直接轉為 RED-S</p><p class="ans">Ans:B — NFOR 的特徵就是沒有超量恢復,只能回到基線。</p></div>
+<div class="qa"><p><b>Q8.</b>(是非題)血中睪固酮/皮質醇比值下降可以用來確診 OTS?</p><p class="ans">Ans:✕ — 荷爾蒙變化反映的是壓力,不是過度訓練本身,只能作為輔助線索。</p></div>
+<div class="qa"><p><b>Q9.</b>(選擇題)教材表 24.4 中證據強度「最強」的恢復策略是?(A)按摩 (B)修改訓練計畫(降量降強度) (C)冷水浸泡 (D)支鏈氨基酸</p><p class="ans">Ans:B — 修改訓練計畫是「最強」;減量與優質睡眠同屬「強」,按摩結論不明。</p></div>
+<div class="qa"><p><b>Q10.</b>(是非題)訓練量短時間內大幅增加超過 30% 時,應特別謹慎以防過度訓練?</p><p class="ans">Ans:○ — 教材的預防策略明確指出「訓練量大幅增加(&gt;30%)務必謹慎」。</p></div>
+
+</body>
+</html>

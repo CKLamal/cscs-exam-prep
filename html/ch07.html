@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>CSCS 章節摘要樣板</title>
+<style>
+@page { size: A4; margin: 18mm 15mm; }
+* { box-sizing: border-box; }
+body { font-family: "Microsoft JhengHei", "Microsoft YaHei", "Noto Sans CJK TC", sans-serif;
+       font-size: 10.5pt; line-height: 1.65; color: #1a1a2e; margin: 0; }
+h1 { font-size: 19pt; color: #0f3460; border-bottom: 4px solid #e94560; padding-bottom: 6px; margin: 0 0 4px 0; }
+h2 { font-size: 14pt; color: #0f3460; background: #eef2f7; padding: 5px 10px; border-left: 6px solid #e94560; margin: 20px 0 8px 0; page-break-after: avoid; }
+h3 { font-size: 11.5pt; color: #16213e; margin: 14px 0 5px 0; page-break-after: avoid; }
+p { margin: 5px 0; text-align: justify; }
+.subtitle { font-size: 11pt; color: #555; margin: 0 0 10px 0; }
+table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 9.5pt; page-break-inside: avoid; }
+th { background: #0f3460; color: #fff; padding: 4px 6px; text-align: left; }
+td { border: 1px solid #b8c4d0; padding: 4px 6px; vertical-align: top; }
+tr:nth-child(even) td { background: #f4f7fa; }
+.analogy { background: #fff8e6; border: 1px solid #e6c866; border-left: 6px solid #e6b800; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.analogy::before { content: "🧸 打個比方"; display: block; font-weight: bold; color: #8a6d00; margin-bottom: 3px; }
+.exam { background: #fdeef1; border: 1px solid #e94560; border-left: 6px solid #e94560; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.exam::before { content: "📌 考點(必背數字)"; display: block; font-weight: bold; color: #a11f3d; margin-bottom: 3px; }
+.trap { background: #eef7ee; border: 1px solid #4a8a4a; border-left: 6px solid #3d7a3d; border-radius: 4px; padding: 8px 12px; margin: 8px 0; page-break-inside: avoid; }
+.trap::before { content: "⚠️ 易混陷阱"; display: block; font-weight: bold; color: #2d5a2d; margin-bottom: 3px; }
+.fig { text-align: center; margin: 10px 0; page-break-inside: avoid; }
+.figcap { font-size: 9pt; color: #666; margin-top: 3px; }
+.qa { margin: 6px 0; page-break-inside: avoid; }
+.qa .ans { color: #0f3460; font-size: 9.5pt; }
+ul, ol { margin: 4px 0; padding-left: 22px; }
+li { margin: 2px 0; }
+.term { font-weight: bold; color: #0f3460; }
+.eng { color: #666; font-size: 9pt; }
+svg text { font-family: "Microsoft JhengHei", "Microsoft YaHei", sans-serif; }
+.pagebreak { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<h1>第7章 年齡差異及其對阻力訓練的影響</h1>
+<p class="subtitle">Age-Related Differences and Their Impact on Resistance Training(僅供術語對照) | 原文頁碼 p384–p437</p>
+
+<h2>一、本章一句話</h2>
+<p>阻力訓練(resistance training)從幼童到老年都安全有效,但教練必須依生物成熟度與老化階段個別化設計,不能把成人課表縮小後直接套用。</p>
+
+<h2>二、學完本章你會</h2>
+<ul>
+<li>說明為什麼要依生物成熟度(biological maturity)而非實際年齡為青少年分組與調整課表,並能運用身高增長速度峯值(peak height velocity, PHV)判斷發育階段。</li>
+<li>解釋青春期前力量增益主要來自神經適應而非肌肉肥大。</li>
+<li>背出並套用青少年阻力訓練的頻率、組次、加載幅度與安全守則。</li>
+<li>描述老化造成的肌肉骨骼流失(肌少症、骨質疏鬆、肌力衰退)及其診斷數值。</li>
+<li>為老年人設定強度、組次、爆發力訓練參數,並說明為何要避開瓦氏動作(Valsalva maneuver)。</li>
+<li>破解關於兒童與老年人阻力訓練的常見迷思。</li>
+</ul>
+
+<h2>三、把核心概念講給你聽(ELI5)</h2>
+
+<h3>3.1 長期運動發展:兒童不是縮小版的成人</h3>
+<p>美國國家體能協會(NSCA)把長期運動發展(long-term athletic development, LTAD)定義為長期逐步提升運動能力(athleticism),以增強體適能、降低受傷風險、改善身心健康。青少年體適能發展(youth physical development, YPD)模型指出:所有發展階段都能訓練體能的各個要素,肌力與運動技能要同步發展。各發展模型有三個共同點:讓兒童接觸多元的技能與力量活動;難度隨發展階段提高;先通用、後專項。幼兒期神經可塑性(neuroplasticity)最高,早年累積多樣動作經驗獲益最大。世界衛生組織建議兒童每週做三次強化肌肉與骨骼的活動,列入體適能建議。</p>
+<div class="analogy">蓋房子:骨架升得快,不代表可以趕著蓋樓層。先把基礎與鋼筋做實,以後任何樓層都蓋得上來;基礎偷工,樓蓋到一半就歪。</div>
+
+<h3>3.2 實際年齡不等於生物成熟度</h3>
+<p>同一批14歲的孩子,身高可以差23公分(9英寸)、體重差18公斤(40磅)。女孩青春期(puberty)從8至13歲開始,男孩從9至15歲,女孩通常比男孩早兩年左右。只看生日分組,可能讓「年齡相同、生物年齡差五歲」的兩個孩子做同一份課表。</p>
+<p>評估生物成熟度有三種方式:骨齡(bone age)、性成熟度、體格成熟度。骨齡是金標準,由放射技術人員看左腕X光片的骨化(ossification)程度。骨齡檢測昂貴且需要專業人力,實務上最可行的做法是體格評估,例如站立足高與坐高。PHV是青春期內生長速度最快時的年齡,男孩平均約13.8歲、女孩約11.9歲。生長突增約發生在身高達預測成年身高88%至95%時,PHV多落在約91%至92%。身高通常每三個月量一次;接近PHV時生長速度快,建議改為每月量一次。</p>
+<p>PHV期的孩子重心改變,肌肉不平衡,連接到快速生長骨骼的肌腱也相對緊繃,過度使用傷害的風險隨之升高。這時可能需要下調訓練量與強度,並強化動作品質與柔韌性。孩子喊痛時,先考慮過度使用傷害,不要輕率歸為「生長痛」,必要時與家長商量轉介醫師。</p>
+<div class="analogy">生日是包裝箱上印的出貨日期,生物成熟度纔是果實真正的熟度。同一天出貨的香蕉和奇異果,熟的速度完全不同;只看標籤判斷能不能摘,一定會判錯。</div>
+
+<h3>3.3 力量從哪來:生長軟骨、肌肉與神經</h3>
+<p>出生時肌肉約佔體重25%,成年增加到約40%。青春期男女肌肉量增加都來自單一肌纖維的肥大(hypertrophy),不是增生(hyperplasia)。肌肉量高峯:女孩16至20歲,男孩18至25歲。兒童體內未骨化的生長軟骨(growth cartilage)有三處:骨骺板(epiphyseal plate,生長板)、關節面、肌腱附著的骨骺附著點。骨骺板完全骨化後,長骨就停止延長。女孩骨骼成熟比男孩早兩到三年,多數骨骼在20歲出頭融合。同樣一次衝擊,大人可能韌帶撕裂,孩子卻可能骨骺板骨折,因為生長軟骨比韌帶弱。</p>
+<p>力量增長曲線與體重增長曲線相似。男孩力量增長高峯出現在PHV後約1.2年、體重增長高峯後約0.8年,這就是「先長高、後長壯」。薈萃分析顯示,青少年肌肉力量的絕對增幅比兒童高近50%。未經訓練的女性約20歲、男性20至30歲達到力量巔峯。許多運動神經元的髓鞘化(myelination)在性成熟前尚未完成,所以不要期待兒童對訓練出現成人式的反應;也正因神經可塑性高,這是學習技能的黃金窗口。青春期前男女睪固酮(testosterone)濃度約20至60 ng/100 mL,青春期男孩升到約600 ng/100 mL,因此青春期前的力量增益主要來自神經因素:運動單元活化與同步化增強、動員與放電頻率改善,肌肉肥大至少在20週內難以成為主因。協調性與肌力要同步訓練,不必分先後。</p>
+<div class="analogy">髓鞘化像在電線外包絕緣層。絕緣層還沒包好的電線,訊號又慢又漏電,兒童的大腦就是正在施工中的電路。孩子訓練後力氣變大,比較像玩家操作技術變好,而不是「硬體」變大。</div>
+
+<h3>3.4 有效性、去訓練與早期專項化</h3>
+<p>五歲兒童就能從符合發展階段的阻力訓練受惠。文獻報告的最大力量增幅約10%至90%;未經訓練的青春期前兒童,做8至20週的計畫通常可提升約30%至40%。訓練持續超過23週時,力量與爆發力提升更顯著;相對強度更高(>80% 1RM)時,力量增長也更大。但兒童因訓練獲得的力量是暫時的:停止訓練後,力量會回落到未訓練同儕的水平。在為期八週的去訓練期(detraining)裡,單靠體育課與有組織運動也留不住。每週練一次的人,力量增長只有每週兩次的67%。</p>
+<p>早期運動專項化(early sport specialization)指青春期前便專注單一運動,全年訓練或比賽超過8個月。這種做法伴隨更高的嚴重受傷、過度使用傷害、膝前疼痛與倦怠風險;一項含51份研究的薈萃分析顯示,童年嘗試多項運動的人初期進步較慢,長期卻更可能達到卓越。超過50%的兒童過度使用傷害可以預防,方法包括教練培訓、賽前體適能、延後專項化、充足的休息與營養睡眠。</p>
+<div class="analogy">力量是租來的,不是買下的。停止繳「租金」(訓練),房東(自然發育水平)就會把力量收回去。早期專項化則像三年級起只讀一科,去賭升學考試:短期分數好看,長期風險全押。</div>
+
+<h3>3.5 青少年課表設計要點</h3>
+<p>青少年阻力訓練沒有最低年齡門檻,前提是情緒成熟,足以接受並遵循指導、願意嘗試。看似健康的兒童不強制訓前體檢,但所有人都要篩查,排除會妨礙安全參與的傷病。目標也不只是變強:還要認識自己的身體、培養對活動的興趣、學健身房禮儀、享受樂趣。指南要求:訓練前先動態熱身、動作挑戰與探索性遊戲;適合在阻力訓練後做靜態拉伸;從輕負荷開始,隨技術與力量提升逐漸增加阻力(例如5%至10%);依個人目標搭配不同組數×次數組合(例如3×5);每週兩到三次、非連續日訓練;全年做系統性的週期安排,保留充分休息與恢復;臥推、深蹲等動作必要時要有成年保護者在場。</p>
+<p>學新動作一律先用空槓鈴、長木棍或PVC管,把技術練對;技術守不住就降低阻力。在充分熱身、個別化遞增負荷、密切監督技術的前提下,兒童與青少年的單次最大重複(1RM)測試與最大等長評估同樣安全;時間或設備不允許時,可用5RM或10RM搭配預測方程式估算1RM,但多次數測試的累積疲勞會增加技術變形風險,也可改用垂直跳、跳遠、握力等與1RM顯著相關的替代指標。所有運動動作都建立在運動動作技能能力(athletic motor skill competencies, AMSC)之上,訓練要同時提升每項AMSC的動作形式(技術)與功能(力量產生)。技術要由受過訓練的觀察者持續評分,不能只盯舉起的重量。抓舉、挺舉等高階多關節動作,要等基礎力量與技術到位後再加入。</p>
+<div class="analogy">先拿空鍋練手感,再下油下料。技術還沒穩定就讓小孩上重負,等於烤箱還沒預熱就塞滿食材,外面焦了裡面還生。</div>
+
+<h3>3.6 老化:肌肉與骨骼在慢慢提款</h3>
+<p>即使是訓練有素的運動員,30歲後運動能力也會下滑;競技舉重能力每年約下降1%至1.5%,約70歲後下降更快。骨骼方面,骨礦物質含量下降,孔隙率上升。骨質減少症(osteopenia)指骨密度低於年輕成人平均值1至2.5個標準差(SD);低於2.5個SD以上則為骨質疏鬆症(osteoporosis)。患者跌倒時,髖部、脊椎、手腕最容易骨折。肌肉方面,肌少症(sarcopenia)是一種進行性、全身性的骨骼肌疾病,與跌倒、骨折、身體殘障與死亡率上升有關。30歲後單一肌肉橫截面積縮小、肌腱順應性下降、肌內脂肪增加;肌肉萎縮主要源於缺乏運動,以及第二型肌纖維逐漸喪失神經支配。力量(快速發力)的下降速度快於單位面積的肌力下降,而爬樓梯、走路都需要瞬間出力,所以這條下降曲線直接關乎一個人何時失去生活自理能力。調查顯示,55至64歲女性有40%、65至74歲有45%、75至84歲有65%舉不起約10磅(4.5公斤)的重物。</p>
+<p>在神經肌肉功能上,老年人會增強協同收縮(co-contraction),藉以代償變差的平衡能力、減少姿勢搖擺;走路蹬伸階段機械功率輸出下降,是步態老化的生物力學特徵之一。落地前的預激活(preactivation)能提高肌肉剛度,幫助應對觸地。要注意的是:只做阻力訓練並不能預防跌倒,必須搭配平衡與柔韌性訓練;有氧運動也應納入均衡計畫。與同齡男性相比,女性有氧能力約為男性的73%至85%,但晚年對訓練的整體生理反應沒有顯著性別差異。</p>
+<div class="analogy">骨骼是屋子的水泥牆:-1個SD到-2.5個SD是牆開始變疏鬆,低於-2.5個SD就是蜂窩牆,摔一下就可能裂。肌肉是會自動提款的帳戶,每年固定被領走一點,遲早繳不出「獨立生活」的房租。訓練就是按月往帳戶裡存錢。</div>
+
+<h3>3.7 老年人可以練,而且參數要明確</h3>
+<p>衰老似乎既不會增強、也不會削弱肌肉骨骼系統對阻力訓練的適應能力。先前久坐的老年男性做12週阻力訓練後,膝關節伸肌力量增加一倍以上、屈肌增加兩倍以上;87至96歲的高齡男女,只做8週訓練力量就顯著提升。高速阻力訓練在提升尖峯功率上比慢速訓練更有效,最大力量的提升則相當;訓練強度與力量、爆發力提升之間存在劑量效應關係。骨骼的適應要「持續繳費」:每週2次以上的高強度訓練能顯著提升骨密度,但停止訓練超過6個月,骨骼適應可能消失;高齡者停練12週後,只能保留部分力量與爆發力,再訓練後可以恢復。這正是把阻力訓練當終身事業的理由。</p>
+<p>課表參數:未經訓練的老年人從較低強度與量開始,初始強度約40%至50% 1RM,逐步增加(例如每個動作3組、強度60%至80% 1RM)。目前共識的最終目標是:每個主要肌羣每週兩到三次、每次2至3組、每組6至12次的多關節練習,強度為70%至85% 1RM。爆發力訓練建議每個動作1至3組、輕至中等負荷(40%至60% 1RM)、以較快的向心(concentric)速度完成6至10次;有監督時,增強式訓練也可用於發展拉長-縮短循環的爆發力。兩次訓練之間保留48至72小時恢復;每次先做5至10分鐘熱身;在無痛範圍內活動。單組訓練足以刺激上肢力量適應,下肢力量與肌肉量則以多組更有效。初期可用阻力器械,適應後應納入自由重量與多關節動作,對姿勢穩定性提出更高要求。要避開瓦氏動作:它會讓收縮壓與舒張壓突然升高,也可能衝擊脊椎,患有冠狀動脈疾病或未控制高血壓的人更應避免。最低有效劑量是每週2天、每次不超過60分鐘;多次不到10分鐘的「運動零食」式肌力活動,也能促進基本功能適應。蛋白質攝取是否充足,直接決定肌肉長不長得出來。</p>
+<div class="analogy">憋氣硬舉(Valsalva)像在老化的水管系統裡突然關死閥門,水鎚一瞬間猛撞管壁,血壓和脊椎一起捱打。對長輩來說,「舉的時候照常呼吸」比多裝兩片槓片重要得多。</div>
+
+<h2>四、考點速記</h2>
+<p>下列數字是本章最高頻的死數字,先背再理解。</p>
+<table>
+<tr><th>青少年</th><th>必背值</th></tr>
+<tr><td>青春期開始年齡</td><td>女孩8至13歲,男孩9至15歲;女孩約早2年</td></tr>
+<tr><td>PHV平均年齡</td><td>男孩約13.8歲,女孩約11.9歲;男孩力量增長高峯在PHV後約1.2年、體重高峯後約0.8年</td></tr>
+<tr><td>生長突增與PHV的身高百分比</td><td>突增約在預測成年身高88%至95%;PHV約在91%至92%</td></tr>
+<tr><td>訓練效果</td><td>5歲起可受惠;8至20週約提升30%至40%(未經訓練青春期前兒童);>23週效果更大;>80% 1RM增長更大;耐力訓練強度達≥85%最大心率時攝氧量提升更顯著</td></tr>
+<tr><td>頻率與去訓練</td><td>每週1次的增長只有每週2次的67%;去訓練後力量回落到未訓練水平;WHO建議兒童每週3天肌力與骨骼強化活動</td></tr>
+<tr><td>課表參數</td><td>每週2至3次非連續日;加載幅度例5%至10%;組次例3×5;訓練前動態熱身、訓練後靜態拉伸;先用PVC管/空槓學技術</td></tr>
+<tr><td>發育數字</td><td>肌肉佔體重:出生約25%→成年約40%;肌肉量高峯:女16至20歲、男18至25歲;力量巔峯:未訓練女約20歲、男20至30歲;睪固酮:青春期前20至60 ng/100 mL,青春期男孩約600 ng/100 mL;女孩骨骼成熟早2至3年;青少年絕對力量增幅比兒童高近50%</td></tr>
+<tr><td>早期專項化</td><td>青春期前單一運動、全年>8個月;超過50%兒童過度使用傷害可預防</td></tr>
+</table>
+<table>
+<tr><th>老年人</th><th>必背值</th></tr>
+<tr><td>老化速率</td><td>30歲後開始下滑;競技舉重能力每年降約1%至1.5%,約70歲後加速</td></tr>
+<tr><td>診斷門檻</td><td>骨質減少症:骨密度低於年輕成人平均-1至-2.5 SD;骨質疏鬆症:低於-2.5 SD;肌少症=進行性全身性骨骼肌疾病</td></tr>
+<tr><td>功能門檻</td><td>舉不起約10磅(4.5公斤)的女性比例:55至64歲40%、65至74歲45%、75至84歲65%;女性有氧能力約為男性的73%至85%</td></tr>
+<tr><td>訓練參數</td><td>初始40%至50% 1RM;進展至60%至80%(例每動作3組);共識目標:每週2至3次、每肌羣2至3組×6至12下、70%至85% 1RM多關節動作;爆發力:1至3組、40%至60% 1RM、6至10下、快向心;每次熱身5至10分鐘;兩次訓練間恢復48至72小時</td></tr>
+<tr><td>去訓練</td><td>停練>6個月骨骼適應可能消失;停練12週部分保留、再訓練可恢復;停訓後骨密度回升到訓前水準</td></tr>
+<tr><td>安全守則</td><td>避免Valsalva;單組可刺激上肢、下肢需多組;最低劑量每週2天、每次≤60分鐘;運動零食<10分鐘;需均衡營養與充足蛋白質;單靠阻力訓練不能預防跌倒,須加平衡訓練</td></tr>
+</table>
+
+<h2>五、術語速查(中英對照)</h2>
+<table>
+<tr><th>中文術語</th><th>English</th><th>一句話定義</th></tr>
+<tr><td>長期運動發展</td><td>long-term athletic development (LTAD)</td><td>逐步提升運動能力,以增強體適能、降低受傷風險、改善身心健康。</td></tr>
+<tr><td>青少年體適能發展模型</td><td>youth physical development (YPD) model</td><td>為男女青少年提供各階段多元訓練指導的發展模型。</td></tr>
+<tr><td>實際年齡</td><td>chronological age</td><td>以出生至今的時間計算的年齡,無法反映成熟快慢。</td></tr>
+<tr><td>生物成熟度</td><td>biological maturity</td><td>身體實際發育程度,可由骨齡、性成熟度或體格成熟度評估。</td></tr>
+<tr><td>身高增長速度峯值</td><td>peak height velocity (PHV)</td><td>青春期生長突增中生長速度最快時的年齡,男約13.8歲、女約11.9歲。</td></tr>
+<tr><td>骨齡</td><td>bone age</td><td>以左腕X光片骨化程度判斷成熟度的方法,是金標準。</td></tr>
+<tr><td>生長軟骨</td><td>growth cartilage</td><td>兒童未骨化的軟骨,存在於骨骺板、關節面與骨骺附著點,易受創。</td></tr>
+<tr><td>骨骺板(生長板)</td><td>epiphyseal plate (growth plate)</td><td>長骨末端生長軟骨,完全骨化後長骨停止延長。</td></tr>
+<tr><td>骨幹(初級骨化中心)</td><td>diaphysis (primary ossification center)</td><td>長骨中央部分,大部分骨骼形成在此發生。</td></tr>
+<tr><td>骨質減少症</td><td>osteopenia</td><td>骨密度低於年輕成人平均值-1至-2.5個標準差。</td></tr>
+<tr><td>骨質疏鬆症</td><td>osteoporosis</td><td>骨密度低於年輕成人平均值-2.5個標準差以上,骨折風險高。</td></tr>
+<tr><td>肌少症</td><td>sarcopenia</td><td>進行性、全身性的骨骼肌疾病,與跌倒、骨折、殘障、死亡相關。</td></tr>
+<tr><td>肌力衰退</td><td>dynapenia</td><td>與老化相關的肌力流失,不一定伴隨肌肉量流失。</td></tr>
+<tr><td>預激活</td><td>preactivation</td><td>觸地前肌肉先激活,提高剛度、為負荷做準備。</td></tr>
+<tr><td>協同收縮</td><td>co-contraction</td><td>跨越同關節的主動肌與拮抗肌同時收縮以穩定關節,會降低淨力矩。</td></tr>
+<tr><td>瓦氏動作</td><td>Valsalva maneuver</td><td>憋氣用力以穩定軀幹,會使收縮壓與舒張壓驟升,老年人不宜。</td></tr>
+<tr><td>去訓練</td><td>detraining</td><td>訓練量減少或停止的期間,兒童訓練獲得的力量會隨之流失。</td></tr>
+<tr><td>訓練年齡</td><td>training age</td><td>持續接受正規且有監督阻力訓練的時間長短。</td></tr>
+<tr><td>運動動作技能能力</td><td>athletic motor skill competencies (AMSC)</td><td>所有運動動作的基礎動作,含技術形式與力量功能兩面。</td></tr>
+<tr><td>早期運動專項化</td><td>early sport specialization</td><td>青春期前單一運動強化訓練或比賽,全年超過8個月。</td></tr>
+<tr><td>需求分析</td><td>needs analysis</td><td>設計課表前,對個人特徵與項目需求做的初步評估。</td></tr>
+<tr><td>日常生活活動</td><td>activities of daily living (ADL)</td><td>起身、爬梯、家務等基本自理活動,是老年訓練的目標參照。</td></tr>
+</table>
+
+<h2>六、圖表</h2>
+<div class="fig">
+<svg width="660" height="272" viewBox="0 0 660 272">
+  <text x="14" y="64" font-size="12" fill="#3d7a3d">女孩</text>
+  <rect x="108" y="50" width="120" height="16" fill="#3d7a3d" fill-opacity="0.45"/>
+  <rect x="300" y="50" width="96" height="16" fill="#3d7a3d"/>
+  <circle cx="202" cy="58" r="7" fill="#e94560"/>
+  <text x="202" y="42" font-size="10" text-anchor="middle" fill="#e94560">PHV 約11.9</text>
+  <text x="14" y="114" font-size="12" fill="#0f3460">男孩</text>
+  <rect x="132" y="100" width="144" height="16" fill="#0f3460" fill-opacity="0.45"/>
+  <rect x="348" y="100" width="168" height="16" fill="#0f3460"/>
+  <circle cx="247" cy="108" r="7" fill="#e94560"/>
+  <text x="247" y="92" font-size="10" text-anchor="middle" fill="#e94560">PHV 約13.8</text>
+  <text x="14" y="160" font-size="11" fill="#8a6d00">力量巔峯</text>
+  <rect x="390" y="148" width="12" height="12" fill="#e6b800"/>
+  <text x="396" y="176" font-size="10" text-anchor="middle" fill="#16213e">女性約20歲</text>
+  <rect x="396" y="148" width="240" height="12" fill="#e6b800" fill-opacity="0.7"/>
+  <text x="516" y="143" font-size="10" text-anchor="middle" fill="#16213e">男性20至30歲(未經訓練)</text>
+  <line x1="60" y1="192" x2="640" y2="192" stroke="#16213e" stroke-width="1.5"/>
+  <line x1="60" y1="34" x2="60" y2="192" stroke="#16213e" stroke-width="1"/>
+  <text x="60" y="210" font-size="10" text-anchor="middle" fill="#16213e">6</text>
+  <text x="108" y="210" font-size="10" text-anchor="middle" fill="#16213e">8</text>
+  <text x="156" y="210" font-size="10" text-anchor="middle" fill="#16213e">10</text>
+  <text x="204" y="210" font-size="10" text-anchor="middle" fill="#16213e">12</text>
+  <text x="252" y="210" font-size="10" text-anchor="middle" fill="#16213e">14</text>
+  <text x="300" y="210" font-size="10" text-anchor="middle" fill="#16213e">16</text>
+  <text x="348" y="210" font-size="10" text-anchor="middle" fill="#16213e">18</text>
+  <text x="396" y="210" font-size="10" text-anchor="middle" fill="#16213e">20</text>
+  <text x="444" y="210" font-size="10" text-anchor="middle" fill="#16213e">22</text>
+  <text x="492" y="210" font-size="10" text-anchor="middle" fill="#16213e">24</text>
+  <text x="540" y="210" font-size="10" text-anchor="middle" fill="#16213e">26</text>
+  <text x="588" y="210" font-size="10" text-anchor="middle" fill="#16213e">28</text>
+  <text x="636" y="210" font-size="10" text-anchor="middle" fill="#16213e">30</text>
+  <text x="350" y="230" font-size="11" text-anchor="middle" fill="#16213e">年齡(歲)</text>
+  <text x="20" y="252" font-size="10" fill="#16213e">淺色長條=青春期開始期間;深色長條=肌肉量高峯範圍;紅點=身高增長速度峯值(PHV);黃色=未經訓練的力量巔峯</text>
+</svg>
+<div class="figcap">圖7.1 男女發育里程碑時間軸:青春期開始、PHV、肌肉量高峯與力量巔峯的年齡對照</div>
+</div>
+
+<div class="fig">
+<svg width="660" height="222" viewBox="0 0 660 222">
+  <text x="8" y="55" font-size="11" fill="#16213e">初始適應</text>
+  <text x="312" y="34" font-size="10" fill="#16213e">40%至50% 1RM(開始數週)</text>
+  <rect x="312" y="40" width="48" height="20" fill="#3d7a3d"/>
+  <text x="8" y="95" font-size="11" fill="#16213e">漸進期</text>
+  <text x="408" y="74" font-size="10" fill="#16213e">60%至80%(例如每動作3組)</text>
+  <rect x="408" y="80" width="96" height="20" fill="#e6b800"/>
+  <text x="8" y="135" font-size="11" fill="#16213e">共識終極目標</text>
+  <text x="430" y="114" font-size="10" fill="#16213e">70%至85% × 每組6至12下 × 2至3組 × 每週2至3次</text>
+  <rect x="456" y="120" width="72" height="20" fill="#e94560"/>
+  <text x="8" y="175" font-size="11" fill="#16213e">爆發力訓練</text>
+  <text x="312" y="154" font-size="10" fill="#16213e">40%至60% × 6至10下 × 快速向心 × 1至3組</text>
+  <rect x="312" y="160" width="96" height="20" fill="#0f3460"/>
+  <line x1="120" y1="26" x2="120" y2="192" stroke="#16213e" stroke-width="1"/>
+  <line x1="120" y1="192" x2="600" y2="192" stroke="#16213e" stroke-width="1.5"/>
+  <text x="120" y="207" font-size="10" text-anchor="middle" fill="#16213e">0%</text>
+  <text x="216" y="207" font-size="10" text-anchor="middle" fill="#16213e">20%</text>
+  <text x="312" y="207" font-size="10" text-anchor="middle" fill="#16213e">40%</text>
+  <text x="408" y="207" font-size="10" text-anchor="middle" fill="#16213e">60%</text>
+  <text x="504" y="207" font-size="10" text-anchor="middle" fill="#16213e">80%</text>
+  <text x="600" y="207" font-size="10" text-anchor="middle" fill="#16213e">100%</text>
+  <text x="626" y="196" font-size="10" text-anchor="end" fill="#16213e">1RM</text>
+</svg>
+<div class="figcap">圖7.2 老年人阻力訓練強度進程與各階段%1RM區間(綠=初始、黃=漸進、紅=共識目標、藍=爆發力)</div>
+</div>
+
+<p>表7.1整理衰老與阻力訓練對各變項的反向作用,考題常要求分辨「衰老造成什麼、訓練能逆轉什麼」。</p>
+<table>
+<tr><th>物理或生理變項</th><th>衰老的影響</th><th>阻力訓練的效果</th></tr>
+<tr><td>肌肉力量(strength)</td><td>減少</td><td>增加</td></tr>
+<tr><td>肌肉爆發力(power)</td><td>減少</td><td>增加</td></tr>
+<tr><td>肌肉耐力</td><td>減少</td><td>增加</td></tr>
+<tr><td>肌肉量</td><td>減少</td><td>增加</td></tr>
+<tr><td>肌肉纖維大小</td><td>減少</td><td>增加</td></tr>
+<tr><td>肌肉代謝能力</td><td>減少</td><td>增加</td></tr>
+<tr><td>靜息代謝率</td><td>減少</td><td>增加</td></tr>
+<tr><td>體脂</td><td>增加</td><td>減少</td></tr>
+<tr><td>骨礦物質密度</td><td>減少</td><td>增加</td></tr>
+<tr><td>生理功能</td><td>減少</td><td>增加</td></tr>
+</table>
+<div class="figcap">表7.1 衰老的影響與阻力訓練效果總表(依原文表7.1改寫)</div>
+
+<p>下表把兩端族羣的課表參數並排,方便考試時快速比對。</p>
+<table>
+<tr><th>項目</th><th>兒童與青少年</th><th>老年人</th></tr>
+<tr><td>分組依據</td><td>生物成熟度、技術水平、訓練年齡,不看身分證年齡</td><td>病史問卷、風險篩查,必要時取得醫師許可</td></tr>
+<tr><td>頻率</td><td>每週2至3次,非連續日</td><td>每週2至3次(初始適應期),兩次訓練間保留48至72小時恢復</td></tr>
+<tr><td>強度</td><td>以技術為前提,輕負荷起步,遞增例5%至10%;高強度(>80% 1RM)可帶來更大增長但須循序漸進</td><td>初始40%至50% 1RM,共識目標70%至85% 1RM</td></tr>
+<tr><td>組次</td><td>依目標搭配,例如3×5;單關節與多關節動作皆可</td><td>2至3組×6至12下多關節動作;爆發力1至3組×6至10下、40%至60% 1RM快向心</td></tr>
+<tr><td>特殊風險管理</td><td>保護生長軟骨:正確技術、合理增量、合格監督;PHV期調整量與強度</td><td>避免Valsalva;無痛範圍活動;平衡與柔韌要一起練才能防跌</td></tr>
+<tr><td>去訓練後果</td><td>力量回落到未訓練水平;體育課無法維持訓練增益</td><td>停練12週部分保留;骨適應超過6個月可能消失;再訓練可恢復</td></tr>
+</table>
+<div class="figcap">表7.2 青少年與老年人阻力訓練參數對照(依原文整理)</div>
+
+<h2>七、易混陷阱</h2>
+<div class="trap"><b>實際年齡 vs 生物成熟度。</b>實際年齡是出生至今的年月;生物成熟度是身體實際發育程度,用骨齡、性成熟度或體格成熟度評估。同齡兩人的生物年齡可差五歲,早熟者在絕對力量等指標上暫時佔優。分組、測試、設計課表都要看後者,不能只看前者。</div>
+<div class="trap"><b>骨質減少症 vs 骨質疏鬆症。</b>兩者只差一個門檻:骨密度低於年輕成人平均-1至-2.5個SD是骨質減少症(osteopenia);低於-2.5個SD以上纔是骨質疏鬆症(osteoporosis)。題目寫「-2.5個標準差或更低」,答案是骨質疏鬆症。</div>
+<div class="trap"><b>肌力(strength) vs 爆發力(power)。</b>肌力是最大出力,爆發力是快速出力。老化時力量(快速發力)的下降比肌力更快,日常跌倒風險更多來自爆發力流失。所以老年人除了70%至85% 1RM的力量區間,還要加40%至60% 1RM、快速向心的爆發力訓練;兩者參數不同,不能互相取代。</div>
+<div class="trap"><b>肥大 vs 神經適應。</b>青春期前的力量增益主要來自神經因素(運動單元活化、同步化、動員與放電頻率),因為睪固酮只有20至60 ng/100 mL,難以支撐肌肉肥大;青春期後的訓練增益才通常伴隨肌肉肥大。看到「青春期前兒童變強的原因」,選神經,不選肥大。</div>
+<div class="trap"><b>肌少症 vs 肌力衰退。</b>肌少症(sarcopenia)是肌肉量與功能的進行性流失;肌力衰退(dynapenia)指肌力流失,不必伴隨肌肉量下降。兩者都隨老化發生,但定義對象不同:一個講「量」,一個講「力」。</div>
+<div class="trap"><b>阻力訓練 ≠ 防跌處方。</b>單做阻力訓練似乎無法預防跌倒;必須把平衡、柔韌訓練與阻力訓練納入多維度、週期化的計畫,才能降低跌倒風險。看到「只要增加活動量就能防跌」,判斷為錯。</div>
+
+<h2>八、自我檢測</h2>
+<div class="qa"><p><b>Q1.</b>(是非題)遵循適當測試程序(充分熱身、個別化遞增負荷、監督技術)時,兒童與青少年做1RM測試是安全的。</p><p class="ans">Ans:○ — 文獻證實,在遵循程序的前提下,1RM與最大等長評估對青少年安全;骨骺板骨折案例幾乎都出自無人監督的大重量過頭舉。</p></div>
+<div class="qa"><p><b>Q2.</b>(選擇題)PHV指的是下列哪一項? (A)兒童身高值 (B)身高增長速度峯值 (C)部分身高值 (D)身高峯值</p><p class="ans">Ans:B — PHV=peak height velocity,生長突增中生長速度最快時的年齡,男約13.8歲、女約11.9歲。</p></div>
+<div class="qa"><p><b>Q3.</b>(選擇題)骨礦物質密度比年輕成人平均值低2.5個標準差以上,應診斷為? (A)骨質減少症 (B)骨質疏鬆症 (C)肌少症 (D)成骨不全</p><p class="ans">Ans:B — 低於-2.5個SD是骨質疏鬆症;-1至-2.5個SD纔是骨質減少症。</p></div>
+<div class="qa"><p><b>Q4.</b>(選擇題)發育階段,大部分骨骼形成發生的初級骨化中心是? (A)骨幹 (B)生長板 (C)骨骺 (D)關節面</p><p class="ans">Ans:A — 骨幹(diaphysis)是初級骨化中心;生長板等生長軟骨屬次級骨化中心。</p></div>
+<div class="qa"><p><b>Q5.</b>(選擇題)兒童時期肌肉力量與爆發力的提升,主要歸因於哪個系統的適應? (A)骨骼系統 (B)循環系統 (C)神經肌肉系統 (D)免疫系統</p><p class="ans">Ans:C — 青春期前睪固酮低,力量增益主要來自運動單元活化、同步化與動員等神經因素。</p></div>
+<div class="qa"><p><b>Q6.</b>(選擇題)每週只做一天阻力訓練的兒童,其力量增長約為每週兩天的多少? (A)33% (B)50% (C)67% (D)90%</p><p class="ans">Ans:C — 研究顯示每週一天者平均只有每週兩天者的67%,提高訓練頻率與更佳效果相關。</p></div>
+<div class="qa"><p><b>Q7.</b>(選擇題)針對老年人的共識訓練強度目標是? (A)30%至40% 1RM (B)40%至50% 1RM (C)60%至70% 1RM (D)70%至85% 1RM</p><p class="ans">Ans:D — 最終目標為70%至85% 1RM、每組6至12下、2至3組、每週2至3次;40%至50%只是初始起點。</p></div>
+<div class="qa"><p><b>Q8.</b>(是非題)只靠阻力訓練就能有效預防老年人跌倒。</p><p class="ans">Ans:✕ — 單一阻力訓練似乎無法防跌,必須結合平衡與柔韌性訓練。</p></div>
+<div class="qa"><p><b>Q9.</b>(是非題)停止阻力訓練後,兒童已獲得的力量可以靠體育課與有組織運動維持8週。</p><p class="ans">Ans:✕ — 研究顯示8週去訓練期間,體育課與有組織運動無法維持訓練獲得的力量,增益回落到未訓練水準。</p></div>
+<div class="qa"><p><b>Q10.</b>(選擇題)老年人爆發力訓練的建議參數是? (A)80%至90% 1RM、1至5下、慢速 (B)40%至60% 1RM、6至10下、快速向心 (C)60%至70% 1RM、15至20下 (D)30%至40% 1RM、力竭組</p><p class="ans">Ans:B — 共識建議輕至中等負荷40%至60% 1RM、以快速向心速度做6至10下、每個動作1至3組。</p></div>
+
+</body>
+</html>

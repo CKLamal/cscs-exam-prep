@@ -1,0 +1,23 @@
+{
+  "$schema_note": "One JSON file per source in this bank/ folder. Structure below. UTF-8, no BOM.",
+  "source": "string - short source id, e.g. github-user-repo, quizlet-set-name, pdf-title",
+  "source_url": "string - where it came from",
+  "retrieved_utc": "YYYY-MM-DD",
+  "license_note": "string - what is known about usage terms, empty if unknown",
+  "questions": [
+    {
+      "id": "string - globally unique, format <source-key>-<nnn>, e.g. gh-bank-001",
+      "part": "1 | 2 | null (1 = Scientific Foundations, 2 = Practical/Applied, null if source unknown)",
+      "domain": "string - exam content area if known, else null",
+      "textbook_chapter": "integer 1-26 or null (maps to cscs-exam-prep/raw/chXX.txt Chinese textbook)",
+      "item_type": "\"mcq\" (default, may be omitted) | \"flashcard\" (front/back cards from Quizlet/Cram/Brainscape: options=null, answer=null)",
+      "question": "string - English, exam style (flashcard: the front text)",
+      "options": "array of option strings (usually 4), or null for flashcard items",
+      "answer": "0-based integer index into options, or null for flashcard items",
+      "answer_text": "string - copy of the correct option (redundancy for QA); for flashcard items: the back/definition text",
+      "explanation_en": "string or null",
+      "explanation_zh": "string or null - Traditional Chinese explanation if source provides it or added by enrichment pass",
+      "tags": ["optional keywords"]
+    }
+  ]
+}

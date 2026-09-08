@@ -48,30 +48,30 @@
 - 把整段機翻原文直接貼上——必須重新組織成自己的講解
 
 ## 章節對照表(章號 | 輸出檔名用繁體章名 | 原文起訖頁 | 英文章名僅供術語對照)
-1. 第1章 人体系统的结构与功能 | p38–103 | Structural and Functional Foundations of Human Movement
+1. 第1章 人体系统的结构与功能 | p38–103 | Structure and Function of Body Systems
 2. 第2章 阻力训练的生物力学 | p104–173 | Biomechanics of Resistance Exercise
 3. 第3章 运动与训练的生物能量学 | p174–226 | Bioenergetics of Exercise and Training
-4. 第4章 阻力训练的内分泌反应 | p227–280 | Endocrine Responses to Exercise and Training
-5. 第5章 对无氧训练的适应(神经肌肉适应) | p281–338 | Neuromuscular Adaptations to Resistance Training and Detraining
-6. 第6章 对有氧训练的适应 | p339–383 | Aerobic Exercise Adaptations
-7. 第7章 年龄差异及其对阻力训练的影响 | p384–437 | Age-Related Differences and Their Impact on Resistance Training
-8. 第8章 性别差异及其对阻力训练的影响 | p438–464 | Sex-Related Differences and Their Impact on Resistance Training
+4. 第4章 阻力训练的内分泌反应 | p227–280 | Endocrine Responses to Resistance Exercise and Training
+5. 第5章 对无氧训练的适应(神经肌肉适应) | p281–338 | Adaptations to Anaerobic Training
+6. 第6章 对有氧训练的适应 | p339–383 | Adaptations to Aerobic Training
+7. 第7章 年龄差异及其对阻力训练的影响 | p384–437 | Age-Related Differences and Their Implications for Resistance Training
+8. 第8章 性别差异及其对阻力训练的影响 | p438–464 | Sex-Related Differences and Their Implications for Resistance Training
 9. 第9章 表演的心理基础 | p465–535 | Psychological Foundations of Performance
-10. 第10章 影响健康的基本营养因素 | p536–612 | Basic Nutritional Factors for Health
-11. 第11章 提升运动表现的营养策略 | p613–658 | Advanced Nutrition Strategies for Sport Performance
-12. 第12章 提高运动表现的物质和方法 | p659–728 | Substances and Methods to Enhance Performance (Ergogenic Aids)
-13. 第13章 测试选择与管理原则 | p729–763 | Testing Selection and Administration Principles
-14. 第14章 特定测试的管理、评分和解释 | p764–853 | Administration, Scoring, and Interpretation of Specific Tests
+10. 第10章 影响健康的基本营养因素 | p536–612 | Basic Nutritional Factors Affecting Health
+11. 第11章 提升运动表现的营养策略 | p613–658 | Nutrition Strategies for Maximizing Performance
+12. 第12章 提高运动表现的物质和方法 | p659–728 | Performance-Enhancing Substances and Methods
+13. 第13章 测试选择与管理原则 | p729–763 | Principles of Test Selection and Administration
+14. 第14章 特定测试的管理、评分和解释 | p764–853 | Administration, Scoring, and Interpretation of Selected Tests
 15. 第15章 表现准备、机动性和灵活性 | p854–946 | Performance Preparation, Mobility, and Flexibility
-16. 第16章 自由重量和器械训练的运动技巧 | p947–1087 | Exercise Technique: Free Weights and Machines
-17. 第17章 替代模式和非传统器械训练的练习技巧 | p1088–1185 | Exercise Technique: Alternative Modes and Nontraditional Equipment
-18. 第18章 阻力训练计划设计 | p1186–1259 | Resistance Training Program Design
-19. 第19章 增强式训练的方案设计与技巧 | p1260–1397 | Plyometric Program Design and Technique
-20. 第20章 速度和敏捷性训练的方案设计与技巧 | p1398–1511 | Speed and Agility Program Design and Technique
-21. 第21章 有氧耐力和代谢训练的计划设计与技巧 | p1512–1578 | Aerobic Endurance and Metabolic Program Design and Technique
+16. 第16章 自由重量和器械训练的运动技巧 | p947–1087 | Exercise Technique for Free Weight and Machine Training
+17. 第17章 替代模式和非传统器械训练的练习技巧 | p1088–1185 | Exercise Technique for Alternative Modes and Nontraditional Implement Training
+18. 第18章 阻力训练计划设计 | p1186–1259 | Program Design for Resistance Training
+19. 第19章 增强式训练的方案设计与技巧 | p1260–1397 | Program Design and Technique for Plyometric Training
+20. 第20章 速度和敏捷性训练的方案设计与技巧 | p1398–1511 | Program Design and Technique for Speed and Agility Training
+21. 第21章 有氧耐力和代谢训练的计划设计与技巧 | p1512–1578 | Program Design and Technique for Aerobic Endurance and Metabolic Training
 22. 第22章 周期化 | p1579–1629 | Periodization
-23. 第23章 康复、再训练和医疗问题 | p1630–1678 | Rehabilitation, Retraining, and Medical Issues
-24. 第24章 过度训练、过度运动和恢复 | p1679–1726 | Overtraining, Overreaching, and Recovery
+23. 第23章 康复、再训练和医疗问题 | p1630–1678 | Rehabilitation, Reconditioning, and Medical Issues
+24. 第24章 过度训练、过度运动和恢复 | p1679–1726 | Overreaching, Overtraining, and Recovery
 25. 第25章 设施设计、布局和组织 | p1727–1774 | Facility Design, Layout, and Organization
 26. 第26章 设施政策、程序和法律问题 | p1775–1820 | Facility Policies, Procedures, and Legal Issues
 

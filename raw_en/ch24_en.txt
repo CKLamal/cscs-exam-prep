@@ -1,0 +1,1389 @@
+CHAPTER 24
+OVERREACHING,
+OVERTRAINING, AND
+RECOVERY
+Andrew C. Fry, PhD, and Bradley C. Nindl, PhD
+After completing this chapter, you will be able to
+define and differentiate overtraining and overreaching;
+understand the difference between the process of overtraining
+and the result of the overtraining syndrome;
+recognize contributing factors to overtraining and overreaching;
+understand the role of allostatic loading;
+realize that not all decreases in performance are due to
+overtraining;
+know the physical performances most sensitive to overtraining
+and overreaching;
+appreciate the physiological, biomechanical, and psychological
+responses and adaptations to overtraining and overreaching;
+learn about potential strategies for avoiding performance
+decrements due to overtraining; and
+understand how functional overreaching can be a beneficial
+part of an appropriately designed training program.
+1679
+
+Training for optimum performance is familiar territory for athletes, as
+it is for most people. Attaining one’s performance potential often
+requires advanced training methods that include phases (i.e., cycles
+or blocks) of high training volumes and intensities (see chapter 22).
+While these training phases can be effective for long-term
+performance enhancement, they also run the risk of creating a
+training stimulus that is greater than the recovery capabilities of the
+individual. When this happens, it is called overtraining (OT), and it
+contributes to the resulting overtraining syndrome (OTS). The
+problem of overtraining was recognized as far back as 1866 (101),
+but the topic of overtraining has received much attention in the
+scientific literature in recent years, and it is readily apparent that this
+is a complex and often confusing phenomenon (13, 38, 40, 43, 61,
+65, 72, 74, 80, 88, 89, 104, 107, 135, 137, 139). Furthermore, the
+issue of overtraining is a problem in areas other than sport, such as
+with tactical (i.e., military) personnel (134). A common finding in
+many reviews and position stands is that more research must be
+performed to understand more fully what overtraining and
+overreaching (OR) is, how it affects the individual, and what
+measures can be taken to avoid this problem. In the present chapter
+we will examine the known causes and results of the various stress
+responses as they apply primarily to strength and conditioning
+programs for high performance and will provide possible strategies
+to avoid or remedy overtraining syndrome.
+1680
+
+Periodization and the General
+Adaptation Syndrome
+When the total training program is correctly designed and
+implemented, the individual can adapt and improve. This can closely
+align with Selye’s general adaptation syndrome (GAS; figure
+24.1) (117). In the GAS paradigm as applied to any biological
+system, a stress creates an initial alarm phase, followed by a
+resistance phase, and ultimately adaptation. If the stress is too
+great, the system is unable to successfully resist the stressor and the
+biological system dies. In the context of an athlete and a well-
+designed strength and conditioning program, this sequence initially
+produces decreases in performance, followed by performance
+recovery, and eventually performance improvements. This assumes
+that the training program permits the athlete to resist the stress;
+otherwise, persistent decreases in performance occur. These
+performance decrements can be either long term due to
+overtraining, or short term due to overreaching (see the
+Overreaching Defined section later in the chapter) (93, 108, 125,
+126). Therein lies the problem for the strength and conditioning
+professional: how to create the proper overload (i.e., training stress)
+and how to correctly adjust the training load to permit the athlete to
+recover and attain enhanced performance. When done correctly, this
+process can be part of a well-designed periodized program (see
+chapter 22). It must be remembered that both the GAS and the
+concept of periodization are paradigms, or models, and do not
+necessarily have to look exactly like illustrations such as figure 24.1.
+Indeed, the validity of the GAS as applied to training (14),
+periodization paradigms (130), and the concept that fatigue can
+accumulate from resistance exercise programs (63) have been
+questioned by some academics. However, the vast majority of those
+who study overtraining and work in the strength and conditioning
+profession recognize the complexity of this topic (25). It also must
+1681
+
+be acknowledged that our understanding of overtraining and
+overreaching is far from complete (88, 89, 135) and requires much
+more study. The goal of this chapter is to help the practitioner and
+athlete avoid unintended long-term decreases in performance, which
+are exactly the opposite of the intended training goal.
+FIGURE 24.1 Relationship between the general adaptation syndrome paradigm and
+stages of overtraining and overreaching.
+Adapted by permission from V.M. Zatsiorsky, W.J. Kraemer, and A.C. Fry, Science and Practice of Strength Training, 3rd
+ed. (Human Kinetics, 2021), 180.
+One of the biggest challenges when training an individual or a
+team is how to get the most from training. If working with athletes
+training for maximum performance, this means implementing a
+training program that will optimize performance for their sport. If
+working in a tactical environment (e.g., military, law enforcement,
+fire fighter, first responder), the goal again is to optimize
+performance for the tasks to be performed. Even for those in the
+general population who are hoping to optimize their health and
+fitness, it is sometimes desirable to get the maximum effects from
+the training program to satisfy their needs. In each of these
+scenarios, the person designing the training program will most likely
+not be satisfied with mediocre results but is rather seeking to obtain
+1682
+
+the best results possible despite potential limitations encountered.
+These limitations can include a number of factors such as those
+listed in figure 24.2.
+Figure 24.2  Possible limiting factors when
+designing an optimal strength and conditioning
+program.
+Time available
+Equipment and facilities available
+Sport-specific training
+Sport governing body regulations
+Prior training history
+Travel and time zones
+Competition density
+Injury and physical limitations
+Menstrual cycle
+Age
+Job
+Family demands and schedule
+Recreational activities
+In an effort to maximize the training effect, it may be necessary
+to include blocks of training that highly tax the individual in an
+attempt to attain the greatest training response possible. Examples
+of this can include the high-volume general preparation phases
+found in many strength and conditioning programs (see chapter 18
+for more details). When implemented correctly, the resulting longer-
+term training effect can be quite substantial. But a problem arises
+when these phases of training have too high a volume or intensity
+and are beyond the recovery capacity of the individual or team,
+which can give way to overtraining. But what exactly is overtraining?
+What are the lesser forms of overtraining, referred to as
+overreaching? And how do these differ from a stressful but well-
+designed training block? Although the term overtraining is commonly
+1683
+
+used in the sport coaching and strength and conditioning
+professions, we must first define exactly what we are talking about.
+1684
+
+Overtraining and Overreaching
+A number of definitions of overtraining and overreaching can be
+found in the literature; however, in many cases the definitions are
+vague or extremely general. Some may think the concept of
+overtraining is a relatively new topic. However, as previously
+mentioned, though not in the context of sport performance, the
+issue was recognized as early as 1866 concerning general physical
+effort. It was stated that “the exertion shall not exceed the powers
+of recruitment; and … the recruitment shall be facilitated by
+adequate diet and rest” (101). Additionally, much of the overtraining
+literature is based on the seminal work of Hans Selye’s GAS (117),
+which is also discussed in chapter 22. In the 1980s and 1990s, sport
+scientists and sports medicine clinicians began to recognize the
+problems of overtraining in sport and began to study and evaluate
+this challenge as described in several reviews (13, 38, 72, 74, 80,
+104, 126, 129, 139). The following things had become clear:
+Not all forms of overtraining are identical (72, 129).
+Not all types of performance decrements are the same (33,
+34, 80, 104).
+The contributing factors are variable (13, 38, 72, 80, 104, 126,
+129, 139).
+Figure 24.3 illustrates the training continuum from no training to
+optimum training, which can include stressful training to various
+overtraining scenarios. What should be abundantly clear in this
+figure is that different sports (i.e., training goals) present different
+types of overtraining. Likewise, different types of resistance exercise
+also present different pathways to the problem of overtraining and
+the resulting OTS. It must be remembered that when proper training
+programs are followed, the training and performance adaptations
+can differ considerably (e.g., a distance runner [aerobic endurance
+sport], wrestler [hybrid sport, both aerobic and anaerobic], or a
+shot-putter [anaerobic, strength, and power]). Likewise, the factors
+1685
+
+contributing to overtraining for these same three athletes, and the
+performance impairments and physiological responses, are also
+different (13, 33, 34, 38, 72, 80, 104, 126, 138, 139).
+Overtraining Defined
+Due to the emergence of numerous attempts to define and
+understand overtraining (64, 71), a joint task force on the topic was
+convened by the combined efforts of the European College of Sports
+Science (ECSS) and the American College of Sports Medicine (ACSM)
+(88). The result was their position statement titled “Preventions,
+Diagnosis and Treatment of the Overtraining Syndrome” that
+presented a consensus definition of overtraining and overreaching,
+as well as what was scientifically known about these problems at the
+time. This was followed in 2013 by an updated position stand
+summarizing what had been learned subsequent to 2006 (89). The
+consensus of this working group was to adopt the following
+definition of overtraining:
+An accumulation of training and/or non-training stress resulting
+in long-term decrement in performance capacity with or
+without related physiological and psychological signs and
+symptoms 
+of 
+maladaptation 
+in 
+which 
+restoration 
+of
+performance capacity may take several weeks or months (88,
+p. 2).
+1686
+
+FIGURE 24.3 Training continuum resulting in overtraining for numerous forms of exercise
+and training. RE = resistance exercise; OT = overtraining; OR = overreaching.
+Adapted by permission from V.M. Zatsiorsky, W.J. Kraemer, and A.C. Fry, Science and Practice of Strength Training, 3rd
+ed. (Human Kinetics, 2021), 179.
+As can be seen in this definition, this is a serious condition for the
+athlete from which recovery can take a long time, and it greatly
+interferes or halts the competition training program. Since this
+definition was proposed, more recent working groups have added
+their definitions to the literature, as well as concerns with the state
+of the overtraining research (65, 135) that have helped illustrate the
+challenges of understanding this phenomenon.
+An important aspect of this definition that was also clarified in
+these position stands is that overtraining is actually the process
+(e.g., excessively high volumes and intensities of training) that then
+can result in an overtraining syndrome (i.e., the collection of
+symptoms and performance impairments) (figure 24.4) (88, 89). To
+be overtrained, one actually has the OTS and the required long-term
+performance impairments (i.e., weeks to months or longer).
+Performance impairments are necessary for overtraining to have
+occurred. However, we will see that not all performance impairments
+are alike.
+1687
+
+FIGURE 24.4 Overtraining is the process, and the overtraining syndrome is the result. In
+all instances, performance impairment of some type will be one of the results.
+Overtraining is the process that can result in an
+overtraining syndrome.
+Overtraining Syndrome Defined
+When the ECSS-ACSM Task Force defined overtraining (88, 89), they
+specifically stated that the OTS was a combination of “related
+physiological 
+and 
+psychological 
+signs 
+and 
+symptoms 
+of
+maladaptation,” some of which may not be part of the training
+program. As such, the use of the term syndrome indicates the
+complex nature of the condition and the fact that the symptoms are
+associated with each other.
+1688
+
+A major challenge to understanding overtraining and its causes
+and effects are the numerous different terms found in the literature.
+This is one reason several groups have developed position stands
+(88, 89) and consensus statements (65) that include suggested
+terminology. Likewise, many symptoms of an overtraining syndrome
+can vary between individuals and between different types of training.
+However, it is important to note that in all cases, performance is
+impaired in some manner. Figure 24.5 lists a number of the terms
+used in the literature for overtraining and its effects.
+Figure 24.5  Terminology commonly used for
+overtraining, the overtraining syndrome, and
+related topics.
+Overtraining
+Overreaching
+Functional overreaching
+Nonfunctional overreaching
+Overtraining syndrome
+Stagnation
+Overworked
+Overstressed
+Burnout
+Overfatigued
+Excessive fatigue
+Imbalance of work and recovery
+Underrecovered
+Failure to adapt
+Stressful training syndrome
+Unexplained underperformance
+Underperformance
+Staleness
+Maladaptation
+Chronic fatigue
+Adapted by permission from V.M. Zatsiorsky, W.J. Kraemer, and A.C. Fry, Science
+and Practice of Strength Training, 3rd ed. (Human Kinetics, 2021), 178.
+1689
+
+Research on the OTS sometimes identifies two types of OTS
+related to the autonomic nervous system, specifically the
+sympathetic overtraining syndrome (sometimes referred to as
+SOTS) and the parasympathetic overtraining syndrome
+(sometimes referred to as POTS) (126). First presented by Israel in
+1976 (61), these syndromes were named based on how the
+autonomic nervous system responded to the training stresses.
+Parasympathetic Overtraining Syndrome
+Initially named the Addisonoid syndrome since it is often
+accompanied by decreased concentrations of the stress hormone
+cortisol, this condition is characterized by the predominance of
+parasympathetic 
+activity. 
+In 
+general, 
+the 
+parasympathetic
+overtraining syndrome is most often found in aerobic endurance
+athletes where very large training volumes are common. Diagnosing
+parasympathetic overtraining syndrome in aerobic endurance
+athletes can be tricky since decreased resting heart rate (HRrest) is
+typically a sign of beneficial cardiovascular adaptations to a training
+program (e.g., decreased resting HR). However, in this case, the
+decreased HR in already highly trained individuals is due to a
+parasympathetic overtraining syndrome and the prerequisite training
+program. It should be noted that the parasympathetic overtraining
+syndrome does not cause the performance impairments, but rather
+is a collection of symptoms typically resulting from the huge training
+volumes often used by aerobic endurance athletes. Some of the
+classic studies of the parasympathetic overtraining syndrome can be
+found in the work of Manfred Lehmann and his research team’s
+study of extremely large training volumes of middle-distance runners
+(80). Many of the results supported the presence of a
+parasympathetic overtraining syndrome (80), and the recovery
+period was as long as a year (personal communication, M.
+Lehmann). The primary symptom of a parasympathetic overtraining
+syndrome, besides decreased performance, is a diminished
+sympathetic response (i.e., epinephrine, or adrenaline) to
+1690
+
+training (78, 80). At times, this has been called adrenal
+exhaustion due to the inability of the adrenal glands to produce
+adequate concentrations of epinephrine.
+Sympathetic Overtraining Syndrome
+For a number of years, the existence of a sympathetic overtraining
+syndrome was hypothetical, until it was shown in a group of
+resistance exercise overtrained subjects (36). It had been
+hypothesized that a sympathetic overtraining syndrome would occur
+before development of a parasympathetic overtraining syndrome,
+but enhanced sympathetic activity had never been previously shown
+in response to an OT stimulus. The primary characteristic of
+sympathetic overtraining syndrome is an increased epinephrine
+response to exercise and training (36, 37, 38, 40, 41, 139).
+Eventually, the elevated catecholamines result in a down-
+regulation of their primary receptor in skeletal muscle, β-2
+receptors (41, 124). This is believed to be an important part of the
+sympathetic overtraining syndrome and the accompanying impaired
+contractility of skeletal muscle in this condition.
+Overreaching Defined
+A lesser form of stressful training than overtraining is called
+overreaching (OR) and is defined as follows:
+An accumulation of training and/or non-training stress resulting
+in short-term decrement in performance capacity with or
+without related physiological and psychological signs and
+symptoms 
+of 
+maladaptation 
+in 
+which 
+restoration 
+of
+performance capacity may take from several days to several
+weeks (88, 89).
+This definition is almost the same as overtraining; however, the
+severity of the condition is less, and recovery is faster. It must be
+appreciated here that there are multiple degrees of performance
+impairment, including two types of overreaching (figure 24.6). The
+most subtle type is performance stagnation. While sometimes
+1691
+
+stagnated performances have been considered a type of overtraining
+(13), this is difficult to differentiate from good training programs
+since all seriously trained individuals experience periodic plateaus in
+performance. However, if stagnation occurs due to an inappropriate
+training load (33), adjustments must be made.
+FIGURE 24.6 Different types of performance impairment due to an overtraining
+syndrome. Being overreached or overtrained results in decreased performance. The primary
+differences include the recovery times, whether performance is ultimately enhanced, and
+the magnitude of other symptoms that occur.
+Functional Overreaching
+Many training programs purposely include micro- or mesocycles of
+greater training volumes or intensities as part of the long-term plan.
+Examples of these include preseason training camps for many sports
+that include two or three training sessions a day or general
+preparation training blocks in the strength and conditioning program.
+When properly prescribed, these can be very effective training
+1692
+
+methods that prepare the athlete for later performance gains (88,
+89, 106, 126). The short-term effect is decrements in performance,
+but recovery can be attained within days or weeks and can result in
+a supercompensation effect. As such, and although stressful to the
+athlete, functional overreaching (FOR) can be beneficial
+provided appropriate recovery is allowed. It should be noted that
+functional overreaching is a commonly used training strategy by
+many successful coaches. Figure 24.1 on page 778 illustrates how
+functional overreaching can fit into the GAS paradigm.
+Nonfunctional Overreaching
+On the other hand, nonfunctional overreaching (NFOR) is
+somewhat similar to functional overreaching with two very important
+differences. First, the short-term accumulated fatigue is greater, and,
+second, the recovery takes longer (88, 89, 126). In the case of
+NFOR, the individual does not experience any supercompensation
+and is only able to return to his or her baseline performance levels
+(see figure 24.1 on page 778) (88, 89, 93, 108, 125, 126). As the
+name implies, this type of training does not serve any useful function
+since no performance benefits result, and the athlete has been
+unnecessarily stressed.
+Overtraining and Overreaching Share
+Properties With Other Conditions
+A number of other problematic conditions share symptoms and characteristics with
+OT and OTS. For example, similarities between OT and the OTS with clinical
+depression (4, 5), post-traumatic stress disorder (6), and other relevant
+psychological conditions (53) have been noted.
+Additionally, many characteristics of relative energy deficiency syndrome
+(RED-S), formerly known as the female athlete triad, are similar to symptoms
+often found in OTS (122). Although the root causes of each of these illnesses or
+diseases may be different from OT and OTS, they can each certainly contribute to
+an OTS. Both RED-S and OTS can be interrelated since many causes and
+symptoms of each condition contribute to the other. Therefore, when the presence
+of RED-S is suspected, it is important to clearly discern how overtraining may be
+contributing to this problem. To adequately address the serious condition of RED-S,
+1693
+
+trained professionals need to be involved, but the strength and conditioning
+professional must be able to recognize when help of this type is needed.
+1694
+
+Overtraining Continuum
+All the different types and severities of overtraining and overreaching
+can collectively make an overtraining continuum (figure 24.7).
+Although some overlap may exist between each of the categories,
+this continuum illustrates how each successive level becomes more
+serious for the athlete and requires longer and more intense
+recovery.
+FIGURE 
+24.7 The 
+overreaching/overtraining 
+continuum. 
+SOTS 
+= 
+sympathetic
+overtraining syndrome; POTS = parasympathetic overtraining syndrome.
+It should be apparent now that not all forms of overtraining are
+identical (28, 126, 129), and the resulting OTS is not a simple
+problem with simple solutions. Indeed, it has been repeatedly
+reported that many factors contribute to this problem, and whether
+it is due to training for aerobic endurance sports (28, 46) or
+resistance exercise (37, 43), it is extremely complex (46, 49, 84, 88,
+89, 139) and multidisciplinary (75, 107). The net result is that there
+are many risk factors for overtraining (110, 139) that must be
+recognized to avoid this problem. As evidenced by some who believe
+there is no evidence of fatigue accumulation from resistance exercise
+(63), much more research is needed (48, 135). It is highly likely that
+understanding this complexity will require novel and emerging
+research methods and approaches such as advanced statistical
+1695
+
+modeling and work in the field of -omics (e.g., proteomics and
+genomics) (4, 30).
+1696
+
+Factors Contributing to Overreaching
+and Overtraining
+The first step in understanding overtraining and overreaching is
+identifying the balance between stress and recovery (53). Stress
+from a strength and conditioning program must be countered with
+adequate recovery to permit long-term progression (figure 24.8).
+The inability to adequately recover will undoubtedly result in an
+overtraining scenario. Likewise, an inadequate training load will likely
+produce suboptimal performance. The challenge for the strength and
+conditioning professional is to find the appropriate balance to
+maximize the long-term performance adaptations.
+FIGURE 24.8 Although many factors can contribute to poor performance, overtraining,
+as the name implies, is due to excessive training, inadequate recovery, or both.
+Training Factors
+Since we are focusing on overtraining and overreaching in the
+strength and conditioning context, the first and most obvious
+contributing factors are found in the strength and conditioning
+program in question. A quick review of the numerous variables in the
+resistance exercise program illustrates the many ways the program
+can be adjusted to the needs of the individual being trained (139;
+see chapter 18). In general, the volume of training (e.g., total
+repetitions, 
+volume-load, 
+mechanical 
+work, 
+metabolic 
+work,
+frequency of training) and the intensity of training (e.g., relative
+intensity [%RM], absolute intensity [kg], perceptions of effort) are
+1697
+
+important variables when determining the training stress (figure
+24.9). Excessive amounts of either training volume or intensity can
+combine to produce an overtraining stimulus. Monitoring the
+characteristics of the training program may be one of the most
+important methods for prescribing load. Additionally, the long-term
+periodized training program also must be correctly applied. Even
+though a periodized program can be effective (see chapter 22), it
+can also be incorrectly designed, resulting in overtraining.
+Additionally, an appropriately designed training taper can also
+enhance performance testing (96). Another training error is a lack of
+variation in the training load (126), which can be quantified by
+calculating the coefficient of variation (%CV; SD/ x–) for the
+training load (29, 82, 139). Finally, the most important part of an
+athlete’s training stress is the sport-specific training and practices,
+not to mention the stresses of competition.
+FIGURE 24.9 Excessive levels of training volume and intensity can contribute to
+overtraining.
+Allostatic Load
+Often overlooked aspects of an overtraining syndrome are
+contributing factors outside the training hall or the competition
+arena. These are many and varied, and in the context of overtraining
+they have been termed the allostatic load (86, 107). Collectively,
+the cumulative causes of stress (i.e., antecedents) produce the
+various stress responses (i.e., allostatic load) (71, 86). The allostatic
+load is created by various antecedents (i.e., contributing factors) that
+1698
+
+produce adverse responses of the body that are part of the stress
+responses. To better understand the stress, various algorithms have
+been created to help make sense of all the antecedents that
+contribute to this problem (21). In this stress model, if the allostatic
+load is too great, illness or disease can result. A simple description of
+the allostatic load is the wear and tear on the body (103). The
+concept of allostatic load was originally presented in 1993 (86) and
+is a central concept for the study of how humans respond and adapt
+to stresses (71). If we now apply the concept of allostatic loads to
+overtraining syndrome, we see that the totality of stresses to the
+body include primary factors that are part of the training and
+recovery process and secondary factors that also contribute to the
+overtraining syndrome but are not part of training and competition.
+Collectively, the allostatic load can create a large stress that must be
+considered by the strength and conditioning professional when
+planning training programs to avoid overtraining.
+Figure 24.10 illustrates how these secondary factors can
+contribute to an overtraining syndrome. One important note is that
+these secondary factors that can contribute to the overtraining
+syndrome can also be caused by an overtraining syndrome. The
+challenge is to determine if these factors exist outside the training
+program and add to the overtraining stress or if they are created by
+overtraining. Many factors have been identified as possibly
+contributing to overtraining syndrome (107, 110) and are shown in
+figure 24.10 (1, 8, 26, 29, 31, 34, 36, 37, 39, 40, 41, 45, 52, 54-57,
+60, 62, 76, 80, 81, 88, 98, 102, 111, 118-120).
+1699
+
+FIGURE 24.10 Allostatic load includes all contributing factors to overtraining and
+overtraining syndrome (OTS). Solid lines notate required factors or direct causes. Dashed
+lines show contributing factors, not direct causes.
+1700
+
+Underperformance and Its Relation to
+Overtraining and Overreaching
+Despite the name of this chapter, all discussions regarding
+overtraining and overreaching must start with the concept of
+underperformance. Although all our efforts may go to creating
+training programs to optimize performance, achieving excellence can
+be very elusive. Seldom are all components of the training and
+competition processes in complete synchrony. The job of a strength
+and conditioning professional is to help navigate the athlete through
+the many hurdles standing in the way of achieving absolute peak
+performance. Although few, if any, may ever attain that level of
+performance perfection, the task of the strength and conditioning
+professional is to develop, prescribe, and apply the type of training
+program that gives the athlete the best opportunity to reach that
+goal. Therefore, it is not only necessary to know how to develop the
+appropriately challenging training program required to reach this
+level of performance but also to understand what is happening when
+performance is less than expected (i.e., underperformance). We will
+see that even though overtraining and overreaching can be
+contributors to underperformance, many other factors can contribute
+as well. Many may be beyond our control, but recognizing possible
+contributing factors will permit the strength and conditioning
+professional to determine what appropriate measures can be taken
+to help the athlete when, despite all the effort, he or she comes up
+short. In summary, not all cases of underperformance are due to
+overtraining or overreaching (figure 24.11). When looking closely at
+factors that can adversely influence performance, figure 24.12 lists a
+number of factors that can interfere with optimum performance. As
+with the stressors that contribute to allostatic load for OTS, many
+nontraining variables can contribute to underperformance.
+1701
+
+FIGURE 24.11 The results of overtraining are one type of underperformance, but not all
+types of underperformance are due to overtraining.
+FIGURE 24.12 Underperformance is not necessarily the same thing as overtraining. Solid
+lines depict direct causes. Dashed lines show contributing factors, not direct causes.
+Not 
+all 
+cases 
+of 
+underperformance 
+are 
+due 
+to
+overtraining or overreaching.
+One common training error that can be mistaken for overtraining
+is due to the timing of the training program with the competition
+1702
+
+schedule. Figure 24.13 shows how even a training program that is
+well designed to produce enhanced performance can be ineffective if
+the training peak does not coincide with when the athlete needs to
+perform (96). At first glance, overtraining may be blamed for the
+underperformance, but the reality is that inappropriate timing, not
+excessive training, was the cause.
+1703
+
+Performance-Related Variables Affected
+by Overtraining and Overreaching
+Up to this point we have discussed what contributes to overtraining
+and overreaching, but at some point, the strength and conditioning
+professional needs to know how and when performance is affected
+(figure 24.14). To better understand performance decrements due to
+overtraining, a number of studies have been performed both in the
+laboratory and in the field (32, 33, 34, 35, 36, 39, 41, 42, 76, 99,
+100, 108, 133). One of the problems with this line of research is the
+difficulty in creating an overtraining syndrome in the laboratory, and
+when data are taken from actual athletes who have overtrained, the
+lack of study control makes interpreting the data difficult.
+Regardless, table 24.1 lists a number of performance measures that
+have been shown to be adversely affected by overtraining or are
+believed to be vulnerable to overtraining (18, 33, 35, 36, 38, 39, 41,
+42, 43, 50, 52, 78, 105, 106, 124, 139). The wide range of
+performances that can be affected makes understanding the
+practical implications of overtraining challenging. In general, when
+overtraining in the weight room, speed (e.g., sprinting) is most
+sensitive to overtraining and decreases before most other variables.
+This is closely followed by decreases in power (force × velocity),
+with maximal strength consistently being one of the last
+performances to decrease. It is essential that the strength and
+conditioning 
+professionals 
+monitor 
+training 
+performances 
+to
+determine if any of these performances are changing and to include
+relevant variables in an athlete monitoring program.
+1704
+
+FIGURE 24.13 Training and performance timing. Not all impaired performances are due
+to overtraining.
+Adapted by permission from V.M. Zatsiorsky, W.J. Kraemer, and A.C. Fry, Science and Practice of Strength Training, 3rd
+ed. (Human Kinetics, 2021), 180.
+FIGURE 24.14 Influence of overtraining and overtraining syndrome on performance-
+related variables.
+1705
+
+Physiological Mechanisms Associated
+With Overreaching and Overtraining
+As discussed earlier, not all forms of overtraining and the resulting
+overtraining syndrome are identical. Furthermore, the symptoms and
+physiological responses can also be quite different depending on the
+individual and the characteristics of the training program. However, a
+number of physiological systems have either been shown or
+theorized to be affected by overtraining. It should be noted that
+although these mechanisms can be the result of an overtraining
+stimulus, it is also possible that if these conditions are preexisting,
+they can also contribute to an overtraining syndrome and be
+considered part of the allostatic load. Understanding the underlying
+physiology can, in some cases, provide insight on preventive
+strategies to help minimize the risk of developing overtraining
+syndrome and the accompanying impairments in performance. Table
+24.2 provides example references for each of the proposed
+mechanisms, as well as the strength of the data supporting each.
+1706
+
+Assessment of Overreaching and
+Overtraining
+Ideally, a carefully designed athlete monitoring program is developed
+to determine the training and recovery capabilities of each individual.
+Qualities of the tests included in this program must be specific to the
+training being performed or the physiological system involved (i.e.,
+valid), reliable (i.e., capable of providing consistent results), sensitive
+to the training and competition stimulus, and easy to incorporate
+into the regular athlete monitoring program. Furthermore, those
+administering the tests must precisely follow correct protocols and
+must ensure that each person performing the tests provides a
+maximal effort. If the tests are not administered correctly, the data
+acquired will be meaningless. Once the tests are performed, an
+efficient data management system must be used to help best
+interpret the results rapidly and correctly. Rapid turnaround of test
+results is important to permit adjustments in the training program
+when needed.
+TABLE 24.1 Performance-Related Variables Affected
+by Overtraining and Overreaching
+Performance variable
+Sensitivity
+Onset
+STRENGTH
+1RM (dynamic constant external resistance)
+Low
+Last to occur
+Isometric force
+Poor
+Unknown
+Isokinetic force
+High
+Within 1 week
+Eccentric strength
+Unknown
+Unknown
+Stimulated force
+High
+Within 1 week
+Single joint
+Poor
+If isokinetic, 1 week; if
+DCER, unknown
+Multijoint
+Moderate
+Last to occur
+1707
+
+Performance variable
+Sensitivity
+Onset
+RATE OF FORCE DEVELOPMENT
+Single joint
+Low
+Unknown
+Multijoint
+Unknown
+Unknown
+POWER
+Resistance exercise
+High
+Within 1+ weeks
+Vertical jump height
+Low
+Seldom occurs
+Vertical jump kinetics (various forces and
+reactive strength)
+High
+Within 1 week
+Vertical jump kinematics (positions, strategies)
+High
+Within 1 week
+VELOCITY
+Sprinting
+High
+Within 1+ weeks
+Resistance exercise (DCER)
+High
+Within 1+ weeks
+Change of direction and agility
+Moderate
+Within 1+ weeks
+Efficiency of electrical activity (EMG-to-force
+ratio)
+High
+Within days
+OTHER VARIABLES
+Self-efficacy (confidence)
+High
+Within 1 week
+Perceptions of recovery
+Very high
+Within days
+Desire to train
+High
+Within 1 week
+Training capacity (toleration of high volumes
+and frequent sessions)
+Moderate
+Slower to occur
+Performance Testing
+Figure 24.15 is a compilation of suggested performance tests for the
+early detection of an impending overtraining syndrome. Remember,
+impaired performance is one of the requirements for diagnosing
+overtraining. While not all inclusive, these tests have either been
+found to be sensitive to the increased training loads that accompany
+1708
+
+overtraining, or it has been theorized that they can provide helpful
+information (2, 9, 10, 19, 32, 33, 35, 38, 42, 65, 90, 97, 105, 106,
+108, 123, 125, 129, 133, 139).
+Physiological Testing
+Although the strength and conditioning professional does not
+typically order medical or laboratory tests to monitor the health of
+his or her athletes and the risk of overtraining, it is helpful to know
+what types of tests are available and what information they provide.
+Numerous types of medical and physiological tests have been used
+to help combat the onset of overtraining syndrome. In general, the
+meaningfulness of these tests has been equivocal, dependent on the
+subjects being studied, the training program being performed, and
+the sport being monitored. A detailed description of all the tests
+possible is beyond the scope of this chapter, but the reader is
+welcome to examine some of the following references to get an idea
+of what is available (9, 10, 19, 34, 36, 37, 39, 40, 45, 50, 54-57, 59,
+65, 72, 78-81, 84, 88, 89, 98, 104, 113, 123, 124, 126, 131, 138). In
+general, numerous potentially helpful variables can be assessed from
+the blood (e.g., hormones and neurohormones, interleukins,
+cytokines, markers of muscle disruption or damage, immune
+factors), cardiovascular measures (e.g., resting heart rate, heart rate
+variability, oxygen uptake, muscle oxygen saturation), skeletal
+muscle measures (e.g., heat shock proteins, cell-signaling pathways,
+receptors), neuromuscular measures (e.g., motor unit recruitment or
+EMG activity), and orthopedic factors (e.g., joint inflammation or
+inhibitory input). Data of this type can help the researcher and the
+practitioner better understand the effects of overtraining and
+perhaps eventually provide reliable biomarkers of a developing
+overtraining syndrome.
+TABLE 24.2 Potential Physiological Mechanisms
+Contributing to Overtraining Syndrome
+Mechanism
+Reference(s)
+Evidence
+1709
+
+Mechanism
+Reference(s)
+Evidence
+Sex-related factors
+Kelly 2023 (68)
+Inconclusive
+Circadian rhythm disruption
+Nobari et al. 2023
+(102)
+Likely
+Cytokine disruption
+Smith 2000 (118)
+la Torre et al. 2023
+(76)
+Likely
+Glutamine deficiency
+la Torre et al. 2023
+(76)
+Possible
+Decreased immune function
+Smith 2003 (119)
+Baker et al. 2022
+(8)
+Likely
+Tissue trauma
+Smith 2004 (120)
+Possible
+Central fatigue theory
+Newsholme et al.
+1991 (98)
+Budgett et al. 2008
+(15)
+Possible
+Glycogen deficiency
+la Torre et al. 2023
+(76)
+Strong
+Autonomic nervous system disruption
+Israel 1976 (61)
+Strong
+Sympathetic overtraining syndrome (SOTS)
+Fry et al. 1994 (36)
+Fry et al. 2006 (41)
+Nicoll et al. 2019
+(100)
+Strong for strength
+and power training
+Parasympathetic overtraining syndrome
+(POTS)
+Lehmann et al.
+1991 (78)
+Lehmann et al.
+1999 (80)
+Strong for aerobic
+training
+Oxidative stress
+Lewis et al. 2018
+(81)  
+Possible
+Dietary insufficiencies (e.g., fats, protein,
+carbohydrate, micronutrients)
+la Torre et al. 2023
+(76)
+Likely
+Motor unit recruitment
+Fry 1992 (31)
+Likely
+1710
+
+Mechanism
+Reference(s)
+Evidence
+Endocrine disruption (e.g., testosterone,
+cortisol, tes/cort, growth hormone, hormone
+receptors)
+Adlercreutz et al.
+1986 (1)
+Fry & Kraemer
+1997 (37)
+Fry et al. 2005 (40)
+Nicoll et al. 2016
+(99)
+Strong
+Orthopedic inhibition
+Fry et al. 2001 (39) Likely
+Muscle cellular signaling
+Nicoll et al. 2016
+(99)
+Nicoll et al. 2019
+(100)
+Strong
+Neural modifications
+Baker et al. 2022
+(8)
+Possible
+Impaired cognitive function
+Symons et al. 2023
+(128)
+Likely
+Figure 24.15  Example performance and training
+assessments for an athlete monitoring program to
+minimize risk of developing overtraining syndrome.
+Monitored training loads (internal and external)
+Resting heart rate
+Recovery heart rate
+Muscle O2 saturation
+Heart rate variability
+Anaerobic thresholds
+V̇O2max
+RPE/lactate
+Muscle O2 saturation
+Ability to repeat a GXT
+Ability to complete a training session
+Vertical jump performance
+Height
+Kinetics (forces, power)
+Kinematics (positions, strategies)
+1711
+
+Stiffness
+Eccentric use ratio
+Resistance exercise performance
+Maximal strength
+Velocity-load profile
+Power-load profile
+Bar velocity at same absolute load
+Isometric mid-thigh pulls
+Muscle endurance tests
+Rate of force production
+Sprint performance
+Acceleration
+First-step speed
+Deceleration
+Max velocity
+Change of direction and agility performance
+Reaction and movement time
+Cognitive processing tests
+Diet records
+Sleep records
+Training questionnaires
+Competition data
+Coaches’ subjective assessment
+Psychological Measures
+Up to this point, we have discussed exclusively quantitative
+measurements of performance, training, or physiology. However, it
+has been suggested that questionnaires using subjective measures
+may be more useful for monitoring athletes and their risk of
+overtraining (115). To that end, numerous survey instruments have
+been developed to help monitor athlete perceptions of training
+status and recovery. Table 24.3 lists a number of these tools that
+strength and conditioning professionals may find helpful to use.
+Several considerations when selecting a questionnaire for athlete
+monitoring include the following:
+1712
+
+How long is the questionnaire, and how many items need to
+be completed?
+Has the questionnaire been validated?
+Is the wording easy to understand for the intended audience?
+Is it easy to process the data for a rapid turnaround?
+Can the questionnaire be answered without any coercion?
+Is the questionnaire sensitive to an overtraining stimulus?
+All of these issues are essential to obtain helpful information. In
+addition to overtraining-related surveys, several instruments are
+available to determine the coaching motivational climate (44). It has
+been clearly shown that the motivational orientation of the athlete as
+well as the climate created by the coach has a large positive effect
+on athlete effort, enjoyment, and retention in the sport. These
+assessments do not need to be administered as often as training-
+related questionnaires but can be a critical part of the athlete
+monitoring program that is often overlooked. Needless to say, the
+coaching climate is highly dependent on coaching strategies.
+Another related aspect is the mental health and well-being of the
+coach, which can directly affect athletes’ performance satisfaction
+(7). Finally, it must be realized that the psychological well-being of
+the athlete may be enhanced by reinforcing mindfulness traits (12,
+20), creating both a caring climate and a task-oriented climate (44),
+and being aware of mood states (95). It stands to reason that
+mentally healthy athletes may be able to withstand the rigors of
+stressful training better (64).
+TABLE 24.3 Questionnaires for Monitoring
+Overtraining and Overreaching and the Perceptions
+of the Psychological Climate
+Questionnaire
+References
+OVERTRAINING RELATED
+Rating of perceived exertion (RPE)  
+Borg 1982 (11)
+1713
+
+Questionnaire
+References
+CR10 RPE
+Borg 1982 (11)
+Profile of Mood States (POMS)
+McNair et al. 1971 (87)
+Morgan et al. 1987 (95)
+37-item POMS
+Coyne et al. 2018 (24)
+Daily Analysis of Life Demands for Athletes (DALDA)
+Rushall et al. 1990 (112)
+Emotional Recovery Questionnaire (EmRecQ)
+Lundqvist and Kenttä 2010
+(83)
+Multi-Component Training Distress Scale (MTDS)
+Main and Grove 2009 (84)
+Recovery-Stress Questionnaire for Coaches (REST-Q in
+Sport)
+Kellman 2002 (67)
+Acute Recovery & Stress Scale (ARSS)
+Kellman and Kölling 2019
+(67)
+Short Recovery & Stress Scale (SRSS)
+Kellman and Kölling 2019
+(67)
+Recovery-Cue Inventory Questionnaire
+Kellman et al. 2002 (66)
+Total Quality Recovery Questionnaire (TQR)
+Kenttä and Hassmén 2002
+(70)
+Perceived Recovery Status
+Laurent et al. 2011 (77)
+Rating of Fatigue Scale
+Micklewright et al. 2017 (91)
+Resistance Exercise Overtraining Questionnaire
+Fry et al. (35, 41, 42, 43)
+Hooper Index
+Hooper et al. 1995 (59)
+Training Distress Scale (TDS)
+Grove et al. 2014 (51)
+Performance Failure Appraisal Inventory (PFAI)
+Conroy et al. 2002 (23)
+PSYCHOLOGICAL CLIMATE RELATED
+Task-Ego Orientation in Sport Questionnaire (TEOSQ)  
+Fry and Moore 2019 (44)
+Perceived Motivational Climate in Sport Questionnaire
+(PMCSQ)
+Fry and Moore 2019 (44)
+Caring Climate Scale (CCS)  
+Fry and Moore 2019 (44)
+SLEEP RELATED
+1714
+
+Questionnaire
+References
+Pittsburgh Sleeping Quality Index (PSQI)
+Buysse et al. 1989 (17)
+Athlete Sleeping Screening Questionnaire (ASSQ)
+Samuels et al. 2015 (114)
+COACH MENTAL HEALTH RELATED
+Multiday coach survey
+Balk et al. 2019 (7)
+1715
+
+Recovery Methods and Strategies
+Once overtraining or overreaching has occurred and the individual
+has developed an overtraining syndrome, the most important next
+step is developing a recovery plan. An important consideration is
+that overtraining often has a complex and sometimes slow onset and
+is not rapidly reversed. Table 24.4 lists some of the essential or
+suggested measures that must be taken when overtraining occurs.
+Training Factors for Recovery
+Once overtraining occurs and overtraining syndrome has developed,
+the first thing that must be done is a careful revision of the training
+program. A rapid decrease in the training volume, intensity, or both
+is typically warranted. When overreaching has occurred, training
+cessation has permitted performance to return to original levels in as
+little as one week (36, 37, 87, 88, 111, 139). When more serious
+levels of overtraining have occurred, recovery can take as long as
+four weeks after high-intensity resistance exercise (35) or months to
+a year after high-volume distance running (78). In each case,
+training volume or intensity was immediately decreased or removed.
+It may not always be practical or desirable to cease training,
+depending on each individual case. Although it has been suggested
+that one week of resistance training cessation does not benefit
+strength and hypertrophy gains, the training did not incorporate
+training similar to overtraining or overreaching (22). Regardless,
+decreasing or eliminating the training stress is mandatory when
+overtraining has occurred.
+TABLE 24.4 Possible Strategies for Recovering From
+Overtraining, Overreaching, and the Overtraining
+Syndrome
+Strategy or method
+Reference(s)
+Effectiveness
+TRAINING FACTORS
+1716
+
+Strategy or method
+Reference(s)
+Effectiveness
+Modify training program (e.g., decrease
+volume, frequency, intensity, training
+cessation)
+Fry et al. 1994 (33)
+Fry et al. 2006 (41)
+Nicoll et al. 2019
+(100)
+Most strong
+Training taper (related to above items)
+Mujika and Padilla
+2003 (96)
+Strong
+RECOVERY MODALITIES
+Mindfulness-based interventions
+Cao et al. 2022 (20)
+Mihajlovic et al. 2023
+(92)
+Promising
+Bed rest
+Spiering et al. 2023
+(121)
+Good for injuries,
+poor for fitness
+Vibration foam rolling
+Alonso-Calvete et al.
+2022 (3)
+Possible
+Massage
+Li et al. 2024 (82)
+Inconclusive
+Myofascial release
+Martínez-Aranda et
+al. 2024 (85)
+Possible
+Quality sleep
+Cunha et al. 2023
+(26)
+Strong
+Compression garments
+Li et al. 2024 (82)
+Possible
+Hydration
+Mihajlovic et al. 2023
+(92)
+Possible
+Acupuncture
+Mihajlovic et al. 2023
+(92)
+Possible
+Red-light therapy
+Mihajlovic et al. 2023
+(92)
+Possible
+DIET AND SUPPLEMENTATION
+Branched chain amino acids
+Salem et al. 2024
+(113)
+Possible
+Protein
+Res et al. 2012 (109)
+Possible
+Carbohydrates
+Li et al. 2024 (82)
+Promising
+1717
+
+Strategy or method
+Reference(s)
+Effectiveness
+Nitrates
+Gamonales et al.
+2022 (47)
+Possible
+L-glutamine
+Mihajlovic et al. 2023
+(92)
+Possible
+Vitamins
+Mihajlovic et al. 2023
+(92)
+Possible
+Oral ATP
+Wilson et al. 2013
+(136)
+Possible
+CRYOTHERAPY
+Cold-water immersion
+Moore et al. 2022
+(94)
+Xiao et al. 2023
+(138)
+Promising
+Other cryotherapy-related methods
+Li et al. 2024 (82)
+Inconclusive
+Recovery Modalities
+Many recovery modalities have been successfully used by therapists
+for medically related conditions. It stands to reason that these
+methods may also be effective countermeasures for those recovering
+from overtraining, but there are few data supporting these methods
+for this purpose. Nevertheless, table 24.4 lists a number of methods
+that show promise for helping the recovery process.
+Integrating Recovery Methods Into the
+Training Process
+Before 
+overtraining 
+occurs, 
+the 
+strength 
+and 
+conditioning
+professional must be aware of risk factors that can be controlled.
+The top part of figure 24.16 lists some of these factors, many of
+which can be readily controlled. The middle part of figure 24.16 lists
+several items that may be helpful when interpreting physiological
+data. For more detail on the specifics of these overtraining
+considerations, the reader is referred to the references listed in table
+1718
+
+24.4 (page 792) and the reviews and chapters cited earlier in this
+chapter. Finally, the bottom part of figure 24.16 provides action
+items that can be implemented easily to help the practitioner avoid
+the onset of overtraining and overtraining syndrome. Before
+implementing an athlete monitoring program or a system to
+diagnose an overtraining syndrome, Bernaciková and colleagues (9)
+suggest classifying any intended tests using three categories of
+assessments:
+Category I. Daily tests, easy to administer, inexpensive, rapid
+turnaround of results, convenient for the coach and athlete
+Category II. Every few days, more complex, longer
+questionnaires, slightly more inconvenient to the athlete than
+category I, rapid turnaround of results
+Category III. Occasionally administered (e.g., once a month),
+more involved and intrusive, more expensive, longer
+turnaround time for the results
+Figure 24.16  Overtraining risk factors,
+considerations, and strategies to minimize risk of
+developing an overtraining syndrome.
+Overtraining Risk Factors
+Lack of close monitoring of the training program (rest days, prior exposure
+to stressful training)
+Training and activities outside the weight room, which can be a problem
+Use of virtual coaching with no face-to-face contact
+Lack of any objective monitoring
+Training higher level and more fit athletes
+Unmonitored recovery training sessions
+Training during Olympic or world championship training blocks (i.e., final
+training phase for an ultimate competition)
+Failure to implement an appropriate training taper
+Coaching performed by someone with little coaching experience or training
+Change of training environment (e.g., heat or cold, humidity, altitude)
+1719
+
+Overtraining Considerations
+Not all types of overtraining are identical.
+Strength is well-protected.
+Speed and power may be more sensitive to overtraining.
+Psychological variables may be effective markers.
+Hormonal variables indicate stress, not OT.
+Orthopedic problems present different OTS.
+Autonomic nervous system activity responds rapidly to OT.
+Muscle fiber maladaptation can follow.
+Overtraining Avoidance Strategies
+Use active and passive recovery methods during training.
+Allow one or more days of routine training abstinence to enhance recovery.
+Rest days are critical.
+Limit excessively long training sessions and too many sessions in a day.
+Exercise caution with excessive training volumes and large increases in
+training volume (>30% increases).
+Prior exposure to stressful training enhances training stress tolerance.
+Variation in the training stimulus is critical, and use of periodized training is
+important.
+Avoid excessive training to failure.
+Coordinate resistance exercise with other stressors (e.g., sport training and
+other conditioning).
+Incorporate recovery strategies (e.g., sleep, diet, mental skills).
+Appropriate diet for training (e.g., adequate Kcal, protein ingestion, glycogen
+repletion, sufficient vitamins and minerals, adequate fluid intake).
+Dietary supplements may help (e.g., recovery drinks, protein and
+carbohydrate supplements, creatine, oral ATP).
+Monitor outside stressors.
+Monitor internal and external training loads.
+Incorporate an athlete monitoring program.
+It is suggested that category I testing be performed first. If the
+results suggest possible overtraining concerns, testing for category
+II is warranted. Likewise, if the category II test suggests an
+1720
+
+overtraining problem, a category III test may be performed. In this
+manner, unnecessary testing can be avoided.
+1721
+
+Conclusion
+The occurrence of overtraining or nonfunctional overreaching can be
+devastating to those athletes training for high performance. Not only
+does it mean they are not able to perform as planned, but it can also
+mean that training and performance are impaired for an extended
+period of time. While those who are seriously training may want to
+push themselves as much as possible, they must be careful not to
+pass the threshold so that overtraining occurs. Due to the complex
+nature of this problem, it can result in the maladaptation of many
+physiological systems (figure 24.17). Conversely, preexisting
+problems in any of these physiological systems can also contribute to
+an overtraining syndrome. Overall, we have discussed in this chapter
+how everything revolves around the impaired performances caused
+by improper training (figure 24.18). However, it is clear that many
+factors can contribute to this problem. Knowledge of the causes and
+effects of overtraining and how to avoid it and recover from it are
+valuable tools for every successful strength and conditioning
+professional.
+1722
+
+FIGURE 24.17 Overtraining syndrome can affect numerous physiological systems that in
+turn can contribute to impaired performance.
+Adapted by permission from A.C. Fry, “The Role of Training Intensity in Resistance Exercise Overtraining and
+Overreaching,” in Overtraining in Sports, edited by R.B. Kreider, A.C. Fry, and M.L. O’Toole (Human Kinetics, 1998),
+107-130.
+1723
+
+FIGURE 24.18 Summary of factors contributing to overtraining syndrome and different
+levels of performance impairment. Additionally, many factors other than overtraining can
+result in underperformance.
+KEY TERMS
+Addisonoid syndrome
+adrenal exhaustion
+adrenaline
+allostatic load
+antecedents
+autonomic nervous system
+catecholamines
+coefficient of variation
+down-regulation
+epinephrine
+functional overreaching (FOR)
+general adaptation syndrome (GAS)
+1724
+
+nonfunctional overreaching (NFOR)
+overreaching (OR)
+overtraining
+overtraining syndrome (OTS)
+parasympathetic overtraining syndrome (POTS)
+performance stagnation
+recovery
+relative energy deficiency syndrome (RED-S)
+stress
+sympathetic overtraining syndrome (SOTS)
+underperformance
+STUDY QUESTIONS
+  1.  Which of the following is required for an overtraining
+syndrome to exist?
+  a.  impaired performances requiring long-term recovery
+  b.  decreased testosterone and increased cortisol
+concentrations
+  c.  lack of success in athletic competitions
+  d.  accumulation of nontraining or sport stresses
+  2.  What types of physical performances are first affected by
+overtraining or overreaching?
+  a.  high-velocity activities
+  b.  maximum strength tasks
+  c.  oxygen uptake capabilities
+  d.  repeated interval tasks
+  3.  If factors outside of the training program or sport contests are
+contributing to overtraining syndrome, what is this collection
+of factors called?
+  a.  allostatic load
+  b.  psychosocial dysfunction
+  c.  program volume-load
+  d.  autonomic nervous system dysfunction
+1725
+
+  4.  When correctly implemented, which of the following can be an
+effective training tool?
+  a.  functional overreaching
+  b.  nonfunctional overreaching
+  c.  allostatic monitoring phase
+  d.  kinetic modulation ratio adjustments
+  5.  Monitoring for overtraining avoidance should include which of
+the following?
+  a.  relevant assessments that are easy to administer and have
+rapid turnaround of results
+  b.  detailed cellular and molecular evaluations to determine
+the causes of impaired performances
+  c.  blood sampling for hormone testing of overtraining-related
+biomarkers
+  d.  determination of key training thresholds that all individuals
+should avoid
+1726

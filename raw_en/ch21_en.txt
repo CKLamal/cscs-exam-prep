@@ -1,0 +1,2403 @@
+CHAPTER 21
+PROGRAM DESIGN AND
+TECHNIQUE FOR AEROBIC
+ENDURANCE AND METABOLIC
+TRAINING
+Glen B. Deakin, PhD, and Carwyn P.M. Sharp,
+PhD
+The authors would like to acknowledge the significant contributions of Benjamin H.
+Reuter, J. Jay Dawes, and Patrick S. Hagerman to this chapter.
+After completing this chapter, you will be able to
+discuss the factors related to aerobic endurance performance;
+select the mode of aerobic endurance training;
+set aerobic endurance training frequency based on training
+status, sport season, and recovery requirements;
+assign aerobic endurance training duration and understand its
+interaction with training intensity;
+assign aerobic endurance exercise intensity and understand the
+various methods used to monitor intensity;
+describe the various types of aerobic endurance programs;
+1512
+
+apply the program design variables based on the sport season;
+and
+address the issues of cross-training, detraining, tapering,
+concurrent training, heat acclimation, and altitude when
+designing an aerobic endurance training program.
+This chapter discusses the general principles of program design as
+they apply to aerobic endurance training and a stepwise approach to
+designing a safe and effective program.
+Improvements in aerobic endurance performance can be derived
+only when sound principles are applied during training. While some
+of the fundamental mechanisms responsible for inducing adaptations
+during training are undefined, it is clear that in order to adapt, the
+various systems and tissues of the body must be challenged by an
+exercise stimulus (e.g., specificity and overload). The physiological
+systems that are not involved during the training session or not
+stressed sufficiently by exercise will not adapt to the training
+program (5, 85).
+Training specificity refers to the distinct adaptations to the
+physiological systems that arise from the training program.
+Moreover, a training effect is limited to the physiological systems
+used and overloaded during training (140, 142). To improve aerobic
+endurance performance, training programs must be designed to
+enhance 
+the 
+function 
+of 
+the 
+respiratory, 
+cardiovascular,
+musculoskeletal, and nervous systems.
+For a training adaptation to occur, a physiological system must be
+stressed at a level beyond which it is presently accustomed (105).
+Following repeated and consistent overload, the physiological
+systems of the body adapt to the exercise stress. Adaptations occur
+until the tissues are no longer overloaded by the applied exercise
+stress. This necessitates the use of a greater overload for continued
+adaptations. Exercise frequency, duration, and intensity are the
+variables most often manipulated to provide overload to the systems
+and tissues of the body.
+1513
+
+Successful performance in aerobic endurance competitions
+involving running, cycling, and swimming depends on athletes’ ability
+to cover a fixed distance in the shortest time possible. This requires
+athletes to be in peak physical and psychological condition for the
+competition. To reach this level of performance, athletes must
+consistently 
+train 
+hard, 
+yet 
+intelligently, 
+to 
+maximize 
+the
+physiological adaptations derived from training while avoiding injury
+and overtraining. A commonly observed trend with aerobic
+endurance athletes is to adopt and embrace the training practices of
+highly successful or well-known athletes. Although this strategy may
+be effective for a few, most aerobic endurance athletes would likely
+be better served by constructing their own training regimen based
+on a good working knowledge of sound training principles and an
+understanding of their own individualized physical limitations and
+needs. Another common belief is that greater overload via longer
+duration, higher intensity, and greater frequency is required to
+improve performance. However, training smarter by identifying
+physiological, biomechanical, and performance strengths and
+weaknesses (e.g., poor leg strength, muscle imbalances, low heat
+tolerance) and working to consolidate strengths while correcting
+weaknesses, has greater opportunities to improve performance
+outcomes with lower risk of injuries. An extension of this principle is
+applying the minimum effective dose (MED) (132, 133). MED
+was originally used in the pharmaceutical industry to reflect the
+understanding that there is a minimum dose of medication needed
+to elicit the desired physiological response; the use of medications
+results in varying side effects, and the higher the dose of
+medication, the greater the side effects. In strength and
+conditioning, this term has been adapted to applying the minimum
+amount of training stimuli required to maximize adaptations while
+simultaneously minimizing the damage and injury risks associated
+with training. This concept has also been explored as the minimum
+training dose needed to maintain the adaptations of resistance
+training (126). In conjunction with MED, aerobic endurance coaches
+1514
+
+and athletes have also come to understand the maximum
+tolerated dose (MTD) or maximum effective dose (133). This can
+be considered the maximum training workload that provides
+measurable benefits to the athlete. However, as discussed earlier,
+while still providing benefits, the side effects of MTD training stress
+(e.g., tissue microtrauma and fatigue) are also relatively high, and
+the risk–reward balance must be strongly considered.
+This chapter is designed to provide the strength and conditioning
+professional with a good working knowledge of the scientific
+principles 
+of 
+aerobic 
+endurance 
+training 
+and 
+conditioning.
+Specifically, this chapter includes information about the factors
+related to performance, aerobic endurance training program design
+variables, and various types of training programs. Additional
+discussion focuses on sport season training and special issues
+related to aerobic endurance training including concurrent training
+(i.e., combining resistance and aerobic endurance training in one
+training program) and heat acclimation. Because it would be
+exhaustive to summarize all the relevant information about training
+for all possible aerobic endurance sports, only foundational aerobic
+endurance training topics are presented, with specific examples as
+they relate to running, cycling, and swimming.
+1515
+
+Factors Related to Aerobic Endurance
+Performance
+When designing aerobic endurance training programs, it is important
+to understand those factors that influence and play a significant role
+in successful aerobic endurance performance. This allows for the
+development 
+of 
+sound 
+training 
+programs 
+while 
+minimizing
+unnecessary 
+training 
+that 
+may 
+lead 
+to 
+counterproductive
+adaptations, fatigue, injury, or overtraining.
+Maximal Aerobic Capacity
+As the duration of the aerobic endurance event increases, so does
+the proportion of the total energy demand that must be met by
+aerobic metabolism. Therefore, high maximal aerobic capacity
+(V̇O2max) is necessary for success in aerobic endurance events
+(87). A high correlation has been shown to exist between V̇O2max
+and performance in aerobic endurance events (2, 3, 134, 87).
+Consequently, aerobic endurance training programs should be
+designed, in part, to improve V̇O2max. However, although a high
+V̇O2max is important for successful performance, other factors may
+be equally or even more important. These factors include a high
+lactate threshold, good exercise economy, high efficiency in using fat
+as a fuel source, and a high percentage of type I muscle fibers.
+For well-trained aerobic endurance athletes, improving V̇O2max
+may benefit performance only up to a certain point, especially since
+these individuals typically already possess excellent aerobic capacity.
+Consequently, the ability to sustain higher velocities during
+competition and training may have a greater impact on performance
+than attempting to make marginal improvements in aerobic capacity.
+For this reason, many athletes use high-intensity interval training
+(HIIT). HIIT may contribute to performance in highly trained aerobic
+endurance athletes via improvements in peak power output,
+1516
+
+ventilatory threshold, hydrogen ion buffering, use of fat as a fuel
+source, and improved exercise economy (76).
+Lactate Threshold
+In aerobic endurance events, the best competitor among athletes
+with similar V̇O2max values is typically the person who can sustain
+aerobic energy production at the highest percentage of his or her
+V̇O2max without accumulating large amounts of lactic acid in the
+muscle and blood (74). Although numerous terms have been used to
+refer to this phenomenon, lactate threshold (LT) is the one most
+commonly employed in the literature. Lactate threshold is that speed
+of movement or percentage of V̇O2max at which a specific blood
+lactate concentration is observed (i.e., 4 mmol/L of blood) or the
+point at which blood lactate concentration begins to increase above
+resting levels (136). Several studies have shown that an athlete’s LT
+appears to be a better indicator of his or her aerobic endurance
+performance than V̇O2max (7, 113). The maximal lactate steady
+state (MLSS) is another term that often appears in the aerobic
+endurance training literature. The MLSS is defined as the exercise
+intensity at which maximal lactate production is equal to maximal
+lactate clearance within the body (14). MLSS is an indicator of the
+transition from heavy to severe exercise intensity (70). In other
+words, while lactate production increases at the onset of exercise in
+the heavy exercise intensity domain, it plateaus and can be
+maintained at a steady state at this elevated level. However, if
+exercise intensity increases further, now entering the severe domain,
+lactate increases continually until failure. Notably, MLSS is also
+synonymous with critical power (CP) and critical speed (CS) in this
+regard. The MLSS is considered by many to be a better indicator of
+aerobic endurance performance than either V̇O2max or the LT (14).
+What is clear from this information is that aerobic endurance
+athletes must improve their LT and MLSS. This requires athletes to
+conduct some training at elevated levels of blood and muscle lactate
+to maximize training improvements in these areas.
+1517
+
+Exercise Economy
+A measure of the energy cost of activity at a given exercise velocity
+is referred to as exercise economy. Athletes with a high exercise
+economy expend less energy during exercise to maintain a given
+exercise velocity (e.g., running speed). Several investigators have
+suggested that exercise economy is an important factor in successful
+performance in running events (71), with better performers also
+having a slightly shorter stride length and greater stride frequency
+compared to less successful performers (106). During cycling,
+exercise economy can be affected by body mass size, cycling
+velocity, and aerodynamic positioning (7, 41, 42). For cyclists, an
+increase in body mass and cycling velocity as well as an inefficient
+body position generate greater wind resistance, resulting in a
+decrease in exercise economy. It has been demonstrated that elite
+swimmers are much more economical than non-elite swimmers (6)
+and use less oxygen at any given swimming velocity. The most
+profound impact on exercise economy during swimming can be
+observed when swimming technique becomes more efficient. As
+improvements in stroke mechanics occur, energy demand for a given
+swimming velocity is reduced (146). Training to improve exercise
+economy is critical for aerobic endurance athletes.
+An improvement in exercise economy can enhance
+maximal 
+aerobic 
+capacity 
+(V̇O2max) 
+and 
+lactate
+threshold.
+1518
+
+Designing an Aerobic Endurance
+Program
+An effective aerobic endurance training program must include an
+exercise prescription specifically developed for the individual athlete
+based on his or her individual strengths and weaknesses, goals, and
+sport. This requires manipulation of the primary program design
+variables. The sidebar lists the design variables as steps 1 through 5.
+Unfortunately, strength and conditional professionals and athletes
+often use the training practices or programs of current successful
+strength and conditional professionals or athletes in their sport. This
+does not carefully consider the strengths and weaknesses of the
+athlete and may lead to development of an ineffective or potentially
+harmful training program. The optimal development of a safe and
+effective training program is to have the factors related to aerobic
+endurance performance evaluated and then use that information to
+generate a training program specific to the athlete. For example, an
+athlete with poor exercise economy should place a greater emphasis
+on training to improve exercise economy compared to other factors
+that are known strengths. This might include HIIT with a focus on
+technique, as well as using long rest periods. Conversely, athletes
+who need to increase LT might consider performing more high-
+intensity training with shorter rest periods.
+Aerobic Training Program Design Variables
+Step 1: Exercise mode
+Step 2: Training frequency
+Step 3: Training intensity
+Step 4: Exercise duration
+Step 5: Exercise progression
+1519
+
+Training programs for female athletes do not have to be different
+from those used to train male athletes; evidence indicates that
+males and females respond similarly to training programs (12, 78).
+Refer to chapter 8 for a discussion on sex-related differences and
+their implications for exercise.
+Step 1: Exercise Mode
+Exercise mode refers to the specific activity performed by the
+athlete: cycling, running, swimming, and so on. When training to
+improve aerobic endurance performance, the athlete should select
+activities that mimic as closely as possible the movement pattern
+employed in competition. This will cause positive adaptations in
+specific physiological systems and tissues of the body related to
+those used during competition. For example, the recruitment of
+specific muscle fibers and the adaptation of the energy systems
+within those fibers must be challenged during aerobic endurance
+training. Selecting the appropriate exercise mode during training
+ensures that the systems used in competition are challenged to
+improve. Note that the more specific the training mode is to the
+sport, the greater the improvement in performance is likely to be
+experienced. For an athlete involved in multiple aerobic endurance
+sports, or one who is interested in a general aerobic endurance
+fitness program, cross-training or participation in multiple aerobic
+endurance activities may be warranted (47).
+Step 2: Training Frequency
+Training frequency refers to the number of training sessions
+conducted per day or per week. The frequency of training sessions
+depends on an interaction of exercise intensity and duration, the
+training status of the athlete, and the specific phase of the sport
+(e.g., preparation phase or preseason versus competition phase or
+in-season). Higher exercise intensity and longer duration may
+necessitate less frequent training to allow sufficient recovery from
+exercise sessions. The training status of the athlete can influence
+1520
+
+training frequency, with lesser-trained athletes requiring more
+recovery days at the beginning of a training period than more highly
+trained athletes. The sport phase or season that the athlete is
+currently in can also influence training frequency; an off-season
+program may include three to four training days per week, but
+training frequency may progress to daily workouts (or even multiple
+workouts per day for triathletes and highly competitive distance
+runners) in the preseason. Additionally, fewer training sessions may
+be required to maintain an achieved level of physiological function or
+performance than to attain that level initially (128). Appropriate
+training frequency is important for the aerobic endurance athlete,
+because too much training may increase the risk of injury, illness, or
+overtraining (i.e., maximum tolerable dose). While some evidence
+shows a positive relationship between exercise frequency and
+increased injury rates (63), these studies used active individuals in a
+wide age range, not only young and healthy athletes, as subjects.
+Additional research has shown injuries are multifactorial and there is
+insufficient evidence definitively associating injuries with increases or
+high levels of training frequency, volume, or other training factors
+(44). Conversely, too little training will not result in positive
+adaptations to the various systems of the body (i.e., below the
+minimum effective dose). Research has shown that it is necessary to
+train more than twice per week in order to increase V̇O2max (138).
+Many strength and conditioning professionals recognize that multiple
+training sessions per day may be needed to improve performance in
+some aerobic endurance athletes. For athletes participating in single-
+discipline sports such as running, such training practices should be
+reserved for those with an advanced or elite training status due to
+the level of physiological stress involved with such programs.
+Research conducted by Hansen and colleagues (58) showed that
+time to exhaustion, resting muscle glycogen concentrations, and
+citrate synthase activity increased among seven healthy untrained
+men after 10 weeks of training twice every other day versus once
+daily. It was speculated that training in a glycogen-depleted state
+1521
+
+may further increase glycogen resynthesis via an increase in the
+transcription and transcription rate of certain genes responsible for
+training adaptations. However, the researchers cautioned that these
+results should not necessarily be used by strength and conditioning
+professionals and practitioners to guide practice, because low
+glycogen concentrations may reduce the period of time an athlete is
+able to train and may increase risk of overtraining. This is one
+reason why it is important to monitor the effects of the training load
+on athletes. Further, strength and conditioning professionals and
+athletes need to understand that adaptation takes place during
+periods of rest, and undertaking more frequent training can affect
+the recovery process and, ultimately, the level of adaptation.
+Recovery from individual training sessions is essential if the
+athlete is to derive maximum benefits from the subsequent training
+session. Exercise performance has been shown to improve following
+relative rest from difficult training sessions (16). Obtaining sufficient
+rest, becoming rehydrated, and restoring fuel sources are critical
+issues for the athlete during recovery. Physical and mental relaxation
+and avoidance of strenuous physical activity are particularly
+important following days of high-intensity or long-duration training.
+Postexercise ingestion of adequate fluids and electrolytes is
+important for replacing those lost during training. If the training
+session was especially long or intense, postexercise carbohydrate
+intake is important for replacing the muscle and liver glycogen stores
+that were likely depleted, as is the ingestion of protein to aid muscle
+repair and recovery. More detailed information on this topic can be
+found in chapter 11.
+Evidence suggests that while most aerobic endurance athletes
+across a variety of sports (e.g., cycling, running, walking, triathlon)
+use nutrition, hydration, stretching, and active recovery, other forms
+of recovery (e.g., compression garments and ice baths) are not used
+as frequently or at all (13, 19). In addition, while many athletes
+believe in the benefits of different recovery strategies for
+competition, such as active recovery, self-massage, and massage,
+1522
+
+they do not actually use them (19). Research has further elucidated
+that elite athletes are more likely to use all forms of recovery, except
+cold water immersion, than lower tiered well-trained athletes (13).
+The use of or lack of use of different strategies has been found to be
+related to coach and athlete awareness of the effectiveness of such
+strategies (13). Further, the majority of athlete information and
+recommendations about recovery strategies comes from coaches
+and fellow athletes rather than peer-reviewed scientific publications
+(19). Therefore, to maximize recovery, and aid performance, it is
+important that coaches and athletes are educated and up to date on
+the types of recovery strategies that have been shown in multiple
+scientific publications to be effective, available, and best suited to
+athletes in training and competition.
+With regards to recovery and training, the term recovery
+run/ride/swim, which is often used by aerobic endurance athletes to
+reflect an easy run, ride, or swim after competition, or a training
+session during the training cycle, must be clarified. Typically, a
+recovery session would fall under the banner of active recovery,
+which relates to low-intensity physical activities designed to facilitate
+recovery from the metabolic responses of exercise fatigue (72). A
+recovery session should be just that: a session with the intentional
+purpose of aiding recovery beyond that achievable via passive rest,
+which research indicates it does (40). It is not designed to provide
+an extra training stimulus and definitely should not contribute to any
+further muscle damage. Therefore, the recovery session should be
+short in duration and of a low intensity (i.e., zone 1 ([table 21.1]).
+Consequently, an extensive aerobic endurance session or long, slow
+distance session should not be used as a recovery run, just because
+it is of a low intensity. However, even though recovery sessions
+should not be considered as a training stimulus, they do contribute
+to the total amount of exercise completed in a training cycle and
+therefore must be included in all training plans for monitoring and
+recovery purposes (36).
+1523
+
+TABLE 21.1  Example of a Five-Zone Intensity Scale
+to Prescribe and Monitor Training of Aerobic
+Endurance Athletes
+Intensity
+zone
+V̇O2 (%
+max)
+Heart rate
+(% max)
+Lactate
+(mmol/L)
+Typical accumulated
+duration within zone
+1
+50-60
+60-72
+0.8-1.5
+1-6 h
+2
+66-80
+72-82
+1.5-2.5
+1-3 h
+3
+81-87
+82-87
+2.5-4.0
+50-90 min
+4
+88-93
+88-92
+4.0-6.0
+30-60 min
+5
+94-100
+93-100
+6.0-10.0
+15-30 min
+This scale is typical of intensity zone scales used for aerobic endurance training
+prescription and monitoring. The scale was developed by the Norwegian Olympic
+Federation as a general guideline based on years of testing of cross-country skiers, rowers,
+and biathletes.
+Reprinted by permission from S. Seiler, “What is Best Practice for Training Intensity and
+Duration Distribution in Endurance Athletes?” International Journal of Sports Physiology
+and Performance 5 (2010): 277.
+Step 3: Training Intensity
+Central to causing training adaptations in the body is the interaction
+of training intensity and duration. Generally, the higher the exercise
+intensity, the shorter the exercise duration. Adaptations in the body
+are specific to the intensity, or effort expended during a training
+session. High-intensity aerobic exercise increases cardiovascular and
+respiratory function and allows for improved oxygen delivery to the
+working muscles (105). Increasing exercise intensity may also
+benefit skeletal muscle adaptations by affecting muscle fiber
+recruitment (85). As exercise intensity is increased, greater
+recruitment of type II muscle fibers occurs to meet the increased
+power needs. This training stimulus allows those fibers to become
+more aerobically trained, thereby potentially improving overall
+aerobic performance.
+The regulation of exercise intensity is critical to the success of
+each training session and ultimately the entire program. An exercise
+1524
+
+intensity that is too low does not stress the body’s systems and
+induce the desired physiological adaptations, whereas an intensity
+that is too high results in excessive fatigue and a premature end to
+the training session. In either instance, the training session will be
+poor and ineffective.
+The most accurate methods for regulating exercise intensity are
+to monitor oxygen consumption during exercise to determine its
+percentage of V̇O2max and to periodically measure blood lactate
+concentration to determine the relationship to LT. If V̇O2max
+monitoring is not available, exercise prescriptions can use heart rate,
+ratings of perceived exertion, metabolic equivalents (in clinical
+populations), or exercise velocity to monitor exercise intensity.
+Power-measuring devices are also frequently used by elite and top-
+level amateur competitors, especially in cycling.
+Heart Rate
+Heart rate is likely the most frequently used method for prescribing
+aerobic exercise intensity. The reason is the close relationship
+between heart rate and oxygen consumption, especially when the
+intensity is between 50% and 90% of functional capacity
+(V̇O2max), also called heart rate reserve (HRR). HRR is the
+difference between an athlete’s maximal heart rate and their resting
+heart rate (24). The most common means of regulating intensity
+using this method is to determine the specific heart rate associated
+with the desired percentage of V̇O2max or the heart rate associated
+with the LT. For the greatest precision, this necessitates laboratory
+testing to identify these exercise intensities. If laboratory testing is
+unavailable, the individual’s age-predicted maximal heart rate
+(APMHR) is often used as the basis for determining exercise
+intensity. While there are numerous APMHR equations, all of which
+are estimates and have been shown to have varying degrees of bias,
+the Fox equation (APMHR = 220 - age) appears less prone to under-
+and overestimation of HRmax in the general population (123). It is
+important to note, however, that the Fox equation is also susceptible
+1525
+
+to individual variability with regards to its accuracy, having a
+documented standard deviation of 10 to 12 beats per minute (123).
+Refer to the sidebar Target Heart Rate Calculations for formulas and
+sample calculations for determining aerobic endurance exercise
+heart rate ranges using the Karvonen method and the
+percentage of maximal heart rate (MHR) method. The
+relationship between V̇O2max, HRR, and MHR is shown in table 21.2.
+TABLE 21.2 Relationship Between V̇O2max, Heart
+Rate Reserve (HRR), and Maximal Heart Rate (MHR)
+% V̇O2max
+% HRR
+% MHR
+50
+50
+66
+55
+55
+70
+60
+60
+74
+65
+65
+77
+70
+70
+81
+75
+75
+85
+80
+80
+88
+85
+85
+92
+90
+90
+96
+95
+95
+98
+100
+100
+100
+Although the Karvonen and percentage of maximal heart rate
+formulas provide practical intensity assignments, basing them on
+APMHR will entail some inaccuracies (vs. laboratory-tested maximal
+heart rates) when exercise intensity is monitored (73). It has been
+determined that age contributes significantly to the variability in
+maximal heart rate; however, the effects of other factors such as
+mode of exercise and fitness level must also be considered with the
+use of heart rate to monitor intensity (73). Changes in fitness over
+1526
+
+time must also be taken into account when prescribing exercise. As
+aerobic power (V̇O2max), LT, MLSS, and exercise economy improve,
+the prescribed absolute intensity will be a lower relative intensity,
+resulting in a lower stress and stimulus. As such, corresponding
+adjustments must be made to increase training intensity to maintain
+a stimulus that will elicit continuing and sustainable adaptations. To
+provide 
+accurate 
+information 
+on 
+the 
+magnitude 
+of 
+these
+improvements in aerobic fitness, and to inform subsequent
+adjustments in training intensity, it is important to test athletes
+regularly in each of these factors. Refer to chapters 13 and 14 for
+information on selecting, administering, and scoring appropriate
+validated field and laboratory tests. Additionally, using estimations of
+exercise intensity via estimated maximal heart rate equations
+provides no information about the intensity associated with the LT.
+Without some knowledge of an athlete’s LT, achieved from field or
+laboratory testing, a highly effective aerobic endurance training
+program cannot be developed.
+Target Heart Rate Calculations
+Karvonen Method
+Formula
+Age-predicted maximum heart rate (APMHR) = 220 - age
+Heart rate reserve (HRR) = APMHR - resting heart rate (RHR)
+Target heart rate (THR) = (HRR × exercise intensity) + RHR
+To determine the target heart rate range (THRR), calculate THR using both the
+prescribed minimum and maximum intensity values.
+Example
+A 30-year-old athlete with an RHR of 60 beats per minute is assigned an exercise
+intensity of 60% to 70% of functional capacity:
+APMHR = 220 - 30 = 190 beats/min
+RHR = 60 beats/min
+HRR = 190 - 60 = 130 beats/min
+1527
+
+Lowest number of the athlete’s THRR = (130 × 0.60) + 60 = 78 + 60 = 138
+beats/min
+Highest number of the athlete’s THRR = (130 × 0.70) + 60 = 91 + 60 = 151
+beats/min
+Percentage of Maximal Heart Rate Method
+Formula
+Age-predicted maximum heart rate (APMHR) = 220 - age
+Target heart rate (THR) = (APMHR × exercise intensity)
+To determine the target heart rate range (THRR), calculate THR using both the
+prescribed minimum and maximum intensity values.
+Example
+A 20-year-old athlete is assigned an exercise intensity of 70% to 85% of maximal
+heart rate:
+APMHR = 220 - 20 = 200 beats/min
+Lowest number of the athlete’s THRR = 200 × 0.70 = 140 beats/min
+Highest number of the athlete’s THRR = 200 × 0.85 = 170 beats/min
+It is also important to note that environmental factors such as
+heat, humidity, and altitude place additional stresses on the body,
+affecting the cardiovascular responses to exercise (68, 117). As
+such, the acute and chronic effects of these external factors in
+elevating heart rate should be taken into account when prescribing
+and monitoring exercise intensity.
+Ratings of Perceived Exertion Scales
+Ratings of perceived exertion (RPE) scales also can be used to
+regulate and monitor intensity during aerobic endurance training.
+Evidence suggests that RPE can be used to accurately regulate
+intensity when there are changes in fitness level (29); however,
+researchers have demonstrated that the RPE–intensity relationship
+can be influenced by various external environmental factors such as
+passive distracters and environmental temperature (93, 130).
+According to Haddad, Padula, and Chamari (56), various subject
+characteristics such as age, sex, training status, and fitness level
+1528
+
+may influence RPE. Furthermore, a few environmental factors that
+may influence RPE are listening to music, watching television or
+video, 
+environmental 
+temperature, 
+altitude, 
+nutritional
+considerations, and external feedback. However, these authors
+suggest that despite the potential influence of these factors, RPE is
+still a valid monitoring tool (table 21.3).
+TABLE 21.3 Sample Rating of Perceived Exertion
+(RPE) Scale
+Rating
+Description
+1
+Nothing at all (lying down)
+2
+Extremely little
+3
+Very easy
+4
+Easy (could do this all day)
+5
+Moderate
+6
+Somewhat hard (starting to feel it)
+7
+Hard
+8
+Very hard (making an effort to keep up)
+9
+Very, very hard
+10
+Maximum effort (cannot go any further)
+Metabolic Equivalents
+Metabolic equivalents may also be used to prescribe exercise
+intensity. One metabolic equivalent (MET) is equal to 3.5 ml ·
+kg−1 · min−1 of oxygen consumption and is considered the amount of
+oxygen required by the body at rest (3). Metabolic equivalent values
+have been determined for a variety of physical activities; an activity
+with a MET value of 10.0 requires 10 times the oxygen uptake that is
+required by an individual at rest. Assigning MET values as part of an
+aerobic exercise prescription requires the strength and conditioning
+professional to know (or estimate) an athlete’s maximal oxygen
+1529
+
+uptake to be able to calculate an exercise MET level. However, the
+use of METs in exercise prescription is typically limited to clinical
+populations.
+Intensity Measuring Technology
+Previously due to cost, power devices for cycling such as power
+measuring cranks and hubs to monitor exercise intensity were
+mostly only used by professionals and top-level amateurs. Research
+has supported their use from the perspective of demonstrating that
+they provide valid and reliable power measurement (49). However,
+due to the advancements in technology, it is common to see athletes
+of all levels using technology to monitor exercise intensity. This
+technology ranges from smart watches to running stride power
+meters to power measuring cranks. Each technology has its own
+reasons for being selected. For example, using power measuring
+cranks in cycling has an advantage over other measures because
+metabolic rate is closely related to mechanical power production
+(30). Also, using power as an intensity measure allows reproducible
+intensity efforts regardless of environmental conditions, which may
+influence other measures of intensity such as heart rate and velocity
+(30). Irrespective of the technology selected to monitor power,
+speed, or similar variables, they should have training zones allocated
+to them that reflect the athlete’s training status.
+Technology also extends to advanced indoor trainers such as
+treadmills, rowers, and ski and cycle ergometers. Due to the large
+variety of technological devices currently available, it is not possible
+to address each manufacturer individually. However, some common
+points to consider are whether the measurements of power, speed,
+stride length, stride frequency, and the like are valid, accurate, and
+reliable. While a number of these commonly used devices have been
+research tested, many have not. Hence, it is important to review the
+product before buying. Also, given the number of variables that can
+be measured, it is important to set training intensity or target ranges
+before 
+using 
+them. 
+Additionally, 
+strength 
+and 
+conditioning
+1530
+
+professionals must understand what each variable actually reflects,
+how to interpret it, and how it may change with respect to the
+training prescribed.
+Similarly, while an athlete may be familiar with technology, it does
+not mean they are used to the specific device measuring their
+performance, and as such, a familiarization period may be required.
+For example, it can feel foreign to run on a treadmill (active, passive,
+or Alter-G) when one has not done so before. As such, coaching
+cues need to be developed and provided to the athlete to ensure he
+or she transitions successfully to the new technology or device. It
+also should be noted that variances in technology between indoor
+and outdoor equipment or differences in performance between
+exercising indoors versus outdoors exist and can produce differing
+results (90). For example, it has been shown that running inside on
+a treadmill at slower speeds can feel easier and produce a lower
+exercise heart rate than running outside at higher submaximal
+speeds (90). Aerobic endurance performance was also found to be
+superior outside compared to when performed indoors. The
+researchers suggest this may be related to a potential fear of falling
+from the treadmill at higher speeds and the potential build-up of
+heat due to the absence of air flow around the body when running
+indoors.
+Training Zones
+It is common practice in aerobic sports to prescribe exercise within
+one of a number of training zones, each of which reflects a training
+intensity and training goal, rather than a specific heart rate or RPE
+(62, 120). The number of zones can vary, typically from three to
+seven; however, the common reference point is often the athlete’s
+lactate or ventilatory threshold. A low-intensity or aerobic training
+zone can be associated with a stable blood lactate concentration
+below 2 mmol/L with one or more high-intensity or anaerobic
+training zones above 4 mmol/L, and lactate threshold training can be
+seen as attaining and maintaining steady state lactate levels in the
+1531
+
+zone between 2 mmol/L and 4 mmol/L (120). Figure 21.1 and table
+21.1 (page 697) illustrate examples of three and five zone training
+models respectively.
+FIGURE 21.1 A three-intensity zone model based on identification of ventilatory
+thresholds. LT = lactate threshold; MLSS = maximal lactate steady state; mM = mmol/L.
+Step 4: Exercise Duration
+Exercise duration refers to the length of time of the training
+session. The duration of a training session is often influenced by the
+exercise intensity: the longer the exercise duration, the lower the
+exercise intensity. For example, exercise that is conducted at an
+intensity above the maximal lactate steady state (e.g., 85% of
+V̇O2max) will have a relatively short duration (20-30 min) because
+the accumulation of lactate within the muscle will contribute to
+fatigue. Conversely, exercise that is performed at a much lower
+intensity (e.g., 70% of V̇O2max) may be performed for several hours
+before the athlete experiences fatigue.
+1532
+
+The duration of a training session is often influenced by
+the exercise intensity; the longer the exercise duration,
+the lower the exercise intensity.
+Step 5: Exercise Progression
+Once athletes begin an aerobic endurance exercise program, they
+need to continue training to either maintain or advance their aerobic
+fitness level. However, research indicates that aerobic fitness does
+not decrease for up to five weeks when frequency decreases to as
+few as two times per week as long as training intensity is maintained
+(126).
+Increasing 
+aerobic 
+endurance 
+fitness 
+requires 
+program
+progression, which initially involves increasing the frequency,
+intensity, and duration of exercise. Typically, for the general
+population, it is recommended that from week to week within a
+longer-term training plan, exercise frequency, intensity, or duration
+should not increase more than 10% each week to avoid overtraining
+or injury (57). While 10% may not seem like a significant increase,
+when these increases and their associated adaptations are added
+over a longer period of months and years, the adaptations and
+performance improvements are substantial and achieved while
+minimizing the risks of injury and overtraining. However, for athletes
+preparing for long-distance events, and especially those starting
+from a low fitness level, it may be necessary to adjust this guideline
+for a small number of weeks within the larger training plan. It should
+be noted that if an increase in training volume above 10% is
+implemented, it is critical that before doing so monitoring systems
+for physical and psychological overtraining symptoms are determined
+and implemented on a regular basis to recognize indications of
+overtraining and possible injury early on. For example, a cyclist
+riding 68 miles per week across three sessions may increase their
+18-mile tempo and 18-mile interval sessions by 10%, thereby
+increasing each session by about 2 miles. Given the relatively high
+intensity of these training sessions, this would be appropriate.
+1533
+
+However, to only increase the remaining extensive endurance
+session of 32 miles by 10% would only result in an increase of about
+3 miles or, assuming they ride at an average of 18 miles per hour, an
+increase of 10 minutes, from 1 hour 46 minutes to 1 hour 56
+minutes. Instead, given the low impact and intensity of exercise and
+the time involved, the duration of this extensive endurance ride may
+reasonably and safely be extended by 15 to 20 minutes (i.e., about 6
+miles), which would equate to an increase of approximately 20%.
+But, as stated previously, this increase above the recommended 10%
+should be done cautiously, with injury and overtraining monitoring
+systems implemented, and only for a short period of time with an
+appropriate increase in recovery time and techniques reflective of
+the increased stress on the body. This type of planned increase in
+training frequency, intensity, or duration may be referred to as short-
+term functional overreaching.
+An important point regarding training duration progression is that
+it is often recommended to use predicted time to set the duration of
+a training session rather than distance. This is because training time
+factors in the effects of terrain and environmental conditions,
+whereas distance does not. For example, if an athlete runs 10 miles
+over a flat course in 1 hour and 10 minutes, and then runs a hilly
+11-mile course the following week in a much slower time of 1 hour
+and 58 minutes, even though the prescribed distance only increased
+by 10%, the time taken was considerably greater (+48 minutes =
+65% increase) which is too much for a week-to-week progression.
+Consequently, discretion needs to be used with respect to which
+training variable is increased and by how much. Further, to again
+avoid symptoms of overtraining or injury, only one training variable
+should be increased at a time.
+Progression of training frequency may be limited by constraints
+such as school, work, and family commitments. It may not be
+possible for the athlete to train every day or to incorporate more
+than one training session each day. The duration of each training
+session is limited by the same constraints. In these cases, to elicit
+1534
+
+further adaptations, a greater reliance on manipulating training
+intensity exists. Note that as the athlete’s level of fitness changes
+over the course of the sport seasons, training intensity levels (e.g.,
+heart rate range for a given training zone) must be adjusted.
+Similarly, as the training environment changes (e.g., from cool to hot
+and humid), RPE charts may be particularly helpful for monitoring
+intensity in addition to heart rate, which will be elevated by the
+increased physiologic demands induced by the environmental
+conditions. In conjunction with these points, progression of training
+frequency, intensity, and duration, along with recovery, should be
+monitored at all times to ensure appropriate periods of loading and
+unloading are applied, and signs or symptoms of overreaching or
+overtraining are detected early. More detailed information on these
+topics can be found in chapter 24.
+1535
+
+Types of Aerobic Endurance Training
+Programs
+Several types of aerobic endurance training programs exist, each
+with varying frequency, intensity, duration, and progression
+parameters. Each type incorporates the five design variables and
+results in regimens created for specific outcomes. Table 21.4
+summarizes the types of aerobic endurance training and their
+common prescriptive guidelines. Sample training programs for each
+type of aerobic endurance training are included after the sections
+that follow.
+TABLE 21.4 Types of Aerobic Endurance Training
+Training type
+Frequency per
+week*
+Duration (work
+bout portion)
+Intensity
+Extensive
+endurance
+1-2
+Race distance or
+longer (~30-120
+min)
+≤65% of V̇O2max
+Pace/tempo
+1-2
+~20-30 min
+At the LT; at or slightly
+above race pace
+Interval
+1-2
+3-5 min (with a
+work:rest ratio of
+1:1)
+Close to V̇O2max
+High-intensity
+interval training
+1
+30-90 s (with a
+work:rest ratio of
+1:5)
+Greater than V̇O2max
+Fartlek
+1
+~20-60 min
+Varies between LSD and
+pace/tempo training
+intensities
+*The other days of the week are composed of other training types and rest or recovery
+days or sessions.
+Data from Lamb (1995); Penteado et al. (2014); Svedenhag (2008); Wells and Pate
+(1995).
+1536
+
+Extensive Endurance Training
+Many aerobic endurance coaches and athletes over the years have
+used the term long, slow distance (LSD) or high-volume training
+to reflect training for a long period of time at a slow pace. However,
+this term can give the wrong impression of what an athlete is
+actually trying to achieve—that is, to extend their aerobic endurance
+capabilities, not just exercise slowly for a long duration. Hence, the
+term extensive endurance training is a more appropriate term
+and the one used in this text. Irrespective of the term used, a
+common factor with extensive endurance training is that the training
+distance should be greater than race distance, or the duration should
+be at least as long as 30 minutes to 2 hours (98). However, as the
+race distance increases, it is not practical to complete an extensive
+endurance training session greater than the race distance. For
+example, because of the level of fatigue and tissue damage, it is not
+recommended for athletes to run 26 miles (42 km) or greater in
+training before running a marathon. What the athlete relies on in
+this situation is a combination of his or her extensive endurance runs
+plus the accumulation of the training volume over the weeks of
+training before the event. The length of an extensive endurance
+session will vary according to the training status of the athlete,
+where the athlete is in the program, the mode of exercise (e.g.,
+cycling vs. running), as well as the duration of the aerobic endurance
+event for which he or she is training. Generally, as the distance
+increases from a short (e.g., 5,000 m) to a long (e.g., 26.2-mile
+marathon) or ultradistance aerobic endurance event, the concept of
+running the race distance or greater becomes less likely and
+unnecessary. However, it also should be noted that doing greater
+than the race distance at the lower end of the aerobic endurance
+distances (e.g., 5,000 m, 10,000 m, or short-distance triathlons) can
+be beneficial and is often undertaken.
+An extensive endurance training session is typically completed at
+an intensity equivalent to training zone two (refer to table 21.1 on
+page 697). This intensity is typically characterized as “conversation”
+1537
+
+exercise, with the athlete able to talk without undue respiratory
+distress, or at a speed that the athlete feels they could run
+indefinitely. In general, increases in duration are prioritized when
+programming extensive endurance training sessions into a training
+program. It is important to not substantially increase the speed of
+the extensive endurance sessions in combination with increases in
+session duration, for as speed increases the stress of the session
+also increases, which in turn lengthens the posttraining recovery
+time and therefore can also increase the risk of overtraining or
+injury. The physiological benefits derived from extensive endurance
+training 
+primarily 
+include 
+enhanced 
+cardiovascular 
+and
+thermoregulatory 
+function, 
+improved 
+mitochondrial 
+energy
+production and oxidative capacity of skeletal muscle, and increased
+use of fat as a fuel (15, 20, 64, 75, 83, 85, 96, 104, 136, 140, 142).
+These changes are likely to improve the LT intensity by enhancing
+the body’s ability to clear lactate. Chronic use of this type of training
+also causes a change in the metabolic characteristics of the involved
+muscles (27) and an eventual shift of type IIx fibers to type I fibers
+(103, 124).
+The increase in fat use also causes a sparing of the body’s limited
+muscle glycogen reserves (60, 64, 69, 136). The intensity during
+extensive endurance training is lower than the intensity used during
+competition. However, extensive endurance training does not
+stimulate the neurological patterns of muscle fiber recruitment that
+are required during a race (136), and this may result in adaptations
+in muscle fibers that are not used during competition.
+Aerobic endurance training should not be based solely on
+extensive endurance training but be combined with other training
+methods such as interval and pace/tempo training to train race pace
+endurance, and improve LT and exercise economy, thereby ensuring
+a complete aerobic endurance-trained athlete. Even elite distance
+running athletes recognize the benefit of this practice, running
+approximately 80% of total running distance at extensive endurance
+pace over the training year but also incorporating various other
+1538
+
+types of speed training (59). This ensures the athlete is not only
+more aerobically efficient and has muscular endurance but also has
+race speed capabilities. It is also worth noting that extensive
+endurance sessions provide athletes with mental strength and
+stamina by experiencing extended periods of time exercising, which
+they will encounter on race day.
+Pace/Tempo Training
+Pace/tempo training employs an intensity at or slightly higher
+than 
+race 
+competition 
+intensity. 
+The 
+intensity 
+corresponds
+approximately to the maximal lactate steady state; therefore, this
+type of training is also often called threshold training or aerobic–
+anaerobic interval training (98). There are two ways to conduct
+pace/tempo 
+training: 
+steady 
+and 
+intermittent 
+(98). 
+Steady
+pace/tempo training is continuous training conducted at an intensity
+equal to the maximal lactate steady state for durations of
+approximately 20 to 30 minutes. The purpose of pace/tempo training
+is to stress the athlete at a specific intensity and improve energy
+production from both oxidative and nonoxidative metabolism.
+Intermittent pace/tempo training is also referred to as tempo
+intervals, cruise intervals, or threshold training (98). During
+intermittent pace/tempo training, the intensity is the same as for a
+steady-threshold workout, but the training session consists of a
+series of shorter intervals with brief recovery periods between work
+intervals. During pace/tempo training, it is important to avoid
+exercising at a higher intensity than the prescribed pace, assuming
+the prescribed pace is an accurate reflection of maximal lactate
+steady state. If the workout seems relatively easy, it is better to
+increase the distance than to increase the intensity. The primary
+objective for this type of training is to develop a sense of race pace
+and enhance the body systems’ ability to sustain exercise at that
+pace. Pace/tempo training involves the same pattern of muscle fiber
+recruitment as is required in competition. The benefits derived from
+1539
+
+this type of training include improved running economy and
+increased LT and MLSS.
+Interval Training
+Interval training involves exercise at intensities close to V̇O2max.
+The work intervals should last between 3 and 5 minutes, although
+they can be as short as 30 seconds (3). The rest intervals for 3- to
+5-minute work intervals should be equal to the work interval,
+thereby keeping the work-to-rest ratio (W:R) at 1:1. Interval training
+permits the athlete to train at intensities close to V̇O2max for a
+greater amount of time than would be possible in a single exercise
+session at a continuous high intensity. This type of training should
+not be performed until a firm base of aerobic endurance training has
+been attained (74). Interval training is very stressful on the athlete
+and should be used sparingly. The benefits derived from interval
+training include an increased V̇O2max and enhanced anaerobic
+metabolism.
+High-Intensity Interval Training
+High-intensity interval training (HIIT) is a form of training that
+uses repeated high-intensity exercise bouts above MLSS or critical
+V̇O2 interspersed with brief recovery periods (76). One high-intensity
+interval training protocol is Tabata training. This methodology
+requires athletes to train at an intensity high enough to result in
+exhaustion after 7 to 8 repetitions of 20 seconds of work with 10
+seconds rest between exercise periods (129). HIIT has been shown
+to provide a number of benefits to aerobic endurance performance
+in recreational to well-trained athletes (53, 92, 137). Research has
+shown that HIIT may result in increases in V̇O2max in beginner (137)
+and trained athletes (92); however, in well-trained athletes the
+results are less clear (97). The observed improvements may be, at
+least in part, the result of increases in mitochondrial biogenesis and
+function contributing to increased aerobic metabolism (67, 79). HIIT
+has also been associated with improvements in LT (48, 92) and
+1540
+
+exercise economy (48, 53), which have both been strongly
+associated with aerobic endurance performance. In cases where
+improvements in aerobic endurance performance or factors
+associated with this performance are similar from HIIT and
+traditional low-intensity aerobic training, HIIT provides an advantage
+by taking significantly less time to complete (23).
+According to Buchheit and Laursen (22), for an optimal stimulus it
+is necessary for athletes to spend a total of several minutes within
+the HIIT session above 90% of the V̇O2max. Both short (<45 s) and
+long (2- to 4-min) HIIT intervals can be used to elicit different
+training responses. For example, shorter intervals with higher
+intensity may elicit positive changes in neuromuscular power and
+exercise economy, and as the work duration for a single exercise
+bout is increased, the energy contribution from fast glycolysis will
+likely increase along with blood lactate levels, which may stimulate
+improvements in lactate metabolism.
+In performing HIIT, the appropriate amount of rest between
+repetitions is critical. If the relief intervals are too short, the athlete
+will be unable to put forth a quality effort on subsequent exercise
+bouts and also will be at a greater risk for injury. If the rest periods
+are too long, many of the benefits experienced from challenging the
+glycolytic energy system will likely diminish. An example of an
+appropriate work-to-rest ratio for long-interval HIIT training is ≥2 to
+3 minutes at or above 90% V̇O2max, with ≤2 minutes of passive or
+low-intensity active recovery (21, 22, 77).
+Fartlek Training
+Fartlek training (the word Fartlek originates from the Swedish
+term for speed play) is a combination of several of the previously
+mentioned types of training. Although Fartlek training is generally
+associated with running, it can also be used for cycling and
+swimming. A sample Fartlek run involves easy running (~70%
+V̇O2max) combined with either hill work or short, fast bursts of
+running (~85-90% V̇O2max) for short time periods. Athletes can
+1541
+
+apply this basic format to cycling and swimming by simply combining
+extensive endurance training, pace/tempo training, and interval
+training. A Fartlek training workout challenges all systems of the
+body and may help reduce the boredom and monotony associated
+with daily training. This type of training is likely to enhance V̇O2max,
+increase the LT, and improve exercise economy and fuel use.
+The 
+various 
+types 
+of 
+training 
+induce 
+different
+physiological responses. Ideally, a sound program would
+incorporate all types of training into the athlete’s
+weekly, monthly, or yearly training schedule.
+1542
+
+Application of Program Design to
+Training Seasons
+The program design variables and the various types of aerobic
+endurance training are applied to athletes’ sport seasons to create a
+yearly or season-long training program. Typically, the training year is
+divided into phases that include the off-season (sometimes called
+base training), preseason, in-season (sport competition), and
+postseason (active rest). Table 21.5 summarizes the main objectives
+and the typical program design assignments for each training
+season.
+TABLE 21.5 Sport Season Objectives and Program
+Design Assignments
+Sport season
+Objective
+Frequency
+per week
+Duration
+or volume
+Intensity
+BEGINNER ATHLETE
+Off-season
+(base training)
+Develop sound conditioning
+base
+3-4
+Moderate to
+long
+Low to
+moderate
+Preseason
+Improve factors important to
+aerobic endurance
+performance
+3-5
+Moderate to
+long
+Low to high
+In-season
+(competition)
+Maintain factors important to
+aerobic endurance
+performancea
+3-5 (training
+and racing)
+Short
+(training)
+High
+(training)
+Moderate
+Low or high
+Race
+Moderate to
+aA combination of training formats (i.e., extensive endurance, pace/tempo, and high-
+intensity intervals of varying distances or duration) are required to maintain aerobic
+endurance, LT, and exercise economy between races.
+bA combination of training formats (i.e., extensive endurance, pace/tempo, and high-
+intensity intervals of varying distances or duration) are required to maintain aerobic
+endurance, LT, and exercise economy between races.
+Data from Lamb (1995); Penteado et al. (2014); Svedenhag (2008); Wells and Pate
+(1995).
+1543
+
+Sport season
+Objective
+Frequency
+per week
+Duration
+or volume
+Intensity
+distance
+high (racing)
+Postseason
+(active rest)
+Recovery from competitive
+season
+2-3
+Short
+Low
+ADVANCED ATHLETE
+Off-season
+(base training)
+Develop sound conditioning
+base
+5-6
+Long
+Low to
+moderate
+Preseason
+Improve factors important to
+aerobic endurance
+performance
+6-7
+Moderate to
+long
+Moderate to
+high
+In-season
+(competition)
+Maintain factors important to
+aerobic endurance
+performance and increase
+goal race pace enduranceb
+5-6 (training
+and racing)
+Short
+(training)
+Low
+(training)
+Moderate
+Low or high
+Race
+distance
+High (racing)
+Postseason
+(active rest)
+Recovery from competitive
+season
+3-5
+Short
+Low
+aA combination of training formats (i.e., extensive endurance, pace/tempo, and high-
+intensity intervals of varying distances or duration) are required to maintain aerobic
+endurance, LT, and exercise economy between races.
+bA combination of training formats (i.e., extensive endurance, pace/tempo, and high-
+intensity intervals of varying distances or duration) are required to maintain aerobic
+endurance, LT, and exercise economy between races.
+Data from Lamb (1995); Penteado et al. (2014); Svedenhag (2008); Wells and Pate
+(1995).
+Off-Season (Base Training)
+The priority in off-season training is to develop a large base of
+cardiorespiratory fitness. Initially, the training program should
+progress to be composed of long-duration and low-intensity
+workouts. In the mid- to late off-season, intensity and, to a lesser
+extent, duration are increased; however, it is typically recommended
+that intermediate and advanced athletes should not increase their
+training duration or volume more than 5% to 10% per week.
+1544
+
+However, for beginner athletes who start with a very low training
+volume, it may be safe and logical to increase by more than 10%.
+For example, an athlete who is new to running may run 1 mile (1.6
+km) three times in their first week. By following the 10%
+recommendation, the following week would realize an increase of
+only a total of 0.3 miles (0.5 km), whereas the athlete should
+logically be able to absorb more than this—in this case, an additional
+0.5 miles (0.8 km) on two separate days (i.e., a total of 1 mile [1.6
+km] or 33% increase). Similarly, cyclists, by the nature of the
+volume of training they engage in as well as the low-impact nature
+of their sport, may be able to safely increase their volume by more
+than 10%. For example, a beginner cyclist may complete an average
+of 25 miles (40 km) in a week. The recommendation would mean
+the following week they would increase their volume by a total of
+1.25 to 2.5 miles (2-4 km). If this athlete is training at an average
+speed of 10 miles per hour (16 km/h), this volume would equate to
+an additional 7.5 to 15 minutes, which in both absolute and relative
+terms is small. However, it is also important to consider that training
+is progressed across many weeks in a training program, and even
+small changes on a week-to-week basis will eventually add up to
+substantial increases in volume or intensity. Therefore, while an
+initial increase in volume of >10% may be advisable in some,
+continued increases across a training program of more than 5% to
+10% per week may create a substantial training stress that exceeds
+an athlete’s maximal tolerable dosage, particularly as the stress from
+training accumulates across the training program. Aside from
+background and training status, individual differences in response to
+training volume stimuli should also be taken into account. To avoid
+injury and optimize training adaptations, some athletes will require
+more recovery time, including a slower increase in training volume,
+than their peers. Monitoring subjective levels of fatigue and
+soreness, and objective measures such as resting heart rate and
+heart rate variability, can help guide appropriate increases in training
+volume. It should also be noted that increasing training duration too
+1545
+
+much too quickly can actually lead to decreases in aerobic
+endurance performance (75).
+Sample Training Program for a Beginner
+Marathon Runner During the Off-Season
+(Base Training) Phase
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Rest
+day
+45 min
+Fartlek run
+30 min
+aerobic run
+Rest day
+45 min
+aerobic run
+Rest
+day
+60 min
+aerobic run
+Comments
+Frequency. To help combat overtraining or overuse, the aerobic training days should
+be spread out evenly during the week to allow recovery between sessions.
+Duration. Since the athlete’s race distance is a marathon, the duration or running
+distance of the extensive endurance training sessions should progressively approach
+80% to 85% that of the marathon, at least for one of the two aerobic (extensive
+endurance) sessions.
+Intensity. To complete the extensive endurance sessions, the athlete should run at a
+low intensity or a slow training pace; high respiratory stress should be avoided. The
+aerobic runs should be at zone 1 on the three-zone intensity scale (figure 21.1 on
+page 701) or zone 2 on the five-zone intensity scale (table 21.1 on page 697).
+Sample Swim Training Program for an
+Intermediate 140.6 Triathlete During
+the Off-Season (Base Phase)
+1546
+
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Rest
+day
+45 min
+aerobic
+swim
+2 min intervals
+@ 80%
+V̇O2max/2 min
+passive
+recovery × 8
+reps
+45 min
+aerobic swim
+Rest day
+(no swim
+workout)
+1 mile
+(1.6 km)
+Fartlek
+swim
+45 min
+aerobic
+swim
+This program has a swim focus; the race swim distance is 2.4 miles (3.9 km).
+Comments
+Frequency. Because the interval and Fartlek workouts are stressful, these training
+sessions should be spread out during the week to allow recovery between sessions.
+Duration. The intervals are work bouts of 2 minutes with ≤2-minute passive recovery
+between repetitions.
+Repetitions. The intervals are 6 to 10 reps × 2 minutes.
+Intensity. The athlete should swim at an intensity (pace) at or above 80% V̇O2max
+when completing the work portions of the interval session. The aerobic swims should
+be at zone 1 on the three-zone intensity scale (figure 21.1 on page 701) or zone 2 on
+the five-zone intensity scale (table 21.1 on page 697).
+Preseason
+During the preseason, the athlete should focus on progressively
+increasing training intensity, maintaining or reducing duration, and
+incorporating all types of aerobic training stimuli into the program.
+The strengths and weaknesses of the individual athlete should
+determine the amount and frequency of each type of training.
+Sample Training Program for a Beginner
+50 Kilometer (31 Mile) Cyclist During
+the Preseason Phase
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Rest
+day
+60 min
+aerobic
+30 min
+pace/tempo
+Rest day
+45 min
+Fartlek ride
+Rest
+day
+75 min
+aerobic ride
+1547
+
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+ride
+ride
+Comments
+Frequency. Because the pace/tempo and Fartlek rides are stressful, these two training
+days should be spread out during the week to allow recovery between sessions.
+Duration. For steady pace/tempo training, exercise duration is shorter than race
+distance or duration to allow for a higher training intensity.
+Intensity. The athlete should cycle at a high intensity or a fast training pace for both
+pace/tempo and Fartlek sessions; high respiratory stress is required to simulate race
+pace. The aerobic rides should be at zone 1 on the three-zone intensity scale (figure
+21.1 on page 701) or zone 2 on the five-zone intensity scale (table 21.1 on page 697).
+Sample Training Program for an
+Intermediate 10 Kilometer (6.2 Mile)
+Runner During the Late Preseason Phase
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Rest
+day
+10 reps of
+0.5 km (0.3
+mi) intervals
+at race pace
+with a 1:1
+W:R ratio
+10 km
+(6.2 mi)
+easy run
+45 min
+aerobic run
+HIIT 3 min @
+90%
+V̇O2max/2
+min passive
+recovery × 6
+reps
+45 min
+aerobic
+run
+45 min
+Fartlek run
+on flat
+course
+Comments
+Frequency. Because the interval runs are stressful, these training sessions should be
+spread out during the week to allow recovery between sessions.
+Duration. The total distance or duration of the training portion of the session (i.e., the
+sum of the interval work bouts) should approach the competition distances as the
+athlete becomes more highly trained.
+Intensity. The athlete should run at an intensity (pace) close to or above LT when
+completing the work bout portions of the interval training sessions. The aerobic runs
+should be at zone 1 on the three-zone intensity scale (figure 21.1 on page 701) or
+zone 2 on the five-zone intensity scale (table 21.1 on page 697).
+1548
+
+In-Season (Competition)
+The in-season training program needs to be designed to include
+competition or race days in the training schedule. Low-intensity and
+short-duration training days should precede scheduled competitions
+so that the athlete is fully recovered and rested. The types of
+training employed during the in-season are based on the continued
+goal of improving weaknesses and maintaining strengths of the
+athlete.
+Sample Training Program for a 5
+Kilometer (3.1 Mile) Collegiate Cross-
+Country Runner During the In-Season
+Phase
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Rest or
+easy run
+60 min
+aerobic
+run
+45-min
+Fartlek run
+of hard/easy
+work on hills
+and flats
+20 min
+pace/tempo
+run
+30 min
+aerobic run
+with race
+pace pickups
+20 min
+aerobic
+run with
+race pace
+pickups
+Competition
+Comments
+Frequency. Because Fartlek and tempo runs are stressful, no more than two in total
+should occur during the week.
+Duration. The total distance or duration of the training portion of the session (i.e., the
+sum of the interval work bouts) should approach the competition distance as the
+athlete becomes more highly trained.
+Intensity. The athlete should run at an intensity (pace) close to V̇O2max when
+completing the work bout portions of the Fartlek training sessions and LT for the
+tempo run. The aerobic runs should be at zone 1 on the three-zone intensity scale
+(figure 21.1 on page 701) or zone 2 on the five-zone intensity scale (table 21.1 on
+page 697).
+1549
+
+Postseason (Active Rest)
+During the postseason, the main focus should be on recovering
+from the previous competitive season. Low training duration and
+intensity are typical for this active rest phase, but enough overall
+exercise or activity should be performed to maintain a sufficient level
+of cardiorespiratory fitness, muscular strength, and lean body mass.
+During the postseason, the aerobic endurance athlete should focus
+on rehabilitating injuries incurred during the competitive season and
+improving the strength of weak or underconditioned muscle groups.
+A sound year-round aerobic endurance training program
+should be divided into sport seasons with specific goals
+and objectives designed to improve performance
+gradually and progressively.
+1550
+
+Special Issues Related to Aerobic
+Endurance Training
+In addition to the program design variables, it is important to
+consider other related issues when developing an aerobic endurance
+training program. These include cross-training, detraining, tapering,
+and supplemental resistance training. The strength and conditioning
+professional should contemplate these issues when adapting the
+types of aerobic endurance training programs to an individual athlete
+or developing an aerobic endurance program based on the sport
+season.
+Cross-Training
+Cross-training is a mode of training that can be used to maintain
+general conditioning in athletes during periods of reduced training
+due to injury or during recovery from a training cycle (96). Cross-
+training may reduce the likelihood of overuse injuries because it
+distributes the physical stress of training to muscle groups different
+from those used during training (122). Multiple-event athletes also
+use cross-training to maximize performance in swimming, cycling,
+and running. The benefits derived from cross-training include
+adaptations of the respiratory, cardiovascular, and musculoskeletal
+systems (88, 122). It seems reasonable to expect that cross-training
+would maintain some level of conditioning in single-event athletes
+who perform another mode of training (e.g., runners who perform
+cycling or swimming). To be effective in maintaining V̇O2max, cross-
+training must be equal in intensity and duration to the athlete’s
+primary mode of exercise; however, cross-training will not improve
+single-event performance to the same magnitude as mode-specific
+training only (96).
+Detraining
+Detraining occurs when the athlete reduces the training duration or
+intensity or stops training altogether due to a break in the training
+1551
+
+program, injury, or illness. In the absence of an appropriate training
+stimulus, the athlete experiences a loss of the physiological
+adaptations brought about by training. It has been demonstrated
+that most of the physiological adaptations attained with training
+regress rapidly toward pretraining levels when the training stimulus
+is removed (5, 102). To avoid some of the effects of detraining, the
+use of other training modes may be beneficial; however, cross-
+training may only attenuate some of the loss of physiological
+adaptation normally seen during complete cessation of training.
+Aerobic endurance athletes can minimize the effects of detraining by
+continuing to use their primary mode of exercise at reduced
+frequency and intensity, if possible (136).
+Tapering
+Tapering is an important component of the training program as
+aerobic endurance athletes prepare for major competition. Tapering
+involves the systematic reduction of training duration and intensity,
+combined with an increased emphasis on technique work and
+nutritional intervention. The objective of tapering the training
+regimen is to attain peak performance at the time of competition.
+While the duration of the taper depends on numerous factors, a
+typical tapering period may last between 7 and 28 days (91).
+Although most of the available research on tapering has been
+conducted on swimmers (95, 126, 131), the use of tapering is not
+limited to these aerobic endurance athletes. Research among
+runners and cyclists has shown that these aerobic endurance
+athletes also benefit from a well-planned tapering regimen (18, 91).
+Tapering before competition helps facilitate recovery and rehydration
+and promotes increases in muscle and liver glycogen stores (91).
+Several types of tapering models may be employed by athletes in
+order to restore impaired physiological capacities resulting from the
+rigors of training. The most common tapering models are linear,
+step, and progressive tapers (131). The linear taper is characterized
+by a gradual decrease in the overall daily training volume throughout
+1552
+
+the duration of the taper. In contrast, a step taper is typified by an
+abrupt and considerable reduction (normally ≥50%) in training
+volume that is maintained throughout the duration of the taper
+without fluctuation. The progressive taper uses a combination of the
+linear and step tapering models. This model is associated with a
+rapid 10% to 15% immediate reduction in training volume, with
+smaller, more gradual reductions in volume at each tier. Training
+volume is systematically reduced while intensity and frequency are
+maintained.
+Concurrent Aerobic Endurance Training
+and Resistance Training
+Resistance training is an important but often overlooked factor in
+improving performance in aerobic endurance athletes. This may be
+due to misconceptions that resistance training may increase an
+athlete’s 
+nonfunctional 
+muscle 
+mass 
+and 
+thereby 
+decrease
+performance, or the potential interference phenomenon that may
+occur when resistance and aerobic endurance training sessions are
+completed within a training program (i.e., concurrent training)
+(35). However, apart from the well-known benefits that resistance
+training can provide athletes, such as reducing muscle imbalances,
+assistance with preventing overuse injuries, and recovery from
+injuries (122), numerous research investigations (25, 32, 45, 82, 84,
+109, 114, 119, 127, 135), meta-analyses, and systematic review
+articles (1, 4, 10, 11, 17, 31, 37, 38, 65, 80, 89, 116, 143) have
+demonstrated that it can also improve performance (e.g., time trial,
+middle- and long-distance) across a number of aerobic endurance
+disciplines including running, cycling, cross-country skiing, and
+swimming, and performance-related variables such as strength,
+power, running economy, and maximal sprint speed. For example, a
+systematic review found that resistance training not only improved
+running performance from distances of 1,500 meters (0.9 mile) to
+10,000 meters (6.2 miles) but also improved muscular strength and
+power factors as well as running economy (1). More specifically,
+1553
+
+both heavy resistance training and explosive or plyometric training
+have been found to be effective training methods to concurrently
+train with aerobic endurance training to improve running economy
+(10, 31). Improvements in running economy and performance
+following heavy resistance training and plyometric training are
+primarily related to an increase in strength of the muscles used
+during running thereby reducing the relative intensity of the load of
+the exercising muscles (43). Plyometric training, which uses the
+stretch-shortening cycle, not only improves the storage and elastic
+energy properties of the exercising muscles but assists them to work
+more efficiently (86). It is important to note that maximal strength
+training has been found to produce greater benefits than
+submaximal strength training or maximal power training, with
+submaximal strength training producing the least gains of all other
+methods (10).
+It is also worth highlighting that no signs of overtraining (1) or
+significant increases in body mass (1, 17), maximal oxygen uptake
+(17), or blood lactate markers (17) have been associated with the
+aerobic performance improvements for the majority of concurrent
+training studies. However, not all concurrent training studies (143)
+have resulted in improvements in aerobic endurance performance
+measures. The differences between studies is often due to the
+choice of resistance training exercises (e.g., high vs. low intensity,
+explosive or plyometric) (80), characteristics of the participants, and
+methods used to measure performance improvements (17). It is also
+worth noting that studies that reported no improvement in running
+economy often used a lower frequency of resistance training
+sessions (17) and shorter duration concurrent training programs (31,
+38).
+Exercise Selection
+Most studies found that athletes who have benefited from
+concurrent training used free weight, multijoint exercises (17). This
+benefit may be related to the higher level of muscle coordination and
+1554
+
+hence neuromuscular stimulus experienced with free weights
+compared to machine-based or single-joint exercises (17). For those
+studies involving running, the benefit may also be related to the
+greater transference from the resistance training environment to the
+running movement due to the biomechanical similarity between the
+two (17). High-velocity movements including plyometric exercises
+such as hops, bounds, jumps, drop jumps, and squat jumps have
+shown to have a positive impact on aerobic endurance performance
+measures (31, 38). For more information, refer to chapters 18 and
+19 for program design and technique details.
+Training Intensity and Frequency
+A common finding of concurrent training research for improving
+aerobic endurance performance is the use of heavy resistance
+training or plyometric training by athletes two or three times per
+week (10, 17) or a combination of both (4, 31, 38). However, to
+reduce the impact of a resistance training session on a subsequent
+aerobic endurance training session (i.e., residual fatigue, muscle
+soreness, and physiological disturbance), the volume should be
+reduced to limit the potential carryover of fatigue caused by the
+resistance training session (35). That is, keep the loads high (e.g.,
+≥90% of 1RM or ≤4RM) (38) but the weekly volume low (31). It is
+also worth noting that strength developed during a preparatory
+phase has been found to be maintained for up to 12 weeks with just
+one resistance training session per week thereafter (111), thus
+allowing athletes to maintain strength gains throughout subsequent
+training phases with minimal time commitment.
+Recovery Time Between Concurrent Training Sessions
+The level of recovery during a concurrent training program is
+influenced not only by the intensity, frequency, and duration of the
+individual training sessions but also the mode of aerobic endurance
+training (e.g., running vs. cycling) and type of resistance training
+performed (e.g., velocity of movement) (35). The shorter the
+1555
+
+recovery period between training sessions, the greater the level of
+fatigue carried from one training session to the next (33, 110). In
+conjunction, there is an increase in the physiological cost of the next
+training session and a reduction in training performance, which may
+result in lower adaptations (32). Some posttraining fatigue is
+necessary 
+for 
+stimulating 
+training 
+adaptations, 
+but 
+it 
+is
+simultaneously necessary to maximize recovery between training
+sessions, particularly if on the same day. To achieve this,
+manipulation of concurrent training variables such as sequence of
+training, training intensities, volumes, and frequency as well as the
+recovery period between training sessions can be adjusted (11, 34,
+110). However, because athletes respond differently to training
+stimuli and recovery techniques, it is important to monitor athletes’
+recovery via measures such as heart rate, task completion times,
+RPE, blood lactate, power output, and the like (35).
+Training Sequence
+The order in which resistance and aerobic endurance training
+sessions are completed may affect adaptations because the acute
+physiological responses for resistance and aerobic endurance
+training are distinct to each form of training (34) and may influence
+the quality and quantity of training sessions completed on the same
+day. Findings have been mixed on the effects of concurrent training
+sequence on strength and V̇O2max (25, 32, 45, 46). As a general
+guide, however, the training sequence should be varied throughout
+the phases of the training year and reflect the highest priority (e.g.,
+maximizing strength or improving aerobic endurance) for each
+training cycle; the most important training goal should be trained
+first within a given workout while the athlete is fresh (125).
+Mode of Aerobic Endurance Training
+The results of a concurrent training meta-analysis found no
+significant differences across the sports studied (i.e., running,
+cycling, cross-country skiing, and swimming), with all sports
+1556
+
+benefiting similarly in terms of performance from undertaking a
+concurrent training program (10). However, the difference in muscle
+action types (eccentric vs. concentric) may create a greater level of
+muscle damage from some modes compared to others (e.g., running
+vs. cycling) (143), particularly if large distances are involved.
+Therefore, in concurrent training programs that involve running, a
+greater recovery period may be needed when completed in the
+hours before or following a resistance training session. This concept
+may be especially important for athletes undertaking more than one
+aerobic endurance discipline, such as triathletes (35).
+Athlete Training Status
+The training status of athletes has been suggested to be an
+important variable to consider when undertaking concurrent training
+(11). While the majority of findings indicate that concurrent training
+can benefit aerobic endurance performance of athletes of different
+levels across different aerobic endurance disciplines (10), the
+responses may be different. For example, a systematic review and
+meta-analysis found that following a concurrent training program,
+trained or highly trained aerobic endurance athletes did not
+demonstrate any impairments to improvements in V̇O2max; however,
+untrained individuals did (65). Consequently, for aerobic endurance
+athletes who have minimal resistance training experience or for
+lesser trained aerobic endurance athletes, it may be necessary to
+allow greater recovery times between training sessions, or apply a
+slower progression of training variables (e.g., intensity, frequency, or
+duration) or exercises compared to higher trained athletes.
+Chapter 18 provides guidelines for designing resistance training
+programs that can apply to aerobic endurance athletes; refer to
+scenario C for a sample program that focuses on a high school cross
+country runner.
+1557
+
+Altitude
+Altitude is classified into several categories, ranging from sea level
+(>500 m [1,640 ft]) to low (>500-2,000 m [1,640-6,562 ft]),
+moderate (>2,000-3,000 m [6,562-9,843 ft]), high (>3,000-5,500 m
+[6,562-18,045 ft]), and extreme (>5,500 m [>18,045 ft]) (39).
+While the percentage of oxygen is the same at different altitudes
+(94), the atmospheric pressure drops, causing a reduction in partial
+pressure (PO2), which acts as the driving force for gas exchange in
+the lungs (39, 94). This leads to a cascade of physiological
+responses to compensate for the reduction in PO2. Subsequently,
+aerobic endurance performance decrements upon acute altitude
+exposure may begin to occur at altitudes as low as 700 meters
+(2,297 ft) (145).
+Acclimatization to altitude may occur between 12 and 14 days at
+moderate altitudes up to 2,300 meters (7,546 ft); however, it has
+been found that this process may take up to several months (145).
+According to Wyatt (145), recommendations for optimizing
+performance at altitude vary dramatically, from arriving immediately
+before competition (24-48 hr) to 12 weeks of altitude exposure.
+Many elite and sub-elite athletes train at altitude to produce an
+ergogenic effect. In order to experience a benefit from this type of
+training, it has been reported that an athlete must receive a hypoxic
+dose of training ≥12 hours per day for a minimum of three weeks at
+moderate altitude (approximately 2,100-2,500 m [6,890-8,202 ft])
+(66, 145). Live high, train low (LHTL) is a method commonly
+used by athletes seeking to benefit from altitude training. LHTL
+requires individuals to live at moderate altitudes, between 2,000
+meters and 3,000 meters (6,562-9,843 ft), and train at or near sea
+level (66). This method of training allows athletes to simultaneously
+experience the benefits of altitude acclimatization and training at sea
+level (139). Thus, LHTL may potentially provide an ergogenic benefit
+by allowing athletes to take advantage of the metabolic and
+hematological adaptations experienced when living at altitude to
+augment neuromuscular development at lower altitudes (39, 139).
+1558
+
+Heat Acclimation
+It is well documented that aerobic endurance performances are
+influenced by hot environments (55, 99, 100). Consequently,
+undertaking training or competition in hot environments before an
+athlete has acclimatized results in greater thermoregulatory and
+cardiovascular strain, fatigue, increased perception of effort, and a
+negative impact on performance (52) via elevated core and skin
+temperatures, increased sweating, and loss of electrolytes. To avoid
+these negative effects, athletes are advised to acclimatize prior to
+competition in warm to hot conditions. Adaptations to heat
+acclimation protocols include an increase in plasma volume and
+thereby an increase in blood volume, an improvement in skin blood
+flow sensitivity, earlier onset of sweating at a lower core body
+temperature combined with an increase in sweat rate and
+evaporative cooling, and a reduction in gastrointestinal distress (51,
+101). These changes, along with many others, help provide
+cardiovascular stability, lower core and skin temperatures, and a
+reduced exercise heart rate. A more detailed description of the
+adaptations to training in the heat can be found in chapter 6 (see
+the section Heat Acclimatization).
+Heat Acclimation Protocols
+An athlete can adapt naturally to a hot environment by either living
+and training in hot ambient conditions over a long period of time
+(i.e., heat acclimatization) or training in an artificially hot indoor
+environment (i.e., heat acclimation) (108). Heat acclimation
+protocols are typically classified as short (<7 days), medium (8-14
+days), or long term (>15 days) (50). Even though the majority
+(~75%) of heat adaptations occur within the first four to six days of
+heat exposure (e.g., heart rate and core temperature adaptations)
+(101), it may take seven or more days for the remainder of the
+adaptations to take place (e.g., enhanced core body temperature,
+cardiovascular, sudomotor, and sweat rate adaptations) (28, 81, 101,
+108). It is recommended that athletes participating in long-duration
+1559
+
+or multiday events as well as those of a lesser training status
+undertake longer protocols to ensure appropriate levels of heat
+adaptation (107).
+The frequency of heat exposure is important because adaptations
+occur more rapidly with days of consecutive exposure; however, if
+over a 10- to 14-day protocol, one to three days of heat exposure
+are missed, it is unlikely that these missed days will significantly
+affect heat acclimation adaptations (107). It is important to note
+that twice-daily heat exposure is no more effective than once-daily
+for physiological, perceptual, or performance adaptations (141). For
+a heat acclimation protocol to be effective, an increase in core and
+skin temperatures and sweat rate is required (101, 108). To achieve
+this, it is generally recommended that athletes aim for 60 minutes of
+heat exposure (108) and a maximum of 90 minutes, although 120
+minutes has been shown to be effective (115, 144). It should be
+noted that it may take time to build up to these exposure times over
+the heat acclimation protocol period as determined by the intensity
+of the training sessions as well as the athlete’s heat tolerance.
+Measures of training intensity such as heart rate and performance
+times may be misleading in the short term until the athlete heat
+acclimatizes (54). A more appropriate alternative may be a scalar
+method such as perceived exertion (54). However, markers that an
+athlete is positively adapting are a lower heart rate and core
+temperature for a given workload, increased sweat rate, and
+enhanced aerobic exercise capacity (115).
+Athletes with higher levels of aerobic fitness may acquire heat
+adaptations more rapidly and retain them longer than those athletes
+with a lower level of aerobic fitness (101). More aerobically fit
+athletes can also tolerate higher core body temperatures and
+therefore can perform better in the heat (101, 121). Due to the
+variability in responses, it is important that all athletes are monitored
+throughout an acclimation protocol, especially those who are just
+starting. Similarly, due to the added risk that hot environments can
+pose for athletes during training, several safety precautions should
+1560
+
+be implemented when working with heat acclimation protocols. For
+example, always begin well hydrated, maintain hydration, ensure
+cooling equipment is available (e.g., cold-water immersion bath or
+ice vests), and signs and symptoms of exertional heat illness should
+be well known to athletes and staff and be posted. For more
+information, readers are directed to Pryor and colleagues (107).
+To determine individual athlete adaptation and decay rates, heat
+acclimatization protocols should be practiced months before
+competition in the heat (9), and athletes should also undertake a
+practice heat event in similar conditions to those they expect to
+perform in on competition day (9). It is recommended that the
+environment have a wet-bulb globe temperature >30 °C (>86 °F) to
+provide the necessary stress to elicit heat adaptations in core body
+temperature as well as induce a higher sweat response (28).
+A reduction in training duration or intensity followed by a
+progressive increase over the protocol period may be required
+compared to the usual training load, on the initial introduction of a
+heat acclimation protocol (107). In addition, it may be necessary to
+use a combination of exercise and passive heat exposure (e.g.,
+sauna or hot-water immersion) sessions as the athlete commences
+and progresses through the heat acclimation process to enable
+integration with the athlete’s training schedule (54). For both hot
+sauna (118) and hot-water immersion (147, 148) postexercise
+sessions have been found to provide heat acclimation and
+performance benefits. However, to be successful, it is recommended
+that the heat stimulus be applied for a duration of 30 minutes per
+session, ideally on consecutive days, when possible to maximize heat
+acclimation adaptations (61). This process enables athletes to
+maintain or elevate their core body temperature and increase their
+sweat rate. An additional benefit of passive heat exposure is that it
+can reduce the volume of heat exercise training (107), which may be
+particularly useful when introducing unacclimatized athletes to heat
+acclimation protocols.
+1561
+
+Conclusion
+Training to improve aerobic endurance performance requires a well-
+developed and scientifically based program. The training program
+should be developed in conjunction with periodic performance
+assessment and should be structured to enhance the strengths and
+improve the weaknesses of the athlete. A combination of a variety of
+the training types described in this chapter should be used so that all
+physiological systems involved in successful performance are
+overloaded and challenged to respond with positive adaptations.
+Training programs should be developed far enough in advance
+and with enough structure to ensure enhancement of performance
+but with enough flexibility to avoid overuse injuries and overtraining.
+Although other forms of training can be employed to avoid boredom
+and overtraining, activity-specific training results in the best
+adaptations to training and ultimately the most improvement in
+performance.
+AEROBIC ENDURANCE TRAINING
+EXERCISES
+The following section discusses some basic technique considerations
+for performance of aerobic endurance training. General guidelines
+for both common aerobic training machines and nonmachine
+activities are provided. These exercise instructions are largely
+adapted from Beck (8).
+  1  Treadmill  713
+  2  Stationary Bike  714
+  3  Rowing Machine  715
+  4  Stair Stepper  716
+  5  Elliptical Trainer  717
+1562
+
+  6  Walking (Gait)  718
+  7  Running (Gait)  718
+  8  Freestyle Swimming  719
+Aerobic Endurance Training
+Exercises
+  1   TREADMILL
+Starting Position
+Begin by attaching the security clip to the clothing where it will
+not interfere with the action of the lower or upper limbs.
+Straddle the belt by placing the feet on the right and left
+platform.
+Read the instructions on the console of the treadmill to gain an
+understanding of how to adjust the speed and incline of the
+specific treadmill being used.
+Turn on the machine and adjust the speed of the belt so it is at
+the desired warm-up speed.
+Movement Phase
+While holding the handrails, allow one leg to swing freely, and
+using a pawing action, strike the treadmill with the mid-foot.
+Once comfortable with the speed of the belt, begin walking or
+running on the treadmill.
+Run or walk, keeping toward the front portion of the machine
+while remaining in the center of the treadmill deck.
+Release the hands from the handrails and adjust the speed and
+incline until the desired training level is attained.
+Avoid holding on to the console or front handrails or leaning
+backward while walking or running.
+Keep the head up and eyes focused forward to avoid looking
+down at the console for extended periods of time.
+1563
+
+Ending Position
+Reduce the speed of the treadmill and perform a 3- to 5-minute
+cooldown to prevent blood pooling in the lower extremities and
+improve venous return to the heart.
+Step onto the platforms on either side of the belt and turn the
+machine off.
+COMMON ERRORS
+Continually holding the handrails—holding the handrails
+beyond the initial entry phase interrupts posture and
+stride mechanics and limits core activation; after the
+initial entry phase use a natural walking or running
+stride pattern with an upright posture and free moving
+arm swing, as if walking or running outside
+Looking continuously down at the console, which affects
+stride mechanics and posture and can cause neck
+discomfort; keep the eyes focused forward, with short
+glances to the console as needed to monitor display
+information
+  2   STATIONARY BIKE
+Starting Position
+Begin by adjusting the seat height so the knee of the extended
+leg is slightly flexed (25-30 degrees) at the bottom of the pedal
+stroke.
+The foot of the down leg should be flat and parallel to the floor
+with the balls of the feet in contact with the pedals.
+Adjust the seat so the knee is over the center of the pedal on
+the extended leg and the hips do not rock back and forth during
+pedaling.
+While maintaining a neutral spine position, lean slightly forward
+at the hips.
+1564
+
+Adjust the handlebars so that when the arms are extended at a
+downward angle the elbows are slightly flexed. Ideally, the
+lower arm and torso will form an angle of approximately 90
+degrees.
+Movement Phase
+Begin pedaling while keeping the balls of the feet in contact
+with the pedals throughout the duration of the exercise.
+Maintain a neutral spine posture and do not round the
+shoulders.
+With bullhorn handlebars, a variety of hand positions may be
+used. These include
+pronated, palms-facing-downward grip, allowing a more
+upright posture;
+neutral palms-facing grip on the sides of the handlebars,
+encouraging a greater forward lean; and
+racing position, with the forearms resting on the handlebars,
+creating maximum forward lean.
+Ending Position
+Slow down until the pedals have come to a complete stop, and
+then step off the bike.
+COMMON ERRORS
+If pedaling using the toes only and not the balls of the
+feet or moving laterally in the seat, the seat is too high.
+If the knees come above the height of the hips at the top
+of the pedaling stroke, the seat is too low.
+If struggling to reach the handlebars, the seat may be
+too far back or the handlebars too low. Correct seat and
+handlebar height ensures maintenance of power output
+throughout the pedaling stroke.
+1565
+
+Proper seat height adjustment: (a) leg straight with knee locked and heel on
+pedal; (b) knee slightly flexed with ball of foot on pedal; (c) with the pedal at 12
+o’clock, the knee is about even with the hips and approximately parallel with the
+floor
+  3   ROWING MACHINE
+Starting Position (Start)
+Keep the back upright, not rounded, with a slight forward lean
+from the hips.
+Hold the head upright while looking straight ahead.
+Extend the arms in front of the body and grab the rower handle
+while flexing the hips and knees until the shins are
+approximately vertical.
+Movement Phase (Drive)
+Extend the knees first followed by the hips before using the
+arms to pull the handle toward the abdomen just below the rib
+cage. As the knees near their end range of motion, tilt the
+upper body backward by extending the hips before pulling with
+the arms to complete the movement.
+Adjust the air vent to increase (more air admitted) or decrease
+(less air admitted) the resistance provided.
+1566
+
+Ending Position (Finish)
+The knees should be fully extended with the torso leaning
+slightly backward.
+Arms are flexed at the elbows and the handle is at the abdomen
+just below the rib cage.
+Recovery is the movement from the finish position back to the start
+in the reverse order of drive phase events—that is, extension of the
+arms first before flexion at the hips (to move the upper body
+forward), then flexion of the knees back to the start position.
+COMMON ERRORS
+Using arms and legs at the same time or pulling only
+with arms—the legs provide the majority of the power in
+the drive phase; the drive phase sequence is knees, hips,
+then arms.
+The handle going up and over the knees on the way back
+or the chain hitting the machine in a whipping motion,
+which is often due to the recovery sequence being out of
+sync; the recovery sequence is the opposite of the drive
+phase, so arms, hips then knees
+1567
+
+  4   STAIR STEPPER
+Starting Position
+Hold the handrails while stepping forward onto the pedals.
+Place the whole foot in contact with each pedal.
+Movement Phase
+Begin stepping, using the handrails for support.
+While maintaining an upright posture and with the legs
+providing the force, take deep (4- to 8-in. [10-20 cm]) steps.
+Keep the hips level and centered on the machine to avoid
+swaying from side to side or step to step.
+Do not allow the steps to contact the floor or the upper-limit
+stop of the machine. The heel typically comes off the pedal as
+1568
+
+the foot is raised but should make contact again with the pedal
+when pressing down.
+Continue to hold the handrails lightly while looking straight
+ahead, keeping an upright posture with the shoulders squared
+and relaxed, the torso over the hips, the knees aligned with the
+feet, and toes pointed forward.
+Ending Position
+Hold the handrails while stepping backward off the pedals.
+COMMON ERRORS
+Not keeping an upright posture, or leaning on the
+machine, which often is an indication that the level
+selected is too high
+Taking small steps and staying only on the toes with a
+high step frequency, which means the steps are too
+shallow
+1569
+
+  5   ELLIPTICAL TRAINER
+Starting Position
+Facing the center console of the elliptical, place one foot on
+each pedal.
+While standing upright and looking forward, grasp the handrails
+with the torso upright and evenly balanced directly over the
+hips, head held high, and shoulders relaxed (but not rounded).
+Movement Phase
+Begin pedaling forward, moving the arms and legs in a
+reciprocating fashion.
+The feet should remain in full contact with the pedals
+throughout the duration of the exercise unless the design of the
+1570
+
+machine causes the rear heel to lift.
+The knees should not be allowed to come forward past the toes
+when in the flexed position.
+Hold onto the handrails in order to maintain balance. If handrail
+holding is unnecessary, it is a good idea to release the hold on
+the handrails and pump the arms similarly to the way they
+move in walking or running.
+The incline of the elliptical may be increased to more closely
+simulate a running motion or reduced to replicate a walking
+motion.
+Performing this exercise with a forward motion may place
+greater emphasis on the quadriceps; performing it with a
+backward motion may increase the stress on the hamstrings
+and gluteals.
+Ending Position
+Slow down until the machine has come to a complete stop, then
+step off the pedals.
+COMMON ERRORS
+Lifting the heels and applying too much pressure via the
+forefoot; use the whole pedal to distribute pressure
+when applying force to the pedals
+Leaning on the handrails, which disengages the core
+muscles and affects movement phase execution; if
+necessary to hold on for balance, ensure an upright
+posture is always maintained and the core is engaged,
+and avoid placing hands too low on the handrails, which
+can cause a forward lean
+1571
+
+  6   WALKING (GAIT)
+Body Position
+Hold the head upright with the eyes looking straight ahead.
+Relax the shoulders, and do not allow them to round.
+Position the upper body directly over the hips while keeping the
+ear, shoulder, and hip aligned.
+Foot Strike
+The heel should strike the ground first, followed by a gentle
+rolling heel-to-ball action, allowing the weight to be spread over
+the foot.
+The weight should transfer from the outer side of the heel and
+continue to shift forward and slightly inward toward the middle
+of the ball of the foot at push-off.
+Stride
+1572
+
+Without rolling the pelvis (unless racewalking), allow the hips to
+move freely to increase stride length.
+Lift the knees and engage the hips and gluteals in the
+movement.
+Arm Action
+The arms should swing forward and backward in a reciprocating
+fashion with the lower body (i.e., when the left arm is forward,
+the right leg is extended, and vice versa).
+The shoulders should be relaxed, allowing the arms to swing
+freely.
+At faster walking speeds, the actions should be as follows:
+The arms should be flexed at the elbows and maintained at
+90 degrees with arm movement originating at the shoulders.
+The arms and hands should swing backward and forward,
+not crossing the midline of the body, in order to create
+forward propulsion.
+The hands should stay relaxed, with the hand coming up to
+the level of the chest at the nipple line on the forward swing
+and the hip bone at the side of the body on the backward
+swing.
+Note: Racewalkers must increase hip rotation with each stride to
+create a pelvic roll. This enables them to increase stride length while
+keeping one foot in contact with the ground at all times per the rules
+of the sport.
+  7   RUNNING (GAIT)
+Body Position
+Hold the head upright with the eyes looking straight ahead.
+Relax the shoulders, but do not allow them to round.
+Position the upper body during running with an approximately
+2- to 4-degree lean from the heels to the athlete’s head while
+keeping the ear, shoulder, and hip aligned.
+1573
+
+Foot Strike
+The foot should strike the ground slightly in front of or directly
+below the athlete’s center of gravity (i.e., hips), which may be a
+heel, mid-, or forefoot strike, followed by a gentle rolling heel-
+to-ball action, allowing the weight to be spread over the foot
+during the foot contact phase.
+The weight will likely transfer from the outer side of the heel
+and continue to shift.
+Stride
+Without rolling the pelvis (unless racewalking), allow the hips to
+move freely to increase stride length.
+Lift the knees and engage the hips and gluteals in the
+movement.
+With each running step, the foot should land approximately
+under the hips to avoid braking and minimize contact time with
+the ground.
+Arm Action
+The arms should swing forward and backward in a reciprocating
+motion with the lower body (i.e., when the left arm is forward,
+the right leg is extended, and vice versa).
+The shoulders should be relaxed, allowing the arms to swing
+freely.
+The arms and hands should swing backward and forward from
+the shoulder, not crossing the midline of the body, in order to
+create forward propulsion.
+Arm action of ±20-degree oscillation of the hands is acceptable
+and may improve running economy (91a).
+  8   FREESTYLE SWIMMING
+Swimming performance is a combination of swimming-specific
+fitness and technique. Less-than-optimal swimming technique can
+significantly and negatively affect an athlete’s performance due to
+1574
+
+inefficient stroke execution, increase in drag, or a loss of power
+production in the water. While a number of resources are available to
+assist athletes and strength and conditioning professionals to
+address these common errors, the best method to improve
+swimming performance is to seek expert advice from a qualified
+swim coach, who can not only assess fitness and performance
+parameters but also advise from a technical perspective how these
+areas can be improved.
+COMMON ERRORS
+Swinging hand entry, in which the hand crosses over the
+center line on entry into the water
+Early hand entry, which results in a short stroke
+Poor catch and pull through—keeping the arm straight
+when pulling through the water or finishing the stroke
+early (i.e., not pulling through the full stroke)
+Ineffective breathing technique such as holding the
+breath until the head is out of the water or lifting the
+head forward to breathe
+Incorrect body position such as the hips dropping and
+therefore increasing drag due to keeping the head up to
+look forward
+KEY TERMS
+aerobic–anaerobic interval training
+age-predicted maximal heart rate (APMHR)
+altitude
+base training
+concurrent training
+cross-training
+cruise intervals
+detraining
+duration
+1575
+
+exercise economy
+extensive endurance training
+Fartlek training
+frequency
+functional capacity
+heart rate reserve (HRR)
+high-intensity interval training (HIIT)
+in-season
+intensity
+interval training
+Karvonen method
+lactate threshold
+live high, train low (LHTL)
+long, slow distance training (LSD)
+maximal aerobic capacity (V̇O2max)
+maximal lactate steady state (MLSS)
+maximum tolerated dose (MTD)
+metabolic equivalent (MET)
+minimum effective dose (MED)
+mode
+off-season
+pace/tempo training
+percentage of maximal heart rate (MHR) method
+postseason
+preseason
+ratings of perceived exertion (RPE)
+recovery
+Tabata training
+tapering
+tempo intervals
+threshold training
+training specificity
+STUDY QUESTIONS
+1576
+
+  1.  Which of the following is not an adaptation following exposure
+to a heat acclimation protocol?
+  a.  increase in cutaneous blood flow
+  b.  increase in plasma volume
+  c.  onset of sweating at a lower core temperature
+  d.  less dilute sweat
+  2.  All the following statements concerning heat acclimation for
+aerobic endurance training are correct, except for which one?
+  a.  Most heat adaptations are reported to occur within the
+first four to six days of heat exposure.
+  b.  Athletes with a lower level of aerobic fitness can acquire
+heat adaptations more rapidly as well as retain them
+longer than those athletes with a higher level of aerobic
+fitness.
+  c.  Heat acclimatization protocols should be practiced months
+before competition in the heat.
+  d.  Heat exposure training frequency is important because
+adaptations occur more rapidly with days of consecutive
+exposure.
+  3.  Which of the following statements is not true concerning
+concurrent training?
+  a.  Most studies found that athletes who have benefited from
+concurrent training have used machine- and single-joint-
+oriented exercises only.
+  b.  Heavy resistance training and explosive or plyometric
+training by athletes two to three times per week have
+been found to improve aerobic endurance performance.
+  c.  The level of recovery following concurrent training
+sessions may be influenced not only by the intensity,
+frequency, and duration of the individual training sessions
+but by the mode of aerobic endurance training and type of
+resistance training performed.
+  d.  The training sequence should be varied throughout the
+phases of the training year to reflect what is most
+1577
+
+important during that phase of training.
+  4.  Enhanced cardiovascular and thermoregulatory function,
+improved mitochondrial energy production and oxidative
+capacity of skeletal muscle, and increased use of fat as a fuel
+are all physiological benefits of what type of aerobic
+endurance training?
+  a.  intensive pace training
+  b.  interval training
+  c.  tempo training
+  d.  extensive endurance training
+  5.  HIIT may contribute to performance in highly trained aerobic
+endurance athletes via several improvements including which
+of the following?
+  a.  improvements in peak power output
+  b.  lowering of the ventilatory threshold
+  c.  decreased use of fat as a fuel source
+  d.  reduced hydrogen ion buffering
+1578

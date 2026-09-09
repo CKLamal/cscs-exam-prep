@@ -1,0 +1,2996 @@
+CHAPTER 22
+PERIODIZATION
+G. Gregory Haff, PhD
+The author would like to acknowledge the significant contributions of Dan Wathen, Thomas R. Baechle,
+and Roger W. Earle to this chapter.
+After completing this chapter, you will be able to
+understand the central concepts that underpin the periodization of training;
+appreciate the value, role, and application of periodization in strength and
+conditioning programs;
+describe the four periods of the traditional periodization model;
+describe the two phases of the preparatory period of the traditional
+periodization model;
+relate the four sport seasons to the four periods of the traditional
+periodization model; and
+apply the program design variables to create a periodized strength training
+program.
+The ability to guide the training process and implement programming strategies
+that enhance the athlete’s potential for achieving the highest level of performance
+at targeted time points is largely affected by the long- and short-term
+programming strategies implemented by the strength and conditioning
+professional (69). The process of organizing these programming strategies is
+generally referred to as periodization. The basic concepts associated with
+periodization can be traced to ancient philosophers and physicians, such as Galen
+(also known as Clausius Aelius Galenus), who presented the first description of
+the application of periodized strength training methods, and Lucius Flavius
+Philostratus, who presented a structured pre-Olympic training model (28, 50). In
+the modern Olympic era periodization is often attributed to Leonid Matveyev (64),
+who in the 1960s proposed the basic theories that underpin periodization. Even
+though Matveyev is often considered the father of periodization, it is important to
+1579
+
+note that several other individuals were also exploring these concepts at the same
+time, including László Nádori (71), Tudor Bompa (3), and Yuri Verkhoshansky
+(102). Later on, American sport scientists Michael H. Stone, Harold O’Bryant, and
+John Garhammer adapted the concepts of the early periodization theorists with
+special application to strength and power athletes (89, 91).
+While the concepts that underpin our understanding of periodization are well
+established and are well accepted, confusion still exists in both the scientific (1, 2,
+54, 79) and practical (25) literature about what periodization is and how it is used
+to guide the training process. At the center of this confusion is the fact that the
+terms periodization and programming are often used interchangeably within the
+literature (20, 35, 37, 88). While periodization and programming are interrelated,
+they represent different management levels of the training process (35, 38).
+Specifically, periodization serves as the macro-management level of the training
+process, while programming allows for the micro-management of the process
+(38). Conceptually, periodization serves as a method for organizing deliberate
+practice by providing the scaffold from which programming decisions are made
+(60). The objectives targeted by the periodized plan are then aligned with training
+cycles (e.g., micro-, meso-, and macrocycles, and annual and multiyear cycles)
+(73) and individualized programs are constructed. Programming aligns the
+activities undertaken (i.e., modes and methods of training) as part of the training
+process with the athlete’s established training goals and the direction of the
+training process (41). At the programming level, an integrated monitoring
+program is used to fine-tune the training activities by providing information that
+can further inform decisions about the training strategies implemented as part of
+the athlete’s training program (figure 22.1) (22). In this regard, programming
+becomes an operation in strategic thinking, with programmatic decisions being
+considered in the context of the athlete’s holistic training program (e.g., physical
+training, technical and tactical training, mental skills training, recovery methods,
+and nutritional strategies) and the current state (37, 77). Ultimately, when all of
+this is taken into account periodization simply serves as an organizational tool for
+guiding the direction and structure of the training process.
+1580
+
+FIGURE 22.1 The symbiotic relationship between periodization, monitoring, and programming.
+Reprinted with permission from G.G. Haff, “Periodization and Programming for Individual Sports,” in NSCA’s Essentials of Sport Science,
+edited by D. French and L. Torres Ronda (Human Kinetics, 2022), 29. Based on A.J. Cunanan, B.H. DeWeese, J.P. Wagle, et al., “The General
+Adaptation Syndrome: A Foundation for the Concept of Periodization,” Sports Medicine 48 (2018): 787-797.
+This chapter discusses the concept of periodization and its application within a
+strength and conditioning program. To understand periodization theories and how
+they are applied to training program design, it is essential to develop an
+understanding of how the body responds to training (i.e., stressors) (34, 37); this
+topic is discussed first. Second, the basic models that are used to plan the
+training process are discussed. Third, the basic hierarchal structure of a
+periodized training program is discussed to demonstrate how the training year is
+broken into smaller blocks of training, each with its own training goals and
+priorities. It is important to note that this overall schedule of training
+encompasses all aspects of the athletes’ training program, including general
+conditioning, sport-specific activities, and resistance training. Finally, the second
+half of this chapter presents detailed examples of a yearlong periodized strength
+and conditioning program. To understand the intricacies of programing, the
+reader is encouraged to read chapter 18 first.
+1581
+
+Central Concepts Related to Periodization
+A successful training program allows for management of the adaptive and
+recovery responses to specific interventions that are delivered in a structured
+way (41). The ultimate success of any training program centers on its ability to
+induce specific physiological adaptations and translate those adaptations into
+increases in performance. At the center of this process is the ability to manage
+the adaptive response, handle accumulated fatigue, and capitalize on the
+aftereffects established from the various training factors encountered. The
+strength of a periodized training plan lies in its ability to sequence and structure
+the training interventions in order to manage all of these factors and peak
+performance at appropriate time points (35, 37, 38, 41). Ultimately, peak
+performance can be optimized only for short periods of time (7-14 days), and the
+average time it can be maintained is inversely related to the average intensity of
+the training plan (35, 36). In order to elucidate how periodized training models
+can manage these factors, three basic mechanistic theories have been
+established: the general adaptation syndrome (GAS), stimulus–fatigue–
+recovery–adaptation theory, and the fitness–fatigue paradigm (35, 38,
+41).
+Periodization is the logical and systematic process of sequencing
+and integrating training interventions in order to manage the
+training process and to increase the potential of achieving peak
+performance at appropriate time points.
+The General Adaptation Syndrome
+In the 1930s, Hans Selye, a pioneering researcher on the biological effects of
+exposure to stressful stimuli, presented the basic concepts of the GAS in which a
+three-stage response to stress (alarm, resistance, and exhaustion) was presented
+(82). His later work expanded on these early findings by taking into consideration
+both physical (9, 84, 85) and psychoemotional stress (20, 83, 86). While not
+originally conceptualized in the context of physical training, over time the GAS has
+become one of the foundational concepts used to explain periodization theories
+(20, 29, 35). Any time the body experiences a novel, new, or more intense stress
+than previously applied (e.g., lifting a heavier training load or a greater volume-
+load; see chapter 18), the initial response, or alarm phase, is marked by an
+accumulation of fatigue, soreness, stiffness, or reduction in energetic stores that
+results in a reduction in performance capacity (20, 92). Depending on the
+magnitude of the stress encountered by the athlete, this response may last
+several hours, days, or weeks. After this initial response, the body moves into the
+1582
+
+resistance phase, when it adapts to the stimulus and returns to a normal
+functional capacity. If the training stress is appropriately structured and not
+excessive, these adaptive responses can result in specific biochemical, structural,
+and mechanical adjustments that further elevate the athlete’s performance
+capacity, resulting in what is termed supercompensation (91).
+An additional factor that modulates the stress response to training is the
+athlete’s psychological and emotional state (95, 96). If the athlete has chronic
+elevations in psychological and emotional stress, the magnitude of the fatigue
+response will be increased during the alarm phase and the time course for
+recovery will be lengthened, resulting in an elongation of the resistance phase,
+ultimately resulting in a delayed supercompensation response (38). As such, the
+strength and conditioning professional must not only monitor the training loads
+the athlete is exposed to but must also consider the athlete’s current
+psychological and emotional state when manipulating training loads within the
+periodized training plan. In this regard, the integration of a comprehensive
+monitoring program can provide additional information that allows that strength
+and conditioning professional to better manage the athlete’s exposure to training
+stress and increase the potential for appropriate elevations in performance.
+If, however, the stress persists (either physical or psychoemotional) for an
+extended period of time, the athlete can move into the exhaustion phase. If this
+occurs, the athlete is demonstrating an inability to adapt to the imposed stressors
+and will present some of the same symptoms noted in the alarm phase.
+Ultimately, when athletes reach the exhaustion phase, they are most likely
+experiencing overreaching or overtraining responses (see chapter 24 for
+additional information) (20). From a training perspective, excessive loading,
+monotonous training, and overly varied training can all result in the occurrence of
+the exhaustion phase. Additionally, the responses to training can be affected by
+other nontraining-related stress (e.g., occupational issues, insufficient sleep,
+relationship, poor diet) that can contribute to the overall stress level experienced
+by the athlete. Ultimately, the strength and conditioning professional should strive
+to avoid the occurrence of this phase of the GAS through the proper planning,
+management (periodization), and monitoring of training stressors. Although the
+actual dimensions (i.e., slope, magnitude, and timing) of the curve shown in
+figure 22.2 are highly individualized, this figure represents the basic application of
+the GAS to training responses.
+Stimulus–Fatigue–Recovery–Adaptation Theory
+The stimulus–fatigue–recovery–adaptation theory is an extension of the GAS and
+suggests that training stimuli produce a general response (figure 22.3) that is
+influenced by the overall magnitude of the training stressor (38, 92). Specifically,
+the greater the overall magnitude of the workload encountered, the more fatigue
+1583
+
+accumulates and the longer the delay before complete recovery and adaption can
+occur. As the athlete recovers from and adapts to the training stimuli, fatigue
+dissipates, and preparedness and performance increase. If no new training
+stimulus is introduced, a state of involution or detraining (i.e., a reduced overall
+capacity, to below the current baseline) is observed. In contrast, if a new training
+stimulus is introduced, the process is repeated. This basic pattern is present
+whenever an athlete is exposed to a training exercise, session, day, or cycle
+within a periodized training plan. It should be noted that while recovery is an
+important part of the training process, it is not always necessary to reach a state
+of complete recovery before engaging in a new bout or session of training (72).
+The manipulation of workloads and training intensities through use of light and
+heavy sessions or days of training can be used to modulate fatigue and recovery
+responses (8, 26, 88) while allowing for fitness to be either increased or
+maintained. Conceptually, this theory serves as the foundation for sequential
+periodization models in that these models allow for the manipulation of various
+training factors to modulate the athlete’s overall fatigue levels, rate of recovery,
+and adaptive response to the training stimuli.
+FIGURE 22.2 The general adaptation syndrome (GAS) and application to periodization.
+Adapted by permission from G.G. Haff and E.E. Haff, “Training Integration and Periodization,” in NSCA’s Guide to Program Design, 2nd ed.,
+edited for the National Strength and Conditioning Association by M.T. Jones (Human Kinetics, 2024), 257. Adapted from A.J. Cunanan, B.H.
+DeWeese, J.P. Wagle, et al., “The General Adaptation Syndrome: A Foundation for the Concept of Periodization,” Sports Medicine 48 (2018):
+787-797.; R.W. Fry, A.R. Morton, and D. Keast, “Periodisation of Training Stress-A Review,” Canadian Journal of Sports Science 17 (1992):
+234-240.; Stone et al. (1982); Stone et al. (2007).
+1584
+
+Fitness–Fatigue Paradigm
+Generally, a summation of the two primary training aftereffects (i.e., fitness and
+fatigue) occurs in response to training interventions that influence the athlete’s
+level of preparedness (15, 38, 107). In 1995, Zatsiorsky (106) presented the
+classic explanation of these relationships as the two-factor model, more
+commonly referred to as the fitness–fatigue paradigm (figure 22.4). Ultimately,
+every training bout, session, or cycle creates both fatigue and fitness aftereffects,
+which summate to create a state of preparedness (15, 106). When training loads
+are the highest, fitness becomes elevated, but because of the high training loads,
+a concomitant increase in fatigue occurs. When fitness and fatigue are summed in
+this case, the level of fatigue results in a reduction in preparedness. On the other
+hand, when training workloads are low, little fatigue occurs and minimal fitness is
+developed, resulting in a low level of preparedness. Thus, the sequencing of
+training loads becomes important in that it allows for training workloads to be
+varied in a systematic manner. An important thing to remember is that fatigue
+dissipates at a rate two-thirds faster than fitness, thus allowing preparedness to
+become elevated if appropriate training strategies are used to retain fitness while
+reducing fatigue (35, 38, 41). While the fitness–fatigue paradigm is classically
+represented as one fatigue, fitness, and preparedness curve, it is likely that each
+training factor stimulates its own individual fitness, fatigue, and preparedness
+aftereffect response (15, 38, 41). These aftereffects are often considered to be
+residual training effects and serve as a fundamental concept underlying the use of
+sequential periodization models (35, 41). Ultimately, the residual training effects
+of one training period have the potential to affect the level of preparedness in
+subsequent training periods, depending on the overall structure of the periodized
+training plan (35, 41).
+1585
+
+FIGURE 22.3 The stimulus–fatigue–recovery–adaptation theory, with interchangeable terminology.
+Adapted by permission from G.G. Haff and E.E. Haff, “Training Integration and Periodization,” in NSCA’s Guide to Program Design, 2nd ed.,
+edited for the National Strength and Conditioning Association by M.T. Jones (Human Kinetics, 2024), 257. Adapted from A.J. Cunanan, B.H.
+DeWeese, J.P. Wagle, et al., “The General Adaptation Syndrome: A Foundation for the Concept of Periodization,” Sports Medicine 48 (2018):
+787-797.; R.W. Fry, A.R. Morton, and D. Keast, “Periodisation of Training Stress-A Review,” Canadian Journal of Sports Science 17 (1992):
+234-240.; Stone et al. (1982); Stone et al. (2007).
+1586
+
+FIGURE 22.4 The fitness–fatigue paradigm.
+Adapted by permission from G.G. Haff and E.E. Haff, “Training Integration and Periodization,” in NSCA’s Guide to Program Design, 2nd ed.,
+edited for the National Strength and Conditioning Association by M.T. Jones (Human Kinetics, 2024), 260. Adapted from Stone et al. (2007)
+and V.M. Zatsiorsky, W.J. Kraemer, and A.C. Fry, Science and Practice of Strength Training, 3rd ed. (Human Kinetics, 2021).
+1587
+
+Periodization and Planning the Training Process
+The development of a periodized training plan is based on three interdependent
+levels: periodization, planning, and programming (table 22.1).
+TABLE 22.1 Interrelationship of Periodization, Planning, and
+Programming
+Management
+level
+Structure
+General description
+Specific description
+Macro-
+management
+Periodization
+The bird’s-eye overview of the program
+direction and goals of the training
+process; typically depicted as the annual
+or multiyear training plan
+Uses the competitive schedule
+to create the scaffold from
+which training is planned and
+implemented
+Planning
+Provides the model of periodization used
+to guide the training process and
+programmatic decisions
+Applies a training model:
+parallel, sequential, or emphasis
+model
+Programming Defines the structure of the actual
+training interventions (modes and
+methods)
+Structures the training plan and
+provides the modes and
+methods used to create the
+training program
+Micro-
+management
+Adapted from Haff (2017); Haff (2021); Haff (2024).
+When beginning the construction of a periodized training plan the first level, or
+periodization level, provides the scaffold from which the training process is
+developed (33, 35, 38). At this level, based on the competitive schedule, the
+annual training plan is subdivided into various periods and phases to provide a
+basic framework from which the detailed training plan is established. At the
+second level, or planning level, a training model (i.e., parallel, sequential, or
+emphasis model) is selected to guide programmatic decisions. Finally, once the
+models of training are selected and aligned with the various periods and phases
+contained within the annual plan, they can be used to inform the third level of the
+process, which involves the actual construction of the training program (41). The
+programming level is where the various modes, methods, and targeted training
+strategies are implemented and the actual training loads (i.e., intensities and
+volumes) and training structures (e.g., loading patterns and set types) are
+prescribed (35, 41).
+1588
+
+Models of Periodization
+While the scientific and coaching literature presents numerous models of
+periodization, all models can be classified under three general models (figure
+22.5).
+Parallel Training Models
+The parallel training models, as shown in figure 22.5, involve targeting all
+training factors simultaneously within one training session, training day, series of
+training days, or a microcycle (33, 35, 37, 38). Sometimes this approach is
+referred to as the concurrent or complex parallel approach (4). This planning
+approach aligns with the early stages of most long-term athlete development
+models (61, 62) where youth athletes are exposed to multilateral training
+strategies. Additionally, this approach works well with novice and developmental
+athletes (38). A major concern with parallel models is that as the athlete develops
+his or her total training load (i.e., volume or load, time dedicated to training, etc.)
+must be continually increased (35) and may exceed his or her training tolerance
+(51). As such, this model may not be the best option when working with
+intermediate to elite athletes, who require greater training variation and stimulus
+to continue to stimulate adaptation and elevate performance (16, 35, 37, 38).
+With these athletes it may be warranted to implement different planning
+strategies (i.e., emphasis or parallel models) to optimize the training process (38).
+Sequential Training Models
+Sequential training models, as shown in figure 22.5, were created to address
+the limitations associated with the parallel model of training, such as the inability
+to simultaneously develop multiple motor and technical abilities, the need for
+longer preparation periods, and the inability to accommodate dense competitive
+schedules (38, 52). These models are used to organize an individual or limited
+number of training factors into a logical pattern that guides the athlete toward a
+targeted outcome. This approach is ideally suited for athletes who require a
+greater training stimulus than what can be provided with the parallel approach
+(38).
+This approach to organizing training has been successfully implemented with
+individual sports such as weightlifting (97), cross-country skiing (87), cycling (23,
+80), track and field (74), and aerobic endurance sports (53). Additionally, this
+approach has been successfully implemented with team sports such as American
+football (46), basketball (76), football (30), ice hockey (81), and team handball
+(63).
+1589
+
+FIGURE 22.5 Three basic models of planning: parallel, emphasis, and sequential.
+Reprinted by permission from G.G. Haff, Scientific Foundations and Practical Applications of Periodization (Human Kinetics, 2025), 111.
+Emphasis Training Models
+Emphasis training models, as shown in figure 22.5, contain aspects of both
+parallel and sequential models of periodization (35, 37, 38). Similar to parallel
+models, multiple training factors are targeted simultaneously but with varying
+degrees of emphasis over time (38). Over time the degree of focus on the
+individual training is shifted in a sequential manner that aligns with the periodized
+training plan. Generally, when this model is implemented the training emphasis is
+rotated every two weeks to optimize performance capacity (108). When varying
+the emphasis some training factors will be undertaken with training loads that
+stimulate adaptations, while some training factors are undertaken with training
+loads that are used to maintain the athlete’s current state (38, 108). Additionally,
+some training factors will be targeted with a minimal training dose, which would
+result in a degree of detraining.
+This training model is ideally suited for intermediate to advanced athletes who
+compete in individual or team sports and have congested competitive schedules
+(38). Examples of the use of this model can be seen in several individual sports,
+such as track cycling (70), sprinting (27), and mixed martial arts (19). This model
+has been also recommended for team-sport athletes (32) as well as tactical
+athletes.
+1590
+
+Periodization Hierarchy
+Ultimately, periodization is simply a means of organizing the planning of the
+training process so that it is partitioned into specific time periods (table 22.2) (36,
+37, 41). The multiyear training plan covers the most time but is the least detailed
+plan within a periodized training structure. For example, it may involve the basic
+progression of a college soccer player from her freshman to senior year and
+contain key developmental goals that are targeted within each year of training.
+This multiyear training structure is then subdivided into more detailed individual
+annual training plans that are developed based on the athlete’s progression
+through the various stages or benchmarks forecasted across the multiyear
+training plan. In sports that have only one competitive season, such as American
+football, an annual training plan would be represented as a macrocycle.
+However, in a sport such as college track and field, the annual plan would be
+divided into two macrocycles because of the indoor and outdoor seasons typical
+of this college sport. Alternatively, if a high school athlete competes in American
+football in the fall, basketball in the winter, and track and field in the spring, the
+annual plan would be subdivided into three macrocycles. Typically, the macrocycle
+lasts several months up to a year, depending on the sport or the number of sports
+participated in within the year. Within each macrocycle are mesocycles, each
+lasting several weeks to months, typically two to six weeks, with four weeks being
+the most common duration. The number of mesocycles within each macrocycle
+depends on the training targets and the length of the macrocycle within the
+annual training plan. Each mesocycle is then broken down into individual
+microcycles that last from several days to weeks; the most common duration is
+one week (35, 38). Within each microcycle are training days that are further
+subdivided into training sessions.
+Periodization of training begins with general global training targets
+set forth in the multiyear or annual training plan and becomes more
+specific as the program is developed for the macro-, meso-, and
+microcycles. For example, annual training plans set the general
+pathway for a training year, while the other cycles provide the
+structure that is used to guide the means, methods, and modes
+used to create the training program that is used to guide the
+athlete’s development toward the primary competitive targets.
+TABLE 22.2 Periodization Cycles
+Period
+Duration
+Description
+1591
+
+Period
+Duration
+Description
+Multiyear training
+plans
+2-4 years
+This contains interlinked annual training plans; the most common
+multiyear plan is the quadrennial plan.
+Annual training
+plan
+1 year
+The overall annual training plan can contain a single or multiple
+macrocycles. It can be subdivided into preparatory, competitive, and
+transitional periods of training.
+Macrocycle
+Several months
+to a year
+It contains preparatory, competitive, and transitional periods of
+training. If it encompasses one year, some authors refer to this as an
+annual plan.
+Mesocycle
+2-6 weeks
+This medium-sized training cycle is sometimes called a block of
+training. It consists of microcycles that are linked together. The most
+common duration is 4 weeks.
+Microcycle
+Several days to 2
+weeks
+This small-sized training cycle is comprised of multiple workouts. It
+can range from several days to 2 weeks in duration; the most
+common duration is 1 week (7 days).
+Training day
+1 day
+One training day can contain multiple sessions. It is designed in the
+context of the microcycle in which it is contained.
+Training session
+Several hours
+It generally consists of several hours of training. If the session has
+>30 min of rest between bouts of training, it should be considered as
+having multiple workouts.
+Adapted by permission from G.G. Haff and E.E. Haff, “Training Integration and Periodization,” in NSCA’s
+Guide to Program Design, 2nd ed., edited for the National Strength and Conditioning Association by M.T.
+Jones (Human Kinetics, 2025), 265. Based on Haff (2021); Issurin (2008); V. Issurin, Building the Modern
+Athlete: Scientific Advancement & Training Innovation (Ultimate Athlete Concepts, 2015).; Y. Verkhoshansky
+and M.C. Siff, Supertraining: Expanded Version, 6th ed. (Verkhoshansky, 2009).
+1592
+
+Periodization Periods
+The overall variation and structure of the program design variables within each
+individual meso- and microcycle are constructed based on the periods included in
+the macrocycle or annual training plan (35, 36, 38). Across these periods of the
+training plan, the volume and intensity of the training and conditioning program
+generally receive the greatest attention, but the time spent acquiring and
+perfecting sport-specific technique must also be considered when one is
+constructing the overall periodized training plan (77). Ultimately, periodized
+training plans systematically shift training foci from general nonspecific activities
+of high volume and low intensity toward activities of lower volume and higher
+intensities over a period of many weeks or months to help reduce the potential
+for overtraining while optimizing performance capacities.
+The basic sequencing of periodized training programs and how training
+progresses through the various phases for specified training targets are very
+similar to the sequencing and evolution of learning academic concepts. For
+example, in academics we start with simple concepts and skills that progress to
+more complex concepts; that is, we develop simple skills to provide a sound
+foundation for learning more complex items. Ultimately, the periods within a
+periodized training plan serve as the pathway for developing foundational
+physical, psychological, and performance attributes into more complex sport-
+specific targets.
+In the classic periodization literature, the major divisions of training are
+classified as the preparatory, competitive, and transition periods (34, 66, 89).
+Stone, O’Bryant, and Garhammer (89) modified this classic model to include a
+“first transition” between the preparatory and competitive periods of training.
+Based on this structure, some periodization models often contain four distinct but
+interrelated training periods: preparatory, first transition, competitive, and second
+transition. Figure 22.6 presents the basic periodization model described by Stone,
+O’Bryant, and Garhammer (89). This model is often applied for novice athletes
+with a lower training status. Generally, in this application, intensity begins lower
+and gradually increases, while volume starts higher and slowly decreases as the
+athlete becomes more conditioned. It is important to note that not all novice
+athletes are able to tolerate large changes in these variables and that smaller
+fluctuations may be required (89, 98, 99). It is also important to note that even
+though these fluctuations are often represented graphically as straight lines, the
+volume and intensity progressions are in fact nonlinear because of the
+fluctuations in the loadings that occur at the micro- and mesocycle levels (34, 35,
+77). This basic misunderstanding of the classic models of periodization has
+resulted in these types of models being falsely termed linear periodization models
+1593
+
+(35, 51, 77, 93). Ultimately, the term linear periodization creates a false narrative
+because one of the major tenets of periodization is the removal of linearity from
+the training process (38, 51, 72, 77, 93).
+FIGURE 22.6 Matveyev’s model of periodization (appropriate for novices).
+Adapted by permission from G.G. Haff and E.E. Haff, “Training Integration and Periodization,” in NSCA’s Guide to Program Design, 2nd ed.,
+edited for the National Strength and Conditioning Association by M.T. Jones (Human Kinetics, 2024), 268.; M.H. Stone and H.O. O’Bryant,
+Weight Training: A Scientific Approach (Burgess, 1987).
+Advanced athletes tend to train closer to their abilities and have smaller
+adaptation windows. Therefore, these athletes require greater training variation
+as well as higher volumes and intensities to allow them to continue to experience
+appropriate training stimuli (77). For example, Zatsiorsky and colleagues (107)
+demonstrate that a stimulating load for a novice athlete would be a maintenance
+load at best for advanced athletes. To address this issue, the shift from higher-
+volume to higher-intensity training can occur earlier in the preparatory phase,
+with higher overall training volumes as compared to those in the base model
+presented in figure 22.6.
+Preparatory Period
+In outlining a periodized training plan, the starting point is usually the
+preparatory period. This period occurs when there are no competitions, and
+technical, tactical, or sport-specific work is limited. This period often corresponds
+to what is termed the off-season. The central goal of this period of training is to
+develop a base level of conditioning to increase the athlete’s ability to tolerate
+1594
+
+more intense training. Based on the model presented in figure 22.6, the
+conditioning activities would begin with relatively low intensities and high
+volumes: long, slow distance running or swimming; low-intensity plyometrics; and
+high-repetition resistance training with light to moderate resistances. Traditionally,
+the preparatory period is subdivided into general and specific phases. The
+general preparatory phase typically occurs during the early part of the period
+and often targets the development of a general physical base (38, 69). This early
+part of the preparatory period includes high training volumes, low training
+intensities, and a larger variety of training means that are structured to develop
+general motor abilities and skills (49, 65). The specific preparatory phase
+occurs after the completion of the general preparatory phase and involves a shift
+in training focus. From the training base that has been established, this phase
+expands the athlete’s training base through an increased emphasis on sport-
+specific training activities that prepare the athlete for the competitive period (18,
+69). During the preparatory period, resistance training phases can be created to
+depict more refined differences in training intensity and volume. In order, these
+are the hypertrophy (or strength–endurance) phase and the basic strength phase
+(89, 91).
+Hypertrophy or Strength–Endurance Phase
+The hypertrophy phase, which is also referred to as the strength–endurance
+phase, generally occurs during the early portion of the preparatory period (i.e.,
+the general preparatory phase) (24, 40, 41, 93). During this phase, the training
+intensity is low to moderate, and the overall volume is high. The primary goals
+during this phase are to enhance work capacity and increase muscle mass. This
+development serves as the foundation for the higher-intensity training in
+subsequent phases and periods (42, 43). With strength or power athletes, the
+primary target might be to stimulate hypertrophic effects while increasing
+strength–endurance. With aerobic endurance athletes, the primary goal would be
+to increase strength–endurance without significantly increasing hypertrophy.
+Regardless of the sport or athlete being trained, it is generally accepted that
+during the general preparatory phase, sport conditioning activities may not be
+specific to the athlete’s sport. However, as the athlete moves into the specific
+preparatory phase, over several weeks the training activities will become more
+sport specific. For example, sprinters may begin the general preparatory phase
+with longer-distance runs (longer than their competitive distance, not traditional
+distance running; for example, a 100 m sprinter may do 400 m runs to establish a
+foundation) at slower speeds in conjunction with lower-intensity plyometrics such
+as double-leg bounding and hopping, as well as more basic resistance exercises
+that are not necessarily biomechanically or structurally similar to running (e.g.,
+1595
+
+back squat and leg curl). Generally, the athlete performs resistance training with
+low to moderate intensities for high volumes (table 22.3).
+TABLE 22.3 A Periodized Model for Resistance Training
+Period
+Preparatory
+First
+transition
+Competition
+Second
+transition
+Phase
+General preparatory
+Specific
+preparatory
+Precompetitive
+Main competitive
+Postcompetitive
+Season
+Off-season
+Preseason
+In-season
+Postseason
+Emphasis Hypertrophy/strength
+endurance
+Basic
+strength
+Strength/power Peaking or Maintenance Active rest
+Intensity
+Low to moderate
+High
+Low to very
+high
+Very
+high to
+very
+low
+Moderate to
+high
+Recreational
+activities (may
+not involve
+resistance
+training)
+50%-75% 1RM
+80%-95%
+1RM
+87%-95%
+1RMa
+50% to
+≥93%
+1RM
+85%-93%
+1RM
+30%-85% of
+1RMb
+Volume
+High
+Moderate
+to high
+Low
+Very
+low
+Low to
+moderate
+3-6 setsc
+2-6 setsc
+2-5 setsc
+1-3
+setsc
+~2-5 setsc
+8-20 reps
+2-6 reps
+2-5 reps
+1-3
+reps
+3-6 reps
+aThese percentages of 1RM apply to nonpower core exercises.
+bThese percentages of 1RM apply to power exercises. The actual percentage used to elicit power
+development depends on the exercise that is used. For more information, see Kawamori and Haff (55).
+cThese recommendations do not include warm-up sets and represent only target sets for core exercises (40);
+they also do not include lower-intensity recovery days that are often part of a periodized training plan (40,
+89, 92).
+Adapted from Haff and Haff (2012); Stone et al. (1981); Stone and O’Bryant (1987); Stone et al. (1982);
+Stone et al. (2007).
+However, it is important to note that throughout this phase, daily variations in
+training intensity and workload will facilitate recovery (35, 38). Additionally,
+recovery weeks or microcycles may be placed throughout the phase and most
+often at the end of the phase before the next phase of training begins.
+The hypertrophy or strength–endurance phase involves low to
+moderate intensity (50%-75% of the 1RM) and high volumes (3 to
+1596
+
+6 sets of 8-20 repetitions).
+Basic Strength Phase
+In the later portion of the preparatory period, during the specific preparatory
+phase, the primary aim of the basic strength phase is to increase the strength
+of the muscles that are essential to the primary sport movements (12-14). For
+example, the sprinter’s running program would progress to include interval sprints
+of a moderate distance and more complex and specialized plyometric drills. The
+resistance training program also becomes more specific to the sport (e.g., squat,
+power clean, Bulgarian squat) and involves heavier loads performed at lower
+volumes than in the hypertrophy or strength–endurance phase (table 22.3). As
+with the hypertrophy or strength–endurance phase, daily variations in training
+load facilitate recovery (35, 38).
+The basic strength phase involves higher intensity (80%-95% of
+the 1RM) and moderate to high volumes (2 to 6 sets of 2 to 6
+repetitions).
+First Transition Period
+As originally described by Stone and colleagues (89-91), the first transition
+period is a link between the preparatory and competitive periods. Classically, the
+resistance training in this period focuses on the development of strength and
+power as noted in Stone, O’Bryant, and Garhammer’s (89) seminal paper on the
+periodization of strength training. The central aim of this period is to shift the
+training focus toward the elevation of strength and its translation into power
+development (89, 90). In order to maximize this process and facilitate recovery,
+variations are observed in training intensity and workload at the microcycle level
+(35, 38). Additionally, the last week of the period is marked by reduced volume,
+intensity, or both to achieve recovery before the beginning of the competitive
+period.
+The main phase within the first transition period is the strength/power
+phase. In this phase, for example, the sprinter’s interval and speed training
+intensifies to near competitive pace; speed drills are performed (e.g., sled towing,
+sprints against resistance, and uphill sprints); plyometric drills mimic sprinting;
+and the resistance training program involves performing power and explosive
+exercises at low to very high loads with low volumes. As explained in chapter 18,
+the load assignments for power exercises do not follow the typical %RM–
+repetition relationship, but their relative intensities are elevated during this phase
+(table 22.3). Specifically, the exercises selected in this phase can dictate the
+loading that is used (55). For example, the development of power may be
+1597
+
+facilitated with a load of 80% of the 1RM with power cleans performed from the
+hang (55) or floor (17), while a load of 50% to 70% of the 1RM may be used
+with the bench press throw when the aim is to maximize power development
+(55). Ultimately, to address both strength and power development, a mixed
+training approach is warranted in which heavy- and low-load training is used to
+optimize both attributes (44).
+The strength/power phase involves low to very high loads
+(30%-95% of the 1RM, depending on the exercise) and low
+volumes (2 to 5 sets for 2 to 5 repetitions).
+Competitive Period
+The central training target during the competitive period is preparing the
+athlete for competition by further increasing strength and power via additional
+increases in training intensity while decreasing volume. This process can be a
+delicate balancing act, because adequate volume and intensity of training are
+needed to maintain competitive preparedness, and reductions in volume,
+intensity, or both are needed to optimize performance. To understand this
+conundrum, consider the fitness–fatigue paradigm presented earlier. If training
+workloads (volume or intensity) are reduced too much, fatigue will be reduced,
+but there will be a concomitant decrease in overall fitness that results in a
+reduction in competitive preparedness. Also during this period, time spent
+practicing sport-specific skills and tactics increases dramatically, and a
+proportional decrease occurs in time spent performing physical conditioning
+activities such as resistance training. For example, a sprinter places even more
+emphasis on speed, reaction time, sprint-specific plyometric drills, and technique
+training. The competitive period may last for one or two weeks for some sports in
+which a peaking program is employed (6, 36, 69). Peaking programs attempt to
+place the athlete in peak condition for about one or two weeks. Trying to extend
+this to longer durations ultimately results in reduced performance capacity as a
+result of reduction in fitness or potential overtraining (36, 38). Depending on the
+load-reduction strategy employed, peaking programs result in a progressive shift
+from higher-intensity training toward lower-intensity work designed to reduce
+fatigue as the athlete moves through the taper before competition (36). As shown
+in table 22.3 (page 730), resistance training may range between 50% and ≥93%
+of the 1RM, depending on where athletes are in the peaking program.
+For team sports, this period spans an entire season and may last for many
+months, requiring the use of a maintenance program (5). Because of the
+prolonged duration of the competitive period in this situation, the intensity and
+volume of training must be manipulated on a microcycle basis to maintain
+1598
+
+strength and power while managing the fatigue associated with a frequent
+competition schedule. Generally, a maintenance program is marked by moderate-
+to high-intensity training (e.g., 85%-93% 1RM) at low to moderate volumes. At
+the microcycle level, the training loads are modulated based on the training,
+travel, and competitive schedule. Careful monitoring of the athlete’s performance
+capacity and recovery is critical during the team-sport athlete’s competitive
+period.
+The competitive period includes peaking and maintenance. For
+peaking, athletes use very high to low intensities (50% to ≥93% of
+the 1RM) and very low volume (1 to 3 sets of 1 to 3 repetitions) for
+one to two weeks. For maintenance, athletes modulate training
+between moderate and high intensities (85%-93% of the 1RM)
+with moderate volumes (about 2 to 5 sets of 3 to 6 repetitions).
+Second Transition Period (Active Rest)
+Between the competitive season and the next annual training plan or the
+preparatory period of a macrocycle, a second transition period is often used to
+create a linkage (89). This period is sometimes referred to as an active rest or
+restoration period and generally lasts for one to four weeks (38). It is important
+to note that if active rest is extended for a prolonged duration, athletes will
+require a much longer preparatory period to regain their performance capacities
+(39). Therefore, it is generally recommended that the second transition period
+last no longer than four weeks unless an athlete requires additional time to
+recover from an injury. During this period, aggressive training immediately after
+the peak performance or end of the maintenance phase should be avoided so
+athletes can rehabilitate injuries and rest physically and mentally (12-14). For
+example, a sprinter may engage in recreational activities such as volleyball, racket
+sports, and swimming in a leisurely manner and perform very low-volume, non–
+sport-specific resistance training with very low loads. A secondary use of the
+active rest concept is to structure one-week breaks between long phases (three
+weeks) or periods of training. The purpose is to create an unloading week to
+prepare the body for the subsequent phase or period of training. The practice of
+reducing the training load via the reduction of training intensity and volume is
+believed by many strength and conditioning professionals to reduce overtraining
+potential.
+The second transition (active rest) provides a period of time in
+which athletes can rehabilitate injuries and refresh both physically
+and mentally before beginning a new annual training plan or
+1599
+
+macrocycle. This period should not last longer than four weeks,
+because long periods with reduced training will require the athlete
+to engage in a longer preparatory period to regain sporting form.
+1600
+
+Applying Sport Seasons to the Periodization
+Periods
+In practical terms, periodization involves a logical, systematic variation and
+integration of training to direct the training responses while managing fatigue and
+optimizing performance in accordance with the seasonal demands of the sport
+and athletes. Based on the competitive season, the overall annual plan or
+macrocycle is structured to sequentially develop specific attributes required by the
+athlete. To avoid monotony, staleness, and overtraining potential, the training
+program must involve structured variation of key training variables (e.g., volume,
+intensity, training frequency, training foci, exercise selection) (41). Classically,
+most intercollegiate and professional sports have an annual schedule that includes
+an off-season, preseason, in-season, and postseason. These seasons are easy to
+relate to the periods in a periodized training model (figure 22.7).
+Off-Season
+The off-season should be considered the preparatory period; it typically lasts from
+the end of the postseason to the beginning of the preseason, which can be about
+six weeks before the first major competition (although this varies greatly). This
+preparatory period is subdivided into general and specific preparatory phases that
+are broken down into mesocycles; these interlink to prepare the athlete for the
+subsequent competitive season. For example, the athlete may complete several
+rotations of mesocycles that focus on hypertrophy/strength endurance and basic
+strength (figure 22.7). Ultimately, these cyclical rotations are selected based on
+the sport and the athlete’s needs. For example, if an American football player
+needs to gain muscle mass, more mesocycles that target the hypertrophy phase
+will be prescribed.
+1601
+
+FIGURE 22.7 Relationship of periodization periods to seasons and strength training focus. HP =
+hypertrophy/strength endurance; BS = basic strength; AR = active rest; SP =strength/power.
+Adapted from G.G. Haff, “The Essentials of Periodisation,” in Strength and Conditioning for Sports Performance, 2nd ed., edited by I. Jeffreys
+and J. Moody (Routledge, 2021).
+Preseason
+After the completion of the off-season, the preseason is used to lead into the first
+major competition. The first transition period is often undertaken at this time with
+a focus on the strength/power phase of resistance training. This time is used to
+prepare the athlete for the subsequent competitive period. It is very important to
+note that the preseason is not the time to build the foundational physical
+capacities needed for the sport; this should occur primarily in the off-season. The
+preseason is designed to capitalize on the off-season and elevate the athlete’s
+performance capacity during the competitive period.
+In-Season
+The competitive, or in-season, period contains all the contests scheduled for the
+given year, including any tournament games. Most sports have a long season that
+requires multiple mesocycles arranged around key contests. Thus, a long
+competitive season (12-16+ weeks) presents unique programming challenges—in
+these situations, three- or four-week mesocycle blocks that unload the athlete in
+the 
+last 
+microcycle 
+to 
+allow 
+for 
+fatigue 
+reduction 
+and 
+performance
+supercompensation before critical contests (41). This does not mean that the
+athlete is in poor condition for the other contests, because strategically varying
+where training days occur in conjunction with altering training intensities and
+volumes across each microcycle can modulate preparedness and elevate
+performance during congested competitive schedules. Specifically, training
+1602
+
+intensity and volume are increased or decreased to maintain physical capacities
+while reducing fatigue and elevating preparedness before the competitive
+engagements. During the in-season, monitoring activities are used to make
+strategic decisions about how to vary training loads to more precisely prescribe
+training to align with the athlete’s current state (11).
+Postseason
+After the final contest, the postseason or second transition period provides the
+athlete with a relative or active rest before the beginning of the next year’s off-
+season or preparatory period. It is important to remember that the longer the
+postseason, the greater the chance for detraining, which results in an increased
+need for a longer general preparatory phase during the next off-season (38).
+1603
+
+Undulating Versus Linear Periodization Models
+For better or worse, contemporary periodization literature has adopted the terms
+linear and nonlinear when referring to periodization models. However, it should be
+noted that a central tenet of periodization is the removal of linearity from training
+(35, 38, 45, 51, 65, 72, 88). In fact, when developing his original model of
+periodization Matveyev used Yakovlev’s concept of supercompensation (104, 105)
+as the basis for the need for training to be applied in a nonlinear and rhythmic
+manner (59, 103). Matveyev (65) noted that removing linearity from the training
+process and implementing appropriate training load variations provides a superior
+method of training.
+Often the traditional resistance training model is falsely referred to as linear
+due to the gradual and progressive mesocycle increases in intensity over time (7,
+51, 77). However, a closer look at the traditional model as described by Stone,
+O’Bryant, and Garhammer (89, 91) and within the literature (51) shows that the
+traditional model contains nonlinear variation in training intensity and volume-load
+at the microcycle level and throughout the mesocycle. Regardless of this, the
+nonlinear periodization model has been introduced in the strength and
+conditioning industry (2, 58, 79). Alternatively, this model is sometimes described
+as an undulating or daily undulating periodization model because it involves
+larger daily (i.e., within the microcycle) fluctuations in the load and volume (e.g.,
+repetitions and volume-load) of the assigned core resistance training exercise. For
+example, when using this programming strategy one might perform 4 sets with a
+6RM load (strength focus) on the first day of the week (e.g., Tuesday), 3 sets with
+a 10RM (hypertrophic focus) on the next training day (e.g., Thursday), and 5 sets
+with a 3RM load (power focus) on the last training day (e.g., Saturday). In this
+case the load, volume (e.g., repetitions and volume-load), and training focus are
+all modified within the microcycle. These modifications are in contrast to what
+occurs with the traditional periodization model, falsely referred to as the
+linear periodization model, according to which the athlete performs the same
+number of sets and repetitions across the training days and varies the training
+load. For example, the athlete may perform 4 sets of 6 at 85% of the 1RM on the
+first day of training, at 75% of the 1RM on the second day, and at 65% of the
+1RM on the third day to basically train using a heavy-to-light training structure
+and introduce variation to the training stimulus. While the traditional model
+appears to vary only intensity because the repetitions do not change, one must
+remember that the volume-load changes in this model result in undulations in
+workload and training volume, supporting the idea that the traditional model is in
+fact nonlinear and should not be classified as linear (51, 88).
+1604
+
+Some research studies suggest that the daily undulating model is more
+effective than the traditional model (21, 57, 67, 68, 79), although other evidence
+suggests that no difference exists between these models (2, 10, 31, 78, 100, 101)
+or that traditional models are superior (47, 48, 74, 75, 101). Proponents of the
+daily undulating model suggest that one of its strengths is the absence of
+accumulated neural fatigue caused by extended, ever-increasing training
+intensities common to the traditional model (56). Conversely, proponents of the
+traditional model suggest that the overall high volume-loads of training in the
+undulating model result in greater peripheral fatigue and increased risk of injury
+because of the high levels of metabolic fatigue this type of programming can
+stimulate (74, 75). Additionally, examination of the stimulus–fatigue–recovery–
+adaptation theory (figure 22.3) and the fatigue–fitness paradigm (figure 22.4)
+indicates that the daily undulating model has the potential to decrease athlete
+preparedness because of accumulated fatigue that occurs with higher volume-
+load training sessions. Some authors suggest that, based on the GAS, this
+response may actually increase the potential for overtraining with higher-level
+athletes (35, 94) and result in an increased injury risk for athletes using this
+model in conjunction with their sport-based training.
+1605
+
+Example of an Annual Training Plan
+A sample approach to designing a full annual training plan (i.e., macrocycle for
+sports with one competitive season) spanning all four sport seasons is presented
+in figure 22.8.
+The annual plan example provided in this chapter defines a macrocycle that
+lasts from May 1 until April 28. This macrocycle is subdivided into four seasons:
+off-season (May 1-August 20), preseason (August 21-November 5), in-season
+(November 6-April 14), and postseason (begins on April 15). Since there is only
+one competitive season in this annual training plan a single macrocycle structure
+has been used. This macrocycle is then subdivided into 14 mesocycles, which
+range in length between two and four weeks. Note: The primary focus of this
+sample annual training plan is to explain how to subdivide the annual plan and to
+design the resistance training component. Although other modes of training are
+described briefly (e.g., plyometrics, anaerobic conditioning, aerobic endurance)
+and can be easily incorporated into the annual plan, this example is not intended
+to illustrate every aspect of a strength and conditioning program for basketball.
+For more information on how to structure an annual training plan, consult NSCA’s
+Guide to Program Design (41).
+Off-Season
+Following the postseason active rest period, the athlete should be rested and
+ready to begin off-season (preparatory period) training. For this example, this
+preparatory period lasts about 16 weeks, from May 1 until August 20. The goal of
+this period is to establish a base level of conditioning to increase the athlete’s
+tolerance for more intense training in later phases and periods. In this example,
+mesocycle 1 is used to expose the athlete to initial strength and conditioning
+activities at low intensities and volumes to reintroduce them to training. Across
+the first two microcycles training intensity increases in preparation for
+performance testing that is planned for microcycle 3. During these first three
+weeks training loads are applied based on the athlete’s rating of perceived
+exertion or based on of the repetition-in-reserve scale presented in chapter 18.
+During microcycle 3 the training loads for all non-tested activities will be reduced
+so that the athletes can partake in a series of initial pretesting to establish the
+initial training loads for the exercises in the second mesocycle. In later
+mesocycles, when more or other exercises are added, the training loads can be
+estimated from loads used in similar exercises or can be determined from RM
+testing. For example, the strength and conditioning professional can reasonably
+predict training load for the hang clean from the tested power clean maximum, or
+the actual RM load could be measured. Other monitoring tests related to
+1606
+
+basketball are shoulder and hip flexibility tests, 30-15 intermittent fitness test,
+300-yard (274 m) shuttle, line drill, T-test, vertical jump, isometric mid-thigh pull,
+and skinfold measurements (see chapter 14 for testing protocols).
+The resistance training component holds higher priority in the off-season, and
+an athlete may follow a split routine of four or more training days per week. In
+this example, the basketball player begins the off-season with a total body, three-
+times-per-week regimen but soon progresses to four training days per week with
+variations in training intensity across the microcycle to allow fatigue to be
+managed. These advancements also involve a gradual increase in loading, with
+associated decreases in training volume as the athlete shifts his or her training
+focus toward maximizing strength development. Other training includes sprint and
+agility training as well as plyometrics and metabolic conditioning. These
+conditioning workouts are scheduled on nonresistance training days, and flexibility
+training should be emphasized in the warm-up and cool-down portions of each
+training session.
+FIGURE 22.8 Sample annual plan for a female basketball athlete.
+Preseason
+After undertaking one or two unloading weeks following the cessation of the off-
+season training period, the athlete begins the preseason period of training. For
+this example, the period covers 11 weeks (August 21-October 5). The goals of the
+preseason are to increase the intensity of sport-specific training and the attention
+given to basketball drills and skills. The resistance training portion is planned for
+three days per week and focuses primarily on strength and power outcomes.
+Other training modes (e.g., plyometrics and anaerobic conditioning) hold high
+priority, especially if they directly contribute to basketball training.
+1607
+
+In-Season
+After an unloading week following the preseason, the athlete is ready to begin the
+competitive period of training. The in-season period lasts approximately 22
+weeks, spanning a time period from November until April (including a four-week
+tournament period, although it could last longer). The goals for the in-season are
+to maintain and possibly improve strength, power, flexibility, and anaerobic
+conditioning. The time constraints of games, skill and strategy practice, and travel
+result in a lower volume of off-court training activities. Due to multiple games
+each week, resistance training may be limited to 30 minutes, one to three times
+per week, consisting of an undulating regimen of varying volume-loads and
+relative intensities. Power and basketball-specific nonpower core exercises
+predominate, with assistance exercises added for balance. See the sample in-
+season program near the end of this chapter. Plyometric sessions should be
+alternated with resistance training and conducted once or twice weekly,
+depending on the number of games.
+On days when no resistance training is scheduled, 15 to 20 minutes of various
+short sprint intervals could be performed once or twice weekly during practice.
+Speed, agility, and other running conditioning can be incorporated into practice
+time, and flexibility training can be part of the practice and game warm-up and
+cool-down. Two or three days of rest should be afforded between resistance
+training, plyometrics, and sprint interval sessions, depending on the game
+schedule. This period is similar to the previous training period in that the majority
+of the athlete’s time is spent on skill and strategy development, with the
+remainder devoted to conditioning.
+The athlete is in good condition from the previous mesocycles, so she should
+be able not only to maintain that condition but also to peak again if the team
+continues in the conference tournament. If the tournament game schedule does
+not allow for more than one resistance training session per week, the athlete
+should perform all the week’s power and core exercises (if time allows) and omit
+the assistance exercises. Two examples of specific weekly tournament schedules
+are presented near the end of this chapter.
+Postseason (Active Rest Period)
+Following the completion of the competitive season is a (second) transition period
+of active rest with no formal or structured workouts. For this example, the
+transition period lasts a month (April 15-May 12). The goal of the period is for the
+athlete to recuperate physically and psychologically from the long in-season.
+Recreational games and fitness activities include swimming, jogging, circuit
+weight training, volleyball, racquetball, and informal basketball. All activities are
+performed at low intensities with low volumes.
+1608
+
+Reviewing the Annual Plan Example
+For any periodization model to function optimally, the sport coach and the
+strength and conditioning professional must plan the program together to share
+goals and strategies. This is a critical issue in that working together allows all the
+training factors that the athlete will engage in to be integrated so as to better
+manage the training stress and modulate fatigue and recovery. Without the
+cooperation of all involved professionals, optimal performance cannot be fully
+achieved.
+The example in this chapter is a representation of only one periodization model
+that could be used to structure training for a sample athlete. Other athletes or
+sports may require subtle to radical variations in the structure presented here. It
+is important to remember that a multitude of periodization models can be
+adapted to meet the needs of the various athletes and sports.
+1609
+
+Conclusion
+Periodization is a process through which the athlete’s training is logically and
+systematically organized to optimize preparedness and increase performance
+potential for the most important competitions. The annual training plan (year of
+training) is divided into macrocycles that contain preparatory, competitive, and
+transition periods. Each period is subdivided into mesocycles that target specific
+phases of development: hypertrophy/strength endurance, basic strength, or
+strength/power. Transitions are used to link mesocycles or macrocycles and
+provide the athlete with an unloading period that enhances recovery. The overall
+structure of the macrocycle, mesocycle, and individual microcycles is dictated by
+the individual sport’s competitive season and demands.
+Off-Season
+Female College Basketball Center
+16 weeks: May 1-August 20
+Mesocycle 1
+May 1-May 14
+Focus: Basic strength
+Microcycles 1-2 (2 weeks)
+Day
+Exercise
+Week 1
+Week 2
+Sets
+Reps
+Intensity
+Sets
+Reps
+Intensity
+Mon/Fri
+Power clean
+2
+3/1a
+5-6 RPE
+(4-5 RIR)
+3
+3/1a
+7-7.5 RPE
+(2-3 RIR)
+Back squat
+2
+5
+5-6 RPE
+(4-5 RIR)
+3
+5
+7-7.5 RPE
+(2-3 RIR)
+Bench press
+2
+5
+5-6 RPE
+(4-5 RIR)
+3
+5
+7-7.5 RPE
+(2-3 RIR)
+Single-leg squat
+2
+8/8b
+5-6 RPE
+(4-5 RIR)
+3
+8/8b
+7-7.5 RPE
+(2-3 RIR)
+Lying triceps extension
+2
+8
+5-6 RPE
+(4-5 RIR)
+3
+8
+7-7.5 RPE
+(2-3 RIR)
+Glute ham raise
+2
+10
+5-6 RPE
+3
+10
+7-7.5 RPE
+a3/1 represents a cluster set with a 20-second rest between each rep.
+b8/8 = 8 reps per side.
+1610
+
+Microcycles 1-2 (2 weeks)
+(4-5 RIR)
+(2-3 RIR)
+Abdominal crunch
+2
+20
+3
+20
+Wed
+Hang power clean
+2
+3
+5-6 RPE
+(4-5 RIR)
+3
+3
+7-7.5 RPE
+(2-3 RIR)
+Clean pull (floor)
+2
+5
+5-6 RPE
+(4-5 RIR)
+3
+10
+7-7.5 RPE
+(2-3 RIR)
+Clean grip Romanian deadlift
+2
+5
+5-6 RPE
+(4-5 RIR)
+3
+10
+7-7.5 RPE
+(2-3 RIR)
+Lat pulldown
+2
+5
+5-6 RPE
+(4-5 RIR)
+3
+10
+7-7.5 RPE
+(2-3 RIR)
+Biceps curl
+2
+5
+5-6 RPE
+(4-5 RIR)
+3
+10
+7-7.5 RPE
+(2-3 RIR)
+Abdominal crunch
+2
+20
+3
+20
+a3/1 represents a cluster set with a 20-second rest between each rep.
+b8/8 = 8 reps per side.
+Mesocycle 1
+May 15-May 21
+Focus: Initial pretesting
+Microcycle 3 (1 week)
+5RM power exercises
+Power clean
+Power snatch
+10RM for assistance exercises
+Lat pulldown
+Biceps curl
+Lying triceps extension
+Upright row
+5RM for nonpower core exercises
+Back squat
+Bench press
+Other testing
+Sit and reach
+Shoulder elevation
+30-15 intermittent fitness test
+Line drill
+T-test
+Vertical jump
+Isometric mid-thigh pull test
+Body composition (skinfolds)
+Mesocycle 2
+1611
+
+May 22-June 18
+Focus: Hypertrophy
+Microcycles 4-6 (3 weeks)
+Session
+Exercises
+Sets
+Reps
+Week 4
+Week 5
+Week 6
+Mon/Fri
+Back squat
+3
+10
+80%-84% 10RM
+85%-89% 10RM
+90%-94%
+10RM
+Incline bench press
+3
+10
+80%-84% 10RM
+85%-89% 10RM
+90%-94%
+10RM
+Single-leg squat
+3
+10/10a
+80%-84% 10RM
+85%-89% 10RM
+90%-94%
+10RM
+Three-way shoulder
+3
+10/10/10b
+80%-84% 10RM
+85%-89% 10RM
+90%-94%
+10RM
+Glute ham raise
+3
+10
+Add load if possible
+Abdominal exercisec
+3
+25
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Hang power clean
+3
+10
+75%-89% 10RM
+80%-84% 10RM
+85%-89%
+10RM
+Clean grip deadlift
+3
+10
+75%-89% 10RM
+80%-84% 10RM
+85%-89%
+10RM
+Clean grip RDL
+3
+10
+75%-89% 10RM
+80%-84% 10RM
+85%-89%
+10RM
+Lat pulldown
+3
+10
+75%-89% 10RM
+80%-84% 10RM
+85%-89%
+10RM
+Abdominal exercisec
+3
+25
+Microcycle 7 (1 week)
+Session
+Exercises
+Sets
+Reps
+Week 7
+Mon/Fri
+Back squat
+3
+10
+70%-74% 10RM
+Incline bench press
+3
+10
+70%-74% 10RM
+Single-leg squat
+3
+10/10a
+70%-74% 10RM
+Abdominal exercisec
+3
+20
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Hang power clean
+3
+10
+70%-74% 10RM
+a10/10 = 10 per leg.
+b10/10/10 = 10 front raise, 10 side lateral raise, 10 reverse fly.
+cAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, crunch,
+Russian twist.
+1612
+
+Microcycles 4-6 (3 weeks)
+Clean grip deadlift
+3
+10
+70%-74% 10RM
+Clean grip RDL
+3
+10
+70%-74% 10RM
+Abdominal exercisec
+3
+20
+a10/10 = 10 per leg.
+b10/10/10 = 10 front raise, 10 side lateral raise, 10 reverse fly.
+cAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, crunch,
+Russian twist.
+Mesocycle 3
+June 19-July 16
+Focus: Basic strength
+Microcycles 8-10 (3 weeks)
+Session
+Exercises
+Sets
+Reps
+Week 8
+Week 9
+Week 10
+Mon/Fri
+Power clean
+3
+5
+80%-84% 5RM
+85%-89% 5RM
+90%-94% 5RM
+Back squat
+3
+5
+80%-84% 5RM
+85%-89% 5RM
+90%-94% 5RM
+Bench press
+3
+5
+80%-84% 5RM
+85%-89% 5RM
+90%-94% 5RM
+Lying triceps extension
+2
+10
+75%-79% 10RM
+80%-84% 10RM
+85%-89% 10RM
+Upright row
+2
+10
+75%-79%10RM
+80%-84% 10RM
+85%-89% 10RM
+Abdominal exercise*
+3
+20
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Snatch grip deadlift
+3
+5
+75%-79% 5RM
+80%-84% 5RM
+85%-89% 5RM
+Snatch grip mid-thigh pull
+3
+5
+75%-79% 5RM
+80%-84% 5RM
+85%-89% 5RM
+Lat pulldown
+2
+10
+70%-74% 10RM
+75%-79% 10RM
+80%-84% 10RM
+Hammer curl
+2
+10
+70%-74% 10RM
+75%-79%10RM
+80%-84% 10RM
+Glute ham raise
+3
+10
+Add weight if possible
+Abdominal exercise*
+3
+20
+Microcycle 11 (1 week)
+Session
+Exercises
+Sets
+Reps
+Week 11
+Mon/Fri
+Power clean
+3
+5
+70%-74% 5RM
+Back squat
+3
+5
+70%-74% 5RM
+Bench press
+3
+5
+70%-74% 5RM
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, crunch, Russian twist.
+1613
+
+Microcycles 8-10 (3 weeks)
+Abdominal exercise*
+3
+20
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Snatch grip deadlift
+3
+5
+70%-74% 5RM
+Snatch grip mid-thigh pull
+3
+5
+70%-74% 5RM
+Lat pulldown
+2
+10
+60%-69% 5RM
+Abdominal exercise*
+3
+20
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, crunch, Russian twist.
+Mesocycle 4
+July 17-August 13
+Focus: Basic strength
+Microcycles 12-13 (2 weeks)
+Session
+Exercises
+Sets
+Reps
+Week 12
+Week 13
+Mon/Fri
+Hang power snatch
+5
+5
+75%-79% 5RM
+80%-84% 5RM
+Back squat
+5
+5
+75%-79% 5RM
+80%-84% 5RM
+Strict press
+5
+5
+75%-79% 5RM
+80%-84% 5RM
+Leg (knee) curl
+3
+12
+70%-74% 12RM
+75%-79% 12RM
+Seated calf raise
+3
+12
+70%-74% 12RM
+75%-79% 12RM
+Abdominal exercise*
+3
+20
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Hang power clean
+5
+5
+70%-74% 5RM
+75%-79% 5RM
+Clean pull (floor)
+5
+5
+70%-74% 5RM
+75%-79% 5RM
+Bent-over row
+5
+5
+70%-74% 5RM
+75%-79% 5RM
+Barbell biceps curl
+3
+12
+65%-69% 12RM
+70%-74% 12 RM
+Triceps pushdown
+3
+12
+65%-69% 12RM
+70%-74% 12 RM
+Abdominal exercise*
+3
+25
+Microcycles 14-15 (2 weeks)
+Session
+Exercises
+Sets
+Reps
+Week 14
+Week 15
+Mon/Fri
+Hang power snatch
+3
+5
+85%-89% 5RM
+90%-94% 5RM
+Back squat
+3
+5
+85%-89% 5RM
+90%-94% 5RM
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, crunch, Russian twist.
+1614
+
+Microcycles 12-13 (2 weeks)
+Strict press
+3
+5
+85%-89% 5RM
+90%-94% 5RM
+Leg (knee) curl
+3
+8
+75%-79% 8RM
+80%-84% 8RM
+Seated calf raise
+3
+8
+75%-79% 8RM
+80%-84% 8RM
+Abdominal exercise*
+3
+20
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Hang power clean
+3
+5
+80%-84% 5RM
+85%-89% 5RM
+Clean pull (floor)
+3
+5
+80%-84% 5RM
+85%-89% 5RM
+Bent-over row
+3
+5
+80%-84% 5RM
+85%-89% 5RM
+Barbell biceps curl
+3
+8
+70%-74% 8RM
+75%-79% 8RM
+Triceps pushdown
+3
+8
+70%-74% 8RM
+75%-79% 8RM
+Abdominal exercise*
+3
+20
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, crunch, Russian twist.
+Mesocycle 4
+August 14-August 20
+Focus: Initial pretesting
+Microcycle 16 (1 week)
+3RM power exercises
+Power clean
+Power snatch
+8RM for assistance exercises
+Lat pulldown
+Biceps curl
+Lying triceps extension
+Upright row
+3RM for nonpower core exercises
+Back squat
+Bench press
+Other testing
+Sit and reach
+Shoulder elevation
+30-15 intermittent fitness test
+Line drill
+T-test
+Vertical jump
+Isometric mid-thigh pull test
+Body composition (skinfolds)
+Preseason
+1615
+
+Female College Basketball Center
+11 weeks: August 21-November 5
+Mesocycle 5
+August 21-September 17
+Focus: Strength/power 1
+Microcycle 17 (1 week)
+Session
+Exercises
+Sets
+Reps
+Week 17
+Mon/Fri
+Push jerk
+5
+5
+75%-79% 5RM
+Back squat
+5
+5
+80%-84% 5RM
+Incline bench press
+5
+5
+80%-84% 5RM
+Biceps curl
+3
+10
+75%-79% 10RM
+Dip
+3
+10
+Add weight if possible
+Abdominal exercisea
+3
+20
+Note: Friday session should use a load 15% less than Monday’s.
+Wed
+Power clean
+5
+5/1b
+80%-84% 1RM
+Clean pull (floor)
+5
+5
+80%-84% 5RM
+Romanian deadlift
+5
+5
+75%-79% 5RM
+Pendlay row
+3
+10
+75%-79% 10RM
+Pull-up
+3
+10
+Add weight if possible (use band if needed)
+Abdominal exercisea
+3
+20
+Microcycles 18-19 (2 weeks)
+Session
+Exercises
+Sets
+Reps
+Week 18
+Week 19
+Mon
+Push jerk
+3
+5
+80%-84% 5RM
+85%-89% 5RM
+Back squat
+3
+5
+85%-89% 5RM
+90%-94% 5RM
+Incline bench press
+3
+5
+85%-89% 5RM
+90%-94% 5RM
+Biceps curl
+3
+8
+80%-84% 8RM
+Dip
+3
+10
+Add weight if possible
+Abdominal exercisea
+3
+20
+Wed
+Power clean
+3
+5/1b
+80%-84% 1RM
+85%-89% 1RM
+Clean pull (floor)
+3
+5
+85%-89% 5RM
+90%-94% 5RM
+aAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+bCluster set with 20 s between reps.
+1616
+
+Microcycle 17 (1 week)
+Romanian deadlift
+3
+8
+85%-89% 5RM
+90%-94% 5RM
+Pendlay row
+3
+10
+80%-84% 10RM
+85%-89% 10RM
+Pull-up
+3
+10
+Add weight if possible (use band if needed)
+Abdominal exercisea
+3
+20
+Fri
+Push jerk
+3
+5
+75%-79% 5RM
+80%-84% 5RM
+Quarter back squat (from pins)
+3
+5
+80%-84% 5RM
+85%-89% 5RM
+Closed-grip bench press
+3
+5
+75%-79% 5RM
+80%-84% 5RM
+Hammer curl
+3
+8
+75%-79% 8RM
+80%-84% 8RM
+Triceps pushdown
+3
+8
+75%-79% 8RM
+80%-84% 8RM
+Abdominal exercisea
+3
+20
+Microcycle 20 (1 week)
+Session
+Exercises
+Sets
+Reps
+Week 20
+Mon/Fri
+Push jerk
+3
+3
+75%-79% 3RM
+Back squat
+3
+3
+75%-79% 3RM
+Incline bench press
+3
+3
+75%-79% 3RM
+Biceps curl
+3
+8
+70%-74% 8RM
+Lying triceps extension
+3
+8
+70%-74% 8RM
+Abdominal exercisea
+3
+20
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Power clean
+3
+3/1b
+75%-79% 1RM
+Clean pull (floor)
+3
+3
+75%-79% 3RM
+Romanian deadlift
+3
+3
+75%-79% 3RM
+Pendlay row
+3
+5
+75%-79% 5RM
+Pull-up
+3
+8
+Add weight if possible (use band if needed)
+Abdominal exercisea
+3
+20
+aAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+bCluster set with 20 s between reps.
+Mesocycle 6
+September 18-October 15
+Focus: Strength/power 2
+1617
+
+Microcycle 21 (1 week)
+Session
+Exercises
+Sets
+Reps
+Week 21
+Mon
+Hang power clean
+5
+3
+80%-84% 3RM
+Front squat
+3
+5
+85%-89% 5RM
+Clean pull (thigh block)
+3
+5
+80%-84% 5RM
+Push press
+3
+5
+75%-79% 5RM
+Dip
+3
+8
+Add weight if possible
+Abdominal exercisea
+3
+20
+Wed
+Overhead squat
+5
+3
+75%-79% 3RM
+Hang power snatch
+5
+3
+75%-79% 3RM
+Snatch pull (floor)
+3
+5
+85%-89% 5RM
+Snatch grip Romanian deadlift
+3
+5
+85%-89% 5RM
+Pull-up
+3
+10
+Add weight if possible (use band if needed)
+Abdominal exercisea
+3
+20
+Fri
+Push jerk
+5
+3
+70%-74% 3RM
+Jump squatb
+5
+3
+45%-49% 1RM
+Quarter front squat
+3
+5
+80%-84% 5RM
+Closed-grip bench press
+3
+5
+75%-79% 5RM
+Glute ham raise
+3
+10
+Add weight if possible
+Abdominal exercisea
+3
+20
+Microcycles 22-23 (2 weeks)
+Session
+Exercises
+Sets
+Reps
+Week 22
+Week 23
+Mon
+Push jerk
+4
+3
+85%-89% 3RM
+90%-94% 3RM
+Hang power clean
+4
+3
+80%-84% 3RM
+85%-89% 3RM
+Front squat
+5
+3
+90%-94% 3RM
+80%-84% 3RM
+Clean pull (floor)
+5
+3
+80%-84% 3RM
+85%-89% 3RM
+Dip
+3
+8
+Add weight if possible
+Abdominal exercisea
+3
+20
+Wed
+Snatch grip jump shrugc
+4
+3
+45%-49% 1RM
+50%-54% 1RM
+Hang power snatch
+4
+3
+70%-74% 3RM
+75%-79% 3RM
+aAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+bLoad based off back squat 1RM.
+cLoad based off power snatch 1RM.
+1618
+
+Microcycle 21 (1 week)
+Snatch pull (thigh block)
+5
+3
+85%-89% 3RM
+90%-94% 3RM
+Snatch grip Romanian deadlift
+5
+3
+80%-84% 3RM
+85%-89% 3RM
+Pull-up
+3
+10
+Add weight if possible (use band if needed)
+Abdominal exercisea
+3
+20
+Fri
+Push jerk
+4
+3
+70%-74% 3RM
+75%-79% 3RM
+Jump squatb
+4
+3
+45%-49% 1RM
+50%-54% 1RM
+Quarter front squat
+5
+3
+80%-84% 5RM
+85%-89% 5RM
+Closed-grip bench press
+5
+3
+75%-79% 5RM
+80%-84% 5RM
+Glute ham raise
+3
+10
+Add weight if possible
+Abdominal exercisea
+3
+20
+Microcycle 24 (1 week)
+Session
+Exercises
+Sets
+Reps
+Week 24
+Mon
+Hang power clean
+3
+2
+70%-74% 2RM
+Front squat
+3
+3
+75%-79% 3RM
+Clean pull (thigh block)
+3
+3
+80%-84% 3RM
+Push press
+3
+3
+75%-79% 3RM
+Dip
+3
+8
+Add weight if possible
+Abdominal exercisea
+3
+20
+Wed
+Snatch grip jump shrugc
+3
+2
+50%-54% 1RM
+Hang power snatch
+3
+2
+70%-74% 2RM
+Snatch pull (thigh block)
+3
+3
+80%-84% 3RM
+Snatch grip Romanian deadlift
+3
+3
+75%-79% 3RM
+Pull-up
+3
+8
+Add weight if possible (use band if needed)
+Abdominal exercisea
+3
+20
+Fri
+Push jerk
+3
+2
+70%-74% 2RM
+Jump squatb
+3
+2
+50%-54% 1RM
+Quarter front squat
+3
+3
+80%-84% 3RM
+Closed-grip bench press
+3
+3
+80%-84% 3RM
+Glute ham raise
+3
+8
+Add weight if possible
+aAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+bLoad based off back squat 1RM.
+cLoad based off power snatch 1RM.
+1619
+
+Microcycle 21 (1 week)
+Abdominal exercisea
+3
+20
+aAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+bLoad based off back squat 1RM.
+cLoad based off power snatch 1RM.
+Mesocycle 7
+October 16-October 29
+Focus: Strength/power 3
+Microcycle 25 (1 week)
+Session
+Exercises
+Sets
+Reps
+Week 25
+Mon/Fri
+Hang power clean
+3
+5
+70-%74% 5RM
+Back squat + box jump
+3
+5+5
+80%-84% 5RM
+Bench press + medicine ball chest pass
+3
+5+5
+80%-84% 5RM
+Push jerk
+3
+5
+70%-75% 5RM
+Lying triceps extension
+3
+8
+75%-79% 8RM
+Abdominal exercise*
+3
+20
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Hang power snatch
+3
+5
+70%-75% 5RM
+Snatch pull (floor)
+3
+5
+80%-84% 5RM
+Lat pulldown
+3
+8
+75%-79% 8RM
+Bent-over row
+3
+8
+75%-79% 8RM
+Glute ham raise
+3
+10
+Add weight if possible
+Abdominal exercise*
+3
+20
+Microcycle 26 (1 week)
+Session
+Exercises
+Sets
+Reps
+Week 26
+Mon/Fri
+Hang power clean
+4
+3
+75%-79% 3RM
+Back squat + box jump
+4
+3+3
+85%-89% 3RM
+Bench press + medicine ball chest pass
+4
+3+3
+80%-84% 3RM
+Push jerk
+4
+3
+80%-84% 3RM
+Lying triceps extension
+3
+8
+80%-84% 3RM
+Abdominal exercise*
+3
+20
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+1620
+
+Microcycle 25 (1 week)
+Note: Friday session should use a load 10% less than Monday’s.
+Wed
+Hang power snatch
+4
+3
+75%-79% 3RM
+Snatch pull (floor)
+4
+3
+85%-89% 3RM
+Lat pulldown
+3
+8
+80%-84% 8RM
+Bent-over row
+3
+8
+80%-84% 8RM
+Glute ham raise
+3
+10
+Add weight if possible
+Abdominal exercise*
+3
+20
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+Mesocycle 7
+October 30-November 5
+Focus: Post preseason testing (before in-season)
+Microcycle 27 (1 Week)
+2RM power exercise
+Power clean
+Hang power snatch
+Push jerk
+Push press
+2RM for nonpower core exercises
+Back squat
+Front squat
+Bench press
+Other testing*
+Sit and reach
+Shoulder elevation
+30-15 intermittent fitness test
+Line drill
+T-test
+Vertical jump
+Isometric mid-thigh pull test
+Body composition (skinfolds)
+*Other exercises to test based on in-season program.
+In-Season
+Female College Basketball Center
+23 weeks: November 6-April 14 (including tournament play)
+Mesocycle 8
+1621
+
+November 6-December 3
+Focus: Strength maintenance
+Microcycles 28-31 (4 Weeks)
+Session
+Exercises
+Sets Reps
+Training loads
+Week 28
+Week 29
+Week 30
+Week 31
+1
+Clean pull (mid-thigh
+block)
+1
+4
+75%-79%
+1RM
+80%-84%
+1RM
+60%-64%
+1RM
+85%-89%
+1RM
+Back squat
+1
+6
+75%-79%
+6RM
+80%-84%
+6RM
+65%-69%
+6RM
+90%-94%
+6RM
+Incline bench press
+1
+6
+75%-79%
+6RM
+80%-84%
+6RM
+65%-69%
+6RM
+90%-94%
+6RM
+Lateral shoulder raise
+1
+10
+70%-74%
+10RM
+75%-79%
+10RM
+70%-74%
+10RM
+80%-84%
+10RM
+Abdominal exercise*
+Max in 60 s
+2
+Push press
+1
+6
+70%-74%
+6RM
+75%-79%
+6RM
+60%-64%
+6RM
+80%-84%
+6RM
+Quarter front squat
+(from pins)
+1
+6
+70%-74%
+6RM
+75%-79%
+6RM
+60%-64%
+6RM
+80%-84%
+6RM
+Closed-grip bench
+press
+1
+6
+70%-74%
+6RM
+75%-79%
+6RM
+60%-64%
+6RM
+80%-84%
+6RM
+Seated low pulley row
+1
+6
+70%-74%
+6RM
+75%-79%
+6RM
+60%-64%
+6RM
+80%-84%
+6RM
+Abdominal exercise*
+Max in 60 s
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+Mesocycle 9
+December 4-December 31
+Focus: Strength and power development
+Microcycles 32-35 (4 Weeks)
+Session
+Exercises
+Sets Reps
+Training loads
+Week 32
+Week 33
+Week 34
+Week 35
+1
+Hang power clean
+1
+3
+65%-69%
+1RM
+70%-74%
+1RM
+60%-64%
+1RM
+80%-84%
+1RM
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+1622
+
+Microcycles 32-35 (4 Weeks)
+Front squat
+1
+5
+70%-74%
+5RM
+80% 5RM
+60%-64%
+5RM
+80%-84%
+5RM
+Standing shoulder
+press
+1
+5
+70%-74%
+5RM
+80% 5RM
+60%-64%
+5RM
+80%-84%
+5RM
+Lying triceps
+extension
+1
+10
+70%-74%
+10RM
+80% 10RM
+65%-69%
+10RM
+80%-84%
+10RM
+Abdominal
+exercise*
+Max in 60 s
+2
+Push jerk
+1
+3
+60%-64%
+1RM
+65%-69%
+1RM
+60% 1RM
+70%-74%
+1RM
+Step-up
+1
+5
+65%-69%
+5RM
+70%-74%
+5RM
+60% 5RM
+75%-79%
+5RM
+Closed-grip bench
+press
+1
+10
+60%-64%
+10RM
+65%-69%
+10RM
+60% 10RM
+70%-74%
+10RM
+Lat pulldown
+1
+10
+60%-64%
+10RM
+65%-69%
+10RM
+60% 10RM
+70%-74%
+10RM
+Abdominal
+exercise*
+Max in 60 s
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+Mesocycle 10
+January 1-January 28
+Focus: Strength and power development
+Microcycles 36-39 (4 Weeks)
+Session
+Exercises
+Sets Reps
+Training loads
+Week 36
+Week 37
+Week 38
+Week 39
+1
+Power clean
+1
+2
+80%-84%
+1RM
+85%-89%
+1RM
+90%-94%
+1RM
+70%-74%
+1RM
+Back squat
+1
+4
+80%-84%
+4RM
+85%-89%
+4RM
+90%-94%
+4RM
+65%-69%
+4RM
+Bench press
+1
+4
+80%-84%
+4RM
+85%-89%
+4RM
+90%-94%
+4RM
+65%-69%
+4RM
+Barbell biceps curl
+1
+8
+80%-84%
+8RM
+85%-89%
+8RM
+90%-94%
+8RM
+65%-69%
+8RM
+Abdominal exercise*
+Max in 60 s
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+1623
+
+Microcycles 36-39 (4 Weeks)
+2
+Hang power snatch
+1
+3
+70%-74%
+1RM
+75%-78%
+1RM
+80%-84%
+1RM
+60%-64%
+1RM
+Forward step lunge
+1
+4
+70%-74%
+4RM
+75%-78%
+4RM
+80%-84%
+4RM
+60%-64%
+4RM
+Closed-grip bench
+press
+1
+8
+70%-74%
+8RM
+75%-78%
+8RM
+80%-84%
+8RM
+60%-64%
+8RM
+Upright row
+1
+8
+70%-74%
+8RM
+75%-78%
+8RM
+80%-84%
+8RM
+60%-64%
+8RM
+Abdominal exercise*
+Max in 60 s
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+Mesocycle 11
+January 29-February 15
+Focus: Strength and power development
+Microcycles 40-43 (4 Weeks)
+Session
+Exercises
+Sets Reps
+Training loads
+Week 40
+Week 41
+Week 42
+Week 43
+1
+Snatch grip mid-thigh
+pull (block)
+1
+6
+75%-79%
+1RM
+80%-84%
+1RM
+60%-64%
+1RM
+85%-89%
+1RM
+Back squat
+1
+6
+80%-84%
+6RM
+85%-89%
+6RM
+65%-69%
+6RM
+90%-94%
+6RM
+Bench press
+1
+6
+80%-84%
+6RM
+85%-89%
+6RM
+65%-69%
+6RM
+90%-94%
+6RM
+Lateral shoulder raise
+1
+10
+75%-79%
+10RM
+80%-84%
+10RM
+70%-74%
+10RM
+85%-89%
+10RM
+Abdominal exercise*
+Max in 60 s
+2
+Push press
+1
+6
+70%-74%
+6RM
+75%-79%
+6RM
+60%-64%
+6RM
+80%-84%
+6RM
+Quarter back squat
+(from pins)
+1
+6
+70%-74%
+6RM
+75%-79%
+6RM
+60%-64%
+6RM
+80%-84%
+6RM
+Closed-grip bench
+press
+1
+6
+70%-74%
+6RM
+75%-79%
+6RM
+60%-64%
+6RM
+80%-84%
+6RM
+Seated low pulley row
+1
+6
+70%-74%
+6RM
+75%-79%
+6RM
+60%-64%
+6RM
+80%-84%
+6RM
+Abdominal exercise*
+Max in 60 s
+*Abdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+1624
+
+Mesocycle 12
+February 16-March 17
+Focus: Power and strength optimization
+Microcycles 44-46 (3 Weeks—SEC Tournament)
+Session
+Exercises
+Sets
+Reps
+Training loads
+Week 44
+Week 45
+Week 46
+1
+Hang power clean
+1
+3
+70%-74% 1RM
+75%-79% 1RM
+80%-84% 1RM
+Front squat
+1
+5
+75%-79% 5RM
+80%-84% 5RM
+85%-89% 5RM
+Push press
+1
+5
+75%-79% 5RM
+80%-84% 5RM
+85%-89% 5RM
+Lying triceps extension
+1
+10
+75%-79% 10RM
+80%-84% 10RM
+85%-89% 10RM
+Abdominal exercisea
+Max in 60 s
+2
+Push jerk
+1
+3
+65%-69% 1RM
+70%-74% 1RM
+75%-79% 1RM
+Jump squatb
+1
+5
+70%-74% 5RM
+75%-79% 5RM
+80%-84% 5RM
+Closed-grip bench press
+1
+10
+65%-69% 10RM
+70%-74% 10RM
+75%-79% 10RM
+Lat pulldown
+1
+10
+65%-69% 10RM
+70%-74% 10RM
+75%-79% 10RM
+Abdominal exercisea
+Max in 60 s
+aAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+bIntensity based off of 1RM squat.
+Mesocycle 13
+March 18-April 7
+Focus: Power and peaking performance
+Microcycles 47-49 (3 Weeks—national tournament)
+Session
+Exercises
+Sets
+Reps
+Training loads
+Week 47
+Week 48
+Week 49
+1
+Jump squatb
+1
+3
+40%-44% 1RM
+35%-39% 1RM
+30%-34% 1RM
+Quarter back squat
+1
+3
+80%-84% 3RM
+75%-79% 3RM
+70%-74% 3RM
+Push jerk
+1
+3
+80%-84% 3RM
+75%-79% 3RM
+70%-74% 3RM
+Lying triceps extension
+1
+8
+80%-84% 8RM
+75%-79% 8RM
+70%-74% 8RM
+aAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+bIntensity based off 1RM bench press.
+1625
+
+Microcycles 47-49 (3 Weeks—national tournament)
+Abdominal exercisea
+Max in 60 s
+2
+Jump shrug
+1
+3
+70%-74% 3RM
+65%-69% 3RM
+60%-64% 1RM
+Clean pull (thigh block)
+1
+3
+80%-84% 3RM
+75%-79% 5RM
+70%-74% 3RM
+Bench throwb
+1
+4
+40%-44% 1RM
+35%-39% 1RM
+30%-34% 1RM
+Lat pulldown
+1
+10
+70%-74% 8RM
+65%-69% 8RM
+60%-64% 8RM
+Abdominal exercisea
+Max in 60 s
+aAbdominal exercise of choice: sit-up, GHD sit-up, toes to bar, reverse crunch, or crunch.
+bIntensity based off 1RM bench press.
+Mesocycle 13
+April 8-April 14
+Focus: Postseason testing (after in-season)
+Microcycle 50 (1 Week)
+2RM power exercise
+Power clean
+Hang power snatch
+Push jerk
+Push press
+2RM for nonpower core exercises
+Back squat
+Front squat
+Bench press
+Other testing*
+Sit and reach
+Shoulder elevation
+30-15 Intermittent Fitness Test
+Line drill
+T-test
+Vertical jump
+Isometric mid-thigh pull test
+Body composition (skinfolds)
+*Other exercises to test based on in-season program.
+Tournament Option A (Two Games)
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Practice (or rest)
+Practice
+Practice
+Practice
+Game
+Practice
+Game
+Resistance training
+Resistance training
+1626
+
+Tournament Option B (Two Games)
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Practice (or
+rest)
+Game
+Practice
+Practice
+Practice
+Practice Game
+Resistance
+training
+Plyometric
+training
+Resistance
+training
+Tournament Option C (Three Games Back-to-Back)
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Practice (or
+rest)
+Practice
+Practice
+Practice
+Practice
+Game
+Game
+Resistance
+training
+Plyometric
+training
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Game
+Rest
+Practice
+Practice
+Practice
+Practice
+Rest
+Resistance
+training
+Resistance
+training
+Plyometric
+training
+Comments
+Each mesocycle is considered a block of training and contains two or three individual microcycles;
+unloading mesocycles are strategically placed to occur before the next mesocycle during the off-season
+and preseason and are at key microcycles during the in-season.
+This program incorporates variations in volume-load, training intensity, and targeted training exercises.
+Repetition maximum loads are not used, as training to failure has been shown to reduce power output
+and increase the risk of overtraining. Therefore, percentage ranges based off of RM loads are used to
+deal with the accumulated fatigue associated with in-season training and competitions.
+It is important to note that these are the target sets and that 3 to 5 warm-up sets should be performed
+to provide an appropriate specific warm-up for the targeted loadings.
+Refer to table 18.8 (page 544) for the relationship between the %RM and the number of repetitions
+allowed and table 18.9 (page 547) for the estimation of a 1RM.
+Refer to table 18.15 (page 561) for rest period length assignment based on repetition goal.
+KEY TERMS
+active rest
+annual training plan
+basic strength phase
+competitive period
+daily undulating periodization
+emphasis training models
+first transition period
+fitness–fatigue paradigm
+1627
+
+general adaptation syndrome (GAS)
+general preparatory phase
+hypertrophy or strength–endurance phase
+linear periodization
+macrocycle
+maintenance
+mesocycle
+microcycle
+nonlinear periodization
+parallel training models
+peaking
+periodization
+preparatory period
+recovery
+restoration
+second transition period
+sequential training models
+specific preparatory phase
+stimulus–fatigue–recovery–adaptation theory
+strength/power phase
+supercompensation
+traditional periodization
+STUDY QUESTIONS
+  1.  The duration of what phase of Selye’s general adaptation syndrome will be
+lengthened if an athlete is under large amounts of psychoemotional stress?
+  a.  alarm
+  b.  resistance
+  c.  supercompensation
+  d.  exhaustion
+  2.  The early stages of a long-term athlete development plan best aligns with
+which model of periodization?
+  a.  parallel
+  b.  sequential
+  c.  emphasis
+  d.  traditional
+  3.  What can last between two and six weeks, with the most common duration
+used by strength and conditioning professionals being four weeks?
+  a.  microcycle
+1628
+
+  b.  macrocycle
+  c.  mesocycle
+  d.  maxicycle
+  4.  A preparatory period corresponds to what other part of the season?
+  a.  postseason
+  b.  in-season
+  c.  preseason
+  d.  off-season
+  5.  A hypertrophy phase of training best aligns with which phase?
+  a.  general preparatory
+  b.  specific preparatory
+  c.  precompetitive
+  d.  main competitive
+1629

@@ -1,0 +1,1734 @@
+CHAPTER 1
+STRUCTURE AND FUNCTION
+OF BODY SYSTEMS
+Michael D. Roberts, PhD
+The author would like to acknowledge the significant contributions of N. Travis Triplett,
+Duncan French, Ann Swank, Carwyn P.M. Sharp, Robert T. Harris, and Gary R. Hunter to
+this chapter.
+After completing this chapter, you will be able to
+describe both the macrostructure and microstructure of muscle
+and bone;
+describe the sliding-filament theory of muscular contraction;
+describe the specific morphological and physiological
+characteristics of different muscle fiber types and predict their
+relative involvement in different sport events;
+describe the anatomical and physiological characteristics of the
+cardiovascular and respiratory systems; and
+predict the cardiorespiratory responses to different types of
+exercise or sports events.
+Physical exercise and sport performance involve effective, purposeful
+movements of the body. These movements result from the forces
+developed in muscles, which move the various body parts by acting
+through lever systems of the skeleton. Skeletal muscle activation
+38
+
+initiates in upper motor neurons located in the cerebral cortex, and
+activation signals are relayed to lower motor neurons residing in the
+spinal cord that are part of the peripheral nervous system. Support
+for this neuromuscular activity involves continuous delivery of
+oxygen and nutrients to working tissues and removal of carbon
+dioxide and metabolic waste by-products from working tissues
+through activities of the cardiovascular and respiratory systems.
+In order to best apply the available scientific knowledge to the
+training of athletes and the development of effective training
+programs, strength and conditioning professionals must have a basic
+understanding of not only musculoskeletal function but also those
+systems of the body that directly support the work of exercising
+muscle. Accordingly, this chapter summarizes those aspects of the
+anatomy and function of the musculoskeletal, neuromuscular,
+cardiovascular, and respiratory systems that are essential for
+developing and maintaining muscular force and power.
+39
+
+Musculoskeletal System
+The musculoskeletal system of the human body consists of bones,
+joints, muscles, and tendons configured to allow the great variety of
+movements characteristic of human activity. This section describes
+the various components of the musculoskeletal system, both
+individually and in the context of how they function together.
+Skeleton
+The muscles of the body function by pulling against bones that
+rotate about joints. Muscles can only pull, not push, given that the
+activation of muscles results in shortening contractions. However,
+through the system of bony levers, muscle contractions can be
+manifested as either pulling or pushing forces against external
+objects.
+The body has approximately 206 bones, though the number can
+vary. This relatively light, strong structure provides leverage,
+support, and protection to internal organs (figure 1.1). The axial
+skeleton consists of the skull (cranium), vertebral column (vertebra
+C1 through the coccyx), ribs, and sternum. The appendicular
+skeleton includes the shoulder (or pectoral) girdle (left and right
+scapula and clavicle); bones of the arms, wrists, and hands (left and
+right humerus, radius, ulna, carpals, metacarpals, and phalanges);
+the pelvic girdle (left and right coxal or innominate bones); and the
+bones of the legs, ankles, and feet (left and right femur, patella,
+tibia, fibula, tarsals, metatarsals, and phalanges).
+Junctions of bones are called joints. Fibrous joints (e.g., sutures
+of the skull) allow virtually no movement, cartilaginous joints
+(e.g., intervertebral disks) allow limited movement, and synovial
+joints (e.g., elbow and knee) allow considerable movement.
+Movements in relation to sports and exercise mainly occur at
+synovial joints, whose most important features are low friction and
+large range of motion. Articulating bone ends are covered with
+smooth hyaline cartilage, and the entire joint is enclosed in a
+40
+
+capsule filled with synovial fluid. Additional supporting structures
+of ligament and cartilage usually exist (41).
+FIGURE 1.1 (a) Front view and (b) rear view of an adult male human skeleton.
+41
+
+What Factors Affect Skeletal Growth in an
+Adult?
+Aside from genetics, dietary habits and physical activity patterns affect the adult
+skeleton. Several research studies have supported resistance training as yielding
+positive bone adaptations. Hence, consistently lifting heavy loads during job tasks
+or via resistance training increases bone density and bone mineral content.
+Consistently performing more explosive movements with impact facilitates similar
+adaptations. Some of the highest bone densities have been observed in people
+who engage in gymnastics or other activities that involve high-strength, high-
+power, or high-impact movements (29). Since bone adaptations occur less rapidly
+compared to skeletal muscle, the consistent implementation of progressive
+overload is important to facilitate positive adaptations.
+Virtually all joint movements consist of a rotation about points or
+axes. Joints can be categorized by the number of directions about
+which rotation can occur. Uniaxial joints, such as the elbow,
+operate as hinges, essentially rotating about only one axis. The knee
+is often referred to as a hinge joint, but its axis of rotation actually
+changes throughout the joint range of motion. Biaxial joints, such
+as the ankle and wrist, allow movement about two perpendicular
+axes. Multiaxial joints, including the shoulder and hip ball-and-
+socket joints, allow movement about all three perpendicular axes
+that define space.
+The vertebral column is made up of vertebral bones separated
+by flexible disks that allow movement to occur. The vertebrae are
+grouped into 7 cervical vertebrae in the neck region; 12 thoracic
+vertebrae in the middle to upper back; 5 lumbar vertebrae in the
+lower back; 5 sacral vertebrae, which are fused together and make
+up the rear part of the pelvis; and 3 to 5 coccygeal vertebrae, which
+form a kind of vestigial internal tail extending downward from the
+pelvis.
+42
+
+Skeletal Musculature
+The system of muscles that enables the skeleton to move is depicted
+in figure 1.2. The connection point between bones is the joint, and
+skeletal muscles are attached to bones at each of their ends.
+Without this arrangement, movement could not occur.
+Musculoskeletal Macrostructure and Microstructure
+Each skeletal muscle contains muscle tissue made up of a variety of
+cell types (with the most notable being muscle fibers), connective
+tissue, nerves, blood vessels, and a plethora of cell types between
+muscle fibers that serve different functions. Fibrous connective
+tissue, or epimysium, covers the body’s more than 430 skeletal
+muscles. The epimysium is contiguous with the tendons at the ends
+of the muscle (figure 1.3). The tendon is attached to bone
+periosteum, a specialized connective tissue covering all bones.
+Notably, muscle contractions pull on tendons, and in turn, this moves
+bones that are attached to the associated tendons. Limb muscles
+have two attachments to bone, including proximal (closer to the
+trunk) and distal (farther from the trunk) attachments. The two
+attachments of trunk muscles are termed superior (closer to the
+head) and inferior (closer to the feet).
+Muscle cells, often called muscle fibers or myofibers, are long
+(sometimes running the entire length of a muscle), cylindrical cells
+50 to 100 μm in diameter (about the diameter of a human hair).
+Muscle fibers have all their nuclei situated on the outer periphery of
+the cell and have a striated appearance when viewed with a
+microscope under low magnification. Under the epimysium the
+muscle fibers are grouped in bundles (fasciculi) that may consist of
+up to 150 fibers, with the bundles surrounded by connective tissue
+called perimysium. Each muscle fiber is surrounded by connective
+tissue called endomysium, which is encircled by and is contiguous
+with the muscle fiber membrane, or sarcolemma (41). All the
+connective tissue—epimysium, perimysium, and endomysium—is
+contiguous with the tendon, so tension developed in a muscle cell is
+43
+
+transmitted to the tendon and the bone to which it is attached
+(figure 1.3).
+The junction between a motor neuron (nerve cell) and the
+muscle fibers it innervates is called the motor end plate, or, more
+often, the neuromuscular junction (figure 1.4). Each muscle cell
+has only one neuromuscular junction, although a single motor
+neuron innervates many muscle fibers, sometimes hundreds or even
+thousands. A motor neuron and the muscle fibers it innervates are
+called a motor unit. All the muscle fibers of a motor unit contract
+together when they are stimulated by the motor neuron.
+The interior structure of a muscle fiber is depicted in figure 1.5.
+The sarcoplasm, which is the cytoplasm of a muscle fiber, is an
+aqueous medium through which the exchange of ions (sodium,
+potassium, 
+calcium) 
+and 
+metabolites 
+(ADP, 
+ATP, 
+inorganic
+phosphate) occur to and from different organelles. Not only is the
+sarcoplasm of critical importance to muscle fibers because of this
+role, but intracellular organelles and structures are also suspended in
+the sarcoplasm. These organelles and structures include the
+contractile apparatus constructed of thick and thin protein filaments,
+other proteins including metabolic enzymes and signaling proteins,
+stored glycogen and fat particles, ribosomes that facilitate protein
+synthesis, and specialized organelles such as mitochondria and the
+sarcoplasmic reticulum.
+44
+
+FIGURE 1.2 (a) Front view and (b) rear view of adult male human skeletal musculature.
+45
+
+FIGURE 1.3 Schematic drawing of a muscle illustrating three types of connective tissue:
+epimysium (the outer layer), perimysium (surrounding each fasciculus, or group of muscle
+fibers), and endomysium (surrounding individual muscle fibers).
+46
+
+FIGURE 1.4  Motor unit, consisting of a motor neuron and the muscle fibers it
+innervates. A single motor unit typically contains several hundred muscle fibers.
+47
+
+FIGURE 1.5 Sectional view of a muscle fiber.
+Hundreds of myofibrils (each about 1 μm in diameter, 1/100 the
+diameter of a hair) exist in the sarcoplasm of one muscle fiber.
+Myofibrils are the contractile machinery of muscle fibers, and two
+types of myofilaments are highly enriched in myofibrils, including
+myosin and actin. The thicker myosin filaments (about 16 nm in
+diameter, or 1/10,000 the diameter of a hair) contain up to 200
+myosin molecules. A single myosin molecule consists of two myosin
+heavy chain proteins and four myosin light chain proteins. This
+molecule also contains two head-like features (one being from each
+of the two heavy chains), two hinge points below each head, and
+two tail-like features that act to keep the two heavy chain proteins
+bound. When examining a thick filament containing hundreds of
+myosin molecules, the globular heads protrude away from the thick
+filament at regular intervals, and the head-like structures form
+crossbridges with actin filaments during muscle contraction. The
+thin actin filaments (about 6 nm in diameter) consist of two strands
+arranged in a double helix. Myosin and actin filaments are organized
+longitudinally in the smallest contractile unit of skeletal muscle
+termed the sarcomere. Sarcomeres average about 2.5 μm in length
+in a relaxed fiber (approximately 4,500 per centimeter of muscle
+48
+
+length) and are repeated through the entire length of myofibrils that
+span the muscle fiber (4).
+The arrangement of the myosin and actin filaments within
+sarcomere boundaries give muscle fibers a striated dark/light
+appearance under magnification. The dark A-band corresponds with
+the alignment of the myosin filaments, whereas the light I-band
+corresponds with the areas in two adjacent sarcomeres that contain
+only actin filaments (41). The Z-line is in the middle of the I-band
+and appears as a thin, dark line running longitudinally through the I-
+band. The H-zone is the area in the center of the sarcomere, where
+only myosin filaments are present. During muscle contraction, the H-
+zone decreases as the actin filaments slide over myosin filaments
+toward the center of the sarcomere. The I-band also decreases as
+the Z-lines are pulled toward the center of the sarcomere.
+49
+
+FIGURE 1.6 General view of the myosin and actin filaments in muscle. The arrangement
+of myosin (thick) and actin (thin) filaments gives skeletal muscle its striated appearance.
+50
+
+Figure 1.6 shows a simplistic depiction of myosin and actin in the
+sarcomere. Biochemical bonds allow for myosin proteins to
+aggregate into the highly organized thick myosin filament, and thick
+filaments are anchored to specialized proteins in the M-line, which is
+in the center of the sarcomere (the center of the H-zone). Actin
+filaments are anchored to Z-lines through another set of specialized
+proteins. Although both M-lines and Z-lines exist in tandem
+throughout the entire myofibril, individual sarcomeres are defined as
+the thick myosin and thin actin filaments as well as associated
+proteins found between two Z-lines. It is also notable that six actin
+filaments surround each myosin filament, and each actin filament is
+surrounded by three myosin filaments. This lattice-like arrangement
+enables a highly organized and efficient structure for muscular
+contraction.
+Each myofibril is encased by an intricate system of tubules, called
+the sarcoplasmic reticulum (figure 1.5, page 5), which terminates
+as vesicles in the vicinity of the Z-lines. Calcium ions are stored in
+the sarcoplasmic reticulum, and muscle activation leads to the
+release of these calcium stores to facilitate muscular contraction.
+Discharge of an action potential (an electrical nerve impulse)
+arrives nearly simultaneously from the surface to all depths of the
+muscle fiber. Calcium is thus released throughout the muscle fiber,
+producing a coordinated contraction of the entire cell.
+51
+
+FIGURE 1.7 Contraction at the sarcomere level. (a) In stretched muscle the I-bands and
+H-zone are elongated and there is low force potential due to a reduction in actin and
+myosin overlap and, thus, actin-myosin cross-bridge formation potential. (b) When muscle
+52
+
+contracts (here partially), the I-bands and H-zone are shortened. In this example, force
+potential is highest due to optimal actin and myosin overlap. (c) With contracted muscle,
+force potential is again low because actin and myosin overlap is not optimal.
+The discharge of an action potential from a motor
+neuron signals the release of calcium from the
+sarcoplasmic reticulum into the myofibrils of a muscle
+fiber, leading to a cascade of events that result in the
+contraction of the muscle fiber.
+Sliding-Filament Theory of Muscular Contraction
+The sliding-filament theory was proposed by Huxley and Hanson
+in 1954 to mechanistically explain muscular contraction at the
+molecular level (22). In its simplest form, the sliding-filament theory
+indicates that actin filaments anchored to each end of the sarcomere
+slide inward on myosin filaments. This results in Z-lines being pulled
+toward the center of the sarcomere and in muscle fiber shortening
+(figure 1.7). As actin filaments slide over myosin filaments, both the
+H-zone and I-band shrink. The energy-dependent association of
+myosin heads with actin filaments (i.e., actin-myosin crossbridge
+formation), as well as the energy-dependent inward movement of
+actin filaments over the myosin filaments through what is termed the
+power stroke, are the bases for muscle contraction. Although a
+very small displacement of an actin filament occurs with each power
+stroke, this action is rapidly repeated across all sarcomeres during
+voluntary muscle contractions leading to appreciable movement with
+prolonged contractions (41).
+Resting Phase
+When a muscle is not active, low levels of calcium are present in the
+myofibrils of muscle fibers (most of it is stored in the sarcoplasmic
+reticulum), so very few actin-myosin crossbridges are formed.
+Excitation–Contraction Coupling Phase
+53
+
+When a motor neuron activates a muscle fiber, a cascade of events
+occur that stimulate the sarcoplasmic reticulum to release calcium
+ions into the myofibrils of the muscle fiber. Secreted calcium ions
+bind with a high affinity to the troponin protein, which exists at
+regular intervals along the actin filament (figure 1.6). This calcium-
+troponin interaction causes a shift in another protein termed
+tropomyosin, which is bound to troponin and spans the length of
+the actin filament. These events expose the myosin binding site on
+actin and enable the myosin head to attach to the actin filament to
+form an actin-myosin crossbridge (4). It is important to understand
+that the amount of force produced by any given muscle is directly
+related to the number of actin-myosin crossbridges formed within
+the muscle fibers of that muscle (4). Thus, activities that require a
+high force output necessitate the activation (or recruitment) of most
+motor neurons and the muscle fibers they innervate to achieve the
+maximal amount of actin-myosin crossbridge formation.
+The number of actin-myosin crossbridges formed within
+the muscle fibers of a given muscle at any instant in
+time dictates the force production of the muscle.
+Contraction Phase
+The contraction phase involves the mechanical movement (or
+pivoting) of the myosin head from the resting phase when the actin-
+myosin crossbridge is formed, which leads to the pulling of the
+associated actin filament to the center of the sarcomere. Critically,
+this mechanical movement is catalyzed from the biochemical energy
+provided by the hydrolysis (or breakdown) of adenosine triphosphate
+(ATP) by the myosin adenosine triphosphatase (ATPase)
+enzyme present on the myosin head. The products of ATP hydrolysis
+include adenosine diphosphate (ADP) and inorganic phosphate (Pi),
+metabolites that also serve critical roles in the contraction process.
+While the different phases of the contraction phase are relatively
+complex, they can be summarized as follows:
+54
+
+1. The myosin head hydrolyzes ATP into ADP and Pi, both of
+which remain bound to the myosin head. The energy provided
+by this biochemical reaction results in a conformational change
+whereby the myosin head is cocked into a high-energy state.
+2. In its high-energy state, the myosin head binds to actin to
+form the actin-myosin crossbridge.
+3. The release of Pi from the myosin head catalyzes a
+confirmational change in the myosin molecule, leading to the
+power stroke, which is the pivoting of the myosin head that
+pulls the actin filament toward the center of the sarcomere.
+4. Following the first power stroke, ADP is released from the
+myosin head and another ATP molecule binds to the myosin
+head.
+5. The actin-myosin crossbridge is subsequently dissociated, the
+myosin head returns to its original low-energy state and
+conformation, and the process is repeated with the hydrolysis
+of the newly bound ATP molecule.
+So long as calcium ions remain bound to troponin during muscle
+activation, contiguous rapid rounds of actin-myosin crossbridge
+formation, power strokes, and actin-myosin crossbridge dissociation
+will occur, and this is termed crossbridge cycling.
+Calcium and ATP are necessary for crossbridge cycling
+with actin and myosin filaments.
+Relaxation Phase
+Relaxation occurs when the stimulation of the motor neuron ceases.
+Calcium is pumped back into the sarcoplasmic reticulum through
+specialized transporters that also require ATP, and the restoration of
+low calcium ion concentrations in myofibrils highly reduces the
+number of actin-myosin crossbridges.
+55
+
+Neuromuscular System
+Muscle fibers are innervated by motor neurons that transmit
+impulses in the form of electrochemical signals from the spinal cord
+to the muscle. A motor neuron generally has numerous terminal
+branches at the end of its axon, allowing for several muscle fibers to
+be innervated. This integrated structure is termed the motor unit.
+Motor units can be generally described as slow-twitch, fast-
+twitch/fatigue-resistant, and fast-twitch/fatigable. These motor unit
+characteristics dictate muscle fiber type, contractile characteristics,
+and involvement in different types of activities and exercise.
+Activation of Muscles
+When a motor neuron fires an impulse or action potential, all the
+muscle fibers that it innervates are simultaneously activated and
+contract through the mechanisms previously described. The number
+of muscle fibers vary within each motor unit. Muscles that are
+required to function with great precision, such as eye muscles, may
+have motor units with as few as one muscle fiber. Changes in the
+number of active motor units in these small muscles can produce the
+extremely fine gradations in force that are necessary for precise
+movements of the eyeball. In contrast, the quadriceps muscle group,
+which moves the leg with much less precision, may have several
+hundred muscle fibers innervated by one motor neuron.
+An action potential is an electrochemical signal that travels along
+a motor neuron from the cell body to the nerve terminal. However,
+this signal is not capable of directly exciting muscle fibers. Instead,
+the arrival of the action potential at nerve terminals of the motor
+neuron 
+causes 
+the 
+secretion 
+of 
+a 
+neurotransmitter 
+called
+acetylcholine to each of the neuromuscular junctions contained
+within the motor unit. Secreted acetylcholine binds to and activates
+acetylcholine receptors present on the sarcolemma of muscle fibers
+within the motor unit. Once enough acetylcholine receptors are
+activated, action potentials are generated along the sarcolemma of
+56
+
+these muscle fibers. These action potentials continue down T-tubules
+to eventually catalyze the release of calcium from the sarcoplasmic
+reticulum as discussed earlier in this chapter. These events ultimately
+lead to all the muscle fibers within the motor unit to simultaneously
+contract and develop force. There is no evidence to date suggesting
+that an active motor unit only activates a portion of the muscle
+fibers to contract. Similarly, no evidence to date suggests that
+individual muscle fibers can be partially activated within an active
+motor unit. Hence, the all-or-none principle has been generally
+used to describe this phenomenon; specifically, the activation of any
+given motor neuron will lead to the activation and contraction of all
+of the muscle fibers it innervates.
+Each action potential traveling down a motor neuron results in the
+rapid activation of the muscle fibers within the motor unit. The brief
+contraction that occurs in response to one action potential is referred
+to as a twitch. Although calcium release from the sarcoplasmic
+reticulum during a twitch is sufficient to allow for actin-myosin
+crossbridging to occur, a brief twitch (which lasts milliseconds) does
+not enable a high level of force to be developed given that calcium is
+rapidly sequestered back to the sarcoplasmic reticulum and the
+muscle fiber relaxes (figure 1.8a). If a second twitch is elicited from
+the motor neuron before the innervated muscle fibers completely
+relax, forces generated from the two twitches summate, resulting in
+a greater force relative to that which is produced by a single twitch
+(figure 1.8b). Decreasing the time interval between twitches results
+in an even greater force summation, and a high activation frequency
+leads to the merging of twitches in what has been termed unfused
+and fused tetanic contractions (figure 1.8c and d). The force
+generated by a motor unit during fused tetanic contractions (i.e., the
+maximal tetanic force) is the maximal force that the motor unit can
+develop (8). The ability of motor units to sustain this type of
+contraction (along with the size of muscle fibers and motor unit
+recruitment patterns) is likely one of the key determinants of
+maximal force and power outputs during athletic endeavors.
+57
+
+FIGURE 1.8 Twitch, twitch summation, and tetanus of a motor unit: a = single twitch; b
+= force resulting from summation of two twitches; c = unfused tetanus; d = fused tetanus.
+Muscle Fiber Types
+Skeletal muscles are composed of muscle fibers that have markedly
+different morphological and physiological characteristics (37). These
+differences have led to different classification systems, with the most
+familiar including the terms slow-twitch and fast-twitch muscle
+fibers. Because a motor unit innervates muscle fibers that are
+metabolically and functionally similar to one another, motor units
+have also been historically designated using this nomenclature. A
+fast-twitch motor unit is one that develops force and relaxes rapidly,
+thus exhibiting a shorter twitch time. Slow-twitch motor units, in
+contrast, develop force and relax slowly and have a longer twitch
+time. General differences between these types of motor units can be
+found in figure 1.9.
+Regarding muscle fiber classification, histochemical staining for
+myosin ATPase content was also used for years to classify myofibers
+as type I (slow-twitch), type IIa (fast-twitch), and type IIx (fast-
+twitch). Other methods used for myofiber classification involve single
+fiber isolation techniques to quantify the presence of different
+myosin heavy chain isoforms and immunohistochemical staining for
+myosin heavy chain isoforms (33). The nomenclature for both
+techniques is akin to that associated with the myosin ATPase
+histology methods.
+58
+
+Fiber types are also delineated by differences in fatigue resistance
+and force production capabilities, and this can be due to small to
+moderate differences in cellular morphology, intracellular protein
+content, and organelle distribution. For instance, type I fibers are
+generally more fatigue resistant relative to type II fibers, and type I
+fibers have a higher capacity to produce ATP via aerobic metabolism.
+This difference can be largely attributed to mitochondrial
+characteristic differences between fiber types, because type I fibers
+have a higher density and a more even distribution of mitochondria
+between myofibrils relative to type II fibers (31). However, type I
+fibers produce less overall force and yield a lower rate of force
+development compared to type II fibers. These latter characteristic
+differences are chiefly due to type I myofibers exhibiting lower
+cellular diameters (and thus less myofibrils per cell) compared to
+type II fibers (21). Additionally, myosin ATPase reaction rates differ
+between the type I and II isoforms, wherein the type I isoform
+exhibits a relatively lower reaction rate and thus a reduced rate at
+which crossbridge cycling can occur (38).
+59
+
+FIGURE 1.9 Comparison of slow- and fast-twitch motor units: a = schematic of slow-
+twitch and fast-twitch motor units innervating separate sets of muscle fibers; b =
+characteristics of slow-twitch and fast-twitch motor units; c = hypothetical differences
+between unweighted versus weighted arm curls on slow-twitch and fast-twitch motor unit
+recruitment patterns. Note: In healthy individuals this innervation pattern (a) exists in a
+pseudo-random mosaic pattern. Unlike non-weighted contractions that recruit lower
+threshold motor units, weighted contractions (c) will recruit both lower threshold slow-
+60
+
+twitch and higher threshold fast-twitch motor units, which is an example of the size
+principle of motor unit recruitment.
+Other notable differences exist between type I and II fibers. For
+instance, type I fibers have more contacts with capillaries compared
+to type II fibers (5, 19, 23, 34), and this feature (along with smaller
+cellular diameters and more intracellular myoglobin) yields a higher
+oxygen diffusion potential that favors aerobic metabolism. A 2021
+research study using sophisticated molecular approaches has also
+unveiled that the content of hundreds of structural and metabolic
+proteins differs between type I, IIa, and IIx fibers (30), and these
+findings suggest that these appreciable differences contribute to the
+unique fiber type characteristics discussed in this paragraph. Based
+on these differences, it is not surprising that postural muscles, such
+as the soleus, have a high composition of type I fibers, whereas
+larger locomotor muscles, such as the quadriceps muscles, have a
+mixture of both type I and type II fibers to enable both low and high
+power output activities (such as jogging and sprinting, respectively).
+Refer to table 1.1 for a summary of the primary characteristics of
+fiber types.
+Motor units are composed of muscle fibers with specific
+morphological and physiological characteristics that
+determine their functional capacity.
+TABLE 1.1 Major Characteristics of Muscle Fiber
+Types
+Characteristic
+Fiber types
+Type I
+Type IIa
+Type IIx
+Motor neuron size
+Small
+Large
+Large
+Recruitment threshold
+Low
+Intermediate/high
+High
+Nerve conduction velocity
+Slow
+Fast
+Fast
+61
+
+Characteristic
+Fiber types
+Contraction speed
+Slow
+Fast
+Fast
+Relaxation speed
+Slow
+Fast
+Fast
+Fatigue resistance
+High
+Intermediate/low
+Low
+Endurance
+High
+Intermediate/low
+Low
+Force production
+Low
+Intermediate
+High
+Power output
+Low
+Intermediate/high
+High
+Aerobic enzyme content
+High
+Intermediate/low
+Low
+Anaerobic enzyme content
+Low
+High
+High
+Sarcoplasmic reticulum complexity
+Low
+Intermediate/high
+High
+Capillary density
+High
+Intermediate
+Low
+Myoglobin content
+High
+Low
+Low
+Mitochondrial size, density
+High
+Intermediate
+Low
+Fiber diameter
+Small
+Intermediate
+Large
+Color
+Red
+White/red
+White
+Motor Unit Recruitment Patterns
+Through everyday experiences, it is evident that a given muscle can
+vary its level of force output according to the level required by a
+particular task. This ability to vary or gradate force is essential for
+performance of smooth, coordinated patterns of movement.
+Muscular force can be graded in two ways. One is through variation
+in the frequency at which motor units are activated. A single twitch
+results from one action potential, and this does not produce a great
+deal of force. However, if the frequency of activation is increased so
+that the forces of the twitches begin to overlap or summate, the
+resulting force developed by the motor unit is much greater. This
+method of varying force output is especially important in small
+muscles, such as those of the hand. Even at low forces, most of the
+motor units in these muscles are activated, albeit at a low frequency.
+62
+
+Force output of the whole muscle is intensified through an increase
+in the frequency of firing of individual motor units. Another manner
+to increase muscle force involves increasing the number of motor
+units activated, a process known as recruitment. In large muscles,
+such as those in the thigh, most motor units are required to be
+activated at relatively higher frequencies during near-maximal
+contraction efforts. As a result, increases in force output are
+achieved through increases in motor unit firing frequency as well as
+the recruitment of additional motor units.
+TABLE 1.2 Relative Involvement of Muscle Fiber
+Types in Sport Events
+Event
+Type I
+Type II
+100 m sprint
+Low
+High
+800 m run
+High
+High
+Marathon
+High
+Low
+Olympic weightlifting
+Low
+High
+Soccer, lacrosse, hockey
+High
+High
+American football wide receiver
+Low
+High
+American football lineman
+Low
+High
+Basketball, team handball
+Low
+High
+Volleyball
+Low
+High
+Baseball or softball pitcher
+Low
+High
+Mixed martial arts
+High
+High
+Wrestling
+High
+High
+50 m swim
+Low
+High
+Field events
+Low
+High
+Cross-country skiing, biathlon
+High
+Low
+Tennis
+High
+High
+63
+
+Event
+Type I
+Type II
+Downhill or slalom skiing
+High
+High
+Speed skating
+High
+High
+Bobsled
+Low
+High
+Distance cycling
+High
+Low
+Rowing
+High
+High
+The types of motor units recruited for a given activity are
+determined by the physiological demand imposed by that activity
+over a given unit of time (table 1.2). For an activity such as slower
+long-distance running, slow-twitch motor units are predominantly
+engaged in working muscles given that physiological demand is not
+relatively high over time and these motor units possess a heightened
+endurance capacity and resistance to fatigue. Sprints at the end of a
+race that impose a relatively higher physiological demand, however,
+require the additional activation of fast-twitch motor units. If an
+activity requires near-maximal contractions over very short time
+periods, such as those observed with the power clean, most of the
+motor units in the involved muscle(s) are recruited and the fast-
+twitch motor units make more of a significant contribution to the
+effort. Electromyography estimates have indicated that maximal
+voluntary contractions with higher intensity weightlifting typically
+lead to approximately 90% or more activation of available motor
+units in the involved muscle(s) (7). However, some caveats must be
+considered with this estimation. First, the activation of the entire
+motor neuron pool is probably not possible in untrained people (9,
+10, 18). Moreover, although large fast-twitch units may be recruited
+if the effort is substantial, it is probably not possible to activate them
+at a high enough frequency under most circumstances for maximal
+force to be realized. These details aside, it is important to appreciate
+that motor unit activation varies regarding different types of physical
+activity.
+64
+
+The force output of a muscle can be varied through
+changes in the frequency of activation of individual
+motor units as well as a change in the number of
+activated motor units.
+Proprioception
+Proprioceptors are specialized sensory receptors located within
+joints, muscles, and tendons. Because these receptors are sensitive
+to pressure and tension, they relay information concerning muscle
+dynamics to the conscious and subconscious parts of the central
+nervous system. The brain is thus provided with information
+concerning kinesthetic sense, or conscious appreciation of the
+position of body parts with respect to gravity. Most of this
+proprioceptive information, however, is processed at subconscious
+levels so we do not have to dedicate conscious activity toward tasks
+such as maintaining posture or position of body parts.
+Proprioceptors are specialized sensory receptors that
+provide the central nervous system with information
+needed to maintain muscle tone and perform complex
+coordinated movements.
+Muscle Spindles
+Muscle spindles are proprioceptors that consist of several modified
+muscle fibers enclosed in a sheath of connective tissue (figure 1.10).
+These modified fibers, called intrafusal fibers, run parallel to the
+normal, or extrafusal, fibers. Muscle spindles provide information
+concerning muscle length and the rate of change in length. When
+the muscle lengthens, spindles are stretched. This deformation
+activates the sensory neuron of the spindle, which sends an impulse
+to the spinal cord, where it synapses (connects) with motor neurons.
+This results in the activation of motor neurons that innervate the
+same muscle. Spindles thus indicate the degree to which the muscle
+65
+
+must be activated in order to overcome a given resistance. As a load
+increases, the muscle is stretched to a greater extent, and
+engagement of muscle spindles results in greater activation of the
+muscle. Muscles that perform precise movements have many
+spindles per unit of mass to help ensure exact control of their
+contractile activity. A simple example of muscle spindle activity is the
+knee jerk reflex. Tapping on the tendon of the knee extensor muscle
+group below the patella stretches the muscle spindle fibers. This
+causes activation of extrafusal muscle fibers in the same muscle. A
+knee jerk occurs as these fibers actively shorten. This, in turn,
+shortens the intrafusal fibers and causes their discharge to cease.
+FIGURE 1.10 Muscle spindle. When a muscle is stretched, deformation of the muscle
+spindle activates the sensory neuron, which sends an impulse to the spinal cord, where it
+synapses with a motor neuron, causing the muscle to contract.
+66
+
+How Can Athletes Improve Force
+Production?
+Incorporate phases of training that use heavier loads (or explosive actions) to
+optimize motor unit recruitment and firing frequency patterns
+Also incorporate phases of training that promote skeletal muscular
+hypertrophy given that more myofibrils (and thus more actin-myosin
+crossbridges) will be available for near-maximal muscle contractions
+Finally, implement training methods that specifically target movements where
+increases in force are desired (e.g., heavy bench press and back squat
+exercises for increasing pushing forces)
+Golgi Tendon Organs
+Golgi tendon organs (GTOs) are proprioceptors located in
+tendons near the myotendinous junction and are in series—that is,
+attached end to end, with extrafusal muscle fibers (figure 1.10).
+Golgi tendon organs are activated when the tendon attached to an
+active muscle is stretched. As tension in the muscle and tendons
+increases, the discharge of the GTOs increases. The sensory neuron
+of the GTO synapses with an inhibitory interneuron in the spinal
+cord, which in turn synapses with and inhibits a motor neuron that
+serves the same muscle. The result is a reduction in tension within
+the muscle and tendon. Thus, whereas spindles facilitate activation
+of the muscle, neural input from GTOs inhibits muscle activation.
+The GTOs’ inhibitory process is thought to provide a mechanism that
+protects against the development of excessive tension. The effect of
+GTOs is therefore minimal at low forces, but when an extremely
+heavy load is placed on the muscle, reflexive inhibition mediated by
+the GTOs causes the muscle to relax. The ability of the motor cortex
+to override this inhibition may be one of the fundamental
+adaptations to heavy resistance training.
+67
+
+Cardiovascular System
+The primary roles of the cardiovascular system are to transport
+nutrients and remove waste and by-products while assisting with
+maintaining the environment for all the body’s functions. The
+cardiovascular system plays key roles in the regulation of the body’s
+acid–base system, fluids, and temperature, as well as a variety of
+other physiological functions. This section describes the anatomy
+and physiology of the heart and the blood vessels.
+Heart
+The heart is a muscular organ composed of two interconnected but
+separate pumps; the right side of the heart pumps blood through
+the lungs, and the left side pumps blood through the rest of the
+body. Each pump has two chambers: an atrium and a ventricle
+(figure 1.11). The right and left atria deliver blood into the right and
+left ventricles. The right and left ventricles supply the main force for
+moving blood through the pulmonary and peripheral circulations,
+respectively (41).
+Valves
+The tricuspid valve and mitral valve (bicuspid valve) (collectively
+called atrioventricular [AV] valves) prevent the flow of blood
+from the ventricles back into the atria during ventricular contraction
+(systole). The aortic valve and pulmonary valve (collectively,
+the semilunar valves) prevent backflow from the aorta and
+pulmonary arteries into the ventricles during ventricular relaxation
+(diastole). Each valve opens and closes passively; that is, each
+closes when a backward pressure gradient pushes blood back
+against it, opening when a forward pressure gradient forces blood in
+the forward direction (41).
+68
+
+Conduction System
+A specialized electrical conduction system (figure 1.12) controls the
+mechanical contraction of the heart. The conduction system is
+composed of
+the sinoatrial (SA) node—the intrinsic pacemaker—where
+rhythmic electrical impulses are normally initiated;
+the internodal pathways that conduct the impulse from the SA
+node to the atrioventricular node;
+the atrioventricular (AV) node, where the impulse is
+delayed slightly before passing into the ventricles;
+the atrioventricular (AV) bundle, which conducts the
+impulse to the ventricles; and
+the left bundle branch and right bundle branch, which
+further divide into the Purkinje fibers and conduct impulses
+to all parts of the ventricles.
+The SA node is a small area of specialized muscle tissue located in
+the upper lateral wall of the right atrium. The fibers of the node are
+contiguous with the muscle fibers of the atrium, with the result that
+each electrical impulse that begins in the SA node normally spreads
+immediately into the atria. The conductive system is organized so
+that the impulse does not travel into the ventricles too rapidly,
+allowing time for the atria to contract and empty blood into the
+ventricles before ventricular contraction begins. It is primarily the AV
+node and its associated conductive fibers that delay each impulse
+entering into the ventricles. The AV node is located in the posterior
+septal wall of the right atrium (41).
+The left and right bundle branches lead from the AV bundle into
+the ventricles. Except for their initial portion, where they penetrate
+the AV barrier, these conduction fibers have functional characteristics
+quite opposite those of the AV nodal fibers. They are large and
+transmit impulses at a much higher velocity than the AV nodal fibers.
+Because these fibers give way to the Purkinje fibers, which more
+completely penetrate the ventricles, the impulse travels quickly
+69
+
+throughout the entire ventricular system and causes both ventricles
+to contract at approximately the same time (41).
+The SA node normally controls heart rhythmicity because its
+discharge rate is considerably greater (60-80 times per minute) than
+that of either the AV node (40-60 times per minute) or the
+ventricular fibers (15-40 times per minute). Each time the SA node
+discharges, its impulse is conducted into the AV node and the
+ventricular fibers, discharging their excitable membranes. Thus,
+these potentially self-excitatory tissues are discharged before self-
+excitation can actually occur.
+70
+
+FIGURE 1.11 Structure of the human heart and the course of blood flow through its
+chambers.
+71
+
+FIGURE 1.12 The electrical conduction system of the heart.
+The inherent rhythmicity and conduction properties of the
+myocardium (heart muscle) are influenced by the cardiovascular
+center of the medulla, which transmits signals to the heart through
+the sympathetic and parasympathetic nervous systems, both
+of which are components of the autonomic nervous system. The
+atria are supplied with a large number of both sympathetic and
+parasympathetic 
+neurons, 
+whereas 
+the 
+ventricles 
+receive
+sympathetic fibers almost exclusively. Stimulation of the sympathetic
+nerves accelerates depolarization of the SA node (the chronotropic
+effect), which causes the heart to beat faster. Stimulation of the
+parasympathetic nervous system slows the rate of SA node
+discharge, which slows the heart rate. The resting heart rate
+normally ranges from 60 to 100 beats/min; fewer than 60 beats/min
+is called bradycardia, and more than 100 beats/min is called
+tachycardia.
+72
+
+Electrocardiogram
+The electrical activity of the heart can be recorded at the surface of
+the body; a graphic representation of this activity is called an
+electrocardiogram (ECG). A normal ECG, seen in figure 1.13, is
+composed of a P-wave, a QRS complex (the QRS complex is often
+three separate waves: a Q-wave, an R-wave, and an S-wave), and a
+T-wave. The P-wave and the QRS complex are recordings of
+electrical depolarization—that is, the electrical stimulus that leads to
+mechanical contraction. Depolarization is the reversal of the
+membrane electrical potential, whereby the normally negative
+potential inside the membrane becomes slightly positive and the
+outside becomes slightly negative. The P-wave is generated by the
+changes in the electrical potential of cardiac muscle cells that
+depolarize the atria and result in atrial contraction. The QRS complex
+is generated by the electrical potential that depolarizes the ventricles
+and results in ventricular contraction. In contrast, the T-wave is
+caused by the electrical potential generated as the ventricles recover
+from 
+the 
+state 
+of 
+depolarization; 
+this 
+process, 
+called
+repolarization, 
+occurs 
+in 
+ventricular 
+muscle 
+shortly 
+after
+depolarization. Although atrial repolarization occurs as well, its wave
+formation usually occurs during the time of ventricular depolarization
+and is thus masked by the QRS complex (41).
+73
+
+FIGURE 1.13 Normal electrocardiogram.
+Blood Vessels
+The central and peripheral circulation form a single closed-circuit
+system with two components: an arterial system, which carries
+blood away from the heart, and a venous system, which returns
+blood toward the heart (figure 1.14). The blood vessels of each
+system are identified here.
+74
+
+FIGURE 1.14 The arterial (right) and venous (left) components of the circulatory system.
+The percent values indicate the distribution of blood volume throughout the circulatory
+system at rest.
+Arteries
+The function of arteries is to rapidly transport blood pumped from
+the heart. Because blood pumped from the heart is under relatively
+high pressure, arteries have strong, muscular walls. Small branches
+of arteries called arterioles act as control vessels through which
+blood enters the capillaries. Arterioles play a major role in the
+regulation of blood flow to the capillaries. Arterioles have strong,
+muscular walls that are capable of closing the arteriole completely or
+allowing it to be dilated many times their size, thus vastly altering
+blood flow to the capillaries in response to the needs of the tissues
+(41).
+75
+
+Capillaries
+The function of capillaries is to facilitate exchange of oxygen, fluid,
+nutrients, electrolytes, hormones, and other substances between the
+blood and the interstitial fluid in the various tissues of the body. The
+capillary walls are very thin and are permeable to these, but not all,
+substances (41).
+Veins
+Venules collect blood from the capillaries and gradually converge
+into the progressively larger veins, which transport blood back to
+the heart. Because the pressure in the venous system is very low,
+venous walls are thin, although muscular. This allows them to
+constrict or dilate to a great degree and thereby act as a reservoir
+for blood, either in small or in large amounts (41). In addition, some
+veins, such as those in the legs, contain one-way valves that help
+maintain venous return by preventing retrograde blood flow.
+What Is the Skeletal Muscle Pump?
+The skeletal muscle pump is the assistance that contracting muscles provide to the
+circulatory system. The muscle pump works with the venous system, which
+contains the one-way valves for blood return to the heart. The contracting muscle
+compresses the veins, but since the blood can flow only in the direction of the
+valves, it is returned to the heart. This mechanism is one of the reasons why it is
+important to periodically contract leg muscles or to take walking breaks during
+prolonged sitting. These activities act to prevent blood pooling in the legs and
+facilitate venous blood return to the heart.
+The cardiovascular system transports nutrients and
+removes waste products while helping to maintain the
+environment for all the body’s functions. The blood
+transports oxygen from the lungs to the tissues for use
+in cellular metabolism. Blood also transports carbon
+dioxide 
+(mainly 
+as 
+bicarbonate 
+ions) 
+from 
+the
+76
+
+metabolically active tissues to the lungs, where it is
+removed from the body.
+Blood
+Two paramount functions of blood are the transport of oxygen from
+the lungs to the tissues for use in cellular metabolism and the
+removal of carbon dioxide, the most abundant by-product of
+metabolism, from the tissues to the lungs. The transport of oxygen
+is accomplished by hemoglobin, the iron–protein molecule carried
+by the red blood cells. Hemoglobin also has an additional important
+role as an acid–base buffer, a regulator of hydrogen ion
+concentration, which is crucial to the rates of chemical reactions in
+cells. Red blood cells, the major component of blood, have other
+functions as well. For instance, they contain a large quantity of
+carbonic anhydrase, which catalyzes the reaction between carbon
+dioxide and water to facilitate carbon dioxide removal.
+77
+
+Respiratory System
+The primary function of the respiratory system is the basic exchange
+of oxygen and carbon dioxide. The anatomy of the human
+respiratory system is shown in figure 1.15. As air passes through the
+nose, the nasal cavities perform three distinct functions: warming,
+humidifying, and purifying the air (41). Air is distributed to the lungs
+by way of the trachea, bronchi, and bronchioles. The trachea is
+called the first-generation respiratory passage, and the right and left
+main bronchi are the second-generation passages; each division
+thereafter is an additional generation (bronchioles). There are
+approximately 23 generations before the air finally reaches the
+alveoli, where gases are exchanged in respiration (41).
+The primary function of the respiratory system is the
+basic exchange of oxygen and carbon dioxide.
+Exchange of Air
+The amount and movement of air and expired gases in and out of
+the lungs are controlled by expansion and recoil of the lungs. The
+lungs do not actively expand and recoil themselves but rather are
+acted on to do so in two ways: by downward and upward movement
+of the diaphragm to lengthen and shorten the chest cavity and by
+elevation and depression of the ribs to increase and decrease the
+back-to-front diameter of the chest cavity (41). Normal, quiet
+breathing is accomplished almost entirely by movement of the
+diaphragm. During inspiration, contraction of the diaphragm creates
+a negative pressure (vacuum) in the chest cavity, and air is drawn
+into the lungs. During expiration, the diaphragm simply relaxes; the
+elastic recoil of the lungs, chest wall, and abdominal structures
+compresses the lungs, and air is expelled. During heavy breathing,
+the elastic forces alone are not powerful enough to provide the
+necessary respiratory response. The extra required force is achieved
+78
+
+mainly by contraction of the abdominal muscles, which push the
+abdomen upward against the bottom of the diaphragm (41).
+The second method for expanding the lungs is to raise the rib
+cage. Because the chest cavity is small and the ribs are slanted
+downward while in the resting position, elevating the rib cage allows
+the ribs to project almost directly forward so that the sternum can
+move forward and away from the spine. The muscles that elevate
+the rib cage are called muscles of inspiration and include the
+external intercostals, the sternocleidomastoids, the anterior serrati,
+and the scaleni. The muscles that depress the chest are muscles of
+expiration and include the abdominal muscles (rectus abdominis,
+external and internal obliques, and transversus abdominis) and the
+internal intercostals (41).
+79
+
+FIGURE 1.15 Gross anatomy of the human respiratory system.
+How Important Is It to Train the Muscles
+of Respiration?
+Regular exercise in general is beneficial for maintaining respiratory muscle
+function. Both endurance exercise, which involves repetitive contraction of
+breathing muscles, and resistance exercise, which taxes the diaphragm and
+abdominal muscles especially because of their use for stabilization and for
+increasing intra-abdominal pressure (Valsalva maneuver), can result in some
+muscle training adaptations. This can help to preserve some of the pulmonary
+function with aging.
+80
+
+Pleural pressure is the pressure in the narrow space between
+the lung pleura and the chest wall pleura (membranes enveloping
+the lungs and lining the chest walls). This pressure is normally
+slightly negative. Because the lung is an elastic structure, during
+normal inspiration the expansion of the chest cage can pull on the
+surface of the lungs and create a more negative pressure, thus
+enhancing inspiration. During expiration, the events are essentially
+reversed (41).
+Alveolar pressure is the pressure inside the alveoli when the
+glottis is open, and no air is flowing into or out of the lungs. In fact,
+in this instance the pressure in all parts of the respiratory tree is the
+same all the way to the alveoli and is equal to the atmospheric
+pressure. To cause inward flow of air during inspiration, the pressure
+in the alveoli must fall to a value slightly below atmospheric
+pressure. During expiration, alveolar pressure must rise above
+atmospheric pressure (41).
+During normal respiration at rest, only 3% to 5% of the total
+energy expended by the body is required for pulmonary ventilation.
+During very heavy exercise, however, the amount of energy required
+can increase to as much as 8% to 15% of total body energy
+expenditure, especially if the person has any degree of increased
+airway resistance, as occurs with exercise-induced asthma.
+Precautions, including physician evaluation of the athlete, are often
+recommended, depending on the potential level of impairment.
+Exchange of Respiratory Gases
+With ventilation, oxygen diffuses from the alveoli into the pulmonary
+blood, and carbon dioxide diffuses from the blood into the alveoli.
+The process of diffusion is a simple random motion of molecules
+moving in opposite directions through the alveolar capillary
+membrane. The energy for diffusion is provided by the kinetic
+motion of the molecules themselves. Net diffusion of the gas occurs
+from the region of high concentration to the region of low
+concentration. The rates of diffusion of the two gases depend on
+81
+
+their concentrations in the capillaries and alveoli and the partial
+pressure of each gas (41).
+At rest, the partial pressure of oxygen in the alveoli is about 60
+mmHg greater than that in the pulmonary capillaries. Thus, oxygen
+diffuses into the pulmonary capillary blood. Similarly, carbon dioxide
+diffuses in the opposite direction. This process of gas exchange is so
+rapid as to be thought of as instantaneous (41).
+82
+
+Acute Responses to Aerobic Exercise
+A single bout of aerobic exercise places a significant metabolic
+demand on the body, especially the cardiovascular, respiratory, and
+muscular systems. Repeated exposure to the acute stress of exercise
+that occurs with chronic exercise training results in many changes in
+the function and responses of all body systems. A basic knowledge
+of the acute effects of aerobic exercise provides the foundation for
+an understanding of the chronic adaptations that are discussed in
+chapter 6.
+Cardiovascular Responses
+The primary functions of the cardiovascular system during aerobic
+exercise are to deliver oxygen and other nutrients to the working
+muscles and remove metabolites and waste products. This section
+describes the cardiovascular mechanisms of these acute responses.
+Cardiac Output
+Cardiac output is the amount of blood pumped by the heart in
+liters per minute and is determined by the quantity of blood ejected
+with each beat (stroke volume) and the heart’s rate of pumping
+(heart rate):
+Q̇ = Stroke volume × Heart rate (1.1)
+where Q̇ is the cardiac output. Stroke volume is measured in
+milliliters of blood per beat, and heart rate is measured in beats
+(contractions) per minute (17).
+In the progression from rest to steady-state aerobic exercise,
+cardiac output initially increases rapidly, then more gradually, and
+subsequently reaches a plateau. With maximal exercise, cardiac
+output may increase to four times the resting level of about 5 L/min
+to a maximum of 20 to 22 L/min (1). Stroke volume begins to
+increase at the onset of exercise and continues to rise until the
+individual’s oxygen consumption is at approximately 40% to 50% of
+83
+
+maximal oxygen uptake (1). At that point, stroke volume begins to
+plateau. Sedentary college-aged men have maximal stroke volumes
+averaging between 100 and 120 mL of blood per beat; maximal
+stroke volumes for college-aged women are approximately 25% less,
+due to a smaller average body size as well as a smaller heart muscle
+(32). The effect of training on the responses to exercise is marked,
+and we see an increase in maximal stroke volume for college-aged
+men up to 150 to 160 mL per beat and approximately 100 to 110 for
+college-aged women (32).
+Stroke Volume
+Two physiological mechanisms are responsible for the regulation of
+stroke volume. The first is a result of the end-diastolic volume,
+the volume of blood available to be pumped by the left ventricle at
+the end of the filling phase, or diastole. The second is due to the
+action of catecholamines, including epinephrine and norepinephrine,
+which are hormones of the sympathetic nervous system that
+produce a more forceful ventricular contraction and greater systolic
+emptying of the heart.
+At the onset of exercise, or even with the anticipation of exercise,
+sympathetic stimulation increases myocardial contractility and
+consequently increases stroke volume (14, 27). With prolonged
+aerobic exercise, the amount of blood returning to the heart (also
+called venous return) is increased due to a combination of
+venoconstriction (induced via increased sympathetic nervous system
+activation) (2), the skeletal muscle pump (muscular contractions
+combine with one-way venous valves to “push” more blood to the
+heart during exercise (16), and the respiratory pump (increased
+respiratory frequency and tidal volume) (28). These responses result
+in pressure alterations on the chambers of the heart and thoracic
+vena cava, which promote increased venous return (28), and thus
+end-diastolic volume is significantly increased. With the increased
+volume, the myocardial fibers become more stretched than at rest,
+resulting in a more forceful contraction, an increase in force of
+84
+
+systolic ejection, and greater cardiac emptying (17). This principle,
+called the Frank-Starling mechanism, is related to the concept
+that the force of contraction is a function of the length of the fibers
+of the muscle wall. This increase in cardiac emptying is characterized
+by an increase in the ejection fraction, or the fraction of the end-
+diastolic volume ejected from the heart (14, 17).
+Heart Rate
+Just before and at the beginning of an exercise session, a reflex or
+anticipatory stimulation of the sympathetic nervous system results in
+an increase in heart rate. Heart rate increases linearly with increases
+in intensity during aerobic exercise (14). The rate of increase in
+heart rate, the actual heart rate response, and the maximal heart
+rate achieved relate to a variety of individual characteristics of the
+human system, including fitness and age, in addition to exercise
+workload.
+How Can Athletes Estimate Maximal Heart
+Rate?
+A simple estimate of maximal heart rate is to subtract one’s age from 220; for
+example, the estimated maximal heart rate for a 47-year-old person is
+220 – 47 (age in years) = 173 beats/min.
+The variance, or standard deviation, around this estimate is ±10 to 12 beats/min;
+thus the actual maximal heart rate for this individual could be expected to fall
+within the range of 161 to 185 beats/min. A meta-analysis determined that the
+equation 208 – 0.7 × age could be used in healthy adults to more accurately
+predict maximal heart rate (40).
+Oxygen Uptake
+Oxygen uptake is the amount of oxygen consumed by the body’s
+tissues. The oxygen demand of working muscles increases during an
+acute bout of aerobic exercise and is directly related to the mass of
+exercising muscle, metabolic efficiency, and exercise intensity.
+Aerobic exercise involving larger muscles is likely to be associated
+85
+
+with a higher total oxygen uptake. Increased metabolic efficiency
+allows for an increase in oxygen uptake, especially at maximal
+exercise.
+Maximal oxygen uptake is the greatest amount of oxygen that
+can be used at the cellular level for the entire body. Maximal oxygen
+uptake has been found to correlate well with the degree of aerobic
+conditioning and is recognized as the most widely accepted measure
+of cardiorespiratory fitness (14). The capacity to use oxygen is
+largely related to the ability of the heart and circulatory system to
+transport oxygen. However, muscular characteristics such as muscle
+fiber type, muscle fiber mitochondrial density, and capillary density in
+muscle tissue also affect maximal oxygen uptake. Resting oxygen
+uptake is estimated at 3.5 mL of oxygen per kilogram of body weight
+per minute (mL · kg−1 · min−1) for an average person; this value is
+defined as 1 metabolic equivalent (MET). Maximal oxygen
+uptake values in normal, healthy individuals generally range from 25
+to 80 mL · kg−1 · min−1, or 7.1 to 22.9 METs, and depend on a
+variety of physiological parameters, including age and conditioning
+level (17).
+Oxygen uptake (V̇O2) can be calculated with the Fick equation,
+which expresses the relationship of cardiac output, oxygen uptake,
+and arteriovenous oxygen difference:
+V̇O2 = Q̇ × a-vO2 difference    (1.2)
+where Q̇ is the cardiac output in milliliters per minute and a-vO2
+difference is the arteriovenous oxygen difference (the difference
+in the oxygen content between arterial and venous blood) in
+milliliters of oxygen per 100 mL of blood. Recalling equation 1.1, we
+can calculate oxygen uptake as shown in the following example:
+V̇O2 = Heart rate × Stroke volume × a-vO2 difference
+V̇O2 = 72 beats/min × 65 mL blood/beat × 6 mL O2/100 mL blood = 281
+mL O2/min
+To express oxygen uptake in its common unit (i.e., mL · kg−1 ·
+min−1), we would then divide the result by the person’s weight in
+86
+
+kilograms. This is an example for an 80 kilogram (176 pound)
+athlete:
+V̇O2 = 281 mL O2/min ÷ 80 kg
+V̇O2 = 3.5 mL · kg−1 · min−1
+Blood Pressure
+Systolic blood pressure estimates the pressure exerted against
+the arterial walls as blood is forcefully ejected during ventricular
+contraction (systole) and, when combined with heart rate, can be
+used to describe the myocardial oxygen consumption (work) of the
+heart. This estimate of the work of the heart is obtained according
+to the following equation and is referred to as the rate–pressure
+product, or double product:
+Rate–pressure product =     Heart rate × Systolic blood pressure    (1.3)
+Diastolic blood pressure is used to estimate the pressure
+exerted against the arterial walls when no blood is being forcefully
+ejected through the vessels (diastole). Diastolic blood pressure
+provides an indication of peripheral resistance and can decrease with
+aerobic exercise due to vasodilation. In systemic circulation, pressure
+is highest in the aorta and arteries and rapidly falls off within the
+venous circulation. Also, because pumping by the heart is pulsatile,
+resting arterial pressure on average fluctuates between a systolic
+level of 120 mmHg and a diastolic level of 80 mmHg (approximate
+values). As the blood flow continues through the systemic
+circulation, its pressure falls progressively to nearly 0 mmHg (venous
+pressure) by the time it reaches the termination of the vena cava in
+the right atrium (17).
+The mean arterial pressure is the average blood pressure
+throughout the cardiac cycle (equation 1.4). Mean arterial pressure
+is not the average of systolic and diastolic pressures, because the
+arterial pressure usually remains nearer the diastolic level than the
+systolic level during a greater portion of the cardiac cycle. Thus, the
+87
+
+mean arterial pressure is usually less than the average of the systolic
+and diastolic pressures.
+Mean arterial blood pressure = [(Systolic blood pressure − Diastolic blood
+pressure) ÷ 3] + Diastolic blood pressure    (1.4)
+Normal resting blood pressure generally ranges from 110 to 139
+mmHg systolic and from 60 to 89 mmHg diastolic. With maximal
+aerobic exercise, systolic pressure can normally rise to as much as
+220 to 260 mmHg, while diastolic pressure remains at the resting
+level or decreases slightly (17, 27).
+Control of Local Circulation
+Resistance to blood flow is also increased with increasing viscosity of
+the blood and the length of the vessel. However, these factors
+remain relatively constant under most circumstances. Thus,
+vasoconstriction (reduction in vessel diameter) and vasodilation
+(increase in vessel diameter) are the primary mechanisms for
+regulating regional blood flow.
+During aerobic exercise, blood flow to active muscles is
+considerably increased by the dilation of local arterioles; at the same
+time, blood flow to other organ systems is reduced by constriction of
+the arterioles. At rest, 15% to 20% of cardiac output is distributed to
+skeletal muscle, whereas with vigorous exercise this value may rise
+to 90% of cardiac output (14, 27).
+Acute aerobic exercise results in increased cardiac
+output, stroke volume, heart rate, oxygen uptake,
+systolic blood pressure, and blood flow to active muscles
+and a decrease in diastolic blood pressure.
+Respiratory Responses
+Aerobic exercise provides for the greatest impact on both oxygen
+uptake and carbon dioxide production as compared to other types of
+exercise, such as anaerobic resistance training. Significant increases
+88
+
+in oxygen delivered to the tissue, carbon dioxide returned to the
+lungs, and minute ventilation (the volume of air breathed per
+minute) provide for appropriate levels of alveolar gas concentrations
+during aerobic exercise (27).
+With aerobic exercise, increased minute ventilation occurs as a
+result of increases in the depth of breathing, frequency of breathing,
+or both. During strenuous exercise, the breathing frequency of
+healthy young adults usually increases from 12 to 15 breaths per
+minute at rest to 35 to 45 breaths per minute, while tidal volume
+(TV), the amount of air inhaled and exhaled with each breath,
+increases from resting values of 0.4 to 1 L to as much as 3 L or
+greater. Consequently, the minute ventilation can increase to 15 to
+25 times the resting value, or to values of 90 to 150 L of air per
+minute (14, 17, 27).
+During low- to moderate-intensity aerobic exercise, there is an
+increase in ventilation directly associated with both increased oxygen
+uptake and carbon dioxide production. In this instance, the increase
+in ventilation is primarily due to increased tidal volume. The ratio of
+minute ventilation to oxygen uptake is termed the ventilatory
+equivalent and ranges between 20 and 25 L of air per L of oxygen
+consumed. In more intense exercise (generally above 45% to 65%
+of maximal oxygen uptake in untrained individuals and 70% to 90%
+in trained athletes), breathing frequency takes on a greater role. At
+these levels, minute ventilation rises disproportionately to the
+increases in oxygen uptake and begins to parallel the abrupt rise in
+blood lactate. At this point, the ventilatory equivalent may increase
+to 35 or 40 L of air per L of oxygen consumed with this high-
+intensity activity (14, 27).
+With inspiration, air enters the alveoli, the functional unit of the
+pulmonary system where gas exchange occurs. However, with
+inspiration, air also occupies areas of the respiratory passages: the
+nose, mouth, trachea, bronchi, and bronchioles. This area is not
+functional for gas exchange and is called the anatomical dead
+space. The normal volume of this air space is approximately 150 mL
+89
+
+in young adults and increases with age. Because the respiratory
+passages stretch with deep breathing, the anatomical dead space
+increases as tidal volume increases (figure 1.16). Nevertheless, the
+increase in tidal volume with deep breathing is proportionately
+greater than any increase in anatomical dead space. Thus,
+increasing tidal volume (deeper breathing) provides for more
+efficient ventilation than increasing frequency of breathing alone (17,
+27).
+Physiological dead space refers to alveoli in which poor blood
+flow, poor ventilation, or other problems with the alveolar surface
+impair gas exchange. The physiological dead space in the lungs of
+healthy people is usually negligible because all or nearly all alveoli
+are functional. Certain types of lung disease such as chronic
+obstructive lung disease or pneumonia can significantly reduce
+alveolar function, increasing physiological dead space by as much as
+10 times the volume of anatomical dead space (17, 27).
+During aerobic exercise, large amounts of oxygen
+diffuse from the capillaries into the tissues; increased
+levels of carbon dioxide move from the blood into the
+alveoli; and minute ventilation increases to maintain
+appropriate alveolar concentrations of these gases.
+90
+
+FIGURE 1.16 Distribution of tidal volume in a healthy athlete at rest. The tidal volume
+comprises about 350 mL of room air that mixes with alveolar air, about 150 mL of air in the
+larger passages (anatomical dead space), and a small portion of air distributed to either
+poorly ventilated or incompletely filled alveoli (physiological dead space).
+Gas Responses
+Diffusion is the movement of oxygen and carbon dioxide across a
+cell membrane and is a function of the concentration of each gas
+and the resulting partial pressure exerted by the molecular motion of
+each gas. Diffusion results from the movement of gas from high
+concentration to low concentration. At the tissue level, where oxygen
+is used in metabolism and carbon dioxide is produced, the partial
+pressures of these gases in some instances differ considerably from
+those in arterial blood (figure 1.17). At rest, the partial pressure of
+oxygen in the interstitial fluid (fluid between muscle fibers) rapidly
+drops from 100 mmHg in arterial blood to as low as 40 mmHg, while
+the partial pressure of carbon dioxide is elevated above that of
+arterial blood to about 46 mmHg. During high-intensity aerobic
+exercise, the partial pressures of these gases are approximately 3
+mmHg for oxygen and 90 mmHg for carbon dioxide. Consequently,
+91
+
+these pressure gradients cause the movement of gases across cell
+membranes. In addition, the diffusing capacities of oxygen and, in
+particular, carbon dioxide increase dramatically with exercise, which
+facilitates their exchange (14, 17, 27).
+FIGURE 1.17 Pressure gradients for gas transfer in the body at rest. The pressures of
+oxygen (PO2) and carbon dioxide (PCO2) in alveolar air, venous and arterial blood, and
+muscle tissue are shown.
+Blood Transport of Gases and Metabolic
+By-Products
+Oxygen is carried in blood either dissolved in the plasma or
+combined with hemoglobin. Because oxygen is not readily soluble in
+fluids, only about 3 mL of oxygen can be carried per liter of plasma.
+92
+
+Nonetheless, this limited amount of oxygen transported in plasma
+contributes to the partial pressure of oxygen in blood and other body
+fluids, thus playing a role in the mechanisms that regulate breathing
+and in the diffusion of oxygen into alveolar blood and the cells of
+body tissues (17, 27).
+Given the limited capacity of plasma to carry oxygen, the majority
+of oxygen in blood is carried by the hemoglobin. Men have about 15
+to 16 g of hemoglobin per 100 mL of blood, and women have about
+14 g of hemoglobin per 100 mL of blood. One gram of hemoglobin
+can carry 1.34 mL of oxygen; thus, the oxygen-carrying capacity of
+100 mL of blood is about 20 mL of oxygen in men and a little less in
+women (27).
+The way in which carbon dioxide is removed from the system has
+some similarities to oxygen transport, but the vast amount of carbon
+dioxide is removed by a more complex process. After carbon dioxide
+is formed in the cell, it easily diffuses across the cell membranes and
+is subsequently transported to the lungs. As with oxygen, only a
+limited quantity of carbon dioxide—about 5% of that produced
+during metabolism—is carried in the plasma; similar to the situation
+with oxygen, this limited amount of carbon dioxide contributes to
+establishing the partial pressure of carbon dioxide in the blood.
+Some carbon dioxide is also transported via hemoglobin, but this
+amount is limited (27).
+The greatest amount of carbon dioxide removal (approximately
+70%) is from the combination with water and delivery to the lungs in
+the form of bicarbonate (HCO3−). The initial step in this reversible
+reaction is the combination of carbon dioxide in solution with water
+in the red blood cells to form carbonic acid. The reaction would
+normally be quite slow except for the impact of the enzyme carbonic
+anhydrase, which significantly speeds up this process. Once carbonic
+acid is formed, it is broken down to hydrogen ions and bicarbonate
+ions. Because hemoglobin is a significant acid–base buffer, hydrogen
+ions combine with hemoglobin. This process helps to maintain the
+pH of the blood. Bicarbonate ions diffuse from the red blood cells to
+93
+
+the plasma, while chloride ions diffuse into the blood cells to replace
+them (17, 27).
+94
+
+Cardiovascular and Respiratory
+Responses to Anaerobic Exercise
+Acute bouts of anaerobic exercise and long-term anaerobic training
+both have a significant impact on cardiovascular and respiratory
+function. This is reflected in both anaerobic athletes (12) and
+sedentary individuals (22), where enhanced cardiac function and
+dimensions are apparent. Heavy-load resistance training, resistance
+training with more repetitions of light loads and less rest, and
+conventional aerobic endurance training are all beneficial to the
+cardiovascular system but in different ways (13). Improved ability of
+the heart, lungs, and circulatory system to function under conditions
+of high pressure and force production can prepare the athlete’s body
+for the extreme demands of sporting competition.
+Acute Cardiovascular Responses to
+Anaerobic Exercise
+An acute bout of anaerobic exercise significantly increases
+cardiovascular responses. Heart rate, stroke volume, cardiac output,
+and blood pressure all increase significantly during resistance
+exercise. Peak blood pressures of 320/250 mmHg and a heart rate of
+170 beats/min have been reported during a high-intensity (i.e., 95%
+of 1RM) leg press exercise (26). Generally, the blood pressure
+response increases nonlinearly with the magnitude of active muscle
+mass and is higher during the concentric phase of each repetition
+than during the eccentric phase, especially at the “sticking point” of
+an exercise. Although large elevations in blood pressure have been
+reported during exercise bouts themselves, there are limited data to
+indicate that resistance training has any negative effects on resting
+blood pressure (6). In addition, intrathoracic pressure increases, and
+plasma volume reductions of up to 22% have been reported (34,
+36).
+95
+
+Acute anaerobic exercise results in increased cardiac
+output, stroke volume, heart rate, oxygen uptake,
+systolic blood pressure, and blood flow to active
+muscles.
+During a set of resistance exercise, stroke volume and cardiac
+output increase mostly during the eccentric phase of each repetition,
+especially when the Valsalva technique is used (see chapter 2) (11).
+Because the concentric phase of a repetition is much more difficult
+and elevations in intrathoracic and intra-abdominal pressures are
+more prominent (via the Valsalva maneuver), limiting venous return
+and reducing end-diastolic volume, the hemodynamic response of
+resistance exercise is delayed such that cardiac output increases
+more during rest periods between sets. This is especially true for an
+individual’s heart rate response; during the first 5 seconds after
+completion of a set, heart rate is higher than during the set itself
+(35).
+The degree to which blood flow is increased in the working
+muscles during anaerobic training is dependent on several factors,
+including the intensity of resistance, the length of time of the effort
+(i.e., the number of repetitions performed), and the size of the
+muscle mass activated. When lower resistances are lifted for several
+repetitions, the responses are relatively similar to those observed
+during aerobic exercise (15). However, heavy resistance exercise
+transiently decreases blood flow to the working muscles because of
+contracted muscle tissue impinging on capillaries and creating a
+localized occlusion. Muscular contractions greater than 20% of
+maximal voluntary contraction impede peripheral blood flow within
+the muscle during a set, but blood flow increases during the
+subsequent rest period (reactive hyperemia) (25). Interestingly,
+the lack of blood flow (and subsequent increase in metabolites such
+as hydrogen ions and reduction in pH) during heavy external loading
+is a potent stimulus for muscle growth (39). Overall, the magnitude
+of the acute cardiovascular responses depends on the intensity and
+96
+
+volume of exercise, muscle mass involvement, rest period length,
+and contraction velocity (24, 35).
+Ventilatory Response to Anaerobic
+Exercise
+Ventilation rate generally does not limit resistance exercise and is
+either unaffected or only moderately improved by anaerobic training.
+With resistance exercise, ventilation is significantly elevated during
+each set, but the elevation is even greater during the first minute of
+recovery (35). Ventilation rates of more than 60 L/min have been
+reported (35), and the rest interval length had a large effect such
+that short rest intervals (30 s to 1 min) produced the most
+substantial elevation. Training adaptations include increased tidal
+volume and breathing frequency with maximal exercise. With
+submaximal activity, however, breathing frequency is often reduced
+while tidal volume is increased. It appears that such ventilatory
+adaptations result from local, neural, or chemical adaptations in the
+specific muscles trained through exercise (3). Additionally, improved
+ventilation efficiency, as characterized by reduced ventilatory
+equivalent for oxygen (the ratio of air ventilated to oxygen used by
+the tissues, V̇E/V̇O2), is observed in trained versus untrained
+individuals (3).
+97
+
+Conclusion
+Knowledge of musculoskeletal, neuromuscular, cardiovascular, and
+respiratory anatomy and physiology is important for the strength and
+conditioning professional to better understand the scientific basis for
+conditioning. This includes knowledge of the function of the
+macrostructure and microstructure of the skeleton and muscle fibers,
+muscle fiber types, and interactions between tendon and muscle and
+between the motor unit and its activation, as well as the interactions
+of the heart, vascular system, lungs, and respiratory system. This
+information is necessary for developing training strategies that will
+meet the specific needs of the athlete.
+KEY TERMS
+A-band
+acetylcholine
+actin
+action potential
+all-or-none principle
+alveolar pressure
+alveoli
+anatomical dead space
+aortic valve
+appendicular skeleton
+arterial system
+arteriole
+artery
+arteriovenous oxygen difference
+atrioventricular (AV) bundle
+atrioventricular (AV) node
+atrioventricular (AV) valves
+atrium
+axial skeleton
+98
+
+biaxial joints
+bone periosteum
+bradycardia
+bronchi
+bronchiole
+capillary
+cardiac output
+cartilaginous joints
+crossbridge
+crossbridge cycling
+depolarization
+diastole
+diastolic blood pressure
+diffusion
+distal
+double product
+ejection fraction
+electrocardiogram (ECG)
+end-diastolic volume
+endomysium
+epimysium
+extrafusal fibers
+fasciculi
+fast-twitch fiber
+fibrous joints
+Fick equation
+Frank-Starling mechanism
+fused tetanic contraction
+Golgi tendon organ (GTO)
+heart rate
+hemoglobin
+hyaline cartilage
+H-zone
+I-band
+99
+
+inferior
+intrafusal fibers
+left bundle branch
+maximal heart rate
+maximal oxygen uptake
+mean arterial pressure
+metabolic equivalent (MET)
+minute ventilation
+mitral valve
+motor neuron
+motor unit
+multiaxial joints
+muscle fiber
+muscle spindle
+myocardium
+myofiber
+myofibril
+myofilament
+myosin
+myosin adenosine triphosphatase
+neuromuscular junction
+oxygen uptake
+parasympathetic nervous system
+perimysium
+physiological dead space
+pleura
+pleural pressure
+power stroke
+proprioceptor
+proximal
+pulmonary valve
+Purkinje fibers
+P-wave
+QRS complex
+100
+
+rate–pressure product
+reactive hyperemia
+red blood cell
+repolarization
+right bundle branch
+sarcolemma
+sarcomere
+sarcoplasm
+sarcoplasmic reticulum
+semilunar valves
+sinoatrial (SA) node
+sliding-filament theory
+slow-twitch fiber
+stroke volume
+superior
+sympathetic nervous system
+synovial fluid
+synovial joints
+systole
+systolic blood pressure
+tachycardia
+tendon
+tidal volume
+trachea
+tricuspid valve
+tropomyosin
+troponin
+T-wave
+twitch
+type I fiber
+type IIa fiber
+type IIx fiber
+unfused tetanic contraction
+uniaxial joints
+101
+
+vasoconstriction
+vasodilation
+vein
+venous return
+venous system
+ventilatory equivalent
+ventricle
+venule
+vertebral column
+Z-line
+STUDY QUESTIONS
+  1.  Based on the sliding-filament theory, which of the following
+two substances are needed inside of muscle fibers for muscle
+contraction to occur?
+  a.  sodium and fatty acids
+  b.  calcium and ATP
+  c.  ADP and Pi
+  d.  calcium and iron
+  2.  Which of the following is an accurate description of a motor
+unit?
+  a.  a muscle fiber and all of the motor neurons innervating it
+  b.  an upper and lower motor neuron
+  c.  a motor neuron and all of the muscle fibers it innervates
+  d.  a muscle fiber and all of the myofibrils within it
+  3.  Maximal oxygen uptake is most influenced by which of the
+following?
+  a.  the percentage of type I versus type II fibers in an
+individual’s leg muscles
+  b.  total blood volume
+  c.  age-predicted maximal heart rate
+  d.  the ability of the heart and circulatory system to transport
+oxygen
+102
+
+  4.  Which of the following respiratory responses occur during an
+aerobic training bout?
+  a.  decreased tidal volume
+  b.  decreased physiological dead space
+  c.  increased minute ventilation
+  d.  decreased motor unit activation of respiratory muscles
+  5.  Which cardiovascular response does not occur during a
+resistance exercise bout?
+  a.  decreased heart rate
+  b.  increased stroke volume
+  c.  increased cardiac output
+  d.  increased blood pressure
+103

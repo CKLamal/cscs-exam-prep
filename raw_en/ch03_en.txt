@@ -1,0 +1,1684 @@
+CHAPTER 3
+BIOENERGETICS OF
+EXERCISE AND TRAINING
+Dale W. Chapman, PhD
+The author would like to acknowledge the significant contributions of Trent J. Herda and
+Joel T. Cramer to this chapter.
+After completing this chapter, you will be able to
+explain the basic energy systems available to supply ATP during
+exercise;
+understand lactate accumulation, metabolic acidosis, and
+cellular manifestations of fatigue;
+identify patterns of substrate depletion and repletion during
+various exercise intensities;
+describe the bioenergetic factors that limit exercise
+performance;
+critique training programs based on the metabolic specificity of
+training; and
+explain the metabolic demands of and recovery from interval
+training, high-intensity interval training, and combination
+training to optimize work-to-rest ratios.
+Metabolic specificity of exercise and training is based on an
+understanding of the transfer of energy in biological systems.
+174
+
+Through an understanding of how energy transfer occurs, more
+efficient and productive training programs can be designed. After
+defining essential bioenergetics terminology and explaining the role
+of adenosine triphosphate (ATP), this chapter discusses the three
+basic energy systems that work to replenish ATP in human skeletal
+muscle. Then we look at substrate depletion and repletion, especially
+as they relate to fatigue and recovery; bioenergetic factors that limit
+performance; and aerobic and anaerobic contributions to oxygen
+uptake. Finally, the metabolic specificity of training is discussed.
+175
+
+Essential Terminology
+Bioenergetics, or the flow of energy in a biological system,
+concerns primarily the conversion of macronutrients—carbohydrate,
+protein, and fats, which contain chemical energy—into biologically
+usable forms of energy. It is the breakdown of the chemical bonds in
+these macronutrients that provides the energy necessary to perform
+biological work.
+The breakdown of large molecules into smaller molecules,
+associated with the release of energy, is termed catabolism. The
+synthesis of larger molecules from smaller molecules can be
+accomplished using the energy released from catabolic reactions;
+this building-up process is termed anabolism. The breakdown of
+protein into amino acids is an example of catabolism, while the
+formation of proteins from amino acids is an anabolic process.
+Exergonic reactions are energy-releasing reactions and are
+generally catabolic. Endergonic reactions require energy and
+include anabolic processes and the contraction of muscle.
+Metabolism is the sum of all catabolic or exergonic and anabolic or
+endergonic reactions in a biological system. Energy derived from
+catabolic or exergonic reactions is used to drive anabolic or
+endergonic reactions through an intermediate molecule, adenosine
+triphosphate (ATP). ATP allows the transfer of energy from
+exergonic to endergonic reactions. Thus, exergonic (i.e., energy-
+releasing) reactions are coupled with endergonic (i.e., energy-
+requiring) reactions, based on the production or breakdown of ATP,
+respectively. Without an adequate supply of ATP, muscular activity
+and muscle growth would not be possible because the process
+reflects the metabolic system’s current ability to supply the demand
+of the required activity. Thus, when an exercise steady state is
+achieved, ATP supply meets ATP demand. However, fatigue results
+when ATP supply does not meet the ATP requirements demanded by
+a given activity. Following a period of appropriate conditioning, the
+metabolic systems of the body adapt to be better able to supply the
+176
+
+ATP to meet the ATP demand of the same activity that once resulted
+in fatigue. It is important to note that the nature of the activity has
+not changed, but the metabolic system’s capacity to do the activity
+changes with training. Thus, when designing training programs,
+strength and conditioning professionals need to have a basic
+understanding of how exercise affects ATP hydrolysis and
+resynthesis.
+Adenosine triphosphate is composed of adenosine and three
+phosphate groups (figure 3.1). Adenosine is the combination of
+adenine (a nitrogen-containing base) and ribose (a five-carbon
+sugar). The breakdown of one molecule of ATP to yield energy is
+known as hydrolysis, because it requires one molecule of water.
+The hydrolysis of ATP is catalyzed by the presence of an enzyme
+called adenosine triphosphatase (ATPase). Specifically, myosin
+ATPase is the enzyme that catalyzes ATP hydrolysis for crossbridge
+recycling. Other specific enzymes hydrolyze ATP at other locations,
+such as calcium ATPase for pumping calcium into the sarcoplasmic
+reticulum (following muscle contraction) and sodium-potassium
+ATPase for maintaining the sarcolemmal concentration gradient
+after depolarization (59). The following equation depicts the
+reactants (left), enzyme (middle), and products (right) of ATP
+hydrolysis:
+ ATP +H2 O↔ATPase ADP +Pi +H+ +Energy     (3.1)
+where ADP represents adenosine diphosphate (only two
+phosphate groups, figure 3.1), Pi is an inorganic phosphate
+molecule, and H+ is a hydrogen ion (proton). Further hydrolysis of
+ADP cleaves the second phosphate group and yields adenosine
+monophosphate (AMP). The energy released primarily from the
+hydrolysis of ATP and secondarily from ADP results in biological
+work.
+ATP is classified as a high-energy molecule because it stores large
+amounts of energy in the chemical bonds of the two terminal
+phosphate groups. Because muscle cells store ATP only in limited
+amounts and activity requires a constant supply of ATP to provide
+177
+
+the energy needed for muscle actions, ATP-producing processes
+must occur in the cell.
+178
+
+Biological Energy Systems
+Three basic energy systems exist in mammalian muscle cells to
+replenish ATP (87, 124):
+Phosphagen
+Glycolytic
+Oxidative
+In discussion of exercise-related bioenergetics, the terms
+anaerobic and aerobic metabolism are often used. Anaerobic
+processes do not require the presence of oxygen, whereas aerobic
+mechanisms depend on oxygen. The phosphagen and glycolytic
+systems are anaerobic mechanisms that occur in the sarcoplasm of
+a muscle cell. The Krebs cycle, electron transport, and the rest of
+the oxidative system are aerobic mechanisms that occur in the
+mitochondria of muscle cells and require oxygen as the terminal
+electron acceptor.
+Of the three main macronutrients—carbohydrate, protein, and
+fats—only carbohydrate can be metabolized for energy without the
+direct involvement of oxygen (21). Therefore, carbohydrate is critical
+during anaerobic metabolism. All three energy systems are active at
+any given time; however, the magnitude of the contribution of each
+system to overall work performance is primarily dependent on the
+intensity of the activity and secondarily on the duration (45, 87).
+Energy stored in the chemical bonds of adenosine
+triphosphate (ATP) is used to power muscular activity.
+The replenishment of ATP in human skeletal muscle is
+accomplished by three basic energy systems: (a)
+phosphagen, (b) glycolytic, and (c) oxidative. The first
+few seconds of activity are supplied by ATP stores
+before these metabolic energy systems begin the
+process of replenishing ATP stores and meeting the
+activity demands.
+179
+
+Phosphagen System
+The phosphagen system provides ATP primarily for short-term, high-
+intensity activities (e.g., resistance training and sprinting) and is
+highly active at the start of all exercise regardless of intensity (62,
+70, 155). This energy system relies on the hydrolysis of ATP
+(equation 3.1) and breakdown of another high-energy phosphate
+molecule 
+called 
+creatine 
+phosphate 
+(CP), 
+also 
+called
+phosphocreatine (PCr). Creatine kinase is the enzyme that
+catalyzes the synthesis of ATP from CP and ADP in the following
+reaction:
+ ADP + CP ↔Creatine kinase  ATP + Creatine  (3.2)
+180
+
+FIGURE 3.1 (a) The chemical structure of an ATP molecule showing adenosine (adenine
++ ribose), the triphosphate group, and locations of the high-energy chemical bonds. (b)
+The hydrolysis of ATP breaks the terminal phosphate bond, releases energy, and leaves
+ADP, a Pi, and a hydrogen ion (H+). (c) The hydrolysis of ADP breaks the terminal
+phosphate bond, releases energy, and leaves AMP, Pi, and H+.
+181
+
+CP supplies a phosphate group that combines with ADP to
+replenish ATP. The creatine kinase reaction provides energy at a high
+rate; however, because CP is stored in relatively small amounts, the
+phosphagen system cannot be the primary supplier of energy for
+continuous, long-duration activities (30).
+ATP Stores
+The body stores approximately 80 to 100 grams (about 3 oz) of ATP
+at any given time, which does not represent a significant energy
+reserve for exercise (109). In addition, ATP stores cannot be
+completely depleted due to the necessity for basic cellular function.
+In fact, ATP concentrations may only decrease by up to 50% to 60%
+(34, 71, 102, 145) of the pre-exercise levels during experimentally
+induced muscle fatigue. Therefore, the phosphagen system uses the
+creatine kinase reaction (equation 3.2) to maintain the ATP
+concentration. 
+Under 
+normal 
+circumstances, 
+skeletal 
+muscle
+concentrations of CP are four to six times higher than ATP
+concentrations (109). Therefore, the phosphagen system, through
+CP and the creatine kinase reaction, serves as an energy reserve for
+rapidly replenishing ATP. In addition, type II (fast-twitch) muscle
+fibers contain higher concentrations of CP than type I (slow-twitch)
+fibers (95, 134); thus, individuals with higher percentages of type II
+fibers may be able to replenish ATP more quickly through the
+phosphagen system during anaerobic, explosive exercise.
+Another important single-enzyme reaction that can rapidly
+replenish ATP is the adenylate kinase (also called myokinase)
+reaction:
+2ADP↔Adenylate kinaseATP +AMP    (3.3)
+This reaction is particularly important because AMP, a product of the
+adenylate kinase (myokinase) reaction, is a powerful stimulant of
+glycolysis (22, 28).
+182
+
+Control of the Phosphagen System
+The phosphagen system reactions (often represented by equations
+3.1, 3.2, and 3.3) are largely controlled by the law of mass action
+or the mass action effect (109). The law of mass action states
+that the concentrations of reactants or products (or both) in solution
+will drive the direction of the reactions. With enzyme-mediated
+reactions, such as the reactions of the phosphagen system, the rate
+of product formation is greatly influenced by the reactant
+concentrations. This is denoted in equations 3.1, 3.2, and 3.3 by the
+two-way arrow between reactants and products. For example, as
+ATP is hydrolyzed to yield the energy necessary for exercise
+(equation 3.1), there is a transient increase in ADP concentrations
+(as well as Pi) in the sarcolemma. This will increase the rate of
+creatine kinase and adenylate kinase reaction (equations 3.2 and
+3.3) to replenish the ATP supply. The process will continue until the
+exercise ceases or the intensity reduces such that it does not deplete
+CP stores and thus glycolysis or the oxidative system can become
+the primary supplier of ATP and rephosphorylate the free creatine
+(equation 3.2) (37). At this point, the sarcoplasmic concentration of
+ATP will remain steady or increase, which will slow down or reverse
+the directions of the creatine kinase and adenylate kinase reactions.
+As a result, equations 3.1, 3.2, and 3.3 are often referred to as
+near-equilibrium reactions that proceed in a direction dictated by
+the concentrations of the reactants due to the law of mass action.
+Glycolytic System
+Glycolysis is the breakdown of carbohydrate—either as glycogen
+stored in the muscle or glucose delivered via the blood—to
+resynthesize ATP (22, 145). The process of glycolysis involves
+multiple enzymatically catalyzed reactions (figure 3.2). As a result,
+the ATP resynthesis rate during glycolysis is not as rapid as with the
+single-step phosphagen system; however, the capacity to produce
+ATP is much higher due to a larger supply of glycogen and glucose
+183
+
+compared to CP. As with the phosphagen system, glycolysis occurs in
+the sarcoplasm.
+As depicted in figure 3.2, pyruvate, the end result of glycolysis,
+may proceed in one of two directions:
+1. Pyruvate can be converted to lactate in the sarcoplasm.
+2. Pyruvate can be shuttled into the mitochondria.
+When pyruvate is converted to lactate, ATP resynthesis occurs at
+a faster rate via the rapid regeneration of NAD+ but is limited in
+duration due to subsequent H+ production resulting in decreased
+cytosolic pH. However, the excess H+ does not primarily result from
+the rapid hydrolysis of ATP during the conversion of pyruvate to
+lactate; it is the breakdown of ATP to ADP and Pi, which releases H+
+ions. The conversion process of pyruvate to lactate is often called
+anaerobic glycolysis (or fast glycolysis). However, when
+pyruvate is shuttled into the mitochondria to undergo the Krebs
+cycle, the ATP resynthesis rate is slower because of the numerous
+reactions but can occur for a longer duration if the exercise intensity
+is low enough. This process is often referred to as aerobic
+glycolysis (or slow glycolysis). At higher exercise intensities,
+pyruvate and NADH will increase above what can be handled by
+pyruvate dehydrogenase and will then be converted into lactate and
+NAD+. Unfortunately, because glycolysis itself does not depend on
+oxygen, the terms anaerobic and aerobic (or fast and slow,
+respectively) glycolysis are probably not practical for describing the
+processes. Nevertheless, the fate of pyruvate is ultimately controlled
+by the energy demands within the cell. If energy demand is high and
+must be transferred quickly, as in resistance training, pyruvate is
+primarily converted to lactate in support of anaerobic glycolysis. If
+energy demand is not as high and oxygen is present in sufficient
+quantities in the cell, pyruvate can be further oxidized in the
+mitochondria.
+184
+
+FIGURE 3.2 Glycolysis. ADP = adenosine diphosphate; ATP = adenosine triphosphate;
+NAD+, NADH = nicotinamide adenine dinucleotide.
+Glycolysis and the Formation of Lactate
+The formation of lactate from pyruvate is catalyzed by the enzyme
+lactate dehydrogenase. Sometimes, mistakenly, the end result of this
+reaction is said to be the formation of lactic acid. However, due to
+the physiological pH (i.e., near 7) and earlier steps in glycolysis that
+185
+
+consume protons (125), lactate—rather than lactic acid—is the
+product of the lactate dehydrogenase reaction. Although the
+muscular fatigue experienced during exercise often correlates with
+high tissue concentrations of lactate, lactate is not the cause of
+fatigue (22, 27, 125). Proton (H+) accumulation during fatigue
+reduces the intracellular pH, inhibits glycolytic reactions, and directly
+interferes with muscle’s excitation–contraction coupling—possibly by
+inhibiting calcium binding to troponin (57, 115) or by interfering with
+crossbridge recycling (51, 57, 79, 115, 146). Also, the decrease in
+pH inhibits the enzymatic turnover rate of the cell’s energy systems
+(9, 78). Overall, this process of an exercise-induced decrease in pH
+is referred to as metabolic acidosis (125), and may be responsible
+for much of the peripheral fatigue that occurs during exercise (42,
+156). Also, the role of metabolic acidosis in peripheral fatigue has
+been questioned (130), and other factors have been reported to play
+a prominent role in peripheral fatigue, such as an increased
+interstitial K+ concentration and Pi that impairs Ca++ release (120,
+139). However, evidence suggests that other mechanisms, such as
+the simple hydrolysis of ATP (125) (equation 3.1), are responsible for
+most of the H+ accumulation and that lactate itself actually works to
+decrease metabolic acidosis rather than accelerate it (27, 125). See
+the sidebar Lactic Acid Does Not Cause Metabolic Acidosis. In fact,
+lactate is often used as an energy substrate, especially in type I
+and cardiac muscle fibers (10, 108, 162). It is also used in
+gluconeogenesis (i.e., the Cori cycle)—the formation of glucose
+from noncarbohydrate sources, lactate in this case—during extended
+exercise and recovery (19, 108).
+Normally, blood and muscle have a low concentration of lactate.
+The reported normal range of lactate concentration in blood is 0.5 to
+2.2 mmol/L at rest (67) and 0.5 to 2.2 mmol for each kilogram of
+wet muscle (muscle that has not been desiccated) (67). Lactate
+production increases with exercise intensity (67, 129) and appears to
+depend on muscle fiber type. Researchers have reported that the
+maximal rate of lactate production for type II muscle fibers is 0.5
+186
+
+mmol · g−1 · s−1 (46, 107) and for type I muscle is 0.25 mmol · g−1 ·
+s−1 (113). The higher rate of lactate production by type II muscle
+fibers may reflect a higher concentration or activity of glycolytic
+enzymes than in type I muscle fibers (10, 122). Although the highest
+possible concentration of lactate accumulation is not known, severe
+fatigue may occur at blood concentrations between 20 and 25
+mmol/L (107); one study, however, showed blood lactate
+concentrations greater than 30 mmol/L following multiple bouts of
+dynamic exercise (79). Along with exercise intensity and muscle fiber
+type, exercise duration (67), state of training (66), and initial
+glycogen levels (67) can also influence lactate accumulation.
+Blood lactate concentrations reflect the net balance of lactate
+production versus clearance as a result of bicarbonate (HCO3−)
+buffering. HCO3− minimizes the disrupting influence of the H+ on pH
+by accepting a proton (H+) and becoming carbonic acid (H2CO3).
+Carbonic acid then dissociates to H2O and CO2 in the lungs, where
+the CO2 is exhaled. The clearance and buffering of lactate from the
+blood reflects a return to homeostatic resting level. Lactate can be
+cleared by oxidation within the muscle fiber in which it was
+produced, or it can be transported in the blood to other muscle
+fibers to be oxidized (108). Lactate can also be transported in the
+blood to the liver, where it is converted to glucose. This process is
+referred to as the Cori cycle and is depicted in figure 3.3.
+Gollnick and colleagues (67) and others (8, 72, 118) have
+reported that blood lactate concentrations normally return to pre-
+exercise values within an hour after activity, depending on the
+duration and intensity of exercise, training status, and type of
+recovery (i.e., passive versus active). Light activity during the
+postexercise period has been shown to increase lactate clearance
+rates (55, 67, 72, 80, 118). For example, an active recovery
+following a 200-yard (182.9 m) maximal-effort swim resulted in the
+greatest lactate clearance in comparison to a passive recovery in
+competitive swimmers (72). In addition, both aerobically trained (67)
+and anaerobically trained (62) athletes have faster lactate clearance
+187
+
+rates than untrained people. Peak blood lactate concentrations occur
+approximately 5 minutes after the cessation of exercise (67), a delay
+frequently attributed to the time required to buffer and transport
+lactate from the tissue to the blood (95). Hence, lactate clearance
+should be recognized positively as an indirect marker for recovery
+from metabolic acidosis as the system returns to metabolic
+homeostasis and not as waste product of metabolism.
+FIGURE 3.3 The Cori cycle.
+Blood lactate accumulation is greater following high-intensity,
+intermittent exercise (e.g., resistance training and sprints) than
+following lower-intensity, continuous exercise (79, 103, 152).
+However, 
+trained 
+people 
+experience 
+lower 
+blood 
+lactate
+concentrations than untrained people when exercising at an absolute
+workload (same resistance) (66, 90, 143). This indicates that
+resistance training results in alterations in lactate response similar to
+those from aerobic endurance training (67, 91, 143). These
+alterations include a lower blood lactate concentration at a given
+workload 
+in 
+trained 
+individuals 
+and 
+higher 
+blood 
+lactate
+concentrations in trained individuals during maximal exercise (67, 90,
+143).
+188
+
+The net reaction for glycolysis when pyruvate is converted to
+lactate may be summarized as follows:
+Glucose + 2Pi + 2ADP → 2Lactate + 2ATP + H2O   (3.4)
+Lactic Acid Does Not Cause Metabolic
+Acidosis
+Lactic acidosis is a common misnomer, because lactic acid is inaccurately believed
+to cause the burning sensations experienced with muscle fatigue during high-
+intensity exercise. This is based on the assumption that there is an immediate
+dissociation of lactic acid into lactate and H+ when produced by glycolysis in
+skeletal muscle (1, 60, 125). However, the phosphoglycerate kinase reaction of
+glycolysis involves the transfer of a phosphate leaving a carboxylate (COO−) group
+(105). Thus, as shown in figure 3.4, no proton (H+) exists to dissociate from
+lactate (60, 125).
+Figure 3.4 The phosphoglycerate kinase reaction of glycolysis, illustrating
+that there is no proton (H+) to dissociate from lactate.
+Furthermore, the lactate dehydrogenase reaction itself consumes protons, which
+alkalizes the cell (60, 125)—quite the opposite of acidosis. In fact, Busa and
+Nuccitelli (27) stated, “ATP hydrolysis, not lactate accumulation, is the dominant
+source of the intracellular acid load …” (p. 430). The take-home message from
+Robergs and colleagues (125) is that the hydrolysis of ATP outside the
+mitochondria is primarily responsible for the proton (H+) accumulation during
+exercise-induced metabolic acidosis—not the conversion of pyruvate to lactate as is
+commonly believed. Consequently, the term lactic acidosis is indeed a misnomer,
+and the term metabolic acidosis is recommended to describe the reduced pH
+within skeletal muscle during high-intensity, fatiguing exercise.
+189
+
+Glycolysis Leading to the Krebs Cycle
+If oxygen is present in sufficient quantities in the mitochondria
+(specialized cellular organelles where the reactions of aerobic
+metabolism occur), the end product of glycolysis, pyruvate, is not
+converted to lactate but is transported into the mitochondria. Also
+transported are two molecules of reduced nicotinamide adenine
+dinucleotide 
+(NADH) produced during glycolytic reactions
+(reduced refers to the added hydrogen). When pyruvate enters the
+mitochondria, it is converted to acetyl-CoA (CoA stands for
+coenzyme A) by the pyruvate dehydrogenase complex, resulting in
+the loss of a carbon as CO2. Acetyl-CoA can then enter the Krebs
+cycle for further ATP resynthesis. The NADH molecules drop off H+ at
+the electron transport chain, where they can also be used to
+resynthesize ATP.
+The net reaction for glycolysis when pyruvate is shuttled to the
+mitochondria may be summarized as follows:
+Glucose + 2Pi + 2ADP + 2NAD+ → 2Pyruvate + 2ATP + 2NADH + 2H2O    
+(3.5)
+Energy Yield of Glycolysis
+There are two primary mechanisms for resynthesizing ATP during
+metabolism:
+1. Substrate-level phosphorylation
+2. Oxidative phosphorylation
+Phosphorylation is the process of adding a Pi to another
+molecule. For example, ADP + Pi → ATP is the phosphorylation of
+ADP to ATP. Oxidative phosphorylation refers to the resynthesis
+of ATP in the electron transport chain (ETC). In contrast,
+substrate-level phosphorylation refers to the direct resynthesis
+of ATP from ADP during a single reaction in the metabolic pathways.
+To illustrate, in glycolysis two reactions result in substrate-level
+phosphorylation of ADP to ATP (42):
+190
+
+         1,3-bisphosphoglycerate + ADP + P i→Phosphoglycerate kinase  3-
+phosphoglycerate + ATP  (3.6)
+Phosphoenolpyruvate + ADP++ Pi→Pyruvate kinasePyruvate + ATP  (3.7)
+The gross number of ATP molecules that are resynthesized as a
+result of substrate-level phosphorylation during glycolysis is four
+(figure 3.2, page 57). However, the reaction that converts fructose-
+6-phosphate to fructose-1,6-bisphosphate (catalyzed by the enzyme
+phosphofructokinase [PFK]) in glycolysis requires the hydrolysis
+of one ATP molecule. In addition, there are two possible sources of
+glucose: blood glucose and muscle glycogen. When blood glucose
+enters the muscle cell, it must be phosphorylated to remain in the
+cell and to maintain the glucose concentration gradient (67). The
+phosphorylation of one molecule of blood glucose, which is catalyzed
+by hexokinase, also requires the hydrolysis of one ATP. In contrast,
+when muscle glycogen is broken down (i.e., glycogenolysis) to
+glucose with the help of the enzyme glycogen phosphorylase, the
+glucose is already phosphorylated, and it does not require the
+hydrolysis of ATP. The bottom line is that when glycolysis begins with
+one molecule of blood glucose, two ATP molecules are used and four
+ATP are resynthesized, which results in a net resynthesis of two ATP
+molecules. When glycolysis begins from muscle glycogen, only one
+ATP is used and four ATP are resynthesized, which yields a net
+resynthesis of three ATP molecules. The net yield rate of ATP
+resynthesis highlights the role and importance of maintaining muscle
+glycogen stores through proper nutrition.
+Control of Glycolysis
+In general, the rate of glycolysis is stimulated to increase during
+intense muscle actions by high concentrations of ADP, Pi, and
+ammonia and by a slight decrease in pH and AMP (22, 61, 142), all
+of which are signs of increased ATP hydrolysis and a need for
+energy. In contrast, glycolysis is inhibited by markedly lower pH,
+ATP, CP, citrate, and increased free fatty acids (22), which are
+usually present at rest. (Note that a slight decrease in pH increases
+191
+
+glycolysis, but if pH continues to decrease significantly it will inhibit
+the rate of glycolysis.) However, the regulation of glycolysis (109) is
+more specifically influenced by the concentrations and turnover rates
+of three crucial glycolytic enzymes: hexokinase, PFK, and pyruvate
+kinase. All three are regulatory enzymes in glycolysis, because each
+has important allosteric (meaning “other site”) binding sites.
+Allosteric regulation occurs when the end product of a reaction or
+series of reactions feeds back to regulate the turnover rate of key
+enzymes in the metabolic pathways. Consequently, this process is
+also called end product regulation (87) or feedback regulation (61).
+Allosteric inhibition occurs when an end product binds to the
+regulatory enzyme and decreases its turnover rate and slows
+product formation. In contrast, allosteric activation occurs when
+an “activator” binds with the enzyme and increases its turnover rate.
+Hexokinase, which catalyzes the phosphorylation of glucose to
+glucose-6-phosphate, is allosterically inhibited by the concentration
+of glucose-6-phosphate in the sarcoplasm (61). Thus, the higher the
+concentration of glucose-6-phosphate, the more hexokinase will be
+inhibited. In addition, the phosphorylation of glucose commits it to
+the cell so that it cannot leave. Similarly, the PFK reaction (fructose-
+6-phosphate → fructose 1,6-bisphosphate) commits the cell to
+metabolizing 
+glucose 
+rather 
+than 
+storing 
+it 
+as 
+glycogen.
+Phosphofructokinase is the most important regulator of glycolysis
+even though it is the slowest reaction of the steps that makes up
+glycolysis because it is the bottleneck, or the rate-limiting step.
+ATP is an allosteric inhibitor of PFK; therefore, as intracellular ATP
+concentrations rise, PFK activity decreases and reduces the
+conversion of fructose-6-phosphate to fructose 1,6-bisphosphate
+and, subsequently, decreases activity of the glycolytic pathway.
+However, AMP is an allosteric activator of PFK and a powerful
+stimulator of glycolysis. Moreover, the ammonia produced during
+high-intensity exercise as a result of AMP or amino acid deamination
+(removing the amine group from the amino acid molecule) can also
+stimulate PFK. Pyruvate kinase catalyzes the conversion of
+192
+
+phosphoenolpyruvate to pyruvate and is the final regulatory enzyme.
+Pyruvate kinase is allosterically inhibited by ATP and acetyl-CoA (the
+latter is a Krebs cycle intermediate) and activated by high
+concentrations of AMP and fructose-1,6-bisphosphate (61).
+Lactate Threshold and Onset of Blood Lactate
+Accumulation
+As exercise intensity increases, specific break points are evident in
+the lactate accumulation curve (figure 3.5), indirectly representing
+the change in metabolic acidosis (39, 99). The exercise intensity or
+relative intensity at which blood lactate begins an abrupt increase
+above the baseline concentration has been termed the lactate
+threshold (LT) or (LT1) (163). The LT represents a significantly
+increased reliance on the glycolytic pathway for energy production to
+meet demand. The LT corresponds well with the ventilatory
+threshold (breaking point in the relationship between ventilation and
+V̇O2) and is often used as a marker of the anaerobic threshold.
+The LT typically begins at 50% to 60% of maximal oxygen
+uptake in untrained individuals and at 70% to 80% in aerobically
+trained athletes (29, 52). A second exponential increase in the rate
+of lactate accumulation has been noted at higher relative intensities
+of exercise. This second point of inflection has been termed the
+onset of blood lactate accumulation (OBLA) or lactate
+threshold (LT2) and occurs approximately when the concentration
+of blood lactate reaches 4 mmol/L (85, 138, 144). Alternatively, the
+LT2 threshold can be calculated, with the Dmax modified method
+reported to have the highest repeatability (81). The breaks in the
+lactate accumulation curve may correspond to the points at which
+intermediate and large motor units are recruited during increasing
+exercise intensities (94). The muscle cells associated with large
+motor units are typically type II fibers, which are particularly suited
+for anaerobic metabolism and lactate production.
+193
+
+FIGURE 3.5 Lactate threshold (LT) and onset of blood lactate accumulation (OBLA).
+Reprinted by permission from T.O. Bompa and G.G. Haff, Periodization: Theory and Methodology of Training, 5th ed.
+(Human Kinetics, 2009), 295.
+Some studies suggest that training at intensities near or above
+the LT or OBLA pushes the LT and OBLA to the right (i.e., lactate
+accumulation occurs later at a higher exercise intensity) (39, 43).
+This shift probably occurs as a result of changes in hormone release,
+particularly reduced catecholamine release at high exercise
+intensities, and increased mitochondrial content that allows for
+greater production of ATP through aerobic mechanisms. Broadly, the
+training-induced adaptations result in the athlete being able to rely
+more on free fatty acids to meet the ATP demands of the exercise
+task. Thus shifting the LT or OBLA to the right allows the athlete to
+perform at higher percentages of maximal oxygen uptake without as
+194
+
+much lactate accumulation (change in metabolic acidosis) in the
+blood (22, 41).
+The Oxidative (Aerobic) System
+The oxidative system, the primary source of ATP at rest and during
+low-intensity activities, uses primarily carbohydrate and fats as
+substrates (62). Protein does not provide a significant contribution to
+total energy; however, the use of protein does significantly increase
+during long-term starvation and long bouts (>90 min) of exercise
+(41, 104). At rest, approximately 70% of the ATP produced is
+derived from fats and 30% from carbohydrate. Following the onset
+of activity, as the intensity of the exercise increases, there is a shift
+in substrate preference from fats to carbohydrate. During high-
+intensity aerobic exercise, almost 100% of energy is derived from
+carbohydrate if an adequate supply is available, with only minimal
+contributions from fats and protein. However, during prolonged,
+submaximal, steady-state work, there is a gradual shift from
+carbohydrate back to fats (due to glycogen depletion), and to a very
+small extent protein, as energy substrates (22).
+Glucose and Glycogen Oxidation
+The oxidative metabolism of blood glucose and muscle glycogen
+begins with glycolysis. If oxygen is present in sufficient quantities,
+the end product of glycolysis, pyruvate, is not converted to lactate
+but is transported to the mitochondria, where it is converted to
+acetyl-CoA (a two-carbon molecule), which enters the Krebs cycle,
+also known as the citric acid cycle or tricarboxylic acid cycle (7, 61).
+The Krebs cycle is a series of reactions that continues the oxidation
+of the substrate from glycolysis and produces two ATP indirectly
+from 
+guanine 
+triphosphate 
+(GTP), 
+via 
+substrate-level
+phosphorylation, for each molecule of glucose (figure 3.6).
+195
+
+FIGURE 3.6 The Krebs cycle. CoA = coenzyme A; FAD2+, FADH, FADH2 = flavin adenine
+dinucleotide; GDP = guanine diphosphate; GTP = guanine triphosphate; NAD+, NADH =
+nicotinamide adenine dinucleotide.
+Also produced from the two pyruvate molecules subsequent to
+the production of one molecule of glucose are six molecules of
+NADH + H+ and two molecules of reduced flavin adenine
+dinucleotide (FADH2). These molecules transport hydrogen atoms
+to the ETC to be used to produce ATP from ADP (22, 109). The ETC
+uses the NADH + H+ and FADH2 molecules to rephosphorylate ADP
+to ATP (figure 3.7).
+196
+
+FIGURE 3.7 The electron transport chain (ETC). CoQ = coenzyme Q; Cyt = cytochrome.
+The hydrogen atoms are passed down the chain (a series of
+electron carriers known as cytochromes) to form a proton
+concentration gradient, which provides the energy for ATP
+production, with oxygen serving as the final electron acceptor
+(resulting in the formation of water). Due to NADH + H+ and FADH2
+entering the ETC at different sites, they differ in the amount of ATP
+produced. One molecule of NADH can produce 2.5 molecules of ATP,
+whereas one molecule of FADH2 can only produce 1.5 molecules of
+ATP (however, traditional biochemistry often cites that NADH yields 3
+ATP and FADH2 yields 2 ATP [34a]). The production of ATP during
+this process is referred to as oxidative phosphorylation. The
+oxidative system, beginning with glycolysis and including the Krebs
+cycle and ETC, results in the production of approximately 32 ATP
+from the degradation of one molecule of blood glucose (12a, 117a).
+However, if the initiation of glycolysis is muscle glycogen, the net
+ATP production is slightly higher at 34 ATP, using the malate-
+aspartate shuttle system or 32 ATP using the glycerol 3-phosphate
+shuttle system because the first ATP consuming step in glycolysis is
+bypassed (12a, 117a). Nevertheless, oxidative phosphorylation
+accounts for over 90% of ATP synthesis compared to substrate-level
+phosphorylation, which demonstrates the capacity of energy transfer
+by the oxidative system. See table 3.1 for a summary of these
+processes.
+TABLE 3.1 Total Energy Yield From the Oxidation of
+One Glucose Molecule
+Process
+Net ATP production
+197
+
+Process
+Net ATP production
+GLYCOLYSIS
+Substrate-level phosphorylation (4 ATP produced / 2 ATP
+consumed)
+2*
+Oxidative phosphorylation:
+2 NADH (2.5 ATP each)
+5
+PYRUVATE OXIDATION
+2 NADH (2.5 ATP each)
+5
+KREBS CYCLE (2 ROTATIONS THROUGH THE KREBS CYCLE PER GLUCOSE)
+Substrate-level phosphorylation
+2
+Oxidative phosphorylation:
+6 NADH (2.5 ATP each)
+15
+Via GTP:
+2 FADH2 (1.5 ATP each)
+3
+TOTAL
+32
+*Glycolysis consumes 2 ATP (if starting with blood glucose), so net ATP production is 34 −
+2 = 32. This figure may also be reported as 30 ATP or as high as 36 depending on which
+shuttle system is used to transport the NADH to the mitochondria. ATP = adenosine
+triphosphate; FADH2 = flavin adenine dinucleotide; GTP = guanine triphosphate; NADH =
+nicotinamide adenine dinucleotide.
+Fat Oxidation
+The oxidative energy system can alternatively use fats. Triglycerides
+stored in fat cells can be broken down by an enzyme, hormone-
+sensitive lipase, to produce free fatty acids and glycerol. The
+breakdown releases a portion of the total free fatty acids from the
+fat cells into the blood, where they can circulate and enter muscle
+fibers and undergo oxidation (89, 123). Additionally, limited
+quantities of triglycerides are stored within the muscle along with a
+form of hormone-sensitive lipase to produce an intramuscular source
+of free fatty acids (22, 47). Free fatty acids enter the mitochondria,
+where they undergo beta oxidation, a series of reactions in which
+the free fatty acids are broken down, resulting in the formation of
+198
+
+acetyl-CoA and hydrogen protons (figure 3.6). The acetyl-CoA is a
+common intermediary entering the Krebs cycle directly, and the
+hydrogen atoms are carried by NADH + H+ and FADH2 to the ETC
+(12a, 117a). The result is hundreds of ATP molecules supplied by
+beta oxidation. For example, the breakdown of a single triglyceride
+molecule containing three 16-carbon chain free fatty acids (palmitic
+acid) can be metabolized by beta oxidation to yield over 300 ATP
+molecules (>100 ATP per palmitic acid). The overarching concept is
+that fat oxidation is capable of a tremendous capacity for ATP
+synthesis compared to carbohydrate and protein oxidation.
+Protein Oxidation
+Although not a significant source of energy for most activities,
+protein can be broken down into its constituent amino acids by
+various metabolic processes. Most of these amino acids can then be
+converted into glucose (in a process known as gluconeogenesis),
+pyruvate, or various Krebs cycle intermediates to produce ATP
+(figure 3.6). The contribution of amino acids to the production of
+ATP has been estimated to be minimal during short-term exercise
+but may contribute 3% to 18% of the energy requirements during
+prolonged activity (20, 140). The major amino acids that are
+oxidized in skeletal muscle are believed to be the branched-chain
+amino acids (leucine, isoleucine, and valine), although alanine,
+aspartate, and glutamate may also be used (69). The nitrogenous
+waste products of amino acid degradation are eliminated through
+the formation of urea and small amounts of ammonia (22). The
+elimination through formation of ammonia is significant because
+ammonia is toxic and is associated with fatigue.
+Control of the Oxidative (Aerobic) System
+The rate-limiting step (i.e., the slowest reaction) in the Krebs cycle
+(figure 3.6) is the conversion of isocitrate to α-ketoglutarate, a
+reaction catalyzed by the enzyme isocitrate dehydrogenase.
+Isocitrate dehydrogenase is stimulated by ADP and allosterically
+199
+
+inhibited by ATP. The reactions that produce NADH + H+ or FADH2
+also influence the regulation of the Krebs cycle. If NAD+ and FAD2+
+are not available in sufficient quantities to accept hydrogen, the rate
+of the Krebs cycle is reduced. Also, when GTP accumulates, the
+concentration of succinyl CoA increases, which inhibits the initial
+reaction (oxaloacetate + acetyl-CoA → citrate + CoA) of the Krebs
+cycle. The ETC is inhibited by ATP and stimulated by ADP (22). A
+simplified overview of the metabolism of fat, carbohydrate, and
+protein is presented in figure 3.8.
+FIGURE 3.8 The metabolism of fat and that of carbohydrate and protein share some
+common pathways. Note that many are oxidized to acetyl-CoA and enter the Krebs cycle.
+Energy Production and Capacity
+The phosphagen, glycolytic, and oxidative energy systems differ in
+their ability to supply energy for activities of various intensities and
+durations (tables 3.2 and 3.3). Exercise intensity is often defined in
+200
+
+terms of mechanical power (which is the rate of doing work) as an
+overall measure of the external power flow required to achieve a
+desired level of muscular activity output (100). Activities performed
+at relatively high intensity for very short durations, such as
+resistance training, require a rapid rate of energy supply and rely
+almost entirely on energy provided by the phosphagen system.
+Activities that are of low intensity but long duration, such as
+marathon running, require a prolonged energy supply and rely
+predominantly on the energy supplied by the oxidative energy
+system. The primary source of energy for activities between these
+two extremes depends on the intensity and duration of the event
+(table 3.2). In general, short, high-intensity activities (e.g., high-
+intensity resistance training and sprinting) rely largely on the
+phosphagen energy system and glycolysis under anaerobic
+conditions whereby pyruvate is primarily converted to lactate,
+commonly referred to as fast glycolysis. As the intensity decreases
+and duration increases, the emphasis gradually shifts to slow
+glycolysis and the oxidative energy system (45, 131).
+TABLE 3.2 Effect of Event Duration and Intensity on
+Primary Energy System Used
+Duration of event
+Intensity of event
+Primary energy system
+0-6 s
+Extremely high
+Phosphagen
+6-30 s
+Very high
+Phosphagen and fast glycolysis
+30 s to 2 min
+High
+Fast glycolysis
+2-3 min
+Moderate
+Slow glycolysis and oxidative system
+>3 min
+Low
+Oxidative system
+Note: The relationships between duration, intensity, and primary energy systems used
+assume that the athlete strives to attain the best possible performance for a given event.
+TABLE 3.3 Rankings of Rate and Capacity of ATP
+Production
+201
+
+System
+Rate of ATP production Capacity of ATP production
+Phosphagen
+1
+5
+Fast glycolysis
+2
+4
+Slow glycolysis
+3
+3
+Oxidation of carbohydrates
+4
+2
+Oxidation of fats and proteins
+5
+1
+Note: 1 = fastest/greatest; 5 = slowest/least.
+In general, an inverse relationship exists between a
+given energy system’s maximum rate of ATP production
+(i.e., ATP produced per unit of time) and its capacity
+(i.e., the total amount of ATP produced over time). The
+phosphagen system is capable of achieving the highest
+rate of ATP production, while fat oxidation through the
+oxidative system has the greatest capacity of ATP
+production. As a result, the phosphagen energy system
+primarily supplies ATP for high-intensity activities of
+short duration (e.g., 100 m sprint), the glycolytic system
+for moderate- to high-intensity activities of short to
+medium duration (e.g., 400 m dash), and the oxidative
+system for low-intensity activities of long duration (e.g.,
+marathon).
+The duration of the activity also influences which energy system is
+used. Athletic events range in duration from 1 to 3 seconds (e.g.,
+snatch and shot put) to more than 4 hours (e.g., long-distance
+triathlons and ultramarathons). If an athlete makes a best effort (an
+effort that results in the best possible performance for a given
+event), the time considerations shown in table 3.2 are reasonable
+(48, 79, 126, 146, 149).
+At no time, during either exercise or rest, does any single energy
+system provide the complete supply of energy. During exercise, the
+202
+
+degree to which anaerobic and oxidative systems contribute to the
+energy being produced is determined primarily by the exercise
+intensity and secondarily by exercise duration (22, 45, 48).
+The extent to which each of the three energy systems
+contributes to ATP production depends primarily on the
+intensity of muscular activity and secondarily on the
+duration. At no time, during either exercise or rest, does
+any single energy system provide the complete supply of
+energy.
+203
+
+Substrate Depletion and Repletion
+Energy substrates—molecules that provide starting materials for
+bioenergetic reactions, including phosphagens (ATP and CP),
+glucose, glycogen, lactate, free fatty acids, and amino acids—can be
+selectively depleted during the performance of activities of various
+intensities and durations. Subsequently, the energy that can be
+produced by the bioenergetic systems is reduced. Fatigue
+experienced during many activities is frequently associated with the
+depletion of phosphagens (66, 89) and glycogen (21, 79, 92, 133).
+Importantly, performance is rarely limited by the depletion of
+substrates such as free fatty acids, lactate, and amino acids.
+Consequently, the depletion and repletion pattern of phosphagens
+and glycogen following physical activity is important in exercise and
+sport bioenergetics.
+Phosphagens
+Fatigue during exercise appears to be at least partially related to the
+decrease in phosphagens (i.e., ATP and CP). Phosphagen
+concentrations in muscle are more rapidly depleted as a result of
+high-intensity anaerobic exercise compared to aerobic exercise (66,
+89). CP can decrease markedly (50%-70%) during the first stage of
+high-intensity exercise of short and moderate duration (5-30 s) and
+can be almost completely depleted as a result of very intense
+exercise to exhaustion (86, 93, 97, 110). Muscle ATP concentrations
+may decrease only slightly (34) or may decrease up to 50% to 60%
+(145) of the pre-exercise levels during experimentally induced
+fatigue. It should also be noted that dynamic muscle actions that
+produce external work use more metabolic energy and typically
+deplete phosphagens to a greater extent than do isometric muscle
+actions (18).
+The intramuscular ATP concentration is largely sustained during
+exercise as a consequence of CP depletion and the contribution of
+additional ATP from the myokinase reaction and oxidation of other
+204
+
+energy sources, such as glycogen and free fatty acids. Postexercise
+phosphagen repletion can occur in a relatively short period, with
+complete ATP resynthesis occurring within approximately 3 to 5
+minutes, and CP being fully resynthesized within 8 minutes (75, 89).
+Note that half of the CP stores are replenished in 30 seconds,
+allowing for repeated maximal contractions interspersed with brief
+rest 
+intervals. 
+While 
+repletion 
+of 
+phosphagens 
+is 
+largely
+accomplished as a result of aerobic metabolism (75), glycolysis can
+contribute to recovery after high-intensity exercise (29, 40).
+The effects of training and supplementation on resting
+concentrations of phosphagens is an ongoing area of investigation.
+Aerobic endurance training may increase resting concentrations of
+phosphagens (49, 99) and decrease their rate of depletion at a given
+absolute submaximal power output (33, 99) but not at a relative
+(percentage of maximum) submaximal power output (33). Although
+researchers 
+have 
+reported 
+indications 
+of 
+increased 
+resting
+concentrations of phosphagens (12, 127), short-term (eight weeks)
+studies of sprint and six months of resistance or explosive training
+have not shown alterations in resting concentrations of phosphagens
+(11, 16, 147, 150). However, total phosphagen content can be larger
+following sprint training due to increases in muscle mass (150).
+Resistance training has been shown to increase the resting
+concentrations of phosphagens in the triceps brachii after five weeks
+of training (106). The increases in phosphagen concentration are
+likely due to selective hypertrophy of type II fibers, which are
+reported to contain a higher phosphagen concentration than type I
+fibers (105).
+Glycogen
+Limited stores of glycogen are available for exercise. Approximately
+300 to 400 grams (11-14 oz) of glycogen are stored in the body’s
+total muscle and about 70 to 100 grams (2-4 oz) in the liver (137).
+Resting concentrations of liver and muscle glycogen can be
+influenced by training and dietary manipulations (56, 137). Research
+205
+
+suggests that both anaerobic training, including sprinting and
+resistance training (16, 106), and aerobic endurance training (64,
+65) can increase resting muscle glycogen concentration with
+concomitantly appropriate nutrition.
+The rate of glycogen depletion is related to exercise intensity
+(137). Muscle glycogen is a more important energy source than liver
+glycogen during moderate- and high-intensity exercise. Liver
+glycogen appears to be more important during low-intensity
+exercise, and its contribution to metabolic processes increases with
+duration of exercise. Increases in relative exercise intensity of 50%,
+75%, and 100% of maximal oxygen uptake result in increases in the
+rate of muscle glycogenolysis (the breakdown of glycogen) of 0.7,
+1.4, and 3.4 mmol · kg−1 · min−1, respectively (133). At relative
+intensities of exercise above 60% of maximal oxygen uptake, muscle
+glycogen becomes an increasingly important energy substrate; the
+entire glycogen content of some muscle cells can become depleted
+during exercise (132).
+Relatively constant blood glucose concentrations are maintained
+at very low exercise intensities (<50% of maximal oxygen uptake)
+because of low muscle glucose uptake. However, as exercise
+duration increases beyond 90 minutes, blood glucose concentrations
+fall but rarely below 2.8 mmol/L (2). Long-duration exercise (>90
+min) at higher intensities (>50% of maximal oxygen uptake) may
+result in substantially decreased blood glucose concentrations as a
+result of liver glycogen depletion. Hypoglycemic reactions may occur
+in some people with exercise-induced blood glucose values less than
+2.5 mmol/L (3, 35). Reduced liver carbohydrate stores cause a
+decline in blood glucose to approximately 2.5 to 3.0 mmol/L,
+resulting in diminished carbohydrate oxidation and eventual
+exhaustion (32, 35, 137). However, before exhaustion occurs, it is
+important to note that other ATP sources are converted to glucose
+through gluconeogenesis, with free fatty acids becoming the
+predominant fuel source.
+206
+
+Very high-intensity, intermittent exercise, such as high-intensity
+resistance training, can cause substantial depletion of muscle
+glycogen (decreases of 20%-60%) with relatively few sets (low total
+volume) (100, 126, 146, 148). Although phosphagens may be the
+primary limiting factor during resistance exercise with high
+resistance and few repetitions or few sets, muscle glycogen may
+become the limiting factor for resistance training with larger volumes
+of work accumulated using many sets and repetitions (126). This
+type of exercise could cause selective muscle fiber glycogen
+depletion (more depletion in type II fibers), which can also limit
+performance (50, 126). As with other types of dynamic exercise, the
+rate of muscle glycogenolysis during resistance exercise depends on
+intensity (i.e., the greater the intensity, the faster the rate of
+glycogenolysis). However, it appears that when the total work
+performed is equal, the absolute amount of glycogen depletion is
+similar, regardless of the resistance training session’s intensity (69,
+126).
+Repletion of muscle glycogen during recovery is related to
+postexercise carbohydrate ingestion. Repletion appears to be optimal
+if 0.7 to 3.0 grams of carbohydrate per kilogram of body weight is
+ingested every 2 hours following exercise (56, 137). This level of
+carbohydrate consumption can maximize muscle glycogen repletion
+at 5 to 6 mmol/g of wet muscle mass per hour during the first 4 to 6
+hours following exercise. Muscle glycogen may be completely
+replenished within 24 hours, provided that sufficient carbohydrate is
+ingested (56, 137). However, if the exercise has a high eccentric
+component (associated with exercise-induced muscle damage), more
+time may be required to completely replenish muscle glycogen (121,
+164).
+Similar Response in Younger and Older
+Resistance-Trained Male Muscle Oxidative
+207
+
+Capacity Following Endurance Training
+Hendrickse and colleagues (77) tested the hypothesis that superimposing
+endurance training in both older and younger highly resistance-trained men would
+lead to an increase in fiber oxidative capacity and a decrease in fiber size. Eight
+highly resistance-trained younger (mean age = 28 years) and seven older (mean
+age = 67 years) men participated in a 10-week cycle endurance-training program
+consisting of five 6-minute intervals at 75% max heart rate (HRmax) separated by
+4-minute intervals at 90% HRmax, superimposed on their usual resistance training
+program of at least 4 sessions per week (2 upper body, 2 lower body). Before and
+after the 10 weeks of training, V̇O2max, body fat percentage, an MRI of the upper
+leg, the maximal voluntary isometric contraction torque (MVC) of the knee
+extensor muscles, and a vastus lateralis muscle biopsy were taken. While there
+were expected differences in anatomical cross-sectional area of the thigh muscles,
+following training no relative difference was observed between younger and older
+men for V̇O2max per kilogram body mass. The imposed endurance training equally
+increased the succinate dehydrogenase (a Krebs cycle enzyme) activity in both
+younger and older participants and significantly increased the number of capillaries
+around type I fibers. These findings suggest that incorporating endurance training
+into a resistance training program can promote aerobic metabolic adaptations
+without compromising muscle size and strength in both younger and older
+resistance-trained people. Extending this research in the future will help to
+determine whether there is a threshold for the volume and type of endurance
+exercise beyond which leads to compromised muscle size and strength
+adaptations.
+208
+
+Bioenergetic Limiting Factors in
+Exercise Performance
+Factors limiting maximal performance (22, 49, 79, 88, 104, 156)
+must be considered in the mechanisms of fatigue experienced during
+exercise and training. Understanding the possible limiting factors
+associated with a particular athletic event is required when one is
+designing training programs to achieve a physiological adaptation
+that seeks to delay fatigue and possibly enhance performance. Table
+3.4 depicts examples of various limiting factors based on depletion
+of energy sources and increases in muscle hydrogen ions, although
+other potential factors have been postulated.
+Glycogen depletion can be a limiting factor both for long-duration,
+low-intensity exercise supported primarily by aerobic metabolism and
+for repeated, high-intensity exercise supported primarily by
+anaerobic mechanisms. Of importance to resistance training,
+sprinting, and other primarily anaerobic activities is the effect of
+metabolic acidosis on limiting contractile force (53, 79, 116, 117,
+125). Several other factors have been implicated in the development
+of muscle fatigue and may limit exercise performance, including
+increased intracellular Pi, ammonia accumulation, increased ADP, and
+impaired calcium release from the sarcoplasmic reticulum (4, 5, 131,
+156, 160). Further research is needed to delineate the causes of
+muscular fatigue and the limiting factors in exercise performance.
+TABLE 3.4 Ranking of Bioenergetic Limiting Factors
+Exercise
+ATP
+and CP
+Muscle
+glycogen
+Liver
+glycogen
+Fat
+stores
+Lower
+pH
+Marathon
+1
+5
+4-5
+2-3
+1
+Triathlon
+1-2
+5
+4-5
+1-2
+1-2
+5,000 m run
+1-2
+3
+3
+1-2
+1
+Note: 1 = least probable limiting factor; 5 = most probable limiting factor.
+209
+
+Exercise
+ATP
+and CP
+Muscle
+glycogen
+Liver
+glycogen
+Fat
+stores
+Lower
+pH
+1,500 m run
+2-3
+3-4
+2
+1-2
+2-3
+400 m swim
+2-3
+3-4
+3
+1
+1-2
+400 m run
+3
+3
+1
+1
+4-5
+100 m run
+5
+1-2
+1
+1
+1-2
+Discus
+2-3
+1
+1
+1
+1
+Repeated snatch exercise at
+60% 1RM (10 sets)
+4-5
+4-5
+1-2
+1-2
+4-5
+Note: 1 = least probable limiting factor; 5 = most probable limiting factor.
+210
+
+Oxygen Uptake and the Aerobic and
+Anaerobic Contributions to Exercise
+Oxygen uptake (or consumption) is a measure of a person’s ability to
+take in oxygen via the respiratory system and deliver it to the
+working tissues via the cardiovascular system, and the ability of
+working tissues (predominantly skeletal muscle) to use oxygen.
+During low-intensity exercise with a constant power output, oxygen
+uptake increases for the first few minutes until a steady state of
+uptake (oxygen demand equals oxygen consumption) is reached
+(figure 3.9) (7, 85).
+FIGURE 3.9 Low-intensity, steady-state exercise metabolism: 75% of maximal oxygen
+uptake (V̇O2max). EPOC = excess postexercise oxygen consumption; V̇O2 = oxygen uptake.
+At the start of an exercise bout, however, some of the energy
+must be supplied through anaerobic mechanisms because the
+aerobic system responds slowly to the initial increase in the demand
+for energy (62, 155). This anaerobic contribution to the total energy
+cost of exercise is termed the oxygen deficit (figure 3.9) (85, 109).
+After exercise ceases, oxygen uptake remains above pre-exercise
+211
+
+levels for a period of time that varies according to the intensity and
+length of the exercise. Postexercise oxygen uptake has been termed
+the oxygen debt (85, 109), recovery O2 (109), or the excess
+postexercise oxygen consumption (EPOC) (22). The EPOC is
+the oxygen uptake above resting values used to restore homeostasis
+to the pre-exercise condition (141). Only small to moderate
+relationships between the oxygen deficit and the EPOC have been
+observed (13, 77); the oxygen deficit may influence the size of the
+EPOC, but the two are not equal. The possible factors affecting the
+EPOC are listed in the sidebar Excess Postexercise Oxygen
+Consumption Is Intensity, Duration, and Mode Dependent (17, 21,
+22, 58, 109).
+Excess Postexercise Oxygen Consumption
+Is Intensity, Duration, and Mode
+Dependent
+Excess postexercise oxygen consumption (EPOC) refers to the prolonged increase
+in V̇O2 that may be observed for hours after exercise (58).
+Aerobic Exercise and EPOC (17)
+Intensity has the greatest effect on EPOC.
+The greatest EPOC values are found when both exercise intensity (i.e.,
+>50%-60% V̇O2max) and durations (i.e., >40 min) are high.
+Performing brief, intermittent bouts of supramaximal exercise (i.e., >100%
+V̇O2max) may induce the greatest EPOC with lower total work.
+There is interindividual variability for EPOC in response to a given relative
+exercise stimulus.
+The effects of aerobic exercise modes on EPOC are unclear.
+Resistance Exercise and EPOC (17)
+Heavy resistance exercise (i.e., three sets, eight exercises to exhaustion,
+80%-90% 1RM) produces greater EPOC than circuit weight training (i.e., 4
+sets, 8 exercises, 15 repetitions, 50% 1RM).
+Thus, EPOC is also intensity dependent in response to resistance training.
+212
+
+Factors Responsible for EPOC (17)
+Replenishment of oxygen in blood and muscle
+ATP and CP resynthesis
+Increased body temperature, circulation, and ventilation
+Increased rate of triglyceride–fatty acid cycling
+Increased protein turnover
+Changes in energy efficiency during recovery
+Anaerobic mechanisms provide much of the energy for work if the
+exercise intensity is above the maximal oxygen uptake that a person
+can attain (figure 3.10). Generally, as the contribution of anaerobic
+mechanisms supporting the exercise increases, the exercise duration
+decreases (7, 68, 158, 159).
+FIGURE 3.10 High-intensity, non–steady-state exercise metabolism (80% of maximum
+power output). The required V̇O2 here is the oxygen uptake that would be required to
+sustain the exercise if such an uptake were possible to attain. Because it is not, the oxygen
+deficit lasts for the duration of the exercise. EPOC = excess postexercise oxygen
+consumption; V̇O2max = maximal oxygen uptake.
+The 
+approximate 
+contribution 
+of 
+anaerobic 
+and 
+aerobic
+mechanisms to maximal sustained efforts on a cycle ergometer is
+213
+
+shown in table 3.5 (112, 151, 161). Anaerobic mechanisms are
+primary contributors for exercise durations up to 60 seconds, after
+which aerobic metabolism becomes progressively the primary
+energy-supplying 
+mechanism. 
+The 
+contribution 
+of 
+anaerobic
+mechanisms to this type of exercise represents the maximal
+anaerobic capacity (111, 151).
+TABLE 3.5 Contributions of Anaerobic and Aerobic
+Mechanisms to Maximal Sustained Efforts in Bicycle
+Ergometry
+0-5
+s
+30
+s
+60
+s
+90
+s
+150 s
+200 s
+Exercise intensity (% of maximum
+power output)
+100
+55
+35
+31
+Not
+available
+Not
+available
+Contribution of anaerobic mechanisms
+(%)
+96
+75
+50
+35
+30
+22
+Contribution of aerobic mechanisms
+(%)
+4
+25
+50
+65
+70
+78
+214
+
+Metabolic Specificity of Training
+Appropriate exercise intensities and rest intervals can permit the
+“selection” of specific primary energy systems during training for
+specific athletic events (22, 109, 157). Few sports or physical
+activities require maximal sustained effort to exhaustion or near-
+exhaustion, such as competitive middle-distance sprints (400 m to
+1,600 m). Most team sports and training activities produce metabolic
+profiles that are very similar to those of a series of high-intensity,
+constant- or near-constant-effort exercise bouts interspersed with
+rest periods, such as American football, basketball, and hockey. In
+this type of exercise, the required exercise intensity (work
+performed) that must be met during each exercise bout is much
+greater than that which can be sustained using aerobic energy
+sources alone. Increasing aerobic energy efficiency and capacity
+through primarily long, slow aerobic endurance training while
+simultaneously compromising or neglecting anaerobic energy
+efficiency and anaerobic capacity training is of little benefit to
+athletes in these sports (84, 111). For example, it would be of little
+benefit for a baseball player to run many long, slow miles during
+training rather than focusing on exercises that can concurrently
+improve anaerobic power and capacity using time efficient interval
+training.
+The use of appropriate exercise intensities and rest
+intervals (i.e., work-to-rest ratios) allows for the
+“selection” of specific primary energy systems during
+training and, because this is more reflective of the
+actual metabolic demands of the sport, results in more
+efficient and productive regimens for specific athletic
+events with various metabolic demands.
+215
+
+Interval Training
+Interval training is a method that emphasizes bioenergetic
+adaptations for a more efficient energy transfer within the metabolic
+pathways by using predetermined intervals of exercise and rest
+periods (i.e., work-to-rest ratios). Theoretically, properly spaced
+work-to-rest intervals allow more work to be completed at higher
+exercise intensities with the same or less fatigue than during
+continuous training at the same relative intensity. An early paper by
+Christensen and colleagues (31) compared the total running
+distance, average oxygen uptake, and blood lactate concentration
+during continuous running for 5 minutes and interval running
+totaling 30 minutes with 2:1, 1:1, and 1:2 work-to-rest ratios.
+Subjects were assigned a continuous running intensity (speed) that
+would result in fatigue within 5 minutes. At that fast pace during the
+continuous run, the subjects were able to complete 0.81 miles (1.3
+km) before exhaustion. However, by using 2:1, 1:1, and 1:2 work-to-
+rest ratios and the same running intensity for a total duration of 30
+minutes, the subjects were able to complete 4.14 miles (6.66 km),
+3.11 miles (5 km), and 2.07 miles (3.33 km), respectively, all while
+working aerobic capacity in a manner similar to that in the
+continuous running condition. Therefore, much more distance can be
+accomplished at higher intensities with interval training; this concept
+has been established for over 45 years (31).
+A series of short-term (two-week) interval training studies used
+six sessions of four to seven 30-second maximum cycling efforts
+interspaced with 4 minutes of recovery (1:8 work-to-rest ratio).
+These studies demonstrated improvements in muscle oxidative
+potential (26, 63), muscle buffering capacity (26, 63), muscle
+glycogen content (25, 26), and time-trial performance (25), as well
+as a doubled aerobic endurance capacity (26). In addition, a similar
+four-week interval training program exhibited increases in muscle
+activation and total work output (38) in trained cyclists. This
+highlights the concept that the modality of exercise does not seem
+216
+
+to influence the efficacy of using interval training for metabolic
+adaptations.
+Few studies provide results that can be used to generate
+definitive guidelines for choosing specific work-to-rest ratios. One
+such study, however, reported aerobic and anaerobic metabolic
+variables, total work, and time-to-exhaustion differences between
+two different work-to-rest ratios in elite cyclists (119). The cyclists
+performed two intermittent protocols that included either a 40:20-
+second or a 30:30-second work-to-rest interval to exhaustion at a
+fixed work rate. The 40:20-second work-to-rest ratio resulted in
+significantly reduced total work and time to exhaustion while
+producing higher metabolic values (V̇O2max, lactate concentration,
+ETC). In contrast, the 30:30-second work-to-rest ratio provided
+sustained but slightly lower metabolic values for a considerably
+longer period of time. Another study manipulated the work variable
+via intensity and duration of the work-to-rest ratios. Wakefield and
+Glaister (154) reported a greater amount of time above 95%
+V̇O2max during running at an intensity of 105% of V̇O2max versus
+115% of V̇O2max with a work duration of 30 seconds rather than 20
+and 25 seconds (rest = 20 s). When one is determining the proper
+work-to-rest ratio for athletes, knowledge of the time intervals,
+intensity of work, and recovery periods for each of the energy
+systems is critical to maximizing the amount of work that can be
+accomplished for a given exercise intensity. For example, after a
+bout of maximal exercise that depletes CP stores, the complete
+resynthesis of CP is generally 3 to 5 minutes but may take up to 8
+minutes (75) even though the half time for CP resynthesis is only
+approximately 30 seconds, suggesting that short-duration, high-
+intensity exercise requires greater work-to-rest ratios due to the
+aerobic mechanisms that replete phosphagen stores (75).
+In contrast, as the goals of training change to longer-duration,
+lower-intensity tasks, the durations of the work intervals can be
+longer; this will lengthen the rest periods and decrease the work-to-
+rest ratios. Table 3.6 provides some general guidelines for work-to-
+217
+
+rest ratios that are designed to emphasize the development of
+specific energy systems based on the theoretical time course for
+metabolic system involvement and substrate recovery. However, it
+should be noted that more research is necessary to provide
+evidence-based recommendations for optimal work-to-rest ratios.
+TABLE 3.6 Using Interval Training to Train Specific
+Energy Systems
+% of maximum
+power
+Primary system
+stressed
+Typical
+exercise time
+Range of work-to-rest
+period ratios
+90-100
+Phosphagen
+5-10 s
+1:12 to 1:20
+75-90
+Fast glycolysis
+15-30 s
+1:3 to 1:5
+30-75
+Fast glycolysis and
+oxidative
+1-3 min
+1:3 to 1:4
+20-30
+Oxidative
+>3 min
+1:1 to 1:3
+High-Intensity Interval Training
+High-intensity interval training (HIIT) involves brief repeated
+bouts of high-intensity exercise with intermittent recovery periods.
+High-intensity interval training typically incorporates either running-
+or cycling-based modes of exercise and is an efficient exercise
+regimen for eliciting cardiopulmonary (23) and metabolic and
+neuromuscular (24) adaptations. In fact, Buchheit and Laursen (23)
+stated that HIIT “is today considered one of the most effective forms
+of exercise for improving physical performance in athletes” (p. 314).
+High-intensity interval training is often discussed in terms of duty
+cycles involving a high-intensity work phase followed by a lower-
+intensity recovery phase. However, the duty cycle is analogous to a
+work bout or period as commonly used in other training regimes. It
+has been suggested that nine different HIIT variables can be
+manipulated to achieve the most precise metabolic specificity (23),
+including
+intensity of the active portion of each work bout,
+218
+
+duration of the active portion of each work bout,
+intensity of the recovery portion of each work bout,
+duration of the recovery portion of each work bout,
+number of work bouts performed in each set,
+number of sets,
+rest time between sets,
+recovery intensity between sets, and
+mode of exercise for HIIT.
+The authors (24) indicate, however, that the intensities and
+durations of the active and recovery portions of each work bout are
+the most important factors to consider. To optimize HIIT training
+adaptations for athletes, HIIT sessions should maximize the time
+spent at or near V̇O2max. In comparison to more general interval
+training, during HIIT specifically, the cumulative duration and
+intensity of the active portions of the work bouts should equate to
+several minutes above 90% of V̇O2max (24).
+The benefits of a HIIT protocol designed to repeatedly elicit a
+very high percentage of V̇O2max are primarily the result of the
+concurrent recruitment of large motor units and near-maximal
+cardiac output (6). Thus, HIIT provides a stimulus for both oxidative
+muscle fiber adaptation and myocardial hypertrophy. Additional HIIT
+adaptations include increases in V̇O2max, proton buffering, glycogen
+content, anaerobic thresholds, time to exhaustion, and time-trial
+performance. For example, Gibala and coworkers (63) reported
+equivalent improvements in muscle buffering capacity and glycogen
+content for HIIT at 250% of V̇O2peak during four to six 30-second
+cycling sprints compared to continuous cycling for 90 to 120 minutes
+at 65% of V̇O2peak over six total training sessions. In addition, 750
+kilojoules cycling time trials decreased in both groups by 10.1% and
+7.5% in the HIIT and long, slow endurance training groups,
+respectively. Thus, HIIT provided performance and physiological
+adaptations equivalent to those of long, slow endurance training but
+in a time-efficient manner.
+219
+
+Combining Training Modalities
+Some suggest that aerobic endurance training should be added to
+the training of anaerobic athletes to enhance recovery, because it is
+postulated that recovery relies primarily on aerobic mechanisms. In
+contrast, it is postulated that anaerobic resistance training should be
+added to aerobic endurance training because it can aid in preventing
+soft tissue injuries. However, when considering the metabolic
+specificity of training, thought should be given to whether the
+practitioner is programming combination training, cross-training, or
+concurrent training. These are related but distinctly different
+concepts when seeking to achieve metabolic specific training
+adaptations. Broadly, combination training refers to any training
+program that includes a mix of different types of exercises or
+activities. It does not necessarily imply a specific structure or timing,
+just that various exercise modalities are combined to achieve overall
+fitness improvements. For example, an 800-meter runner may
+include sessions of long, slow distance aerobic work alongside more
+event-specific distances and efforts. In contrast, cross-training
+deliberately involves incorporating different types of exercise with
+the same underlying metabolic adaptation profile (i.e., enhancing
+aerobic capacity), without overstressing the primary activity muscles
+(e.g., including rowing in a program for a runner), often with the aim
+of complementing the main sport performance. In comparison,
+concurrent training refers to the simultaneous training of both
+anaerobic resistance training and aerobic endurance training at
+multiple times within the same period, often within the same training
+session or day. In fact, several studies have demonstrated that
+recovery in anaerobic power output is related to endurance fitness
+(14, 15, 74). Bogdanis and colleagues (14) reported positive
+relationships in power recovery in the first 10 seconds of a cycling
+sprint, the resynthesis of PCr, and endurance fitness (V̇O2max).
+However, aerobic endurance training may reduce anaerobic
+performance capabilities, particularly for high-strength, high-power
+performance (82). This reduction in high-strength, high-power
+220
+
+performance capabilities could be due to an interference in
+anaerobic energy production capabilities due to aerobic endurance
+training (153). Additionally, combined anaerobic and aerobic
+endurance training can reduce gains in muscle girth (36, 128),
+maximum strength (36, 76, 128), and speed- and power-related
+performance (44, 73).
+Even though the exact mechanism for this interference
+phenomenon is unknown and whether there is any threshold limit, it
+has been suggested that combination training and, more specifically,
+concurrent training may increase training volume to a level that may
+result in overtraining in comparison to aerobic and anaerobic training
+alone. Hickson and colleagues (82) provide evidence that concurrent
+training that includes progressive endurance running and cycling and
+heavy resistance training may produce a plateau effect and,
+ultimately, a decrease in strength gains. Specifically, it was reported
+that the concurrent training program of heavy resistance training
+combined 
+with 
+an 
+endurance 
+program 
+provided 
+significant
+improvements in squat strength during the first seven weeks of the
+program, followed by a two-week plateau and then a decrease in
+squat strength during the final two weeks of the program. The
+results provided evidence that continual strength gains may be
+inhibited with progressive concurrent endurance training such as
+running and cycling. Other mechanisms that have been suggested to
+hinder the development of strength when combined with endurance
+training are (a) decreasing rapid voluntary activation, (b) chronically
+lower muscle glycogen levels that limit intracellular signaling
+responses during resistance training, and (c) fiber type transition to
+slow-twitch fibers (114).
+Alternatively, some studies and reviews indicate that the opposite
+holds true; these suggest that anaerobic training (resistance
+training) can improve low- and high-intensity exercise endurance
+(54, 83, 84, 136). Sedano and colleagues (134) reported
+improvements in performance of highly trained runners as a result of
+concurrent endurance, resistance, and plyometric training. There
+221
+
+was no reduction in V̇O2max over the 12 weeks in runners who
+participated in resistance and plyometric training. Furthermore, the
+concurrent training improved performance measures such as
+maximal strength, peak running velocity, and 3-kilometer (1.7 miles)
+time trial compared to endurance training alone. Thus, in highly
+trained runners it appears that strength training can improve
+performance while not hindering metabolic parameters (V̇O2max).
+Although oxidative metabolism is important for increased
+postexercise V̇O2, lactate removal, and PCr restoration from heavy
+anaerobic exercise (e.g., resistance training and sprint training)
+(135), care must be used in prescribing aerobic endurance training
+for anaerobic sports. In this context, it should be noted that specific
+anaerobic training can stimulate increases in aerobic power and
+enhance markers of recovery (54). Thus, it appears that extensive
+aerobic endurance training to enhance recovery from anaerobic
+events is not necessary and may be counterproductive in most
+strength and power sports.
+222
+
+Conclusion
+Training programs with increased productivity can be designed
+through an understanding of how energy is produced during various
+types of exercise and how energy production can be modified by
+specific training regimens. Which energy system is used to supply
+energy for muscular contraction and to perform work is determined
+primarily by the intensity of exercise and secondarily by the duration
+of exercise. Metabolic responses and training adaptations are largely
+regulated by exercise characteristics (e.g., intensity, duration, and
+recovery intervals). How these responses and adaptations occur
+following physical activity forms the basis for metabolic specificity of
+exercise and training. This principle allows for enhanced athletic
+performance through the implementation of improved training
+programs.
+KEY TERMS
+adenosine diphosphate (ADP)
+adenosine monophosphate (AMP)
+adenosine triphosphatase (ATPase)
+adenosine triphosphate (ATP)
+adenylate kinase reaction
+aerobic
+aerobic glycolysis
+allosteric activation
+allosteric inhibition
+anabolism
+anaerobic
+anaerobic glycolysis
+beta oxidation
+bioenergetics
+branched-chain amino acid
+calcium ATPase
+223
+
+catabolism
+combination training
+concurrent training
+Cori cycle
+creatine kinase
+creatine phosphate (CP)
+cross-training
+cytochrome
+depletion
+duty cycles
+electron transport chain (ETC)
+endergonic reaction
+energy
+energy substrate
+excess postexercise oxygen consumption (EPOC)
+exergonic reaction
+fast glycolysis
+flavin adenine dinucleotide (FADH2)
+gluconeogenesis
+glycogenolysis
+glycolysis
+glycolytic system
+high-intensity interval training (HIIT)
+hydrolysis
+inorganic phosphate
+interval training
+Krebs cycle
+lactate
+lactate threshold (LT)
+lactic acid
+law of mass action
+LT1
+LT2
+mass action effect
+224
+
+metabolic acidosis
+metabolic specificity
+metabolism
+mitochondria
+myokinase reaction
+myosin ATPase
+near-equilibrium reactions
+nicotinamide adenine dinucleotide (NADH)
+onset of blood lactate accumulation (OBLA)
+oxidative phosphorylation
+oxidative system
+oxygen debt
+oxygen deficit
+oxygen uptake
+phosphagen system
+phosphocreatine (PCr)
+phosphofructokinase (PFK)
+phosphorylation
+pyruvate
+rate-limiting step
+repletion
+slow glycolysis
+sodium-potassium ATPase
+substrate-level phosphorylation
+wet muscle
+work-to-rest ratio
+STUDY QUESTIONS
+  1.  Which of the following best describes the role of lactate during
+the development of peripheral muscle fatigue?
+  a.  Lactate accumulation and lactic acidosis are the primary
+cause of peripheral fatigue.
+  b.  High tissue lactate concentrations often correlate with
+muscular fatigue, so they are thought to be the primary
+225
+
+cause of the changes in pH with high-intensity fatiguing
+exercise.
+  c.  Lactate is a by-product of when pyruvate is catalyzed, and
+although metabolic acidosis has a prominent role in
+peripheral fatigue, other factors such as an increased
+interstitial K+ concentration and Pi that impairs Ca++
+release have been reported to play a role in the
+development of peripheral fatigue.
+  d.  The excess H+ that causes peripheral fatigue primarily
+results from the rapid hydrolysis of ATP during the
+conversion of pyruvate to lactate.
+  2.  What is the correct net reaction summary for glycolysis when
+pyruvate is converted to lactate?
+  a.  Glucose + 2Pi + 2ADP → 2Lactate + 2ATP + 2H2O + H+
+  b.  Glucose + 2Pi + 2ADP → 2Lactate + 2ATP + 2H2O
+  c.  Glucose + ADP + creatine phosphate → ATP + creatine
+  d.  Glucose + 2ADP → Lactate + 2ATP
+  3.  Metabolism is the total of which four reactions?
+  a.  aerobic, anaerobic, oxidative, and glycolytic
+  b.  catabolic, anabolic, exergonic, and endergonic
+  c.  anabolic, catabolic, glycolytic, and oxidative
+  d.  hydrolysis, catabolic, anabolic, and endergonic
+  4.  Which enzyme is the most important regulator of glycolysis
+and why?
+  a.  phosphofructokinase, because it is the rate-limiting step
+  b.  hexokinase, because it is the rate-limiting step
+  c.  phosphofructokinase, because it is allosteric activating
+  d.  pyruvate kinase, because it is the rate-limiting step
+5. During exercise what are the primary and secondary
+determinants for which energy system is the primary
+contributing system?
+a. primary: intensity; secondary: type
+b. primary: intensity; secondary: duration
+226

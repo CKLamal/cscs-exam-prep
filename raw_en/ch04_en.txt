@@ -1,0 +1,1510 @@
+CHAPTER 4
+ENDOCRINE RESPONSES TO
+RESISTANCE EXERCISE AND
+TRAINING
+William J. Kraemer, PhD, Jakob L. Vingren, PhD,
+and Disa L. Hatfield, PhD
+After completing this chapter, you will be able to
+identify basic concepts of endocrinology and explain the
+endocrine system’s role in human physiology;
+describe the major hormones, including their sources, target
+tissues, and physiological effects;
+analyze and explain the physiological roles of anabolic and
+catabolic hormones in the body’s metabolism and response to
+stress;
+examine and describe how resistance exercise and training
+elicit specific hormonal responses, differentiating between
+various types of resistance exercises;
+evaluate the impact of different resistance exercise workouts
+on hormonal responses, using scientific evidence to support an
+analysis; and
+use an understanding of human endocrine responses to
+develop effective workouts and training programs that optimize
+227
+
+hormonal benefits for health and performance.
+The endocrine system interacts with the nervous, immune, and
+musculoskeletal systems to create a network vital for health and
+athletic performance. Hormones regulate cellular activities, including
+muscle synthesis, recovery, and overall physiological well-being, by
+balancing 
+anabolic 
+and 
+catabolic 
+processes. 
+Strength 
+and
+conditioning professionals must understand the endocrine system to
+design training programs that enhance performance, recovery, and
+injury prevention. This knowledge allows for manipulating hormonal
+responses to exercise, supporting adaptations, and preventing
+overtraining. The system’s interplay has far-reaching effects on
+athletic performance and broader health concerns such as metabolic
+syndrome, insulin resistance, and cardiovascular health.
+228
+
+Historical Perspective on Interest in the
+Endocrine System
+The significance of the endocrine system in strength and
+conditioning gained prominence with the rise of anabolic drug use in
+the 1940s and 1950s (7, 58). Fahey and colleagues were the first to
+investigate how resistance exercises affected endogenous hormone
+concentrations, specifically testosterone, across different sexes,
+ages, and training statuses, paving the way for ongoing research
+into hormonal responses to resistance exercise and training (23). In
+1988, a series of reviews were published from the first symposium
+on the physiology of resistance exercise and training at the American
+College of Sports Medicine’s annual meeting. As part of that
+symposium set of papers, Kraemer (97) overviewed the sparse
+number of studies that had been done on the various hormonal
+responses to resistance exercise and training. This stimulated a line
+of hormonal research that continues today to explore further the
+mechanisms behind these acute responses and training adaptations
+(46). Now the body of literature consists of thousands of studies on
+this topic.
+229
+
+Endocrine Terminology, Functions, and
+Mechanisms
+Grasping the effects of resistance exercise on hormonal responses
+requires a solid understanding of endocrine system terminology.
+While the learning curve is significant, becoming familiar with this
+language is vital for effectively translating scientific insights into
+practical training strategies. Hormones, the chemical messengers
+or signal molecules, are synthesized, often stored, and released into
+the blood by endocrine glands and certain other cells (figure 4.1,
+table 
+4.1). 
+Neurons 
+also 
+synthesize, 
+store, 
+and 
+secrete
+neurotransmitters, which may perform hormonal functions, a study
+known as neuroendocrinology—exploring interactions between
+the nervous and endocrine systems. Typically, endocrine glands are
+prompted to release hormones by a chemical signal received by
+receptors on the gland or by direct neural stimulation. For example,
+the adrenal medulla, the inner part of the adrenal gland, releases
+the hormone epinephrine in response to sympathetic neural
+stimulation from the brain (68, 74, 87, 129). Meanwhile, the outer
+layer of the adrenal cortex produces and releases cortisol when
+stimulated by adrenocorticotropic hormone (ACTH) from the pituitary
+gland (75, 78, 90). Once released, these hormones travel in the
+bloodstream to specific receptors located on the surface (for peptide
+hormones) or inside the target tissue cells (for steroid and
+thyroid hormones) (4, 5, 6, 8, 22, 39), facilitating a targeted and
+efficient response.
+230
+
+FIGURE 4.1 The principal endocrine glands of the body, along with other glands that
+secrete hormones.
+TABLE 4.1 Endocrine Glands and Selected Hormones
+Endocrine
+gland
+Hormone
+Selected physiological actions
+Anterior
+pituitary
+gland
+Growth hormone(s)
+Stimulates insulin-like growth factor-1 secretion
+from the liver, protein synthesis, growth, and
+metabolism; other aggregates of the growth
+hormone (GH) also have biological function and
+make up the more complex super family of GH
+231
+
+Endocrine
+gland
+Hormone
+Selected physiological actions
+Adrenocorticotropic
+hormone
+Stimulates glucocorticoid secretion from the
+adrenal cortex
+Beta-endorphin
+Stimulates analgesia
+Thyroid-stimulating
+hormone
+Stimulates thyroid hormone secretion from the
+thyroid gland
+Follicle-stimulating
+hormone
+Stimulates growth of follicles in ovary and
+seminiferous tubules in testes; stimulates ovum
+and sperm production
+Luteinizing hormone
+Stimulates ovulation as well as secretion of sex
+hormones in the gonads (ovaries and testes)
+Prolactin
+Stimulates milk production in mammary glands;
+maintains corpora lutea and secretion of
+progesterone
+Posterior
+pituitary
+gland
+Antidiuretic hormone
+Increases contraction of smooth muscle and
+reabsorption of water by kidneys
+Oxytocin
+Stimulates uterine contractions and release of
+milk by mammary glands
+Thyroid
+gland
+Thyroxine
+Stimulates oxidative metabolism in mitochondria
+and cell growth
+Calcitonin
+Reduces calcium phosphate levels in blood
+Parathyroid
+glands
+Parathyroid hormone
+Increases blood calcium; decreases blood
+phosphate; stimulates bone formation
+Pancreas
+Insulin
+Reduces blood glucose concentrations via
+promotion of glucose uptake by cells; promotes
+glycogen storage; suppresses fat oxidation and
+gluconeogenesis; is involved in protein synthesis
+Glucagon
+Increases blood glucose levels
+Adrenal
+cortex
+Glucocorticoids (cortisol,
+cortisone, and so on)
+Catabolic and anti-anabolic: promote protein
+breakdown and inhibit amino acid incorporation
+into proteins; conserve blood glucose
+concentrations via stimulation of conversion of
+proteins into carbohydrates (gluconeogenesis);
+232
+
+Endocrine
+gland
+Hormone
+Selected physiological actions
+suppress immune cell function; promote fat
+oxidation
+Mineralocorticoids
+(aldosterone,
+deoxycorticosterone, and
+so on)
+Increase body fluids via sodium–potassium
+retention
+Liver
+Insulin-like growth
+factors
+Increase protein synthesis in cells
+Adrenal
+medulla
+Epinephrine
+Increases cardiac output; increases blood sugar
+and glycogen breakdown and fat metabolism
+Norepinephrine
+Has properties of epinephrine; also constricts
+blood vessels
+Proenkephalin fragments
+(e.g., peptide F)
+Enhance immune cell function, have analgesia
+effects
+Ovaries
+Estradiol
+Stimulates development of female sex
+characteristics
+Progesterone
+Stimulates development of female sex
+characteristics and mammary glands; maintains
+pregnancy
+Testes
+Testosterone
+Anabolic and anticatabolic: promotes amino acid
+incorporation into proteins and inhibits protein
+breakdown; stimulates growth and development
+and maintenance of male sex characteristics
+Heart
+(atrium)
+Atrial peptide
+Regulates sodium, potassium, and fluid volume
+Kidney
+Renin
+Regulates kidney function, permeability, solute
+233
+
+Understanding Signaling Concepts
+Different types of workouts trigger specific, complex cellular
+endocrine signaling processes, thus highlighting the importance of
+the selection for each of the five acute program variables and then
+the total amount of work performed in a workout (70) for the
+endocrine response. Deoxyribonucleic acid (DNA) primarily directs
+protein synthesis, but the regulation and expression of DNA affect
+many other cellular functions and the synthesis of various molecules
+essential for life. Hormonal signaling processes begin when glands
+release hormones during, or in anticipation of, a resistance exercise
+workout. These hormones then bind to specific receptors in muscle
+cells and other cells. This binding initiates a cascade of responses,
+generally 
+resulting 
+in 
+altered 
+cellular 
+metabolism 
+or 
+DNA
+transcription modulation, which can affect protein synthesis. It is
+essential to know that every cell and many subcellular organelles
+have genomic and non-genomic receptors, and this is where the
+hormone signals its message to make proteins. Here is a simplified
+breakdown of the signaling process for skeletal muscle:
+1. Stimulating the muscle. Resistance exercise activates muscles,
+prompting a hormonal response.
+2. Hormonal response. Hormones are released and travel to
+muscle cells.
+3. Hormone–receptor interaction. Hormones bind to specific
+receptors in the cell membrane of muscle cells (peptide
+hormones) or inside the muscle cells (steroid hormones),
+signaling the need for action inside the cell.
+4. Intracellular signaling. This binding triggers a series of events
+that lead to DNA signaling inside the nucleus.
+5. DNA 
+translation. 
+DNA 
+instructions 
+are 
+transcribed 
+to
+messenger ribonucleic acid (mRNA), which carries the
+instructions to the cell’s protein-making machinery (ribosome).
+234
+
+6. Protein production. The mRNA instructions are translated into
+specific proteins, the building blocks for muscle repair and
+growth.
+7. Muscle growth and repair. Regular training uses this muscle
+development and repair mechanism, which is essential for
+developing lean muscle mass and athletic performance.
+235
+
+Functions of the Endocrine System in
+Resistance Exercise and Training
+The major functions of the endocrine system can be classified into
+the following key hormonal actions:
+Anabolic responses (to build up). Hormones such as
+testosterone, insulin-like growth factor-1 (IGF-1), and growth
+hormone play critical roles in muscle growth and repair.
+Permissive actions (to allow). Hormones such as insulin and
+thyroid hormones enable critical metabolic and physiological
+activities by enhancing nutrient uptake and promoting
+essential chemical reactions in muscles, thereby supporting
+muscle growth and overall metabolic functions.
+Catabolic processes (to break down). For example, cortisol
+helps manage energy during stress but can hinder muscle
+growth if not properly managed through adequate rest and
+recovery. This emphasizes the balance needed in training
+regimens.
+Types of Hormonal Release Mechanisms
+Hormones are typically released into the bloodstream via the classic
+endocrine pathway after gland stimulation. Hormones can also
+operate through intracrine, autocrine, and paracrine mechanisms,
+which do not rely on the bloodstream. Intracrine and autocrine
+actions involve hormones either binding to internal receptors within
+their producing cell or being released to bind to surface receptors on
+the same cell. An example of this is insulin-like growth factor-1 (IGF-
+1) and its splice variant mechano growth factor (MGF), which muscle
+fibers produce in response to mechanical stress or interaction with
+growth hormones, affecting the muscle cell directly. Paracrine action
+occurs when hormones affect adjacent cells, again bypassing the
+bloodstream.
+236
+
+Binding Proteins
+Hormones are often transported in the blood by various binding
+proteins (4, 6), which serve as a temporary storage location and
+protect the hormones from degradation, thereby extending their
+lifetime in the body (called the half-life). It is important to note that
+hormones typically exert their effects only when they are released,
+and thus are “free,” from these proteins. However, some binding
+proteins, such as sex hormone–binding globulin (SHBG), which binds
+testosterone and estrogen, can initiate cellular responses themselves
+by 
+activating 
+pathways, 
+including 
+the 
+cyclic 
+adenosine
+monophosphate (cAMP) pathway (29). These interactions are crucial
+for understanding endocrine regulation and continue as an area of
+study (101).
+Target Cells and Tissues
+Hormones influence a wide array of cells by interacting with
+receptors throughout the body (1, 2, 57, 59, 62, 63). While our focus
+is on skeletal muscle tissue, it is important to recognize that
+resistance exercise–induced hormone release also affects bone,
+other connective tissues, the kidneys, the liver, immune cells, and
+neural tissues, including the brain. Interestingly, not only do these
+target cells in the different tissues adapt to the exercise stress, but
+their receptors also gain a positive adaptive effect with training.
+237
+
+Importance of Recruitment of Muscle
+Tissue
+Henneman’s size principle shows that as the resistance increases
+(i.e., heavier loads), more and larger muscle fibers are recruited to
+meet the increased force demand. This principle outlines the
+recruitment order of motor units—from smaller, slow-twitch fiber
+motor units to larger, fast-twitch fiber motor units. The heavier the
+resistance, the greater the number and size of motor units recruited
+in a muscle to produce force (77). While anabolic and catabolic
+hormones maintain homeostatic balance by interacting with all cells,
+stress causes hormonal changes that reflect the body’s need to meet
+new metabolic demands and recovery needs. However, only
+recruited motor units adapt to the training stimulus and are affected
+by the endocrine system’s increase in anabolic hormones, likely due
+to the increased activation of more receptors. Interestingly, and of
+importance, increased catabolic hormone responses to stress or
+distress can affect all tissues even if not recruited for exercise
+performance. A catabolic state is highly detrimental for an athlete,
+especially when cortisol levels remain chronically elevated. Combined
+with the presence of reactive oxygen species (free radicals)
+generated by the body’s inflammatory response, this condition
+significantly impairs recovery and hampers performance (77).
+238
+
+Muscle as the Target for Hormone
+Interactions
+Resistance exercise and training leads to muscle remodeling through
+a complex network of metabolic and cellular signals. This process
+involves muscle fiber damage, an inflammatory response, and the
+breakdown of damaged proteins, ultimately synthesizing new
+proteins integrated into muscle structures. The inflammatory phase,
+which involves the immune system, including T and B cells, is
+significantly influenced by hormonal activity, emphasizing the role of
+neuroendocrine immunology in understanding how the nervous,
+endocrine, and immune systems interact in muscle adaptation (77).
+Hormones regulate the balance between protein synthesis and
+degradation, playing a critical role in muscle adaptation after
+resistance exercise. They stimulate the production of contractile
+proteins like actin and myosin, as well as structural proteins such as
+titin, which are essential for muscle function. Anabolic hormones,
+including insulin, insulin-like growth factors (IGFs), testosterone, and
+GH, are particularly vital because they drive tissue growth and
+counteract the effects of catabolic hormones like cortisol and
+progesterone, which can lead to protein degradation. Furthermore,
+hormones like thyroid hormones play a supportive, permissive role,
+facilitating the actions of other hormones. The potentially negative
+effects of cortisol in recovery, such as inhibiting immune cell activity
+and disrupting pathways like the Akt/mechanistic target of
+rapamycin 
+(mTOR) 
+pathway—important 
+for 
+initiating 
+mRNA
+translation—are 
+also 
+notable, 
+demonstrating 
+the 
+complex
+interactions between hormones and muscle fibers that influence
+muscle function and adaptation to training.
+239
+
+Role of Receptors in Mediating
+Hormonal Changes
+The effectiveness of hormonal signals depends entirely on the
+presence of hormone-specific receptors on or in the target cells. This
+ensures that each hormone only affects its intended cells and tissues
+(those that express the specific receptors). Such specificity is crucial
+for maintaining precise hormonal regulation within the body. Since
+many hormones cannot directly cross the cell membrane, they rely
+on binding to membrane receptors that cause secondary
+messengers to transmit signals internally, including reaching the
+DNA in the cell’s nuclei. These receptors, located either in the cell
+membrane for polypeptide hormones or within the cytosol for
+steroid and thyroid hormones, allow various cells, from muscle fibers
+to immune and brain cells, to respond to hormonal signals.
+A fundamental principle in endocrinology, often described through
+the lock-and-key model (24), explains how a hormone (the key)
+must precisely match a receptor (the lock) to trigger a response
+(figure 4.2). However, this model oversimplifies the complexity of
+hormone–receptor interactions. For example, cross-reactivity
+allows receptors to engage with hormones other than their primary
+matches, and allosteric binding can modify how a receptor
+responds to its primary hormone (such as blocking binding to the
+receptor and thus signaling). Additionally, receptors might have
+allosteric sites where nonhormonal substances can enhance or
+reduce the hormonal response. Some hormones, like GH, might even
+need to aggregate into specific forms (multiple hormones bound
+together in a “cluster”) to effectively signal through their receptors,
+as shown in studies using the tibial line assay (40), indicating that
+specific molecular configurations are essential for their activity.
+240
+
+Adaptation Limits and Receptor Sensitivity
+When a muscle fiber has reached its capacity for protein
+incorporation, or when a chronically elevated concentration of a
+hormone 
+causes 
+overstimulation, 
+receptors 
+may 
+become
+desensitized or unresponsive—a condition known as receptor
+downregulation; a classic example of this phenomenon is insulin
+resistance, which can be caused by chronically elevated circulating
+insulin concentrations. The reduced signal from the hormone
+following overstimulation signifies a reduced ability of the hormone
+to interact with its receptor or downregulation of the number of
+receptors, which can effectively stop further cellular responses and
+adaptations (37, 122). As such, receptors can adjust their affinity for
+binding, and the number of available receptors can vary. These
+changes affect cellular adaptation as significantly, if not more, as
+changes in hormone concentrations. For example, heavy resistance
+overtraining can lead to a downregulation of beta-2 receptors,
+affecting their interaction with epinephrine and reducing muscle
+contractile force (37). Exploring how receptor characteristics alter in
+response to training and affect muscle adaptation is key to
+understanding the complex interactions between hormones and
+exercise.
+241
+
+FIGURE 4.2 A schematic representation of the classic lock-and-key theory for hormonal
+action at the cell receptor level.
+242
+
+Categories of Hormones
+Hormones can be classified into three main categories based on their
+molecular structure: steroid, peptide (or polypeptide), and amine
+hormones.
+Steroid Hormone Interactions
+Steroid hormones, including cortisol, testosterone, and estradiol
+produced by the adrenal cortex and/or gonads, can diffuse across
+cell membranes due to their lipophilic (fat-soluble) nature. They
+engage with specific receptors inside the cell to form a hormone–
+receptor 
+complex 
+(H-RC). 
+This 
+complex 
+undergoes 
+a
+conformational change, activates, and pairs with another H-RC. It
+then moves to the nucleus, interacts with the DNA, and promotes
+the transcription process for specific proteins by “unzipping” DNA
+and identifying regulatory elements of the targeted gene (18, 117).
+The resulting mRNA is then translated by ribosomes in the
+sarcoplasm into the intended proteins. The steroid hormone–induced
+protein synthesis process is depicted in figure 4.3.
+Testosterone’s influence on muscle cells encompasses more than
+its genomic effects. In addition to the primary nuclear receptor, a
+membrane receptor for testosterone has also been described in
+detail (128). Such a membrane receptor allows testosterone to affect
+the cell through rapid and nongenomic interactions (i.e., those that
+do not involve DNA transcription in the nuclei) within various other
+cellular compartments. These interactions play a crucial role in
+muscle adaptation, recovery, and growth by facilitating the
+production 
+of 
+essential 
+contractile 
+and 
+structural 
+proteins,
+modulating calcium flux in muscle cells, altering membrane fluidity,
+and activating key signaling pathways (e.g., the MAPK/ERK
+pathway). Such nongenomic actions underscore testosterone’s
+multifaceted 
+role 
+in 
+muscle 
+development. 
+Understanding
+testosterone’s genomic and nongenomic effects is vital for a
+243
+
+comprehensive grasp of steroid hormones’ impact on muscle biology
+(91).
+Polypeptide Hormone Interactions
+Polypeptide hormones are composed of chains of amino acids and
+include hormones such as GH and insulin. Due to their non-lipophilic
+nature, polypeptide hormones cannot cross the cell membrane, and,
+therefore, their effects are mediated by secondary messengers
+within the cell. When these hormones bind to their membrane
+receptor, they cause a conformational change that allows the
+receptor to transmit the hormonal signal inside the cell. This
+transmission initiates a cascade of signaling events that, among
+others, can affect metabolic activities, influence DNA transcription, or
+kick-start mRNA translation at the ribosome. For example, insulin
+activates a pathway that results in glucose transporters (specifically
+GLUT4) migrating from the cytosol to the cell membrane, enhancing
+the cell’s uptake of glucose (45). This is crucial for managing blood
+glucose levels and cellular substrate availability for ATP production.
+244
+
+FIGURE 4.3 A simplified model of steroid hormone action. The figure illustrates how
+steroid hormones like testosterone in skeletal muscle or dihydrotestosterone in sex-linked
+tissues migrate into target cells. Although the pathways for both hormones are represented,
+each targets only one specific cell type but they are shown together for clarity. Each
+hormone pathway leads to different physiological outcomes, emphasizing the selective
+nature of steroid–hormone interactions.
+Figure 4.4 depicts how a typical polypeptide hormone might
+interact with the cell nucleus through the cytokine-activated Janus
+kinase (JAK)/signal transducer and activator of the transcription
+(STAT) signaling pathway. The JAK/STAT pathway transmits signals
+from various polypeptide hormones into the cell. However, like
+testosterone, polypeptide hormones may also have nongenomic
+actions. For instance, GH stimulates lipolysis, thus sparing muscle
+glycogen during and after a workout (110).
+245
+
+FIGURE 4.4 Polypeptide hormone interactions with receptors. Tyr-P = tyrosinase-related
+protein.
+246
+
+Amine Hormone Interactions
+Amine hormones are indeed synthesized from amino acids, including
+those derived from tyrosine (such as epinephrine, norepinephrine,
+and dopamine) and tryptophan (such as serotonin), and primarily
+exert their effects by binding to membrane receptors. These
+hormones typically act through secondary messenger systems,
+similar to polypeptide hormones. For example, epinephrine and
+norepinephrine interact with G protein-coupled receptors to initiate
+signaling cascades involving cAMP or other secondary messengers.
+247
+
+Training-Mediated Hormonal Responses
+and Mechanisms
+Electrical, chemical, and hormonal signals are transmitted from the
+brain, active muscles, and other tissues to various endocrine glands,
+preparing the body’s physiological systems for the demands of the
+workout (20, 23, 28, 32, 35, 49, 75, 80, 81). Heavy resistance
+training over months to years significantly enhances musculature
+size, strength, and power, mediated partly through adaptive
+hormonal responses (47, 50, 70, 73, 76, 88, 95). These adaptations
+arise from increased levels of anabolic hormones such as
+testosterone, growth hormone, and insulin-like growth factor-1 (IGF-
+1) that acutely rise during exercise and remain elevated after
+exercise. Additionally, resistance exercise leads to an upregulation of
+hormone receptors in muscle tissues, which increases the muscle’s
+sensitivity to these hormones and enhances protein synthesis and
+muscle hypertrophy. The structural changes in muscle and neural
+adaptations contribute to increased strength and power, including
+improvements in the rate of force production and alterations in
+muscle fiber recruitment patterns. Resistance training also positively
+affects bone density and the strength of connective tissues,
+supporting increased muscular strength and overall physical
+performance. One critical pathway in muscle protein synthesis
+activated by resistance training is the mammalian target of the
+rapamycin (mTOR) pathway, which is crucial for muscle growth.
+These complex interactions result in adaptive changes in skeletal
+muscle and other tissues, enhancing the activation of muscle
+functions over time.
+Acute hormonal releases reflect the nature and intensity of
+physiological stress, such as insulin-related metabolic demands,
+prompting adjustments in resting metabolism. These coordinated
+hormonal responses are critical for adapting to training programs,
+influencing tissue remodeling, and promoting anabolic actions.
+248
+
+However, excessive exercise stress may lead to catabolic dominance
+due to factors like impaired hormone receptor binding or receptor
+downregulation in muscle tissue, highlighting the importance of
+appropriate exercise stimulus for beneficial hormonal responses (18,
+25, 26, 27, 30, 69, 96, 99, 108).
+249
+
+Interpreting Hormonal Changes in
+Peripheral Blood
+Understanding exercise effects on the body goes beyond physical
+observations; it includes reading studies that monitor biochemical
+changes such as hormone fluctuations in blood, muscle, and
+surrounding fluids (114). These changes provide insights into the
+body’s stress response and adaptation to exercise. However,
+interpreting these changes can be complex, because hormone levels
+in the blood are just one aspect of a broader hormonal response
+that also includes neural and nutritional factors such as being fasted
+or not and if proteins and carbohydrates are ingested around a
+workout. Increases in blood hormone levels generally indicate
+enhanced release from endocrine glands, potentially boosting
+hormone–receptor interactions in target tissues. Yet the actual
+impact depends on the state and quantity of the receptors—whether
+they are primed to bind hormones and initiate crucial processes
+involved in protein synthesis, including activating pathways such as
+mTOR (11, 13, 14, 66). Conversely, decreases in hormone levels
+might suggest increased tissue uptake, faster hormone breakdown,
+or reduced secretion.
+Several physiological factors, including circadian rhythms, fluid
+volume changes, tissue clearance rates, venous pooling, and
+interactions with binding proteins, also influence observed circulating
+hormone concentrations after exercise. These factors determine the
+hormone’s efficacy in interacting with receptors and triggering
+cellular responses, underlining the complexity of hormone function
+and its role in exercise adaptations.
+While increased hormone levels after exercise indicate heightened
+glandular activity, they do not directly correlate with muscle gains.
+Muscle size and strength can improve without significant changes in
+hormone levels by, for example, using heavy 1RM to 3RM zones with
+long rest periods of over 3 minutes. Such resistance loads recruit
+250
+
+maximal amounts of motor units and enhance receptor binding.
+However, such workouts’ relatively low metabolic demands typically
+result in only modest, if any, increases in blood concentrations of
+testosterone, IGF-1, and growth hormone. Nevertheless, slight
+hormonal changes, combined with paracrine and autocrine signaling,
+are generally sufficient to effectively signal via receptors and other
+molecular pathways within tissues in the neuromuscular system to
+stimulate growth and repair. Conversely, a workout that involves
+8RM to 10RM resistances, short rest periods of 1 to 2 minutes, and a
+higher volume of work produces greater metabolic demands on the
+body. The metabolic stress is evidenced by significant increases in
+blood lactate and a surge in both anabolic and catabolic hormones.
+These hormonal changes signal skeletal muscle receptors effectively,
+even with the recruitment of fewer motor units using lighter
+resistances. Periodization strategies that incorporate a range of
+different resistances over time ensure effective muscle activation
+across various workout styles, where hormones help mediate
+changes. Such workout design variations reflect the complex nature
+of exercise-induced hormonal activation and its contribution to
+adaptive changes in the body.
+Hormone responses in the blood are tightly linked to the
+characteristics of the resistance exercise protocol.
+251
+
+Adaptations in the Endocrine System
+From Resistance Training
+Resistance training affects muscles and connective tissues and
+significantly affects the other physiological systems, including the
+endocrine system. This type of training also trains the endocrine
+glands, with the gland’s involvement dependent on the demands of
+the motor units activated during exercise. The endocrine system’s
+adaptations to resistance training include changes in the following:
+Hormone synthesis and storage
+Hormone transport via binding proteins
+Clearance and degradation rates of hormones
+Fluid shifts from blood to tissues during exercise
+Hormone–receptor binding affinity
+The number of tissue receptors
+Glandular cell changes
+The intensity of signals sent to cell nuclei by hormone–
+receptor complexes
+Cellular interactions influencing muscle protein production
+Hormones are secreted to maintain homeostasis, regulating
+physiological functions during both the acute stress of a workout and
+chronic stress from long-term training, which activates these
+homeostatic mechanisms (17, 33, 34, 41, 49, 56, 125, 126, 130).
+These adaptations might lead to subtle changes in resting hormone
+levels, demonstrating the dynamic responsiveness of the endocrine
+system to physical training.
+252
+
+Primary Anabolic Hormones in Muscle
+Development
+Key anabolic hormones that drive muscle tissue growth and
+remodeling include testosterone, growth hormone, and insulin-like
+growth factors (IGFs), with additional roles played by insulin and
+thyroid hormones (25, 26, 27, 28, 38, 91).
+Testosterone’s Role in Muscle Adaptation
+Testosterone, the primary androgen affecting skeletal muscle, and
+dihydrotestosterone, which acts mainly on sex-linked tissues, play
+crucial roles in the body. While circulating testosterone levels
+indicate anabolic activity, the actual binding of testosterone to its
+receptor is vital for stimulating muscle growth. Binding to androgen
+genomic and non-genomic receptors activates various signaling
+pathways that enhance gene expression for muscle hypertrophy and
+suppress those involved in protein degradation. Therefore, increased
+testosterone levels due to increased motor unit activation indicate
+metabolic demands beyond homeostatic conditions and are
+associated with enhanced receptor binding (124, 133).
+Testosterone also indirectly affects muscle growth by promoting
+the release of growth hormone from the pituitary, which influences
+muscle protein synthesis. This hormone’s relationship with growth
+hormone is either permissive or synergistic in promoting protein
+synthesis (103). Furthermore, testosterone affects the nervous
+system 
+by 
+interacting 
+with 
+neuron 
+receptors, 
+altering
+neurotransmitter amounts, and influencing structural protein
+changes within muscle cells (9, 67, 91).
+After secretion from the primary production sites, the testes in
+men and the ovaries and adrenal cortex in women, testosterone is
+carried to target tissues by binding proteins, primarily sex hormone–
+binding globulin and albumin. At the target site, testosterone
+dissociates from these proteins and crosses the cell membrane to
+253
+
+bind to intracellular androgen receptors, directly influencing DNA
+transcription. Testosterone also binds to membrane receptors,
+enabling rapid intracellular effects like calcium release (21, 131).
+Understanding the varied impacts of testosterone and its
+interaction with exercise conditions reveals how differential forces on
+cell membranes during resistance training or feedback mechanisms
+to the brain can alter cellular actions and receptor interactions (18).
+Despite increases in testosterone concentrations during high-
+intensity aerobic endurance exercise, significant hypertrophy does
+not typically occur. The lack of hypertrophy may be due to oxidative
+stress, which can lead to reduced type I muscle fiber size to optimize
+oxygen 
+transport 
+distances 
+to 
+mitochondria. 
+High-intensity
+endurance training, including intervals performed alone, has been
+shown to lead to decreases in type I muscle fibers (88).
+Influence of Sex Hormones
+Testosterone, while primarily recognized as a male sex hormone,
+also plays a significant role in women, who naturally have only about
+5% to 10% of the circulating testosterone levels found in men due
+to the absence of testes. Research on testosterone responses in
+women following resistance exercise has yielded mixed results. Most
+studies have not shown a notable acute increase in total
+testosterone after workouts; if increases are observed, they are
+generally small (15, 23, 51, 56, 81, 134). However, some studies
+note these increases specifically in free testosterone, which is not
+bound to binding proteins and thus can interact freely with cells
+(133).
+A study found that younger women experienced a modest but
+significant increase in serum testosterone after performing six sets
+of squats at a 10RM with 2 minutes of rest between sets at 80% of
+the 1 RM (111). Additionally, Vingren and colleagues observed that
+highly resistance-trained men and women exhibited acute rises in
+free testosterone following heavy resistance exercises. However, the
+values in women were significantly lower than those in men (133).
+254
+
+While women have lower baseline testosterone levels, exercise can
+still influence their hormone levels.
+Moreover, individual variations exist among women, with some
+producing higher concentrations of adrenal androgens. A study
+comparing active women with inactive controls found differences in
+baseline testosterone levels, indicating that regular exercise might
+influence these levels (15). Despite these findings, other research
+has not consistently demonstrated changes in serum testosterone
+concentrations in women with training (23, 51, 56, 81, 134),
+highlighting the complexity of hormonal responses to resistance
+exercise in women.
+While testosterone levels in women are lower, the dynamic
+interaction between testosterone, SHBG, DHT, and androgen
+receptors facilitates significant responses to resistance exercise.
+These interactions can include muscle mass and strength increases,
+essential for physical health and metabolic function. The response of
+androgen receptors to even small increases in testosterone and the
+compensatory role of other androgens like DHT emphasize the
+complex but critical nature of androgens in female physiology and
+resistance exercise.
+An interplay between free and total testosterone is critical for
+optimizing exercise outcomes. Free testosterone, which represents
+only 0.5% to 2% of total testosterone, is vital for direct interaction
+with muscle tissues. Younger men generally exhibit higher
+postexercise increases in free testosterone compared to older men,
+indicating a greater possibility for muscle tissue interaction (82).
+According to the free hormone hypothesis, the free, unbound
+hormone interacts with target tissues. However, bound hormones
+may also enhance hormone delivery to these tissues, potentially
+benefiting younger individuals more significantly (19). Due to
+women’s relatively low total testosterone levels, changes in
+hormone-binding proteins could substantially regulate hormone
+activity, suggesting that these binding proteins might act as bioactive
+hormones (120).
+255
+
+Exercise-Induced Responses
+Men’s testosterone levels are generally highest in the morning and
+gradually decrease throughout the day. However, this does not mean
+that morning workouts are more effective than afternoon workouts.
+The effectiveness of exercise depends more on the availability of
+hormone receptors in both men and women, which is not directly
+linked to the body’s circadian rhythm. Exercise can trigger increases
+any time, with the overall response related to intensity, volume, and
+rest periods between sets (17, 23, 44, 48, 81, 134). However, the
+magnitude of the testosterone’s response is, as with all hormones,
+dependent on where blood is sampled in the hormone’s circadian
+cycle (e.g., testosterone is higher in the morning than in the late
+afternoon), and thus, it is important to understand where a measure
+of a hormone was made and if the study has a resting control for
+the time of day to determine the magnitude above resting levels
+accurately. Its circadian cycle is important for the interpretation of
+the results of a study. Most studies have used the morning time
+frames.
+Testosterone dynamics in young males, particularly those under
+18, are influenced significantly by puberty, affecting their responses
+to exercise. Prepubescent boys produce minimal testosterone, which
+limits exercise-induced hypertrophy. Adolescent males can enhance
+serum testosterone levels through exercises that engage large
+muscle groups like squats and deadlifts, using heavy resistance of
+85% to 95% of their 1RM, and maintaining high exercise volume
+with short rest intervals between sets, but the levels in women were
+dramatically lower (figure 4.5; 133). It took two years of training in
+young weightlifters (14-17 years) before an exercise-induced
+testosterone effect was observed. While resistance training may not
+raise resting testosterone levels, repeated exposure to resistance
+training could help younger boys develop their hypothalamic-
+pituitary-gonadal axis, enabling a more robust testosterone response
+to acute resistance exercise (35).
+256
+
+FIGURE 4.5 Responses of (a) total testosterone and (b) free testosterone in response to
+six sets of squats at 80% of the 1RM with 2 minutes rest between sets. The midpoint (Mid)
+sample is after three sets. * indicates a significant increase from pre-exercise values. #
+indicates a significant difference from women at the corresponding time point.
+Reprinted by permission from J.L. Vingren, W.J. Kraemer, D.L. Hatfield, et al., “Effect of Resistance Exercise on Muscle
+Steroid Receptor Protein Content in Strength Trained Men and Women,” Steroids, 74 (2009): 1033-1039, with
+permission from Elsevier.
+Training Adaptations of Testosterone and
+Impact on Androgen Receptors
+Research continues to expand our understanding of how
+testosterone responds to resistance training, revealing that
+testosterone levels dynamically respond to exercise demands,
+257
+
+influencing receptor activity and adaptations in different tissues like
+nerves and satellite cells (49, 88, 126, 133, 135). Traditional
+expectations that testosterone consistently increases in resting
+states may be outdated; however, exercise-induced testosterone
+levels are expected to rise due to enhanced functional capacity and
+workload during training sessions. These hormonal changes may be
+linked to neural adaptations that enhance performance. Häkkinen
+and colleagues (49) noted little change in muscle fiber size despite
+the increases in testosterone, follicle-stimulating hormone, and
+luteinizing hormone. Such data demonstrate that the improvements
+were more likely driven by neural factors augmented by hormonal
+changes rather than significant muscle growth.
+Over time, factors such as training duration and experience play
+critical roles in hormonal adjustments. For instance, a notable study
+by Häkkinen and colleagues (49) observed small but significant
+increases in resting serum testosterone levels over two years among
+elite weightlifters, alongside increases in follicle-stimulating hormone
+and luteinizing hormone, which are crucial in regulating testosterone
+production.
+Testosterone also supports the development of the nervous
+system and enhances neural adaptations necessary for strength
+gains, particularly in highly trained athletes (51, 52). Additionally,
+training sessions that acutely elevate testosterone levels have been
+linked to more remarkable resistance training adaptations (53, 119).
+The effects of resistance training on androgen receptors—
+testosterone’s binding sites—are emerging as an area of significant
+interest, with studies showing both increases and decreases in
+androgen receptor content and DNA binding, depending on the
+exercise protocol and timing of tissue sampling (12, 93, 118, 132,
+133, 136). For example, Cardaci and colleagues noted that androgen
+receptor-DNA binding increased only after high-intensity total body
+resistance exercises and not after low-intensity exercises (12).
+Despite these variations, resistance training generally appears to
+boost muscle androgen receptor content, thereby enhancing
+258
+
+testosterone use. The training effects for women remain unclear
+because only small increases in the exercise-induced response have
+been noted. Yet the androgen receptors in trained women rapidly
+respond to the available testosterone after exercise (111, 133).
+Nutritional 
+strategies, 
+particularly 
+consuming 
+proteins 
+and
+carbohydrates before a workout, have been shown to upregulate
+skeletal muscle androgen receptor content, emphasizing the
+importance of preworkout nutrition (93). While most exercise studies
+have evaluated fasted states, interestingly, as pre- and post-protein
+and carbohydrate supplementation are used, a reduction in the
+testosterone values is observed, most likely due to the greater
+uptake by the muscle for use.
+259
+
+Growth Hormone
+Growth hormone (GH) is produced in the pituitary gland by
+somatotroph cells, divided into two types based on their secretion
+patterns and the forms of GH. Band 1 somatotrophs generate the
+smaller, newly synthesized 22 kD molecular weight isoform of GH, a
+191 amino acid polypeptide. Conversely, band 2 somatotrophs
+produce aggregates of these smaller isoforms (e.g., two 22 kD units
+combining to form a 44 kD molecule), which are considered older
+and are potential GH storage forms (61). These aggregates can be
+released into the bloodstream, interacting with specific tissue
+receptors. For instance, aggregated GH binds to receptors in the
+tibial growth plate to stimulate bone growth. These different
+molecular weight variants target various tissues, including bone,
+muscle, liver, and immune cells, influencing glucose use, protein
+synthesis, lipolysis, collagen synthesis, and enhancing immune cell
+function.
+The presence of different GH isoforms in the blood can only be
+distinguished through various assays, with most studies focusing on
+the smaller 22 kD isoform using immunoassays. This focus has
+shaped much of our current understanding of GH’s role and function
+in the body, but the aggregated forms of GH might have greater
+biological potency and importance (61, 91). Figure 4.6 outlines the
+basic feedback mechanisms regulating the production of GH
+isoforms, highlighting the complex control the pituitary gland
+exercises over GH secretion.
+260
+
+FIGURE 4.6 Diagram of the basic growth hormone cybernetics and interactions.
+Remember that GH will be secreted from two different types (I and II) of anterior pituitary
+somatotrophs, each releasing different molecular weight isoforms.
+Resistance exercise increases the 22 kD isoform in both men and
+women. It is sensitive to the amount of total work performed and
+the rest period duration used because these affect the demands on
+the glycolytic energy system and H+ ion production; drops in pH are
+a key stimulator of 22 GH release (41, 54). Women have been
+shown to have higher resting values of the 22 kD isoform of GH than
+men in the early follicular phase of the menstrual cycle (81). GH
+levels in women tend to be higher during the menstrual cycle’s
+follicular phase than in the luteal phase. During the follicular phase,
+which occurs from the beginning of menstruation until ovulation,
+estrogen levels rise, and this hormonal environment is associated
+with increased GH secretion. While GH is present throughout the
+entire cycle, its secretion is generally more pronounced during this
+phase due to the influence of estrogen, which stimulates GH
+production. Additionally, oral contraceptive use can influence
+women’s acute GH response to exercise (84). Specifically, women
+who used oral contraceptives exhibited a blunted or reduced GH
+261
+
+response compared to those not using oral contraceptives. Figure
+4.7 (79, 83) demonstrates the response patterns of GH to low- and
+high-volume exercise workouts in which exercise response patterns
+to different workouts are similar in men and women.
+The body’s response to GH varies with resistance exercise, and
+understanding these responses is crucial for optimizing training
+outcomes. Initially observed in studies from the late 1970s to early
+1990s, resistance training can acutely elevate GH levels in the blood,
+particularly through exercises involving large muscle groups and high
+intensity (100, 123, 130). Research has shown that the type of
+workout—especially the intensity, volume, and rest periods—
+significantly affects acute GH responses (75, 83). Short rest periods
+combined with moderate resistance tend to produce higher GH
+spikes compared to longer rest periods.
+While resting concentrations are not typically affected by training,
+the ability to do more total work or tolerate greater increases in H+
+ions and resultant pH decreases allows for greater peak GH
+concentrations in recovery. While general responses are similar to
+those in men, subtle differences exist due to factors such as the
+menstrual cycle and hormonal contraception, affecting GH levels and
+their response to exercise. Yet the impact on training appears
+minimal (79, 81, 85).
+Resistance training affects the various molecular or aggregate
+forms of GH, with evidence showing that high-intensity workouts
+lead to increased production of the 22 kD GH isoform. However,
+research using bioassays suggests that resistance training might
+reduce the release of larger GH aggregates, indicating a shift toward
+more newly synthesized GH and less storage in aggregates (60, 72,
+104). This adaptation might reflect an evolved response in the
+anterior pituitary gland, particularly in highly trained individuals.
+262
+
+Insulin-Like Growth Factors and Binding
+Proteins
+IGFs, primarily IGF-1 and IGF-2, are small polypeptides crucial for
+various anabolic processes in the body, including cellular growth,
+development, and metabolism. These growth factors are structurally
+similar to insulin and originate from larger precursor molecules
+modified posttranslationally to become active. IGF-1, the most
+researched, is predominantly synthesized in the liver in response to
+stimulation by 22 kD GH (16, 22, 27, 91). Besides GH, IGF synthesis
+is also influenced by thyroid hormones and testosterone (137, 138,
+139, 140).
+IGFs perform several functions, including enhancing protein
+synthesis, increasing amino acid transport across cell membranes,
+and stimulating growth in tissues such as muscle and bone. In the
+bloodstream, IGFs are mostly bound to proteins, with only about 2%
+in the free (unbound) form; same as for other hormones, the
+binding proteins regulate IGF activity and availability. These binding
+proteins are critical in modulating the growth-promoting actions of
+the IGFs (91). Additionally, IGFs stimulate the secretion of their
+binding proteins within muscle cells, influencing cellular sensitivity to
+IGFs (105). IGF binding proteins (IGFBPs) are a group of proteins
+that regulate the bioavailability and activity of IGFs. There are six
+main types of IGFBPs (IGFBP-1 to IGFBP-6) found in humans, each
+with distinct binding affinities, tissue distributions, and biological
+functions. IGFBPs can inhibit or enhance the action of IGFs by doing
+the following:
+1. Binding IGFs with high affinity, which prevents their interaction
+with IGF receptors and modulates their half-life, transport, and
+tissue localization
+2. Regulating IGF turnover and clearance in the circulation
+263
+
+3. Interacting with cellular components, influencing various
+cellular processes independently of IGFs
+IGFBPs are involved in numerous physiological processes,
+including growth regulation, cell proliferation, and differentiation.
+FIGURE 4.7 The 22 kD growth hormone (GH) normalized responses to high-volume (HV)
+and low-volume (LV) total body workout of eight resistance exercises. Men: LV (49KJ) and
+HV (60KJ), and women: LV (25KJ) and HV (32KJ). LV used 3-minute rest periods and a
+5RM, and HV used 1-minute rest periods and a 10RM.
+Data normalized from Kraemer et al. (1993) and Kraemer et al. (1990).
+264
+
+IGF Responses to Exercise
+The role of IGFs extends to exercise response, where resistance
+exercise particularly influences their production and activity.
+Mechanical stress from resistance exercise triggers muscle fibers to
+produce IGF-1 locally, which then acts to stimulate muscle growth
+and repair. This local production is often more critical than the
+circulating levels of IGF-1, which may not consistently change with
+resistance exercise (109, 113). The response of IGF-1 to heavy
+resistance exercise can vary, influenced by the initial levels of IGF-1
+before training and the response of GH. Studies indicate that lower
+baseline IGF-1 levels typically lead to increases after exercise,
+whereas higher baseline levels may result in no change or even
+decreases (W.J. Kraemer, unpublished data). Nutritional status,
+including caloric intake and restriction, also significantly modulates
+resting and exercise-induced IGF-1 concentrations (55, 92). In
+women, resistance training has increased total IGF-1 levels and
+decreased IGF-binding protein-1 during workouts, suggesting
+exercise-specific adaptations in the IGF system (43). The IGF
+superfamily’s complex response patterns to training involve
+mechanisms such as IGF type, release, transport, and receptor
+interactions, along with interactions with other anabolic hormones
+targeting similar outcomes such as protein synthesis. However,
+highly trained men and women both showed increases in IGF-1
+concentrations, but women demonstrated values higher than men at
+all time points. In these trained men and women, IGFBP-1 and 2
+showed increases with exercise with no sex-dependent differences,
+yet IGFBP-3 concentrations were higher in women at all time points
+with no exercise-induced changes (54).
+265
+
+Training Adaptations and IGF and
+Binding Proteins
+The full scope of training-induced IGF-1 adaptations across different
+tissues continues to be a significant area for research (91, 112).
+Training adaptations from resistance exercise influence IGF levels
+and their interactions at the cellular level. Resistance training
+enhances the activation and expression of IGF-1 receptors, boosting
+the signaling pathways essential for cell growth and survival.
+However, the full scope of how different training regimens affect IGF
+levels, particularly the balance between local (muscle) and systemic
+(circulating) IGF, remains a rich area for research. As noted in a
+study by Hatfield and colleagues, in highly resistance-trained men
+and women (i.e., squat 1RM: 2.1 ± 0.4 and 1.7 ± 0.6 × body mass,
+respectively), training affects the resting and acute responses of
+IGF-1 and IGFBPs (54). Thus, IGF-1 and binding proteins have
+training-related 
+adaptations 
+in 
+their 
+response 
+patterns 
+for
+production, release, binding, and interactions with cellular targets
+(42, 54, 91, 112, 121). Continued research is needed to better
+understand the complex dynamics of IGFs in response to resistance
+training, including the specific effects of exercise on different forms
+of IGF and their binding proteins. This research will help optimize
+training strategies and potentially inform therapeutic interventions
+targeting muscle health and performance (102, 106).
+266
+
+Adrenal Gland, Cortisol, and Its Role in
+Resistance Exercise
+The adrenal gland is integral to the body’s adaptation to stress,
+particularly during and after exercise. Structurally, it consists of two
+main components: the medulla and the cortex, each responding to
+stress in distinct ways. The adrenal medulla, the inner core of the
+gland, is directly stimulated by the autonomic nervous system during
+acute stress. It rapidly secretes catecholamines such as epinephrine
+and norepinephrine, alongside dopamine and specific enkephalin-
+containing polypeptides like peptide F, which are implicated in
+immediate stress responses and immune enhancement (129). The
+adrenal cortex is stimulated by adrenocorticotropic hormone (ACTH)
+from the anterior pituitary gland to produce and release cortisol.
+Cortisol has critical roles in modulating inflammation and managing
+metabolic responses to stress. As such, cortisol is regulated on a
+systemic level by the hypothalamic-pituitary-adrenal (HPA) axis and
+locally within tissues by enzymes such as 11β-hydroxy- steroid
+dehydrogenase (11β-HSD) to maintain glucocorticoid balance (25,
+27, 99). Cortisol is crucial for sustaining energy during prolonged
+stress by facilitating glucose availability through selective glucose
+sparing and mobilization, gluconeogenesis, and fat and protein
+catabolism. However, prolonged elevation of cortisol levels—if not
+returned to baseline within 24 hours—can adversely affect the body,
+because cortisol in this context is considered catabolic and anti-
+anabolic. Sustained high cortisol can impair immune function, affect
+fat metabolism and deposition, reduce protein synthesis, increase
+protein degradation, and interfere with anabolic signaling pathways,
+thereby promoting a catabolic state that can undermine muscle
+repair and growth (75, 87, 89, 92, 129). Interference in anabolic
+signaling is partly due to the cortisol significantly contributing to
+immune suppression observed after intense exercise stress. Cortisol
+is crucial in “inactivating” immune cell functions during recovery
+267
+
+phases, vital for post-exercise muscle remodeling and overall
+recovery (30).
+Cortisol is critical in energy balance, immune regulation, and
+vascular integrity within skeletal muscle. It aids in increasing energy
+availability and modulating immune activity during exercise. After
+exercise, cortisol helps reduce inflammation and muscle damage, but
+sensitivity to cortisol decreases within 24 hours to protect against
+prolonged exposure. Athletes show a refined capability to convert
+cortisol to cortisone, protecting tissues during exercise stress.
+However, overtraining can impair this conversion process, potentially
+inhibiting anabolic activities like muscle growth by reducing IGF-I
+synthesis (27, 30, 91).
+Despite its reputation as a catabolic hormone, cortisol is essential
+for carbohydrate metabolism, particularly when muscle glycogen
+stores are low (25, 27, 99). It plays a role in converting amino acids
+to carbohydrates, increasing proteolytic enzymes, inhibiting
+protein synthesis, and suppressing glycogenesis and immune
+function (30, 91). Cortisol levels increase in response to resistance
+training, particularly with high intensity or volume involving large
+muscle masses. The acute hormonal response prepares the body for
+future physical demands and aids recovery.
+The resistance exercise cortisol response differs some between
+men and women. Men generally experience higher increases in
+cortisol from certain types of training protocols, such as high-volume
+workouts, whereas women rapidly adjust their receptor sensitivity to
+hormones after exercise. Such data indicate a sex-specific adaptation
+to training stress (133). Emerging research shows that resistance
+exercise can affect glucocorticoid receptor concentrations differently
+across sexes, indicating potential sex differences in hormonal
+response to training. These findings underscore the complex
+interaction between cortisol and its receptors in regulating muscle
+adaptation and recovery (31).
+Resistance 
+training 
+influences 
+cortisol 
+responses 
+and 
+its
+conversion to cortisone. While chronic high cortisol levels are
+268
+
+detrimental, acute increases assist in muscle remodeling by helping
+clear damaged proteins. Adaptations to resistance training also
+include enhanced cortisol conversion efficiency, reflecting a
+physiological adaptation to regular, intense exercise (75, 127).
+Resistance exercise protocols using high volume, large
+muscle groups, and short rest periods increase serum
+cortisol values (88). Though chronic high concentrations
+of cortisol may have adverse catabolic effects, acute
+increases still contribute to remodeling muscle tissue
+and maintaining blood glucose.
+269
+
+Catecholamines and Their Role in
+Resistance Exercise and Training
+Catecholamines, 
+primarily 
+epinephrine 
+but 
+also 
+including
+norepinephrine and dopamine, are secreted by the adrenal medulla
+and play a crucial role in enhancing strength and power during
+resistance training. These hormones facilitate the fight-or-flight
+response by acting as central motor stimulators and peripheral
+vascular dilators, enhancing enzyme activity and calcium release in
+muscles (89). Notably, higher catecholamine release before and
+during intense resistance sessions has been linked to sustained force
+output, emphasizing their importance in maintaining performance
+(32).
+Physiological Functions of Catecholamines
+Catecholamines enhance resistance training outcomes by doing the
+following:
+Increasing force production through central mechanisms and
+boosting metabolic enzyme activity
+Accelerating muscle contraction rates
+Raising blood pressure
+Enhancing energy availability and muscle blood flow through
+vasodilation
+Augmenting the secretion rates of other anabolic hormones
+such as testosterone
+Acute and Training-Induced Responses
+The acute response to high-intensity, short-rest resistance exercises
+typical in bodybuilding—characterized by increased levels of
+norepinephrine, epinephrine, and dopamine during the session and
+brief recovery periods—illustrates catecholamines’ role in meeting
+the physical demands of such protocols (86). Epinephrine levels also
+correlate with lactate concentrations, reflecting its involvement in
+270
+
+metabolic stress responses. Importantly, adrenal responses to stress
+are critical until the stressor is removed, with endogenous opioid
+peptides like proenkephalins from the adrenal medulla playing roles
+in immune system modulation crucial for recovery (129). Continuous
+high stress without varied training can lead to delayed recovery and,
+eventually, adrenal exhaustion, reducing the adrenal medulla’s ability
+to secrete catecholamines effectively.
+Training Adaptations and Long-Term
+Impacts
+Heavy resistance training enhances an athlete’s capacity to secrete
+more epinephrine during maximal efforts (87). Consistent training
+may decrease epinephrine responses to single sessions, such as a
+bench press workout (44). This adaptation suggests that regular
+training can modulate catecholamine responses, reducing their surge
+during familiar tasks to maintain a more balanced hormonal
+environment conducive to ongoing strength gains and recovery.
+Understanding the role of catecholamines in resistance training helps
+in designing programs that optimize hormonal responses to enhance
+strength, 
+hypertrophy, 
+and 
+overall 
+athletic 
+performance.
+Catecholamines’ ability to interact with other hormones underscores
+their pivotal position in the endocrine response to resistance
+exercise, highlighting the importance of managing exercise intensity,
+volume, and recovery to maximize beneficial hormonal interactions.
+Training protocols must be varied to allow the adrenal
+gland to engage in recovery processes and to prevent
+the secondary responses of cortisol, which can have
+negative effects on the immune system and protein
+structures.
+271
+
+How Can Athletes Manipulate the
+Endocrine System With Resistance
+Exercise?
+General Concepts
+The more muscle fibers recruited for an exercise, the greater the extent of
+the potential remodeling process in the whole muscle.
+Only muscle fibers activated by resistance training are subject to adaptation,
+including hormonal adaptations to stress.
+To Increase Serum Testosterone Concentrations
+Serum testosterone concentrations have been shown to increase acutely by using
+these methods independently or in various combinations:
+Large muscle group exercises (e.g., deadlift, power clean, squat)
+Heavy resistance (85% to 95% 1RM)
+Moderate to high volume of exercise, achieved with multiple sets or multiple
+exercises
+Short rest intervals (30-60 s)
+To Increase 22 kD Growth Hormone Concentrations
+Growth hormone levels have been shown to increase acutely with use of either of
+these methods or both in combination:
+Use workouts with higher lactate concentrations and associated acid–base
+disruptions; that is, use high intensity (10RM, or heavy resistance) with three
+sets of each exercise (high total work) and short (1 min) rest periods.
+Supplement diet with carbohydrates and protein before and after workouts.
+To Optimize Responses of Adrenal Hormones
+Use high volume, large muscle groups, and short rest periods to expose the
+body to adrenergic stress.
+Be careful to vary the training protocol and the rest period length from short
+to long over time.
+Provide days of complete rest, and use lower-volume workouts to allow the
+adrenal gland to engage in recovery processes to reduce stress on the
+adrenal medulla so as not to experience adrenergic exhaustion and to reduce
+stress on the adrenal cortex and prevent chronic cortisol secretions from the
+272
+
+adrenal cortex. This way, the stress of the exercises will not result in a
+nonfunctional overreaching or overtraining.
+273
+
+Other Hormonal Considerations in
+Resistance Training
+A variety of hormones contribute to normal bodily functions and
+adaptively respond to resistance training, including insulin, thyroid
+hormones, and beta-endorphin. These hormones play roles in
+growth, repair, pain relief, and managing exercise stress, though
+research on their specific adaptations to resistance training is limited
+(15, 26, 27, 28, 51, 64, 71, 75, 82, 98). For healthy individuals,
+significant chronic changes in the resting concentrations of insulin
+and thyroid hormones are generally not observed due to tight
+homeostatic control. However, resistance training has been noted to
+improve insulin sensitivity, possibly reflecting only the acute effects
+of recent exercise sessions (10).
+Thyroid Hormones
+Thyroid hormones, particularly triiodothyronine (T3) and thyroxine
+(T4), play a significant role in both acute and chronic responses to
+resistance exercise and training. Immediately following resistance
+exercise, T3 levels generally remain unchanged, while T4 levels
+might spike briefly and then decrease during subsequent rest
+periods (65, 107). This acute response suggests a temporary
+adjustment to meet the immediate metabolic demands of exercise.
+In the context of long-term resistance training, transient
+reductions in T3 and T4 levels can occur, which typically normalize
+after several months (3, 116). These fluctuations indicate an initial
+adaptation phase in which the thyroid axis adjusts to the increased
+demands of regular resistance exercise.
+Thyroid hormones are crucial for metabolic control and augment
+other hormonal responses, underscoring their importance in
+physiological adaptations to training. They support the energy
+demands of resistance training by regulating protein synthesis and
+mitochondrial activity, contributing to muscle repair and growth.
+274
+
+Specifically, T3 enhances protein synthesis by increasing the
+transcription of genes involved in muscle hypertrophy and repair.
+Additionally, T4’s conversion to T3 in peripheral tissues ensures a
+steady supply of active hormones to meet ongoing metabolic needs.
+Thyroid hormones also help regulate lipolysis and glucose
+metabolism, which are essential for providing the necessary energy
+substrates during and after resistance exercise. By modulating these
+processes, thyroid hormones help maintain energy balance and
+facilitate recovery. Furthermore, thyroid hormones interact with
+other endocrine responses during resistance training. For example,
+they can enhance the action of GH and IGF-1, both of which are
+vital for muscle growth and repair. This synergistic effect amplifies
+the overall anabolic environment, promoting more effective muscle
+adaptation and strength gains. Thus, thyroid hormones are integral
+to immediate and long-term resistance exercise adaptations. They
+ensure metabolic homeostasis, support energy production, enhance
+protein synthesis, and interact with other hormones to facilitate
+muscle growth and repair. Understanding their role highlights the
+complex 
+hormonal 
+interplay 
+required 
+for 
+effective 
+training
+adaptations and overall metabolic regulation.
+Insulin
+The insulin response to resistance exercise and training is crucial to
+metabolic 
+regulation 
+and 
+muscle 
+adaptation. 
+Physiologically,
+resistance exercise induces an acute increase in insulin sensitivity,
+which enhances glucose uptake into skeletal muscle, facilitating
+glycogen synthesis and promoting anabolic processes essential for
+muscle repair and growth (36, 51). This response is attributed to
+increased GLUT4 expression on the cell surface, driven by both
+contraction-mediated and insulin-mediated pathways (101). Regular
+resistance training amplifies this effect, improving overall short- and
+long-term insulin sensitivity. Such data are particularly significant for
+metabolic health, because enhanced insulin sensitivity associated
+with regular resistance training can contribute to better glycemic
+275
+
+control and reduced risk of type 2 diabetes (96, 107). Furthermore,
+the increased muscle mass from long-term resistance training
+enhances basal metabolic rate and glucose disposal, stabilizing
+insulin levels and improving metabolic efficiency (115, 119). Thus,
+the insulin response to resistance exercise supports immediate
+energy needs and recovery after exercise and contributes to long-
+term metabolic health and disease prevention.
+276
+
+Conclusion
+The endocrine system’s interaction with the nervous, immune, and
+musculoskeletal systems forms a complex network crucial for
+optimizing health and athletic performance. Hormones coordinate a
+wide range of cellular activities, influencing muscle synthesis,
+recovery, and overall physiological well-being. The dynamic balance
+between anabolic hormones, which promote muscle growth, and
+catabolic hormones, responsible for muscle breakdown and energy
+mobilization is vital for responding effectively to resistance training.
+Strength 
+and 
+conditioning 
+professionals 
+need 
+a 
+deep
+understanding of the endocrine system’s functions to design
+effective training programs that maximize performance and minimize
+injury risks. This knowledge enables the manipulation of hormonal
+responses to both acute exercise and chronic training adaptations,
+enhancing recovery and preventing overtraining. The subtle interplay
+among various bodily systems and hormones has significant
+implications beyond athletic performance, affecting conditions such
+as metabolic syndrome, insulin resistance, and cardiovascular health.
+By leveraging insights from the endocrine system, coaches and
+athletes can achieve peak performance and support long-term
+health.
+This overview highlights the sophisticated yet orderly system that
+mediates the body’s responses to resistance exercise, emphasizing
+the critical role of the endocrine system in sport science and overall
+health management. Understanding these complex interactions is
+fundamental for strength and conditioning professionals and athletes
+aiming to optimize training outcomes and ensure sustained athletic
+success and well-being.
+KEY TERMS
+allosteric binding site
+anabolic hormone
+277
+
+catabolic hormone
+cross-reactivity
+downregulation
+endocrine gland
+half-life
+hormone
+hormone–receptor complex (H-RC)
+lock-and-key theory
+neuroendocrine immunology
+neuroendocrinology
+polypeptide hormone
+proteolytic enzyme
+secondary messenger
+steroid hormone
+target tissue cell
+thyroid hormone
+STUDY QUESTIONS
+  1.  In the context of resistance training, which hormone is
+primarily responsible for initiating muscle repair and growth by
+binding to specific receptors in muscle cells and promoting
+protein synthesis?
+  a.  cortisol
+  b.  insulin-like growth factor-1
+  c.  epinephrine
+  d.  thyroid hormone
+  2.  Which of the following best describes the role of binding
+proteins in hormone activity during resistance training?
+  a.  They decrease the half-life of hormones in the
+bloodstream, reducing their effectiveness.
+  b.  They act independently of hormones to initiate muscle
+growth and repair.
+278
+
+  c.  They extend the half-life of hormones in the bloodstream,
+enhancing their availability and effect.
+  d.  They completely inhibit the interaction of hormones with
+their target receptors, blocking any physiological effects.
+  3.  How does testosterone primarily enhance muscle growth
+during resistance training?
+  a.  By directly binding to membrane receptors and
+immediately enhancing protein degradation processes.
+  b.  By promoting the synthesis of catabolic hormones that
+break down muscle tissue.
+  c.  By binding to androgen receptors and initiating signaling
+pathways that enhance gene expression for muscle
+hypertrophy.
+  d.  By decreasing the synthesis and secretion of growth
+hormone, thus focusing the body’s resources on
+immediate energy use.
+  4.  What is the primary effect of growth hormone on muscle
+tissue during resistance training?
+  a.  It decreases the synthesis of insulin-like growth factors,
+reducing muscle tissue growth.
+  b.  It stimulates the production of larger growth hormone
+aggregates, which decrease the tissue’s ability to respond
+to hormonal signals.
+  c.  It increases the production of the 22 kD GH isoform, which
+is crucial for stimulating protein synthesis and muscle
+growth.
+  d.  It acts primarily by converting muscle glycogen into
+glucose, thus providing immediate energy for muscle
+contraction.
+  5.  How does cortisol function in the context of resistance
+training?
+  a.  Cortisol primarily supports muscle growth by suppressing
+catabolic activity.
+279
+
+  b.  Elevated cortisol levels from resistance training primarily
+enhance immediate energy availability and help in muscle
+remodeling.
+  c.  Cortisol reduces protein synthesis and muscle adaptation
+by promoting protein breakdown throughout resistance
+training.
+  d.  Cortisol levels are insignificant in resistance training as
+they do not influence muscle adaptation or recovery.
+280

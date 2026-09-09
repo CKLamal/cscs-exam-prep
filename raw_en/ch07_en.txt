@@ -1,0 +1,1858 @@
+CHAPTER 7
+AGE-RELATED DIFFERENCES
+AND THEIR IMPLICATIONS
+FOR RESISTANCE TRAINING
+Rhodri S. Lloyd, PhD, Sylvia Moeskops, PhD, and
+Avery D. Faigenbaum, EdD
+After completing this chapter, you will be able to
+understand the merits of adopting a long-term approach to the
+development of athleticism for child and adolescent
+populations;
+evaluate the evidence regarding the safety, effectiveness, and
+importance of resistance exercise for youth populations;
+describe the effects of aging on musculoskeletal health and
+performance;
+explore the trainability of older adults and the benefits of
+exercise, including resistance training in aging populations; and
+explain why adaptations to resistance exercise vary greatly
+among these distinct populations.
+Resistance exercise has been proven to be a safe and effective
+method of conditioning for individuals with various needs, goals, and
+abilities. Resistance training is also recognized as a fundamental
+384
+
+component of long-term athletic development that helps to support
+lifelong participation in sport and recreational physical activity from
+childhood to the more senior years of life (137). In light of its many
+benefits for all individuals, resistance exercise for youth (137) and
+older people (76) has received increasing public and medical
+attention. However, when designing and evaluating resistance
+training programs, strength and conditioning professionals need to
+understand the implications of age-related differences in body
+composition, muscular performance, trainability, and injury risk to
+facilitate individualized exercise prescription.
+For the purposes of this chapter, resistance exercise is defined
+as a specialized method of conditioning whereby an individual is
+working against a wide range of resistive loads to enhance health,
+fitness, and performance. This term should be distinguished from
+the sport of weightlifting, in which individuals attempt to lift maximal
+amounts of weight in competition, specifically in the clean and jerk
+and snatch exercises. The term childhood refers to a period of life
+before the development of secondary sex characteristics (e.g., pubic
+hair and reproductive organs), and the term adolescence refers to
+the period between childhood and adulthood. For ease of
+discussion, the term youth or young athlete refers to both
+children and adolescents. The terms older and senior include men
+and women over 65 years of age. Athleticism reflects the ability to
+repeatedly execute a variety of movements with precision and
+confidence in a range of environments, which require appropriate
+levels of motor skill competency, balance, coordination, strength,
+power, speed, agility, and endurance (137). The development of
+athleticism is important for everyone and should not be reserved as
+an outcome goal only for those involved in organized sport.
+385
+
+Youth Populations
+The National Strength and Conditioning Association considers long-
+term athletic development as the development of athleticism
+over time, with an aim to enhance physical fitness, reduce injury
+risk, and improve mental and physical health and well-being (137).
+The concept of regularly participating in activities that enhance
+athleticism is relevant for people of all ages. However, over the past
+two decades, there has been a growing focus on long-term athletic
+development programs, particularly for youth populations (137).
+Athletic development models that encompass multiple modes of
+training have been proposed previously in the literature. For
+example, Lloyd and Oliver (141) proposed the youth physical
+development (YPD) model, which provides training guidelines for
+males and females (figure 7.1a and 7.1b). The YPD model is based
+on the notion that all components of fitness are trainable at all
+stages of development, and therefore training programs should be
+multifaceted in nature to develop multiple dimensions of athleticism.
+Crucially, the model promotes a consistent focus on the
+simultaneous development of muscle strength and motor skill
+competency, which provide the foundations for overall athleticism
+(137). The model also supports children engaging in some form of
+physical activity and preparatory conditioning early in life to take
+advantage of the heightened neuroplasticity associated with early
+childhood development (88). Similarly, training prescription should
+transition from low structure and movement exploration early in a
+child’s development to a more structured and targeted approach as
+individuals accumulate training experience and move toward later
+stages of development.
+However, several authors have also established more detailed
+development models for individual components of fitness, such as
+agility (144), speed (176), power (155), and endurance (104), and
+specific modes of training, such as motor skills (194), resistance
+training (91), plyometrics (140), and weightlifting (168). While each
+386
+
+model focuses on bespoke elements of athletic development, several
+notable commonalities exist between models: (a) Children should be
+exposed to a wide range of training activities that target motor skill
+development and muscular strength, (b) training should begin simple
+and become more advanced as children progress through the
+various stages of development, and (c) training should be generic to
+start with and then become more specialized over time as workloads
+and training exposure increase.
+Collectively, strength and conditioning programs effectively
+promote the development of athleticism in both children and
+adolescents (141). In particular, leading international consensus (17,
+137, 139, 215) and seminal meta-analytical data (132, 134) have
+indicated the effectiveness of resistance training in enhancing
+multiple components of fitness in youth populations. While the
+effectiveness of resistance training in youth is unequivocal, it is
+important for strength and conditioning professionals to understand
+how the fundamental principles of growth, maturation, and
+development can affect training adaptations, confound interpretation
+of testing or monitoring data, and can influence the development
+and evaluation of safe and effective resistance training programs.
+Because youth sports training has become more intense and
+complex (21), anatomical, physiological, and psychosocial factors
+that may be associated with acute and chronic injury also need to be
+considered.
+The Growing Child
+In this section, the terms growth, development, and maturation
+are used to describe changes that occur in the body throughout life.
+The term growth refers to an increase in body size or a particular
+body part; development describes the natural progression from
+prenatal life to adulthood; and maturation is defined as progress
+toward a fully mature state, which varies in timing, tempo, and
+magnitude between different bodily systems (142). Puberty refers
+to a period of time in which secondary sex characteristics develop
+387
+
+and a child transitions to young adulthood. During puberty, changes
+also occur in body composition and the performance of physical
+skills, with such changes varying markedly between individuals.
+388
+
+389
+
+FIGURE 7.1 The youth physical development model for (a) males and (b) females. Font
+size refers to importance; light blue and light red boxes refer to preadolescent periods of
+adaptation; dark blue and dark red boxes refer to adolescent periods of adaptation. FMS:
+fundamental movement skills; MC: metabolic conditioning; PHV: peak height velocity; SSS:
+sport-specific skills; YPD: youth physical development.
+Adapted by permission from R.S. Lloyd and J.L. Oliver, “The Youth Physical Development Model: A New Approach to
+Long-Term Athletic Development,” Strength and Conditioning Journal 34, no. 3 (2012): 61-72.
+Chronological Age Versus Biological Maturation
+Because of considerable variation in the rates of growth and
+development, it is not particularly accurate to define a stage of
+maturation or development by age in months or years, which is
+known as chronological age. Children do not grow at a constant
+rate, and there are substantial interindividual differences in physical
+development at any given chronological age. For example, a group
+of 14-year-old children can have a height difference as great as 9
+inches (23 cm) and a weight difference up to 40 pounds (18 kg),
+while an 11-year-old girl may be taller and more physically skilled
+than an 11-year-old boy. These differences correspond to variations
+in the timing, tempo, and magnitude of maturation (142). The onset
+of puberty can vary from 8 to 13 years in girls and from 9 to 15
+years in boys, with girls beginning puberty approximately two years
+before boys.
+Given 
+the 
+limitations 
+associated 
+with 
+chronological 
+age,
+development can be better assessed by biological maturation,
+which can be measured in terms of skeletal age, sexual maturation,
+or somatic (physique) maturation. The assessment of maturation in
+children is important for several reasons. Maturity assessment can
+be used to evaluate growth and development patterns in children. In
+addition, since the degree of maturation is related to measures of
+fitness, including muscular strength and motor skill performance
+(120), techniques used to assess maturation can help ensure that
+children are more fairly matched for fitness testing and athletic
+competition, as opposed to being grouped according to chronological
+age. In adequately nourished children there is no scientific evidence
+390
+
+that physical training delays or accelerates growth or maturation in
+boys and girls (70). Further, the osteogenic benefits of physical
+activity, 
+specifically 
+weight-bearing 
+activities 
+that 
+generate
+compressive forces, are essential for skeletal remodeling and growth
+(228).
+The gold standard for determining biological maturation is skeletal
+age assessment. This technique involves trained radiographers
+comparing X-rays or radiographs of a child against standard
+reference radiographs to determine the extent of ossification of the
+bones of the left wrist (93, 201, 217-219). Ossification refers to the
+process of laying down new bone material by cells called
+osteoblasts. While skeletal age provides the most accurate and
+reliable form of assessing maturity, concerns with cost, specialist
+equipment, time constraints, and the need for specific radiographic
+expertise make the method unrealistic for most practitioners working
+with youth. Furthermore, strength and conditioning professionals are
+not qualified to determine sexual age as an indicator of maturation,
+given the invasive nature of this assessment.
+For most practitioners, the most realistic and feasible means of
+estimating biological age is from somatic assessments (142).
+Somatic age reflects the degree of growth in overall stature or
+smaller subdimensions of the body (e.g., limb length). Measures of
+growth (e.g., standing height and seated height) are relatively easy
+to collect, are noninvasive, and require minimal equipment.
+Techniques available to the practitioner include longitudinal growth
+curve analysis, percentages and predictions of final adult height
+(125), and the prediction of age from peak height velocity (PHV)
+(158), which is defined as the age at maximum rate of growth
+during the pubertal growth spurt (59) with the mean age, on
+average, being around 13.8 years in boys and 11.9 year in girls (10).
+While the percentage of predicted adult height (125) and the
+maturity offset (158) have both been used to assign youth into
+maturity categories, longitudinal data indicate that the percentage of
+predicted adult height might be more accurate at predicting
+391
+
+observed age at PHV (184); this appears to be a valid alternative for
+classifying maturity status when compared to longitudinal growth
+curve analysis (166). Using age, height, weight, and mid-parental
+height, a child’s eventual adult height can be estimated, and their
+current height can then be determined as a percentage of predicted
+adult height (125). For example, a 13-year-old boy who is 165
+centimeters (5 ft 5 in) tall, 60 kilograms (132 lb) in weight and
+whose mother and father are 160 centimeters (5 ft 3 in) and 185
+centimeters (6 ft 1 in), respectively, would be estimated at
+approximately 90% of their predicted adult height. In some cases, it
+may be appropriate to measure somatic growth every three months
+(142). More frequent measures could be taken to create a rolling
+average and a smoother growth curve; however, this is not always
+feasible. For most settings, taking measurements every three
+months is likely more practical. This interval should be long enough
+to prevent practitioners from misinterpreting small growth changes
+caused by measurement inconsistencies. However, as a child nears
+their peak height velocity (PHV), it may be wise for practitioners to
+measure more frequently, such as monthly. This increased frequency
+is due to the rapid growth rate associated with this developmental
+stage.
+The adolescent growth spurt ensues approximately 88% to 95%
+of predicted adult height, and longitudinal data indicate that PHV
+occurs at approximately 91% to 92% of predicted adult height
+(216). The risk of injury can be elevated in individuals who are
+around the time of PHV, and especially those who are also
+experiencing high rates of growth during this period (116, 165).
+Therefore, in the earlier example of the 13-year-old, his or her
+training program might need to be modified (and potentially more
+frequent measures of height taken) as the child approaches PHV in
+the event of disrupted coordination and control and heightened
+injury risk. Alterations in center of mass, muscle imbalances, and the
+relative tightening of the muscle–tendon units spanning rapidly
+growing bones are potential risk factors for overuse injuries during
+392
+
+the pubertal growth spurt (170, 225). Strength and conditioning
+professionals may need to adjust training programs (e.g., reinforce
+high-quality movement patterns, target flexibility restrictions, correct
+muscle imbalances, or decrease the volume or intensity [or both] of
+training) during these periods of rapid growth. If a young athlete
+complains of pain or discomfort during a growth spurt, the strength
+and conditioning professional should also consider the possibility of
+an overuse injury rather than labeling these complaints “growing
+pains” and, in consultation with the child’s parents or guardians,
+should refer the child to a medical practitioner.
+Notwithstanding the influence of growth and maturation, training
+programs should be tailored to accommodate individual differences
+in ability and previous training experience, particularly when
+prescribing exercise for children in the weight room. It might be
+suitable for an early-maturing, experienced, and technically
+competent 13-year-old girl to be exposed to more advanced forms of
+training, whereas a late-maturing 16-year-old boy with no training
+history and low levels of technical competency may not be ready for
+the demands of heavy resistance exercise and require more
+introductory training approaches. Therefore, while a given training
+program will have an intended adaptation (e.g., strength and power
+development), a child’s technical competency (i.e., how well they
+move) in addition to their training age (i.e., the length of time the
+child has consistently followed a formalized and supervised
+resistance training program) and their resistance training skill literacy
+(i.e., how children think, connect, and feel about resistance training)
+should be key considerations in order to develop appropriate training
+programs (61, 137, 142). Strength and conditioning professionals
+must recognize all these variables and should individualize training
+program design based on each child’s technical competency, training
+age, and maturity level. When creating any youth resistance training
+program, strength and conditioning professionals should also take
+into consideration the unique psychosocial needs of each individual
+child and then design, implement, and revise programs according to
+393
+
+these needs. For example, a strength and conditioning professional
+will typically need to use different interpersonal skills to coach an
+inexperienced child with low technical competency and low levels of
+self-confidence, versus an experienced and highly competent
+adolescent who simply lacks motivation.
+Two children of the same chronological age can differ
+biologically by up to five years, which underlines the
+importance of accounting for maturation in the design
+of individualized training programs.
+Muscle and Bone Growth
+As children grow, muscle mass steadily increases. At birth,
+approximately 25% of a child’s body weight is muscle mass, and by
+adulthood this percentage increases to about 40% (146). During
+puberty, marked increases in hormonal concentrations (e.g.,
+testosterone, growth hormone, and insulin-like growth factor) in
+boys result in a discernible increase in muscle mass and widening of
+the shoulders, whereas in girls an increase in estrogen production
+causes increased body fat deposition, breast development, and
+widening of the hips (59). Although muscle mass in girls continues
+to increase during adolescence, the increase occurs at a lower rate
+than in boys due to differences in their hormonal profiles (146).
+Throughout this time, the increase in muscle mass in both sexes is
+due to the hypertrophy of individual muscle fibers rather than
+hyperplasia (146). Peak muscle mass occurs between the ages of 16
+and 20 years in females and between 18 and 25 years in males
+unless affected by exercise, diet, or both (146).
+394
+
+FIGURE 7.2 Bone formation, which takes place as a result of growth and development.
+Most bone formation occurs in the diaphysis (primary
+ossification center), which is the central shaft of a long bone, and in
+the growth cartilage (secondary ossification center), which is
+located at three sites in the child: the epiphyseal (growth) plate, the
+joint surface, and the apophyseal insertions of muscle–tendon
+units. When the epiphyseal plate becomes completely ossified, the
+long bones stop growing (figure 7.2). Although bones typically begin
+to fuse during early adolescence, girls generally achieve full bone
+maturity about two to three years before boys. The actual age varies
+considerably, but most bones are fused by the early 20s.
+A particular concern in children is the vulnerability of the growth
+cartilage to trauma and overuse (106). Injuries to the growth
+cartilage may disrupt the bone’s blood and nutrient supply and result
+in permanent growth disturbances (e.g., skeletal undergrowth,
+skeletal overgrowth, or malalignment of bone). Trauma from falls or
+excessive repetitive stress that may result in a ligament tear in an
+adult may produce an epiphyseal plate fracture in a child. Because
+the peak incidence of epiphyseal plate fractures in children occurs at
+around the time of PHV, it seems that a preadolescent child may be
+395
+
+at less risk for an epiphyseal plate fracture than an adolescent child
+experiencing the growth spurt (156). It has been suggested that the
+epiphyseal plates of younger children may be stronger and more
+resistant to shearing-type forces, which may be the cause of injuries
+to the growth cartilage (156).
+Growth cartilage in children is located at the epiphyseal
+plate, the joint surface, and the apophyseal insertions.
+Damage to the growth cartilage may impair the growth
+and development of the affected bone. However, the
+risk of such damage can be reduced with appropriate
+exercise technique, sensible progression of training
+loads, and suitable instruction by qualified strength and
+conditioning professionals.
+Developmental Changes in Muscular Strength
+As 
+muscle 
+mass 
+increases 
+throughout 
+preadolescence 
+and
+adolescence, so does muscular strength. In fact, the growth curves
+for strength are similar to those for body mass (59). In boys, peak
+gains in strength typically occur about 1.2 years after PHV and 0.8
+years after peak weight velocity, with body weight being the clearer
+indicator (146). This reflects the adage that children “stretch out
+before they fill out”; that is, they experience growth in height before
+gaining muscle mass. This pattern also suggests that during periods
+of rapid growth, muscle increases first in mass and later in its ability
+to express and attenuate high levels of force. This is reflected by
+meta-analytical data that show adolescents were able to attain
+increases in absolute muscular strength that were nearly 50%
+greater than children (15). In girls, peak gains in strength also
+typically occur after PHV, although there is more individual variation
+in the relationship of strength to height and body weight for girls
+than for boys (146). Although the strength of boys and girls is
+essentially equal during preadolescence, hormonal differences during
+puberty are responsible for acceleration in the strength gains of boys
+396
+
+and a general plateau in the natural strength development of girls
+during adolescence (139, 146). On average, peak strength is usually
+attained by age 20 in untrained women and between the ages of 20
+and 30 in untrained men (146).
+An important factor related to the expression of muscular strength
+in children is the development of the nervous system. If myelination
+of nerve fibers (motor neurons) is absent or incomplete, fast
+reactions and skilled movements cannot be successfully performed,
+and high levels of strength and power are impossible. As the
+nervous system continues to develop with age, children improve
+their performance in skills that require coordination, balance, agility,
+speed, strength, and power. Since the myelination of many motor
+neurons is incomplete until sexual maturation, children should not be
+expected to respond to training in the same way or to reach the
+same skill level as adults until they reach full neural maturity (127).
+However, children are well placed for skill development given the
+heightened neuroplasticity associated with childhood. This stage of
+development involves the process of pruning and strengthening of
+the 
+synaptic 
+pathways 
+(88), 
+which, 
+with 
+the 
+appropriate
+environment and activities, enable children to refine motor control
+strategies and enhance skill acquisition. International consensus
+proposes that all youth should be exposed to training programs that
+provide an opportunity to develop a broad range of fitness
+components to build well-rounded youth (17, 137). However, given
+that childhood is a time when the corticospinal tissue is plastic, and
+that neuromuscular coordination and force production are governed
+by neural activation and control, children should primarily focus on
+the development of motor skill competency and muscular strength
+because these qualities will serve as foundations of athleticism and a
+lifetime of moderate to vigorous physical activity (137). Crucially,
+coordination and muscular strength should not be viewed as distinct
+qualities but as synergistic components of motor skill performance
+(30). Therefore, practitioners should seek to train these qualities
+397
+
+concomitantly instead of developing them in a hierarchical,
+sequential manner.
+Because physiological functions are more closely related to
+biological age than to chronological age, at any given time an early-
+maturing child will likely have an advantage in measures of
+athleticism (e.g., absolute strength) if compared against a later-
+maturing child of the same sex with less muscle mass. Clearly,
+physical differences in body proportions can affect the execution of
+resistance exercises. For example, short arms and a large chest
+cavity offer a biomechanical advantage in upper body pressing
+exercises, whereas conversely, long legs and a long torso are a
+disadvantage in squatting movements. These anthropometric factors
+have implications for strength and conditioning professionals who
+are attempting to standardize fitness tests or develop a resistance
+training program for a group of boys and girls who vary greatly in
+physical size. It should be noted that whether in a testing or training
+environment, the practitioner should use child-size resistance
+machines or exercises using body weight, medicine balls, elastic
+bands, dumbbells, or barbells. In situations where practitioners are
+coaching groups of young athletes, they typically will need to
+account for variation in technical competency, maturity status, and
+training experience to provide a training session that is individualized
+wherever possible. When coaching large groups of children with low
+coach-to-athlete ratios, individualizing one or two additional
+exercises per session (based on results from simple field-based
+testing) might appropriately account for individualization. Similarly,
+training sessions that pursue a common goal (i.e., movement skill
+development and muscular strength) but adopt differentiating levels
+(e.g., technical difficulty, intensity, range of motion, movement
+speed) can also enable practitioners to individualize training based
+on the athletes’ ability.
+The reasons for individualized training programs should be
+explained to all participants, and special encouragement should be
+offered to late maturers who may be smaller and weaker than
+398
+
+chronological-age peers with more advanced biological maturity.
+Although late maturers tend to eventually catch up to the early
+maturers as they proceed through adolescence, young athletes
+should realize that many factors, including motivation, coaching, and
+innate ability, contribute to success in sport. Importantly, when
+coaching youth populations, especially young children (e.g., 5-7
+years of age), training environments should attempt to foster task-
+oriented views of success (e.g., application of effort, learning
+something new) rather than an ego-oriented view (e.g., simply
+winning or beating others). While not an exhaustive list, previous
+literature has noted that athletic development programs should seek
+to cultivate a growth mindset, self-determined motivation, perceived
+competence, confidence, and resilience as key psychological
+attributes in young athletes (175).
+Youth Resistance Training
+Clinicians, coaches, and exercise scientists now agree that resistance
+exercise is a safe and effective method of conditioning for children
+(13, 56, 65, 71, 127, 139, 215). An increasing number of boys and
+girls are participating in resistance training activities, and major
+sports medicine organizations support children’s participation in a
+range of resistance exercise modes, provided that the programs are
+appropriately designed and supervised by qualified professionals (21,
+56, 139, 215). National standards and grade-level outcomes for
+physical education include guidelines and recommendations that
+recognize the importance of fitness activities that enhance muscle
+and bone strength (52). Perhaps most notably, the World Health
+Organization stipulates that children should engage in muscle- and
+bone-strengthening activities three times per week as part of their
+physical activity recommendations (235).
+It is imperative that strength and conditioning professionals
+remember that children are not miniature adults. No matter how big
+or strong a child is, children are physically, psychologically, and
+socially less mature and are often experiencing training activities for
+399
+
+the very first time. Children should begin resistance training at a
+level that is commensurate with their physical and technical abilities,
+maturity level, and individual goals (141). Adult programs and
+training philosophies should not be superimposed on younger
+populations. In such instances, the intensity and volume of training
+are often too severe, and the recovery between training sessions is
+inadequate to enable training adaptation to take place. When
+introducing children to resistance training activities, it is always
+better to underestimate their physical abilities and gradually increase
+the volume and intensity of training than to exceed their abilities and
+risk injury or long-term negative health outcomes.
+Responsiveness to Resistance Training in Children
+A plethora of research now shows both children and adolescents can
+make meaningful improvements in a wide range of athletic qualities
+in response to different modes of resistance training (59, 141). Much
+of the early controversy surrounding youth resistance training
+stemmed from the issue of children’s trainability (i.e., children’s
+responsiveness to the stimulus of resistance exercise) due to early
+studies failing to demonstrate a strength increase in preadolescents
+who participated in a resistance training program (49). Although the
+lack of significant findings in these studies could be explained by
+methodological shortcomings, such as short study duration or
+inadequate training volume or intensity, the results from these
+reports are sometimes cited as proof that resistance training is
+ineffective for children. As previously discussed, muscular strength
+normally increases from childhood and throughout the teenage
+years; thus, a more appropriate conclusion from these reports may
+be that training-induced gains from a short-duration, low-volume,
+and low-intensity training program are not distinguishable from gains
+attributable to normal growth and maturation.
+Other investigations have clearly demonstrated that boys and girls
+can 
+increase 
+muscular 
+strength 
+above 
+and 
+beyond 
+that
+accompanying growth and maturation alone, provided that the
+400
+
+intensity and volume of training are adequate (48, 63, 135, 138,
+197). Children as young as age five have benefited from
+developmentally appropriate resistance training (3, 121), and a
+variety of training modalities have proven to be effective (139).
+While gains in a maximum strength range of approximately 10% to
+90% have been reported in the literature (15), strength gains of
+roughly 30% to 40% are typically observed in untrained
+preadolescent children following short-term (8-20 weeks) resistance
+training programs (56, 139). However, following the initial adaptation
+period, the rate of change in strength gains will be attenuated as
+youth adapt to the training program, thus highlighting the need for
+continued, progressive training. Meta-analytical data have shown
+that resistance training interventions realize larger gains in muscle
+strength and power when programs exceed 23 weeks in duration
+(134). Longer-term training programs afford more opportunities for
+children to learn and develop skills but also enable children to be
+exposed to higher intensities of training in a safe and progressive
+manner. Lesinksi and colleagues (134) also indicated that strength
+gains were greater when young athletes were exposed to higher
+relative intensities (>80% 1RM). Similar notions apply to other
+fitness components, with data showing larger gains in jump height in
+response to moderate- to high-intensity resistance training (212) and
+greater gains in peak oxygen uptake (V̇O2peak) when endurance
+training is prescribed at ≥85% HRmax (5). Clearly, training intensity
+is a critical prescription variable for strength and conditioning
+coaches to manipulate; however, in accordance with the principle of
+progressive overload, any increases in intensity should be applied in
+a progressive and gradual manner, with periodized fluctuations in
+volumes and intensities over time (59).
+It is crucial that practitioners ensure that training
+intensity is never increased at the expense of technical
+competency or a child’s psychosocial maturity. Programs
+should always remain designed in accordance with the
+401
+
+specific 
+needs, 
+abilities, 
+and 
+aspirations 
+of 
+the
+individual.
+Children who participate in resistance training programs are likely
+to undergo periods of reduced training or inactivity due to program
+design factors, extended travel plans, busy schedules, injury,
+involvement in multiple sports, or decreased motivation. This
+temporary reduction or withdrawal of the training stimulus is called
+detraining. In children, unlike adults, the evaluation of strength
+changes during the detraining phase is complicated by the growth-
+related strength increases during the same period. Nevertheless,
+data indicate that training-induced strength gains in children are
+impermanent and tend to return to untrained control group values
+during the detraining period (55, 69). In one report, participation in
+physical education classes and organized sports throughout an eight-
+week detraining period did not maintain the preadolescents’ training-
+induced strength gains (69). In another study comparing the effects
+on children of one and two days per week of resistance training,
+participants who resistance trained only once per week averaged
+67% of the strength gains of participants who resistance trained
+twice per week (63). While increased training frequency is related to
+a greater strength training effect in youth (15), this finding must be
+considered in light of lifestyle factors (e.g., nutrition and sleep) and
+other commitments that youth or young athletes may have (e.g.,
+competitive playing schedule, schoolwork, time to interact with
+peers). Though the precise mechanisms responsible for the
+detraining response remain unclear, it seems likely that changes in
+neuromuscular functioning are at least partly responsible. Further,
+the detraining effect may not be homogenous, with different
+neuromuscular qualities in young children showing different
+responses following the cessation of a training program (55, 172).
+The potential trainability of children and adolescents is evident
+from research studies that have adopted long-term training
+intervention periods. For example, a series of studies examined the
+402
+
+effects of a two-year strength training program on strength (123),
+speed (208), and change-of-direction speed (124) in youth soccer
+players in Germany. Using a linear periodized training approach (i.e.,
+four weeks of technique block, eight weeks of hypertrophy emphasis
+block, and eight weeks of strength emphasis, all of which repeated
+twice), young athletes ranging from 11 to 19 years of age were able
+to make substantial increases in squat strength (123), which also
+translated to improvements in speed (208) and change-of-direction-
+speed (124) performance.
+Notwithstanding the clear benefits of resistance training,
+combined resistance training (i.e., strength training and plyometrics)
+has been shown to be more effective than strength training in
+isolation (193). Previous research has investigated the effects of 28
+weeks of combined resistance training versus combined resistance
+training with weightlifting on physical fitness (187) and established
+lower limb injury risk factors (188) in adolescent boys. Notably, both
+training groups were able to realize improvements in physical fitness
+(i.e., strength, power, speed), movement competency (i.e.,
+resistance training skills battery quotient), and lower limb jump-
+landing mechanics (i.e., tuck jump assessment) irrespective of
+program content; however, the percentage improvement in
+movement competency was greater when weightlifting progressions
+were included in the combined resistance training program.
+Interestingly, the first 14 weeks resulted in significant gains in
+movement competency and strength, while the second 14 weeks of
+training resulted in small to moderate improvements in sprint speed
+and indices of power, which reflect the sequence of strength and
+movement competency serving as the foundations for gains in power
+(12, 99).
+The benefit of adopting a long-term approach for the athletic
+development of youth can be seen in a study that showed
+prepubertal gymnasts were able to make significant improvements in
+strength, power, speed, and vaulting performance in response to 10
+months of neuromuscular training delivered in addition to standard
+403
+
+gymnastics training (160). The study adopted a linear periodized
+approach to training with a large proportion of time devoted to
+general preparatory training. The gains in athleticism reported
+exceeded those of both of a gymnastics-only and a non-gymnastics
+control group. Interestingly, this study demonstrated a temporal
+response to training, like the findings of Pichardo and colleagues
+(187). Significant improvements were observed in different physical
+attributes over time. After four months, isometric absolute peak
+force and standing broad jump showed notable increases. By seven
+months, improvements were seen in countermovement jump height,
+modified reactive strength index, and drop jump height. Finally, at
+the 10-month mark, enhancements were noted in peak sprint speed,
+spring-like behavior, and vaulting vertical takeoff velocity. This study
+underscores the benefits of long-term engagement in strength and
+conditioning and that some adaptations take time to materialize,
+especially in less mature children.
+Changes in muscle hypertrophy can significantly contribute to
+training-induced strength gains in adolescents and adults, yet it is
+unlikely that muscle hypertrophy is primarily responsible for training-
+induced strength gains (at least up to 20 weeks) in preadolescents
+(179, 197). Although some findings do not agree with this
+suggestion, preadolescents appear to experience more difficulty
+increasing their muscle mass through a resistance training program
+due to inadequate levels of circulating hormones (testosterone,
+growth hormone, insulin-like growth factor). In preadolescent boys
+and girls, testosterone concentration is between 20 and 60 ng/100
+mL; in contrast, during adolescence, testosterone levels in males
+increase to about 600 ng/100 mL while the levels in females remain
+unchanged (146).
+It appears that preadolescents have more potential for an
+increase in strength owing to neural factors, such as increases in
+motor unit activation and synchronization as well as enhanced motor
+unit recruitment and firing frequency (90, 105, 139, 179, 197). It
+has also been suggested that intrinsic muscle adaptations,
+404
+
+improvements in motor skill performance, and the coordination of
+the involved muscle groups could be partly responsible for training-
+induced strength gains in preadolescents (197). One cannot state
+without qualification, however, that resistance training does not
+result in muscle hypertrophy in preadolescents, because it is possible
+that longer study durations, higher training volumes, and more
+precise measuring techniques (e.g., computerized imaging) may be
+needed to uncover potential training-induced muscle hypertrophy in
+youth who are following a resistance training program. Researchers
+have reported novel data showing that prepubertal female gymnasts
+significantly improved muscle thickness (as measured by 2D
+ultrasound) in addition to measures of isometric peak force and
+stretch-shortening cycle function following exposure to a 10-month
+neuromuscular training intervention (161). While muscle thickness is
+not a direct measure of muscle size or volume, it has been positively
+correlated with muscle anatomical cross-sectional area (77). The
+data from Moeskops and colleagues (161) indicate that some change
+in muscle architecture might be possible even in prepubertal children
+when they are exposed to long-term neuromuscular interventions.
+During and after puberty, training-induced gains in strength are
+typically associated with gains in muscle hypertrophy and
+architecture (85, 195) due to hormonal influences and ongoing
+neural adaptations (86). Although lower levels of testosterone in
+adolescent females limit the magnitude of training-induced increases
+in muscle hypertrophy, other hormone and growth factors (e.g.,
+growth hormone and insulin-like growth factor) may be at least
+partly responsible for their muscle development. Figure 7.3 highlights
+the factors that contribute to the development of muscular strength
+—namely, fat-free mass, testosterone concentrations, nervous
+system development, and the differentiation of fast-twitch and slow-
+twitch muscle fibers.
+Preadolescent boys and girls can significantly improve
+their strength above and beyond growth and maturation
+405
+
+with 
+resistance 
+training. 
+Neurological 
+factors, 
+as
+opposed 
+to 
+hypertrophic 
+factors, 
+are 
+primarily
+responsible for these gains.
+In addition to increasing muscular strength, muscular power, and
+muscular endurance, regular participation in a youth resistance
+training program has the potential to influence many other health-
+and fitness-related measures (84, 132, 139). Resistance exercise
+may favorably alter selected anatomic structures (128, 223),
+psychosocial parameters (25, 147), and academic outcomes (200) in
+youth. In addition, ongoing participation in resistance training has
+been found to reduce injuries in sport and recreational activities
+(186, 224) and improve motor skills and powerful sporting
+movements (14, 40, 177).
+FIGURE 7.3 Theoretical interactive model for the integration of developmental factors
+related to the potential for muscular strength adaptations and performance.
+Reprinted by permission from A.D. Faigenbaum, R.S. Lloyd, and G.D. Myer, GD, “Youth Resistance Training: Past
+Practices, New Perspectives, and Future Directions,” Pediatric Exercise Science 25, no. 4 (2013): 591-604.
+406
+
+From a clinical perspective, it has been reported that muscular
+fitness is associated with lower obesity, insulin resistance, and
+cardiovascular risk among children and adolescents (43, 84). Of
+note, meta-analytical data indicate that resistance training can
+reduce body fat in children and adolescents who are overweight or
+obese (153). The grades for indicators of youth physical activity
+around the world are low, which suggests a widespread crisis of
+physical inactivity (6). Children who are obese or those who lead
+sedentary lives (e.g., who take a bus to school and watch television
+or play computer games after school and on weekends) are not
+ready for 1 to 2 hours of sport training four or five days a week.
+Current global findings based on a pooled analysis of 3,663
+population-representative 
+studies 
+with 
+222 
+million 
+children,
+adolescents, and adults found the burden of obesity has increased
+and the age of onset of obesity has decreased in most countries
+(39). Specific to the United States, data from 2013 to 2016 show
+that 17.8% (95% confidence interval [CI], 16.1%-19.6%) of
+American youth aged 2 through 19 years were obese and the
+prevalence of severe obesity was 5.8% (95% CI, 4.8%-6.9%) (174),
+and the prevalence of many cardiovascular disease risk factors are
+projected to increase over the next 30 years (118). Although the
+treatment of childhood obesity is complex, it seems that obese youth
+enjoy resistance training because it is not aerobically taxing and
+provides an opportunity for all participants to experience success
+and feel good about their performance.
+In addition to the high prevalence of childhood obesity, other
+concerning trends in muscular fitness in youth are for those who
+engage in organized sports or recreational physical activities (66).
+For example, research indicates that within various cohorts of
+school-aged children, a range of muscular strength measures (e.g.,
+bent-arm hang and handgrip strength) (51, 206, 209) and motor
+skill competencies (20, 36, 206) have shown a decrease. Therefore,
+while all aspiring young athletes will likely benefit from preparatory
+conditioning inclusive of resistance training, it seems that those who
+407
+
+might benefit the most are the ones who are less fit to begin with.
+This notion underlines the importance of practitioners understanding
+and advocating for long-term athletic development as a fundamental
+concept for all youth (137).
+While resistance training does not affect the genotypic maximum,
+it probably has a favorable influence on growth at any stage of
+development, as long as appropriate guidelines are followed (70). In
+fact, regular participation in an exercise program that includes
+resistance training and weight-bearing physical activities has been
+shown to enhance bone mineral density in children and adolescents
+(50, 221). In support of these observations, it has been reported
+that elite adolescent weightlifters who regularly train with heavy
+weights while performing multijoint exercises display levels of bone
+density well above values of age-matched controls (41, 180). These
+findings may be especially important for girls who are at an
+increased risk for developing osteoporosis later in life, a clinical
+condition characterized by low bone mass and an increased
+susceptibility to fractures (231).
+Every year, millions of physical activity–related injuries occur
+during leisure time and sport participation among children and
+adolescents (23, 196), and it has been estimated that more than
+50% of overuse injuries sustained by children could be prevented
+with simple approaches including coaching education, preparatory
+conditioning, delayed specialization, adequate time off from
+organized sport, and proper nutrition and sleep (23, 131, 224).
+Strength and conditioning professionals can play a pivotal role in
+preparing young athletes for sport and thereby minimize or offset
+the incidence and severity of sport-related injuries common to young
+athletes. In many cases, modern-day youth who enroll in organized
+sport programs are unfit and ill-prepared to handle the demands of
+their chosen sport. It has also been suggested that regular
+participation in a preseason conditioning program that includes
+resistance training may increase a young athlete’s resistance to
+injury (53, 186, 232). However, given that neuromuscular control in
+408
+
+young soccer players has been shown to decline throughout a
+competitive season (143) and that injury incidence fluctuates during
+different phases of the season (e.g., immediately after returning
+from annual holiday periods) (198, 226), it is prudent for youth to
+look beyond resistance training as a preseason activity and instead
+continue to engage in a modified and periodized resistance training
+program throughout the competitive season and during the
+postseason and off-season to reduce the risk of subsequent injury.
+The goal should be for all children and adolescents to
+engage in long-term, periodized athletic development
+programs (inclusive of resistance exercise) rather than
+short-term programs to enhance physical fitness and
+reduce the risk of injury.
+Early sport specialization is defined as children engaging in
+intensive, year-round (>8 months) training and/or competition in a
+single sport, typically beginning during the prepubertal years (131).
+Traditional early specialization sports included gymnastics, dance,
+and swimming; however, there is a growing trajectory of youth
+opting to specialize in other sports at younger ages (21). In many
+cases, early sport specialization results in young athletes
+accumulating weekly training volumes that exceed recommended
+guidelines (21, 202). Even though some coaches argue that early
+sport specialization is the key to success, this notion has been
+challenged in the literature (21, 114, 131). Notably, meta-analytical
+data from 51 studies indicated that while sampling a diverse range
+of sports led to more measured initial progress, it was associated
+with more sustainable long-term development toward sporting
+excellence (96). Research has indicated that youth who participate in
+a single sport or specialize in a single position at an early age may
+be at a greater risk of serious injury (114, 150, 238) and overuse
+injuries (113), developing anterior knee pain (101), possessing less
+desirable lower limb jump-landing biomechanics (101), and
+409
+
+overtraining and potential burnout (22, 47). Additionally, it seems
+that late specialization and involvement in a variety of sports and
+activities during the younger years may be better related to sporting
+success at a later age (21, 72, 78, 96, 159). Although the total
+elimination of youth sport injuries is an unrealistic goal, the addition
+of resistance training as part of a long-term athletic development
+program may better prepare the young athlete to handle the
+duration and magnitude of unanticipated forces that develop in
+practice and game situations (65, 106), whether or not they have
+specialized. Because of individual differences in growth, maturation,
+and stress tolerance, resistance training intensity, volume, and rate
+of progression need to be carefully prescribed since this form of
+training adds to the chronic repetitive stress placed on the
+developing musculoskeletal system. Proper progression and program
+variation will optimize gains, prevent boredom, and reduce the stress
+that can lead to overtraining. This will be particularly effective when
+practitioners use reliable data to help inform decision-making around
+program design, and this evidence-informed approach will also work
+well with those young athletes who have specialized (163).
+Additionally, well-planned recovery strategies (e.g., proper cool-
+down, postexercise meal or snack, and adequate sleep) can help to
+maximize training adaptations.
+Because many sports have a significant strength or power
+component, it is attractive to assume that resistance training will
+enhance athletic performance. Though comments from parents,
+coaches, and children support this contention, scientific reports on
+this issue are constrained by the ability to comprehensively define
+and quantify “performance.” However, improvements in selected
+motor performance skills, such as the long jump, vertical jump, 30-
+meter (27 yd) sprint, and agility run, have been observed in children
+who participated in a resistance training program of between 8 and
+20 weeks (14, 40, 71, 135, 160, 187). Although direct evaluations of
+the effects of youth resistance training on sport performance are
+often based on proxy measures of performance, a progressive
+410
+
+resistance training program will in all likelihood result in some
+degree of improvement in sport performance in young athletes (57,
+89, 102, 133, 134, 210).
+Potential Risks and Concerns
+Appropriately prescribed youth resistance training programs are
+relatively safe when compared with other sports and activities in
+which children and adolescents regularly participate (139, 181).
+Paradoxically, it seems that the forces placed on the joints of young
+athletes during sport participation may be far greater, and more
+difficult to anticipate, than those generated from resistance training
+programs (65). The belief that resistance training is dangerous for
+children is not consistent with the needs of children and the
+documented risks associated with this type of training. Children and
+adolescents have been injured in the weight room; however, such
+injuries are more likely to be accidental (98, 169) and typically occur
+in cases in which the levels of supervision and instruction, technical
+competency, and training loads are inappropriate (65). This
+highlights the need for strength and conditioning professionals to
+heed safety guidelines when working with younger populations.
+Although epiphyseal plate fractures have been reported in
+adolescents who were resistance training, these reports were case
+studies and typically involved the performance of heavy overhead
+lifts in unsupervised settings (97, 203, 207). An epiphyseal plate
+fracture has not been reported in any prospective youth resistance
+training study that adhered to established training guidelines (65).
+Of note, 1-repetition maximum (1RM) testing (62, 64, 81) and
+maximal isometric assessments in children and adolescents (48, 162,
+167) has proven to be safe, provided that appropriate testing
+guidelines are followed (i.e., adequate warm-up periods, individual
+progression 
+of 
+loads, 
+and 
+close 
+supervision 
+of 
+technical
+competency). If children and adolescents are taught how to
+resistance train properly and understand resistance training
+411
+
+guidelines and procedures, the risk of an epiphyseal plate fracture is
+minimal.
+Dispelling the Myths of Youth Resistance
+Training
+A wealth of evidence proves children and adolescents can safely and effectively
+engage in resistance training to promote improvements in physical fitness, reduce
+the risk of sport-related injury, and enhance measures of health and well-being.
+However, there still remain certain unfounded myths among some health
+professionals that may deter youth from engaging in resistance training (67).
+Resistance training stunts bone growth.
+False! Resistance training stimulates bone remodeling and strengthens bone,
+muscular tissue, and connective tissue during childhood and adolescence.
+Resistance training is unsafe for children.
+False! With correct technique, appropriate loading, and high-quality instruction,
+resistance training is a safe method of training for all youth.
+Resistance training is only for young athletes.
+False! Resistance training promotes positive physical and psychosocial adaptations
+in all youth, regardless of whether they participate in competitive sports.
+Children need to wait until puberty to realize the benefits of
+resistance training.
+False! Research clearly shows that young children can make meaningful gains in
+physical fitness following resistance training. Children should be psychologically
+mature enough to understand and follow instructions.
+Young girls and boys will become “bulky.”
+False! Studies have shown that resistance training during childhood stimulates
+neuromuscular adaptations. During adolescence, boys will likely increase muscle
+mass, but the lower levels of circulating androgens in girls mean they will
+experience lower levels of absolute muscle growth.
+Program Design Considerations for
+Children
+It is important to view resistance training as part of a well-rounded
+long-term athletic development program for a child that also
+addresses other fitness goals (e.g., speed, power, balance,
+coordination, endurance). Although there is no minimal age
+412
+
+requirement for participation in a youth resistance training program,
+children should have the emotional maturity to receive and follow
+directions and should want to try this type of activity (139, 215). A
+pretraining medical examination is not mandatory for apparently
+healthy children; however, all participants should be screened for
+any injury or illness that may limit or prevent safe participation in a
+resistance training program (215). The goals of youth resistance
+training programs should not be limited to increasing muscular
+strength but should also include teaching children about their
+bodies, promoting an interest in physical activity, teaching weight
+room etiquette, and having fun. It seems likely that children who
+enjoy participating in physical activities and sport are more likely to
+be active later in life (220).
+Two important areas of concern in the development of youth
+resistance training programs are the quality of instruction and rate of
+progression. Strength and conditioning professionals must have a
+thorough understanding of youth resistance training guidelines, an
+ability and willingness to demonstrate proper exercise technique,
+and the requisite pedagogical skills to speak with children at a level
+they understand (59, 137, 139). Professionals should deemphasize
+competition between participants and focus on proper technique
+instead of the amount of weight lifted. Differentiating training
+sessions can enable practitioners to meet the needs of individual
+children even when delivering sessions to groups of young athletes.
+Designing and delivering training programs that pursue a common
+goal (i.e., movement skill and muscular strength development) but
+have differentiating levels (e.g., technical difficulty, intensity, range
+of motion, movement speed) can also be a useful approach to allow
+for individualization based on the athletes’ ability. While some form
+of variation needs to be applied to achieve ongoing adaptation, this
+should be applied in a logical and progressive manner, and it is
+important to keep the program fresh and challenging. Children
+should be given an opportunity to develop proper form and
+technique, and there should be a balance between repeated
+413
+
+opportunities to practice and master skills versus introducing new
+stimuli to keep sessions fun and engaging.
+To optimize any training program, practitioners should conduct an
+initial assessment of the individual’s characteristics (i.e., physical,
+technical, psychosocial) and the demands of the sport or physical
+activity in which he or she participates, commonly known as a
+needs analysis. With this information collated, practitioners can
+then adopt an appropriate assessment battery on relevant measures
+of physical performance and injury risk, in addition to estimations of
+maturity status. Similarly, consideration should be given to the long-
+term aspirations of the child prior to finalizing the training program.
+Of course, it should be recognized that the level of sophistication
+and rigor of the needs analysis and assessment process is context
+specific; completing this preliminary work is far easier for a
+practitioner working one on one with a small number of children in a
+private facility compared to another teacher or coach working in a
+high school setting that is responsible for the programming of
+hundreds of school-aged children. Regardless of the situation, it is
+important to have some understanding of the current training status
+of the child to know how to construct the program.
+Although only limited data are available regarding the relationship
+between repetitions and selected percentages of the 1RM in
+children, it appears that the number of repetitions that can be
+performed at a given percentage of the 1RM is specific to the given
+exercise (68). Thus, the minimal strength threshold, when expressed
+as a percentage of 1RM, may vary between muscle groups, possibly
+due to the amount of muscle mass involved with each exercise.
+While practitioners have safely used 1RM (62) and isometric mid-
+thigh pull testing (160) to determine strength levels in youth within
+research settings and sport environments, where this is not possible
+(perhaps owing to time limitations, class size, lack of equipment or
+coach expertise), alternative means of assessing strength could be
+used. Strength and conditioning professionals can use predictive
+equations that estimate 1RM loads from multiple submaximal
+414
+
+repetitions (e.g., 5RM or 10RM) (139). However, strength and
+conditioning professionals should recognize that such approaches
+might place the child at heightened risk of injury due to the
+cumulative fatiguing effects of multiple repetitions on technical form.
+In order to obtain a surrogate measure of muscular strength without
+the use of repetition maximum schemes, practitioners could use
+field-based measures of different jump protocols (e.g., vertical jump
+or long jump) or handgrip strength, measures that have been
+significantly correlated to 1RM values in youth (29, 157). Irrespective
+of the strength testing protocol used, the child or adolescent must
+be able to demonstrate and maintain correct technical competency
+throughout the entire test under the watchful eye of a qualified
+professional.
+Advanced multijoint exercises such as the snatch and clean and
+jerk can be incorporated into a child’s program at the appropriate
+time (i.e., after foundational strength and technique progressions
+have been completed), but the primary focus, especially early in a
+resistance training program, should be on developing motor skill
+competency and muscle strength (168, 194). The athletic motor
+skill competencies (AMSC) have been proposed to represent the
+foundational movements that underpin all athletic movements
+(figure 7.4; 194). To develop well-rounded athleticism in youth,
+practitioners are encouraged to design programs that increase both
+form (i.e., technical competency) and function (i.e., force-producing
+capabilities) in each of the AMSC. Practitioners do not necessarily
+need to expose youth to all of the AMSC in each session, but they
+should be targeted at various points throughout the training program
+(194).
+Poor technique can put abnormal stress on musculoskeletal
+tissues and lead to injury. The resistance must be lowered if proper
+exercise technique cannot be maintained. When learning new
+exercises, children should start with an unloaded barbell, a long
+wooden stick, or PVC piping to learn the correct technique. The
+importance of correct feedback, delivered at the correct time and in
+415
+
+the correct manner, cannot be overestimated during this stage of
+development to ensure the facilitation of skill development. Youth
+training should involve ongoing grading and evaluation of the
+technical performance of different exercises by a trained observer
+(periodically from formal assessment but consistently during sessions
+via 
+coach 
+observations), 
+as 
+opposed 
+to 
+simply 
+assessing
+performance measures (e.g., load lifted or the velocity of movement)
+(60). Such an approach can be used to continually educate young
+athletes about proper exercise technique, raise awareness about
+common technical flaws, and provide coaches and teachers with a
+tool for assessing learning during practice or physical education. A
+summary of youth resistance training guidelines is presented in the
+sidebar.
+FIGURE 7.4 The spectrum of athletic motor skill competencies (AMSC).
+Reprinted by permission from J.M. Radnor, S. Moeskops, S.L Morris, et al., “Developing Athletic Motor Skill
+Competencies in Youth,” Strength Conditioning Journal 42, no. 6 (2020): 54-70.
+416
+
+Youth Resistance Training Guidelines
+Each child should understand the benefits and risks associated with
+resistance training.
+Competent and caring strength and conditioning professionals should design
+and supervise training sessions based primarily on the desired training
+adaptation and technical competency but also with consideration to growth
+and maturation.
+The exercise environment should be safe and free of hazards, and the
+equipment should be appropriately sized to fit each child.
+Dynamic warm-up exercises, movement challenges, and opportunities for
+exploratory play should be performed before resistance training.
+When appropriate, static stretching exercises should be performed after
+resistance training.
+Carefully monitor each child’s tolerance to the exercise stress.
+Begin with light loads to allow appropriate adjustments to be made.
+Increase the resistance gradually (e.g., 5%-10%) as technique and strength
+improve.
+Depending on individual needs and goals, different set × repetition
+combinations (e.g., 3 × 5) can be performed on a variety of single- and
+multijoint exercises (and those targeting the strengthening of the core
+musculature).
+Advanced multijoint exercises, such as the snatch and clean and jerk, may be
+incorporated into the program, provided that appropriate loads are used and
+technical proficiency remains a key outcome.
+Two or three nonconsecutive training sessions per week are recommended;
+however, youth with higher training ages may participate in more frequent
+resistance training sessions per week.
+When necessary, adult spotters should be nearby to actively assist the child in
+the event of a failed repetition (e.g., bench press or squat).
+The resistance training program should be systematically periodized
+throughout the year to ensure that the child or adolescent is exposed to a
+sequential and varied training stimulus with adequate rest and recovery
+between training cycles.
+Adapted from Faigenbaum et al. (2009) and Lloyd et al. (2014)
+417
+
+Older Adults
+The number of men and women over the age of 65 continues to
+rise, and more opportunities for participation in sports ranging from
+marathon running to weightlifting are available to older athletes.
+While the cardiovascular endurance and muscular strength of older
+competitors or masters athletes are truly exceptional, even the most
+highly trained athletes experience some decline in performance after
+age 30 (83, 107). For example, competitive weightlifting ability has
+been shown to decline with age at a rate of approximately 1% to
+1.5% per year until approximately age 70, after which a more
+dramatic decrease occurs (152). Older individuals who do not
+engage in physical activity typically see greater decrements in
+several physical performance measures and increase their risk of
+debilitating injury (95, 182). Strength and conditioning professionals
+should understand the physiological changes that occur with aging
+and the associated trainability of older individuals. In addition, the
+potential health risks associated with physical activity for older
+individuals need to be considered.
+Age-Related Changes in Musculoskeletal
+Health
+Significant changes in body composition with advancing age can lead
+to the development of physical functional impairments and injury.
+The well-documented loss of bone and muscle with age not only
+makes activities of daily life such as getting out of a chair and
+opening a window more difficult but also increases the risk for falls,
+fractures, and long-term disability (37, 95). Bones become fragile
+with age because of a decrease in bone mineral content that causes
+an increase in bone porosity. The bone mineral content and
+microarchitecture of bone can deteriorate to such an extent that the
+risk of bone fracture, particularly of the hip, spine, or wrist during a
+fall, is increased (2, 76). Osteopenia is defined by a bone mineral
+418
+
+density between −1 and −2.5 standard deviations (SD) of the young
+adult mean, whereas osteoporosis is defined by a bone mineral
+density below −2.5 SD of the young adult mean (119). These
+conditions, which result in bones with less density and strength, are
+serious concerns for older people (particularly women) because they
+heighten the risk of skeletal fracture and poor bone health (2). The
+slow but progressive loss of bone with age has been linked to
+physical inactivity and to hormonal, nutritional, mechanical, and
+genetic factors (7, 11). Figure 7.5 shows the structural difference
+between normal, healthy bone and bone at the stage of
+osteoporosis.
+FIGURE 7.5 Structural differences between (a) normal, healthy bone, and bone at the
+stage of (b) osteoporosis.
+© Paul Gunning / Science Source
+Advancing age is also associated with a loss of muscle mass,
+strength, and function (19, 38). The term sarcopenia refers to a
+progressive and generalized skeletal muscle disorder that is
+associated with an increased likelihood of adverse outcomes
+including falls, fractures, physical disability, and mortality (42).
+Computed tomography has revealed that after age 30 there is a
+decrease in the cross-sectional areas of individual muscles, along
+with a decrease in muscle density, reductions in tendon compliance,
+419
+
+and an increase in intramuscular fat (2, 110). These changes seem
+to be a predictable consequence of advancing age and seem to be
+most pronounced in women (110). The observed muscle atrophy
+with aging appears to result from physical inactivity and a gradual
+and selective denervation of type II muscle fibers (136, 192, 237).
+Decreased muscle mass results in a loss of muscle strength. In one
+report, 40% of women aged 55 to 64 years, 45% of women aged 65
+to 74 years, and 65% of women aged 75 to 84 years were unable to
+lift about 10 pounds (4.5 kg) (115). The reduction in the size and
+number and the gradual denervation of muscle fibers (100, 192) and
+the age-related changes in motor unit morphology and properties
+(108, 204) also lead to a decrease in the ability of a muscle to
+generate power (i.e., exert force rapidly); in fact, power recedes at a
+faster rate than muscle strength with aging (79). Since everyday
+activities require a certain degree of power production, a decrease in
+the ability of muscles to produce force rapidly may adversely affect
+the ability of older adults to safely perform activities such as stair
+climbing and walking. Factors that may contribute to the age-related
+decline in muscle strength and power include reductions in muscle
+mass, nervous system changes, hormonal changes, poor nutrition,
+and physical inactivity (16, 112). The functional consequences of
+these age-related changes are significant because the magnitude
+and rate of change influence the age at which a person may become
+functionally dependent (e.g., unable to perform household tasks or
+rise from a chair) or reach a threshold of disability. A summary of
+adaptations to aging and resistance training is presented in table
+7.1.
+TABLE 7.1 Summary of the Effects of Aging and
+Resistance Training
+Physical or physiological variable
+Effect of aging
+Effect of resistance training
+Muscular strength
+Decreases
+Increases
+Muscular power
+Decreases
+Increases
+420
+
+Physical or physiological variable
+Effect of aging
+Effect of resistance training
+Muscular endurance
+Decreases
+Increases
+Muscle mass
+Decreases
+Increases
+Muscle fiber size
+Decreases
+Increases
+Muscular metabolic capacity
+Decreases
+Increases
+Resting metabolic rate
+Decreases
+Increases
+Body fat
+Increases
+Decreases
+Bone mineral density
+Decreases
+Increases
+Physical function
+Decreases
+Increases
+Advancing age is associated with a loss of muscle
+power, muscle strength, and muscle mass, which is
+largely attributable to physical inactivity. A direct result
+of these losses is a decrease in functional independence
+and an increased risk of falls and fractures.
+Age-Related Changes in Neuromuscular
+Function
+Seniors are at an increased risk of falling, which can lead to serious
+health, psychosocial, and economic consequences that negatively
+affect overall quality of life. Specifically, falls can result in pain
+syndromes, joint dislocations, skeletal fractures, limitations on daily
+functional activities, and a reduction in self-confidence (95, 211).
+Falls can also lead to permanent disability, institutionalization, and
+fatalities (46). Intrinsic factors that lead to increased risk of falls in
+seniors include decrements in muscle strength and power (190),
+reaction time (2), and impaired balance and postural stability (205).
+Muscle activity before (preactivation) and immediately following
+(cocontraction) contact with the ground is an important mediator
+of braking and dynamic stabilization in both young and old
+individuals. Increased preactivation helps increase stiffness of the
+421
+
+limb using fast stretch reflexes to better prepare the limb for ground
+contact. Cocontraction is a motor control strategy that dynamically
+stabilizes the joint; however, due to the simultaneous activation of
+both the agonist and antagonist muscle groups crossing the same
+joint, net joint moments and agonistic force outputs are reduced
+(236). Research shows that seniors rely on increased levels of
+muscle cocontraction as a compensatory mechanism to offset their
+increased balance difficulties and to minimize postural sway (171).
+Research also highlights that reduced mechanical power output
+when walking (especially during the push-off phase) of is one of the
+biomechanical aging features of gait (45). Intuitively, this literature
+would suggest that older adults should use a variety of training
+modes specifically designed to offset these natural reductions in
+neuromuscular function. Such methods include low-intensity
+plyometrics, strength training, balance and dynamic stabilization
+exercises, and proprioception training to develop the ability to react
+more efficiently with the ground (92, 95, 189).
+Physical activity interventions can be effective in improving
+neuromuscular function and preventing falls in seniors (95, 112,
+222). However, simply increasing physical activity will not prevent
+falls on its own. Rather, seniors must engage with, and adhere to,
+multidimensional, periodized programs that incorporate elements of
+both resistance and balance training (76, 112, 222). Furthermore,
+current guidelines suggest that as with any population, training
+programs for seniors should overload progressively to promote a
+challenging training environment, and that training should be
+completed on a frequent basis to provide individuals with a sufficient
+training dosage (76). Of note, resistance training as a stand-alone
+training method does not seem to prevent the risk of falls (211), and
+balance and flexibility training must accompany resistance training in
+order to provide the requisite training stimulus to reduce fall risk.
+Aerobic exercise should also be featured in a well-balanced
+exercise program for older adults, because data indicate that
+concurrent strength and aerobic endurance training can be delivered
+422
+
+together to improve multiple measures of physical fitness (8).
+Notably, maximal aerobic power decreases with age in adults as a
+consequence of various physiological changes that accompany
+aging; for example, muscle mass and strength decreased (130) and
+fat mass increases (129), with men showing a more rapid decline
+than women (233). On average, when women and men are matched
+by age, the aerobic power values of women range from 73% to 85%
+of the values of men (229); however, the general physiological
+response to training in later life is equivocal between men and
+women (4, 183). The differences in aerobic power may be caused by
+several factors, including women’s higher percentage of body fat and
+lower blood hemoglobin values and men’s larger heart size and
+blood volume (24, 34). Notwithstanding the importance of a varied
+training program, the relative importance and potency of resistance
+training in increasing muscular strength, muscular power, and bone
+mineral density, while counteracting the age-related declines in
+contractile function and muscle atrophy, in addition to its many other
+health benefits for seniors, cannot be overlooked (76).
+Resistance Training for Older Adults
+Aging does not appear to enhance or reduce the ability of the
+musculoskeletal system to adapt to resistance exercise, and as a
+training mode, resistance training can be an efficacious tool against
+the 
+declines 
+associated 
+with 
+sarcopenia 
+(28). 
+Significant
+improvements in muscular strength, muscular power, muscle mass,
+bone mineral density, and functional capabilities (e.g., gait speed)
+have been observed in older people who participated in progressive
+resistance training programs (76, 112, 145). For older adults, such
+improvements enhance exercise performance, decrease the risk for
+injury, promote independent living, and improve quality of life.
+Because of the age-related changes in musculoskeletal health,
+resistance exercise is a beneficial mode of training for older
+populations who need to enhance musculoskeletal strength and
+power and resist decrements in muscle mass, bone mineral density,
+423
+
+and functional abilities. Resistance training can also improve mobility
+and enhance physical functioning that enable seniors to perform
+activities of daily living (ADL) and preserve independence (76).
+Furthermore, data also show that muscular strength is an important
+factor for reducing the risk of cardiovascular disease, type 2
+diabetes, cancer mortality, and all-cause mortality (87, 164).
+Resistance training provides a highly effective means of
+attenuating 
+physiological 
+changes 
+associated 
+with
+aging, improving physical function, and decreasing the
+risk of chronic health conditions.
+Responsiveness to Resistance Training in Older
+Adults
+A great deal of attention has focused on strategies to improve the
+musculoskeletal health of older men and women. Because of the
+deconditioned state of many seniors, desirable changes in muscle
+strength and function can result from a variety of resistance training
+protocols, particularly during the first few weeks of training (82).
+Previously sedentary older men have more than doubled knee
+extensor strength and tripled knee flexor strength following a 12-
+week resistance training program (80), and similar observations have
+been made in older women after 12 weeks of resistance training
+(33). In a seminal study, the ability of very old men and women (87-
+96 years old) to improve muscular strength was demonstrated
+following only eight weeks of resistance training (73). Meta-
+analytical data has indicated that in a sample of more than 800
+seniors aged 75 to 97 years of age, resistance training significantly
+increased measures of muscle strength and increases in whole-
+muscle hypertrophy (94). Meta-analytical data also show that while
+sex differences may exist in resistance training adaptations in seniors
+when data are considered on an absolute basis with males making
+larger gains than females, these sex differences are removed, or in
+some measures reversed, when data are interpreted on a relative
+424
+
+scale (117). Collectively, resistance training appears to be an
+effective means to mitigate age-related dynapenia (76).
+Improvements in gait speed, stair-climbing ability, balance, and
+overall spontaneous activity have also been associated with training-
+induced strength gains in older populations (145). Declines in muscle
+power are associated with disability and the ability to perform ADL,
+particularly in females (112), and the need to minimize age-related
+deficits in muscle power is an important part of exercise prescription
+for seniors (76, 112). Evidence indicates that resistance training
+specific to power development may help optimize functional abilities
+in older adults (2, 92, 178) and that power training may be as
+effective as traditional resistance training in developing muscle
+architecture and neuromuscular activation properties of the lower
+limb (230). In some instances, it has been suggested that high-
+velocity power training has a greater influence on the ability to
+produce explosive force than traditional progressive resistance
+training (92, 191). For example, Fielding and colleagues (74) showed
+that older adults who completed high-velocity resistance training
+made greater gains in peak power and similar gains in maximum
+strength compared to seniors who trained at slower velocities over a
+16-week training period. Similar results were reported by Reid and
+colleagues (199); in that study, older adults who completed a high-
+velocity, high-power resistance training program made significantly
+greater gains in leg press peak power than individuals who followed
+a slow-velocity, progressive resistance training program. While the
+optimal training protocol for improving muscular strength and power
+in seniors is not known, it appears a dose–response relationship
+exists between training intensity and improvements in muscular
+strength and power (44), with higher-intensity resistance training
+being more effective in developing maximal muscle strength than
+moderate- or low-intensity training (9, 214).
+Regular participation in a resistance training program also seems
+to have profound anabolic effects in older populations (33, 73, 80).
+Computed tomography and muscle biopsy analysis showed evidence
+425
+
+of muscle hypertrophy in older men who participated in a high-
+intensity resistance training program (80), and other investigations
+involving older adults have shown that resistance training can
+improve nitrogen retention, which can have a positive effect on
+muscle protein metabolism (27, 239). Meta-analytical data have
+indicated that resistance training is also an effective treatment to
+improve body fat mass and for muscle strength and performance in
+seniors diagnosed with sarcopenia (35). Resistance training has also
+been shown to have an important effect on energy balance in older
+adults, as evidenced by an increase in the resting metabolic rate of
+men and women who resistance train (26). It is noteworthy that
+dietary modifications (a change in total food intake or selected
+nutrients) in addition to resistance training promotes a greater
+hypertrophic response than resistance training alone in older men
+(154).
+Although the response of bone to resistance exercise is influenced
+by a complex interaction of many variables (e.g., hormonal status,
+activity history, and nutrition), it has been reported that resistance
+exercise has a positive effect on bone health in older men and
+women (103, 173). Regularly performed resistance training can
+offset the age-related declines in bone health by maintaining or
+increasing bone mineral density (BMD). Notably, meta-analytical
+data on 1,130 participants (mean age ~70 yrs) indicate that
+progressive resistance training programs stimulated significant
+increases in muscle strength and BMD of the femur/hip, with
+adaptations in both strength and BMD favoring lower volumes and
+higher external loads (173). Furthermore, a systematic review of 25
+studies indicated that while ≥2 sessions per week of high-velocity
+resistance 
+training 
+can 
+significantly 
+increase 
+BMD, 
+skeletal
+adaptations can be lost when resistance training is stopped for >6
+months (103). Researchers have also documented that some
+strength, power, and fiber type adaptations in older men are only
+partially preserved after just 12 weeks of detraining; however,
+strength gains can be recovered following a period of retraining (18).
+426
+
+Collectively, 
+these 
+studies 
+show 
+the 
+transient 
+nature 
+of
+neuromuscular adaptations and underline the importance of viewing
+resistance training as a lifelong commitment. Resistance training
+may also reduce the risk of osteoporotic fractures by improving
+dynamic balance, muscle mass, and overall level of physical activity
+(2). While resistance exercise undoubtedly can improve bone health
+in older adults, the interaction of exercise with hormonal and
+nutritional factors influences the degree of benefit of the exercise
+program. Furthermore, bones retain the beneficial effects of exercise
+only as long as training is continued. During periods of inactivity,
+bone density tends to revert to preexercise levels (111).
+Older 
+men 
+and 
+women 
+can 
+make 
+significant
+improvements 
+in 
+strength, 
+power, 
+mobility, 
+and
+functional 
+ability 
+in 
+response 
+to 
+periodized 
+and
+progressive resistance training. Aerobic, resistance, and
+balance exercise are all beneficial for older adults, but
+only resistance training can increase muscular strength,
+muscular power, and muscle mass.
+Program Design Considerations for Older Adults
+Resistance training is currently recognized as an important
+component of a well-rounded fitness program for older adults (2, 76,
+112). Because age-related losses of musculoskeletal strength, power,
+and mass may be almost universal, programs designed to maintain
+or improve musculoskeletal health in older adults should be
+implemented. Not only can regular participation in a resistance
+training program offset some of these age-related losses, but it can
+help older people maintain a more active, higher-quality lifestyle and
+promote psychological and cognitive well-being (76, 112).
+The fundamental principles of designing a resistance training
+program for an older person and a younger person are basically the
+same, but strength and conditioning professionals need to consider
+several concerns when working with seniors. Attention should be
+427
+
+given to preexisting medical ailments, prior training history, and
+nutritional status before the beginning of a resistance training
+program that may predispose seniors to increased risk of exercise-
+induced injury or illness. Even though older populations retain the
+capacity to adapt to increased levels of physical activity, safe and
+effective exercise guidelines must be followed.
+Before participation in an exercise program, seniors should
+complete a medical history and risk factor questionnaire (76).
+Potential limitations and possible restrictions for physical activity can
+be ascertained from this information. In some cases, physician
+clearance is required before the initiation of a moderate or vigorous
+exercise program (76)—for example, in cardiac rehabilitation
+patients or cancer survivors. Any questions regarding a participant’s
+medical 
+status 
+(e.g., 
+heart 
+disease, 
+hypertension, 
+arthritis,
+osteoporosis, or diabetes mellitus) should be answered by a health
+professional. After this information has been obtained, a preprogram
+evaluation to document baseline measurements and assess
+responses to specific exercise modalities should be performed.
+Although a treadmill exercise test is often used to evaluate
+cardiovascular responses to aerobic exercise, a strength test
+(preferably on the equipment used in training) should be performed
+to assess responses to resistance exercise and aid in the exercise
+prescription. Of note, while resistance machines may be used in the
+early stages of a training program with older adults due to balance
+and flexibility limitations, where appropriate, older adults should
+sensibly incorporate free weight, multijoint resistance training
+exercises into the program to provide a greater overall training
+stimulus and place a greater demand on postural stability. Various
+methods of assessing muscular strength, including repetition
+maximum testing, can be reliably used in senior populations,
+provided that appropriate testing guidelines are followed (76).
+Strength and conditioning professionals should be aware of the
+potential risks of breath holding (Valsalva maneuver) for older adults
+(76). While the Valsalva maneuver assists in stabilizing the trunk and
+428
+
+vertebral column during performance of various resistance training
+exercises, owing to the sudden rise in systolic and diastolic blood
+pressure that the technique creates, this technique is generally
+discouraged in seniors (1, 149), especially in those individuals with
+absolute and relative contraindications (e.g., those with coronary
+heart 
+disease, 
+uncontrolled 
+hypertension, 
+musculoskeletal
+limitations, and pacemakers or defibrillators) (76).
+Evidence suggests that resistance training can be safe for seniors
+when individuals adhere to appropriate training guidelines (2, 76,
+112). On the other hand, poorly designed programs can be
+potentially hazardous. For example, failing to provide sufficient rest
+periods between sets and between different exercises, programming
+exercises that are technically too challenging, or increasing the
+intensity of exercise (typically the external load against which the
+individual is working) all increase the likelihood of resistance
+training–related injury. Like the situation with youth populations, the
+resistance training stimulus should not be increased at the expense
+of technical competency for older adults.
+Untrained seniors who begin resistance training should start at a
+relatively low exercise intensity and volume, and the exercise
+prescription should be individualized (76). Notably, meta-analytical
+data have indicated that while single sets provided adequate
+stimulus for adaptations in upper body strength, multiple sets
+produced greater improvements in lower-limb muscle strength and
+muscle quality in older adults (148). Although higher intensities and
+volumes can be tolerated by some older men and women who have
+resistance training experience, the early phase of the training
+program should be directed toward emphasizing the benefits of
+resistance training, addressing individual needs, building confidence,
+and learning proper exercise technique while minimizing the
+potential for muscle soreness and injury. Less intense training during
+the first few weeks of an exercise program may also be beneficial for
+seniors who are apprehensive about participating in a resistance
+training program. Following the initial adaptation period, the training
+429
+
+program can gradually progress if it continues to meet the needs
+and medical concerns of each person. In training older men and
+women, it is particularly important to focus on the interaction of
+major muscle groups used in everyday activities, such as load
+carrying and climbing stairs.
+During the early stages of a resistance training program
+for older adults, investing in education, reducing
+anxieties, and building confidence are key outcomes to
+promote long-term engagement.
+Once participants master the performance of basic resistance
+exercises, more advanced and demanding exercises such as standing
+postures with free weights (barbells and dumbbells), multidirectional
+medicine ball exercises, and advanced balance training (e.g., single-
+leg stands and circle turns) can be incorporated into the program.
+Seniors should gradually progress from 1 set of 8 to 12 repetitions at
+a relatively low intensity (e.g., 40%-50% 1RM) to higher training
+volumes and intensities (e.g., 3 sets per exercise with 60%-80% of
+1RM), depending on individual needs, goals, and abilities (76, 82).
+The current consensus indicates that for each of the primary muscle
+groups, older adults should progress toward 2 or 3 sets of 6 to 12
+repetitions of one or two multijoint exercises, working at 70% to
+85% of the 1RM, two or three times per week (76). In addition,
+high-velocity power exercises can be gradually incorporated into the
+overall training regimen if seniors have successfully completed a
+general resistance training program. Current recommendations for
+increasing power in healthy older adults include the performance of
+1 to 3 sets per exercise with a light to moderate load (40%-60%
+1RM) in concentric movements for 6 to 10 repetitions with high
+repetition velocity (76). However, plyometrics can also serve as an
+effective means to develop high rate-of-force development in various
+expressions of the stretch-shortening cycle in older adults when
+properly programmed in supervised settings (227).
+430
+
+Dispelling the Fears of Resistance Training
+for Older Adults
+Despite the publicized benefits of resistance exercise for older adults,
+misperceptions remain about the notion of lifting weights. Literature has noted the
+phenomenon of a “fear of resistance exercise,” which can lead to older adults
+demonstrating avoidance behavior to resistance exercise due to apprehension,
+anxiety, or a lack of confidence (4). Similarly, a lack of awareness or understanding
+can be a barrier to older adults participating in resistance exercise, which
+underlines the importance of correct education and the promotion of individualized
+approaches (31, 109). To dispel the fears of resistance training, certain key
+messages should be promoted to older populations:
+Resistance training can cause injury to the musculoskeletal system
+in older adults.
+False! When programs are technique focused, individualized, and designed and
+delivered by appropriately qualified professionals, resistance training is a safe and
+effective mode of training for older adults and can promote positive adaptations in
+both muscle and bone (76).
+Resistance training is not safe for older adults with cardiovascular
+or musculoskeletal contraindications.
+False! Resistance training can easily be modified to accommodate for such
+contraindications. Initially training at lower volumes and intensities, avoiding the
+Valsalva maneuver, reducing ranges of motion, and simplifying exercise variants
+are some of the ways in which prescription can account for contraindications and
+help develop confidence in older adults (76).
+Resistance training takes too much time.
+False! Improvement in muscle strength and function can be achieved from
+exposures to a minimal dose program (e.g., ≤60 mins/session, 2 days/week) (75).
+Exercise “snacking,” defined as multiple short bouts (e.g., <10 mins) of muscle
+strengthening exercise, has also been shown to promote adaptations in basic
+function in older adults (185, 234).
+Resistance training requires access to a fitness center.
+False! Improvements in both health- and skill-related components of fitness have
+been realized by older adults following exposure to home-based resistance
+exercise. Notably, supervised training is preferable; however, home-based muscle
+strengthening activities can provide some form of meaningful adaptation (32).
+Resistance training will make older adults too muscular.
+False! Appropriately prescribed resistance training can stimulate gains in muscle
+strength without significantly adding muscle bulk. Maintaining or increasing muscle
+431
+
+mass, strength, and power are important for performing ADLs and physical
+independence.
+A resistance training program for older men and women should
+vary in volume and intensity throughout the year to lessen the
+likelihood of overtraining and ensure that progress is made
+throughout the training period. Because recovery from a training
+session may take longer in older populations, a training frequency of
+two or three sessions per week is recommended, at least during the
+initial adaptation period (76, 112). Strength and conditioning
+professionals should be sensitive to the concerns of individuals and
+be able to modify a training program based on the person’s health
+history and individual goals. With competent instruction and support
+from friends, older men and women can gain confidence in their
+ability to resistance train, which may be enough to ensure good
+adherence to the program. However, since a majority of older adults
+do not currently engage in resistance training activities (54, 122,
+213), professionals may initially need to increase awareness of the
+fitness benefits associated with resistance exercise, address the
+concerns that seniors may have about participating in a resistance
+training program, and adapt the exercises and intensity to the needs
+of the participants.
+Safety Recommendations for Resistance
+Training for Older Adults
+Older adult participants should be prescreened, since many older people
+suffer from a variety of age-related medical conditions. If necessary, medical
+advice should be sought concerning the most appropriate type of activity.
+Participants should warm up for 5 to 10 minutes before each exercise
+session. An acceptable warm-up includes low- to moderate-intensity aerobic
+activity and calisthenics.
+Older adults should perform static stretching exercises either before or after
+—or both before and after—each resistance training session.
+432
+
+Older adults should use a resistance intensity that does not excessively
+overload the musculoskeletal system.
+Participants should avoid performing the Valsalva maneuver during resistance
+training to avoid an abnormal increase in blood pressure.
+Older adults should be allowed 48 to 72 hours of recovery between exercise
+sessions.
+They should perform all exercises within a range of motion that is pain free.
+As with any individual engaging with resistance training, older adults should
+receive individualized exercise instruction from qualified instructors.
+Researchers have reported that social support, access to
+qualified fitness professionals, improving the ability to
+complete daily activities, and decreasing the fear and
+likelihood of falls are some of the motivators for older
+adults consistently engaging in resistance and balance
+exercise.
+An additional consideration related to resistance training in older
+men and women is appropriate nutrition. The quality and quantity of
+a person’s food intake (or perhaps selected nutrients) may mean the
+difference between losing and gaining muscle mass. It seems that
+adequate amounts of protein are essential for muscle hypertrophy in
+older people (126, 151). Furthermore, inadequate intakes of
+macronutrients (fat, protein, and carbohydrate) and micronutrients
+(vitamins and minerals) are associated with potential negative health
+consequences, including fatigue, compromised immune function, and
+delayed recovery from injury. Improving an older person’s food
+intake not only improves health but may also optimize adaptations to
+resistance training.
+433
+
+Conclusion
+Based upon the available research, resistance training can be a safe
+and effective method of conditioning for males and females of all
+ages and abilities. The potential benefits are multifactorial, including
+positive effects on a variety of physical performance variables (e.g.,
+strength and power), health markers (e.g., body composition and
+cardiac function), and psychosocial development (e.g., self-image,
+confidence, well-being). Moreover, regular participation in a
+resistance training program can reduce the risk of sport- and
+physical activity–related injuries in athletes and nonathletes of all
+ages and abilities and promote independent living in seniors. Though
+the fundamental principles of resistance training are similar for
+people of all ages, there are unique concerns specific to youth and
+senior populations. Knowledge of age- and maturity-related
+differences is essential to the development and evaluation of safe
+and effective resistance training programs. Strength and conditioning
+professionals should be aware that individual responses to resistance
+exercise may vary greatly and should be sensitive to the individual
+needs of all participants.
+Over the past few decades, coaches, clinicians, and exercise
+scientists have added to our understanding of age- and maturity-
+related differences and their implications for resistance exercise.
+Collectively, this work has shown the beneficial effects of resistance
+training on individuals of all ages and has provided the foundation
+for recommendations about the design of strength and conditioning
+programs. The information in this chapter and other chapters should
+help strength and conditioning professionals understand and
+appreciate age- and maturity-related differences and enhance their
+ability to develop safe and effective resistance training programs for
+children, adolescents, and older adults alike.
+KEY TERMS
+434
+
+activities of daily living (ADL)
+adolescence
+adulthood
+apophyseal
+athleticism
+athletic motor skill competencies (AMSC)
+biological maturation
+bone mineral density
+childhood
+chronological age
+cocontraction
+development
+diaphysis
+dynapenia
+epiphyseal plate
+growth
+growth cartilage
+long-term athletic development
+maturation
+needs analysis
+older
+osteopenia
+osteoporosis
+peak height velocity (PHV)
+preactivation
+puberty
+resistance exercise
+sarcopenia
+senior
+technical competency
+training age
+young athlete
+youth
+435
+
+STUDY QUESTIONS
+  1.  In reference to biological maturation, the acronym PHV stands
+for which of the following?
+  a.  pediatric height value
+  b.  peak height velocity
+  c.  partial height value
+  d.  peak height value
+  2.  During the developmental years, the primary ossification
+center where most bone formation occurs is referred to as
+which of the following?
+  a.  diaphysis
+  b.  growth plate
+  c.  head of the bone
+  d.  uniphysis
+  3.  Improvements in muscle strength and power during childhood
+are predominantly due to adaptations in which system of the
+body?
+  a.  skeletal system
+  b.  circulatory system
+  c.  neuromuscular system
+  d.  immune system
+4. Which of the following is the progressive and generalized
+skeletal muscle disorder that is associated with an increased
+likelihood of adverse outcomes including falls, fractures,
+physical disability, and mortality in older adults?
+a. hyperplasia
+b. hypertrophy
+c. neuropathy
+d. sarcopenia
+5. What condition is deemed to be present when an individual’s
+bone mineral density is 2.5 standard deviations (SD) or more
+below the average of the young adult mean?
+436
+
+a. osteoclast
+b. osteopenia
+c. osteoporosis
+d. osteoblast
+437

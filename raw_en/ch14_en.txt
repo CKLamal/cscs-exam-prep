@@ -1,0 +1,6905 @@
+CHAPTER 14
+ADMINISTRATION, SCORING, AND
+INTERPRETATION OF SELECTED TESTS
+David J. Heikkinen, PhD, Jo Clubb, MS, and John McMahon, PhD
+The authors would like to acknowledge the significant contributions of Michael McGuigan, Everett Harman, and John Garhammer
+to this chapter.
+After completing this chapter, you will be able to
+discern the best ways to measure selected parameters related to athletic performance;
+administer field tests appropriately;
+evaluate and analyze test data and make normative comparisons;
+understand appropriate statistics; and
+combine the results of selected tests to generate an athletic profile.
+As discussed in chapter 13, the strength and conditioning professional—often referred to as the
+tester in this chapter—who has a broad understanding of exercise science can effectively choose
+and use tests and measurements to make training program decisions that help athletes optimize
+their physical preparation and maximize their potential. To do this effectively, the tester must
+administer tests correctly, analyze test data accurately (or understand how test data have been
+analyzed if the tester is not responsible for this, such as when using proprietary software), and then
+combine the results of selected tests to generate an athletic profile. This chapter covers these basic
+aspects of testing performance-related parameters and provides comprehensive age- and sport-
+specific descriptive and normative data for selected tests.
+764
+
+Measuring Parameters of Athletic Performance
+Athleticism incorporates many physical abilities, some of which are much more amenable to training
+than others. Such abilities may be called general components of athletic performance—that is,
+abilities that enable effective responses to the various physical demands of a specific sport or
+event. This section focuses on how each component can be tested and highlights relevant issues.
+Maximum Muscular Strength (Low-Speed Strength)
+Maximum muscular strength tests can be split into dynamic or isometric demands; those that
+involve relatively low movement speeds reflect low-speed muscular strength. In this case,
+muscular strength is related to the force a muscle or muscle group can exert in one maximal effort
+while maintaining proper form, and it can be quantified by the maximum weight that can be lifted
+once (the 1-repetition maximum [1RM]) in exercises such as the bench press or back squat, or the
+maximum force that can be exerted at a particular isokinetic velocity (5, 6, 45, 72, 100, 101, 103,
+109, 124). Because 1RM tests do not require expensive equipment and reflect the kind of dynamic
+ability necessary in sport, they are the maximal strength tests of choice for most strength and
+conditioning professionals.
+In general, 1RM tests are administered after the athlete has warmed up by performing a few
+sets of the test exercise with submaximal loads, beginning with a relatively light load. The first
+attempt is usually with approximately 50% of the athlete’s estimated 1RM weight. After the athlete
+has rested enough to feel recovered from the previous attempt (1-5 min, depending on the
+difficulty of the attempt), the strength and conditioning professional increases the weight
+somewhat, based on the ease with which the previous trial was performed. A skilled strength and
+conditioning professional should, within three to five attempts following warm-up, be able to find
+the athlete’s 1RM load to within a few percentage points of the true value.
+While testing the athlete’s 1RM is a time-tested and reliable way to assess maximal strength,
+many strength and conditioning professionals have begun to use isometric tests to more
+comprehensively assess the athlete’s maximal force production capacities (5, 6, 19, 29, 45, 72, 100,
+101, 103, 124). These types of tests are particularly appealing because they are nonfatiguing and
+are often integrated into an athlete’s regular training program (i.e., training is testing). Typically
+administered with the use of a force plate (or pair of force plates) or force cell that is integrated
+into a custom testing device, these tests allow for the generation of a force–time curve that can be
+used to quantify the rate at which force is produced as well as the maximum force exerted against
+an immovable object (e.g., bar) (29, 92). Regardless of the isometric testing device used, these
+tests are performed after a suitable warm-up, often progressing from 50% effort to 90% before
+performing three maximum isometric trials that are performed for 3- to 5-second duration (29, 59).
+Given that strength is highly influenced by body mass, expressing maximum muscular strength
+test results relative to body weight is valuable. Ratio standards can be used to determine relative
+strength (43) by dividing the weight lifted (in a dynamic test) or force produced (in an isometric
+test) by the athlete’s body weight. Relative strength from a 1RM test can be expressed as the total
+weight lifted (lb or kg) divided by body mass (lb or kg). To express the same from an isometric test,
+maximal force exerted in newtons is divided by bodyweight converted into newtons (lb × 4.44, or
+kg × 9.81). Ratio scaling allows comparisons between athletes normalized to body weight.
+However, this simple approach assumes that strength is directly proportional to body mass (43),
+which is not necessarily the case. Therefore, allometric scaling has also been recommended,
+particularly in settings with wide variation in body size and strength. Dividing strength by body
+mass raised to an appropriate power can eliminate the effects of body mass, although debate
+remains regarding the most appropriate scaling exponents (33, 43, 83).
+765
+
+Anaerobic or Maximum Muscular Power (High-Speed
+Strength)
+High-speed muscular strength or maximal anaerobic muscular power (or anaerobic
+power) is related to the ability of muscle tissue to exert high force while contracting at a high
+speed. Tests of strength and power are of very short duration, are performed at maximal
+movement speeds, and produce very high-power outputs. High-speed maximal muscular power
+tests are often called (maximal) anaerobic power tests. Scores on high-speed muscular strength
+tests include the 1RM of explosive exercises (e.g., the power clean, snatch, push jerk), the height
+of a vertical jump, and the time to sprint up a staircase (e.g., Margaria-Kalamen test) (69, 100, 103,
+124, 126). Because explosive exercise tests take about 1 second while low-speed maximal strength
+tests generally require 2 to 5 seconds to complete, phosphocreatine and adenosine triphosphate
+(ATP) stored in the active muscle(s) are the primary energy sources for both types of tests.
+Maintaining correct technique or form is also important when measuring anaerobic power for both
+performance validity and safety reasons.
+Most maximal muscular strength tests involve relatively slow movement speeds
+and therefore reflect low-speed strength. Assessment of high-speed muscular
+strength can involve measuring the 1RM of explosive resistance training exercises
+or the height of a vertical jump.
+Power output reflects the interplay between force and velocity. The height of a jump is a function
+of the force applied to the ground that is greater than the athlete’s body weight over the time it
+was applied (this is referred to as net impulse) while he or she extends the ankles, knees, and hips
+to propel upward. A larger net impulse (force × time) leads to a higher velocity at which the athlete
+leaves the ground. An athlete may not improve in jump height after gaining body weight during a
+resistance training cycle, making it appear that power output is unchanged. However, because the
+athlete is heavier and propels the body to the same height, indicating the same takeoff velocity, an
+increase in power output is likely. This applies to any test in which body weight is manipulated
+(e.g., running up stairs). Moving a heavier body at the same speed requires a higher power output.
+It is up to the strength and conditioning professional to interpret the interplay between changes in
+body weight, velocity, and power output accordingly, because for some athletes, such as those from
+collision-based sports, gains in absolute power through weight gain may be beneficial, but for
+athletes who benefit primarily from moving at high absolute velocities, a reduction in velocity owing
+to weight gain may be detrimental.
+An alternative class of anaerobic power tests involves the use of a cycle ergometer. This type of
+test can be advantageous for the strength and conditioning professional in some injury situations in
+which running is restricted or when the athlete participates in a non-bodyweight-support sport such
+as rowing or cycling. The most commonly used test of this type is the Wingate anaerobic test. A
+field test protocol involves use of a cycle ergometer with mechanical means of adjusting resistance
+and measuring pedal revolutions (i.e., revolutions per second). In a laboratory setting, an
+electronically instrumented ergometer can simplify parameter measurement and improve accuracy.
+Typical protocols involve a basic warm-up followed by a 30-second test interval (39). In this test,
+resistance is applied quickly after the individual reaches a near-maximal pedaling rate (typically 90-
+110 rpm). The resistance applied is proportional to body weight (e.g., 7.5%); the percentage is
+greater for trained athletes than for individuals with less training. Work performed is determined
+from the resistance value and number of pedal revolutions. Power is generally calculated as work
+divided by time for each 5-second time interval during the 30-second test. Parameters typically
+766
+
+calculated include peak power, average power, and a fatigue index such as a ratio of maximum to
+minimum interval power. Norms for cycle ergometer tests are available (71, 103).
+Load-Velocity Profile
+Velocity-based training (VBT) using commercially available technology has become an increasingly
+popular method for measuring bar speed and displacement during the performance of individual
+resistance training exercises. These technologies allow testers to measure the intensity of an
+exercise using bar velocity as a metric rather than simply using percentages of a 1RM (15, 156).
+These methods are based on the inverse relationship between bar speed and the weight lifted.
+Specifically, as the absolute weight on the bar increases, a linear decrease in bar velocity is typically
+recorded. Using this knowledge, strength and conditioning professionals can create an
+individualized load–velocity profile by performing a series of sets performed with progressively
+increasing loads (i.e., 20%, 40%, 60%, 80%, and 90% of 1RM) (156). The creation of the load–
+velocity profile has been suggested to be useful for evaluating and prescribing exercise intensity
+during resistance training programs and has also been suggested to be a useful tool for estimating
+or monitoring the 1RM. When the load–velocity profile is created from a series of increasing loads
+as a percentage of the 1RM with the back squat exercise (figure 14.1) a linear relationship exists
+between load and velocity (14). However, when the 1RM back squat is estimated from the load–
+velocity profile, it is highly variable and consistently results in an overestimation of the athlete’s
+1RM and should not be used for 1RM prediction (56, 89). When the current body of scientific
+knowledge is examined using the load–velocity profile to predict the 1RM on a day-to-day basis, it
+may result in the misprogramming of training loads and, in some instances, the programming of
+loads that exceed the athlete’s capacities (14, 56, 60). As such, it is generally recommended that
+the 1RM should be directly tested when seeking to determine an athlete’s maximal strength in a
+given exercise, and the load–velocity profile should not be used to estimate the 1RM (56, 89).
+Anaerobic Capacity
+Anaerobic capacity is the maximal rate of energy production by the combined phosphagen and
+anaerobic glycolytic energy systems for moderate-duration activities. It is typically quantified as the
+maximal power output during muscular activity between 30 and 90 seconds using a variety of tests
+for the upper and lower body (39, 103, 124, 151), as opposed to maximal anaerobic power tests,
+which last no longer than a few seconds.
+Local Muscular Endurance
+Local muscular endurance is the ability of certain muscles or muscle groups to perform repeated
+contractions against a submaximal resistance (18, 103). A test of local muscular endurance should
+be performed in a continuous manner for several seconds to several minutes without the advantage
+of rest periods and without extraneous body movements. Examples include performing a maximal
+number of repetitions of the chin-up, parallel bar dip, or push-up exercises or a resistance training
+exercise using a fixed load (e.g., a percentage of an athlete’s 1RM or body weight) (38, 46, 94, 100,
+103).
+Aerobic Capacity
+Aerobic capacity, also called aerobic power, is the maximum rate at which an athlete can
+produce energy through oxidation of energy sources (carbohydrates, fats, and proteins) and is
+usually expressed as a volume of oxygen consumed per kilogram of body weight per minute (i.e.,
+mL · kg−1 · min−١) (95). Few strength and conditioning professionals have the equipment to
+measure oxygen consumption directly, so aerobic capacity is generally estimated by performance in
+aerobic endurance activities such as running 1 mile (1.6 km) or more (69, 111, 120). It can also be
+767
+
+estimated using other field tests such as the maximal aerobic speed (MAS) test (87) and the Yo-Yo
+intermittent recovery test (10, 18, 85, 86).
+768
+
+769
+
+FIGURE 14.1 Load–velocity profiling.
+Reprinted by permission from H.G. Banyard, K. Nosaka, and G.G. Haff, “Reliability and Validity of the Load-Velocity Relationship to Predict the 1RM Back Squat,” The
+Journal of Strength and Conditioning Research 31, no. 7 (2017): 1897-1904.
+Agility
+Agility traditionally has been considered the ability to stop, start, and change the direction of the
+whole body rapidly (134, 143). Agility consists of two main components: speed in changing
+direction and cognitive factors (134). The definition of agility has been revised to take into account
+the perceptual qualities, and it is now considered “a rapid, whole-body, change of direction or
+speed in response to a sports-specific stimulus” (134, 143). Agility testing therefore involves tests
+of change of direction with a cognitive component, such an anticipation and reaction. Tests such as
+the T-test, the 5-0-5 test, the 5-10-5 test (also known as the pro agility test), and the L-drill (also
+known as the 3-cone drill) are used to assess change of direction.
+Speed
+Speed is movement distance per unit of time and is typically quantified as the time taken to cover
+a fixed distance. The time taken to sprint from a stationary start over a short distance such as 10
+yards or meters reflects acceleration, whereas longer sprints such as 40 yards (37 m) would
+measure maximum speed (163). Tests of speed are not usually conducted over distances greater
+than 100 meters (109 yd) because longer distances reflect anaerobic or aerobic capacity more than
+absolute ability to move the body at maximal speed (103, 124, 163).
+Electronic timing devices are becoming more accessible to strength and conditioning
+professionals due to increased ease of use and lower prices. However, many tests of speed and
+agility are administered using hand timing with a stopwatch, which can be a major source of
+measurement error, especially if the tester is not sufficiently trained. Even under ideal conditions,
+stopwatch-measured sprint times are up to 0.24 seconds faster than electronically measured times
+because of the tester’s reaction-time delay in pressing the stopwatch button at the gun and the
+tendency to anticipate and press the button early as the athlete approaches the finish line (45, 67,
+125). Therefore, strength and conditioning professionals are encouraged to use electronic timing
+devices for tests of speed and agility when they are available. It is also more informative to
+measure split times, because this can provide the strength and conditioning professional with
+insight into the speed and acceleration capacities of the athletes. For example, times for 10 yards
+(9 m), 20 yards (18 m), and 40 yards (37 m) can be recorded and used to calculate split times and
+maximal velocity. Finally, tests of speed and agility require proper footwear and a nonslip surface.
+Athletic Motor Skill Competency
+Developing movement skills that enable children and adolescents to move in an effective and
+efficient manner during physical activity and sport is central to long-term athletic development. The
+athletic motor skill competencies (AMSC), proposed by Lloyd and colleagues (90), presents
+foundational movement skills that underpin athletic movements. The AMSC and examples of
+associated movement screening exercises are presented in figure 14.2 and can be used to monitor
+the development of young athletes (123). The use of the AMSC and other screening tools provide a
+method for tracking athlete development with the use of various assessment tools that evaluate
+movement patterns and other qualitative aspects of movement. As such, these types of tools are
+best described as process-oriented assessments (150). Overall, the use of movement screening
+information can be used by practitioners to identify strength, mobility, and neuromuscular deficits,
+which can then guide programming decisions.
+770
+
+FIGURE 14.2 Athletic motor skill competencies and examples of associated movement screen exercises.
+Adapted from Lloyd and Oliver (2020); Pullen et al. (2022).
+Assessing movement patterns can reveal indicators of injury susceptibility in young athletes.
+Well-established screening tools such as the functional movement screen (FMS), tuck jump
+assessment (TJA), landing error scoring system, and drop jump assessments are commonly used
+for this purpose (123). Additionally, tailored movement screening protocols have been devised
+specific to particular sports, aiming to pinpoint injury risks, performance limitations, or even talent
+identification opportunities. Tailored training programs can be developed by strength and
+conditioning professionals to target specific individual needs, including addressing movement
+limitations.
+Multiple movement screens assess parts of the AMSC spectrum, but consensus has not been
+reached regarding which are most appropriate for a given cohort. One narrative review (122)
+included 10 movement screens, including but not limited to the FMS, TJA, resistance training skills
+battery (RTSB), and back squat assessment (BSA). Interested readers are directed to the review by
+Pullen and colleagues (122) for more detailed information on the methodologies, reliabilities, and
+strengths and limitations of each of these tests when selecting the screening test that is the most
+appropriate for the environment.
+771
+
+Implementing movement screens can be complex due to variations in implementation practices,
+criteria, grading, and movement analysis. Understanding reliability of screen implementers is
+critical, although both novice and expert raters can achieve substantial reliability (104). Recording
+movements for retrospective analysis after testing is recommended, because it allows raters to
+review video footage, pause, slow down, and rewatch to accurately assess movements. The
+number of repetitions performed and how they are graded are crucial. Due to ongoing brain
+maturation, youth exhibit higher movement variability, and performance regressions can coincide
+with growth spurts (54, 68). Therefore, movement screens should assess each repetition for
+consistency. Some screens, such as the FMS and RTSB, use a best repetition technique, which limits
+the assessment of movement consistency. Others, like the TJA, use a sum-of-repetition scoring
+system, capturing movement variability. Considering total body versus segmental analysis is also
+important because total body approaches like the FMS may miss specific deficiencies or
+compensations, whereas segmental analysis provides detailed insights (123).
+Flexibility
+Flexibility can be defined as the range of motion about a body joint (13). Typical devices for
+measuring flexibility include manual and electric goniometers, which measure joint angle, and the
+sit-and-reach box, which is used to evaluate the combined flexibility of the lower back and hips.
+Flexibility measurements are more reliable when standardized warm-up and static stretching
+precede the flexibility assessment. During a flexibility test, the athlete should move slowly into the
+fully stretched position and hold this position. Ballistic stretching, characterized by bouncing to
+increase range of motion, cannot be allowed during any flexibility testing (69, 116).
+A number of movement competency screens are available for strength and conditioning
+professionals and can be used to assess overall flexibility, mobility, and general movement
+competency of athletes. However, there is no current consensus on which screen to use, nor a
+clearly established link between movement screening results and injury (98, 116). Competent
+strength and conditioning professionals perform postural and performance screening routinely by
+viewing the athletes’ performance in training. For example, the overhead squat is a common
+exercise that is used as a part of movement screens because it allows assessment of bilateral
+mobility of the hips, knees, and ankles along with the shoulder and thoracic spine (3, 25, 126).
+Balance and Stability
+Balance is the ability to maintain static and dynamic equilibrium or the ability to maintain the
+body’s center of gravity over its base of support (103, 124). Stability is a measure of the ability to
+return to a desired position following a postural disturbance (103). Athletes with poor balance are
+at a greater risk of lower limb injuries (76, 77, 96). Athletes have also been shown to have greater
+balance compared to nonathletes (38). Balance testing can be used to assess stability increases
+with training and in a number of different ways (103). Commonly used tests include timed static
+standing tests (eyes closed and standing on one or both legs) (21, 101), balance tests using
+unstable surfaces (101), and tests using specialized balance testing equipment (e.g., NeuroCom,
+Biodex Balance System) (124). These include a large number of tests that can evaluate different
+aspects of balance and stability (103). The balance error scoring system (BESS) and star excursion
+balance test (SEBT) have very good reliability and a substantial body of literature supporting their
+use (21, 57, 66, 103, 115, 146).
+Body Composition
+Body composition usually refers to the relative proportions by weight of fat and lean tissue.
+Although there are sophisticated and expensive devices capable of partitioning the lean component
+into bone and soft tissue, the body composition procedures typically performed by strength and
+772
+
+conditioning professionals use the basic two-component (fat and lean mass) model. With a trained
+and competent tester, the skinfold measurement technique is the most valid and reliable (r = 0.99)
+means for assessing body fatness that is generally available to the strength and conditioning
+professional and is preferable to body circumference methods (95). Other methods available to
+strength and conditioning professionals include bioimpedance devices and total body
+plethysmography, although dual X-ray absorptiometry (DXA) is often labeled as a gold standard.
+The skinfold method uses calipers that measure the thickness of a double layer of finger-pinched
+skin and subcutaneous fat. A good skinfold measurement device should squeeze the fold of skin
+and fat with constant pressure regardless of the amount of tissue being measured (41, 69, 120).
+Circumference methods may be added, because they are relatively quick and simple and can yield
+important chronic disease risk information. For example, waist circumference can assess abdominal
+fat, and a high waist circumference is associated with an increased risk for type 2 diabetes, high
+cholesterol, high blood pressure, and certain types of cardiac disease (69).
+Anthropometry
+Anthropometry, which is the science of measurement applied to the human body, generally
+includes measurements of height, weight, and selected body girths (69). Ideally, height should be
+measured with a stadiometer. If a stadiometer is not available, measurement of height requires a
+flat wall against which the athlete stands, with a measuring tape attached or unattached to the
+wall. Height is usually measured without shoes to the nearest quarter-inch or half-centimeter (103).
+The most accurate body mass or body weight measurement is performed with a certified balance
+scale, which is generally more reliable than a spring scale and should be calibrated on a regular
+basis (103). A calibrated electronic scale is an acceptable alternative. Athletes should be weighed
+while wearing minimal dry clothing (e.g., workout shorts and T-shirt, no shoes). For comparison
+measurements at a later date, they should dress similarly and be weighed at the same time of day.
+The most reliable body mass measurements are made in the morning upon rising, after elimination
+and before ingestion of food or fluids. Level of hydration can result in variability of body mass
+(weight). Thus, athletes should be encouraged to avoid eating salty food (which increases water
+retention) the day before weighing and to go to bed normally hydrated.
+The most reliable girth measurements are usually obtained with the aid of a flexible measuring
+tape equipped with a spring-loaded attachment at the end that, when pulled out to a specified
+mark, exerts a fixed amount of tension on the tape. Girth measurements should be made at the
+beginning of a training period for comparison with subsequent measurements (69, 103).
+773
+
+Monitoring Protocols, Procedures, and Equipment
+When selecting tests for athletic assessment, it is crucial to consider the protocols, procedures, and
+equipment necessary to effectively implement them. Every athletic environment is unique, requiring
+careful consideration to optimize these aspects for specific settings.
+Protocols are systematic plans outlining guidelines to achieve specific objectives. In athlete
+testing, they provide a comprehensive framework within which procedures are developed, setting
+standards for consistency, reliability, and validity (as explained in detail in chapter 13). A monitoring
+protocol represents the overarching strategy for conducting performance assessments, detailing the
+overall approach for tracking an athlete’s physical capacities and specifying test types and
+frequencies throughout the season.
+Using Artificial Intelligence to Analyze Testing Data
+Artificial intelligence (AI) has emerged as a potentially transformative tool in sport. Yet there is still much confusion,
+apprehension, and skepticism about the value of AI. AI is defined as “the ability of a digital computer to perform tasks
+commonly associated with intelligent beings … such as the ability to reason, discover meaning, generalize, or learn from
+past experience” (31). Within AI, machine learning (ML) is the ability of computer machines to learn from and develop
+data without human input or interaction. These approaches offer various advantages to sport, including automating or
+semiautomating data collection, processing data into meaningful insights, identifying crucial information related to health
+and performance, and creating models that support complex decision making (40). Such models can handle a vast number
+of factors and their interactions, which can be too complex for humans to process.
+In the context of athlete testing, AI holds numerous potential applications. Its capacity to process large volumes of data
+is particularly suited to biomechanical analysis, leading to its integration into a number of movement analysis solutions (12).
+Moreover, AI can be used to streamline certain technologies and tests, making jump, speed, and velocity-based gym
+exercise assessments feasible with just a mobile phone (9). By leveraging the quality of modern phone cameras and
+applying AI and ML techniques to analyze the data, such tests become accessible to more strength and conditioning
+professionals. However, it is crucial for practitioners to scrutinize the accuracy and validity of such technologies.
+The use of AI in injury prediction is a widely debated subject (12), yet its potential to enhance existing approaches
+cannot be overlooked. The ability of AI and ML to process vast quantities of data and comprehend complex interactions
+within and across data sets may further such applications. Nevertheless, practitioners must ensure sufficient data collection
+quantity and quality. As the maxim “garbage in, garbage out” implies, the success of any model is contingent on the quality
+of its inputs. AI’s application in analyzing athlete testing data is a burgeoning field that holds promise for the future. Given
+its rapid and constant evolution, it is imperative that practitioners stay informed of developments in this area.
+Procedures are detailed, step-by-step instructions on executing specific tasks within the
+protocol framework. They provide explicit guidance on methods to ensure consistent data
+collection. In physical performance assessments, procedures detail the steps for conducting the
+tests outlined in this chapter, such as vertical jumps, aerobic capacity, or agility performance,
+ensuring standardized methodologies and reliable data.
+Selecting appropriate equipment for athlete physical performance tests can be challenging due to
+the wide range of tools and technologies now available. A decision-making framework for
+implementing technology in sport (159) suggests four reflective questions:
+1. Would the information provided be helpful?
+2. Can you trust the information provided?
+3. Can you integrate, manage, and analyze the data provided effectively?
+4. Can you implement the technology in your practice?
+Selecting suitable technology involves ensuring device validity and reliability, considering
+practicality and ease of use, and confirming relevance to athletes and their specific sport. This
+comprehensive approach ensures that the assessments are accurate, relevant, and actionable,
+supporting athlete performance and reduced risk of injury.
+774
+
+In summary, considering protocols, procedures, and equipment prior to commencement of
+testing is essential. Regularly reviewing these aspects ensures testing batteries remain consistent,
+relevant, and effective for athletes’ training programs.
+SELECTED TEST PROTOCOLS AND SCORING DATA
+MAXIMUM MUSCULAR STRENGTH (LOW-SPEED STRENGTH)
+  1  1RM Bench Press  304
+  2  1RM Bench Pull  304
+  3  1RM Back Squat  305
+MAXIMUM MUSCULAR POWER (HIGH-SPEED STRENGTH)
+  4  Isometric Mid-Thigh Pull  305
+  5  Nordic Hamstring Test  307
+  6  1RM Power Clean  308
+  7  Standing Long (Broad) Jump  308
+  8  Vertical Jump  308
+  9  Squat Jump (Static Vertical Jump)  311
+10  Drop Jump  312
+11  Rebound Jump  313
+12  Margaria-Kalamen Test  314
+13  Velocity-Based Testing (VBT)  315
+ANAEROBIC CAPACITY
+14  300-Yard (274 m) Shuttle Run  316
+15  90-Second Box Jump Test  317
+LOCAL MUSCULAR ENDURANCE
+16  Partial Curl-Up  318
+17  Push-Up  319
+18  Army Fitness Test (AFT) Hand-Release Push-Up (HRP)  320
+19  YMCA Bench Press Test  321
+AEROBIC CAPACITY
+20  1.5-Mile (2.4 km) Run  321
+21  12-Minute Run  321
+22  Yo-Yo Intermittent Recovery Test  322
+23  Maximal Aerobic Speed Test  323
+24  30-15 Intermittent Fitness Test (IFT)  323
+CHANGE OF DIRECTION OR AGILITY
+25  T-Test  324
+26  Hexagon Test  325
+27  5-10-5 Test  326
+28  5-0-5 Test  326
+775
+
+29  Illinois Test  327
+SPEED
+30  Straight-Line Sprint Tests  327
+BALANCE AND STABILITY
+31  Balance Error Scoring System (BESS)  328
+32  Star Excursion Balance Test (SEBT)  329
+FLEXIBILITY
+33  Sit-and-Reach Test  330
+34  Overhead Squat  331
+BODY COMPOSITION
+35  Skinfold Measurements  332
+36  Bioelectrical Impedance (BIA)  334
+ANTHROPOMETRY
+37  Girth Measurements  334
+Maximum Muscular Strength (Low-Speed Strength)
+  1   1RM BENCH PRESS
+Equipment
+A barbell, weight plates, and two safety locks; enough total weight to accommodate the
+maximum load of the strongest athlete; and a variety of plate sizes to allow for 5-pound (2.3
+kg) gradations in weight
+A sturdy bench press bench with integral bar rack (preferably of adjustable height)
+Personnel
+One spotter, one recorder
+Procedure
+1. Instruct the athlete in proper technique for the flat barbell bench press as described in chapter
+16.
+2. The spotter stands at the head end of the bench throughout the test to help in raising the bar
+on a failed attempt and to help the athlete place the bar back on the rack.
+3. As with any maximal strength test, the athlete first does a specific warm-up of 5 to 10
+repetitions with a light to moderate load.
+4. Usually, at least two heavier warm-up sets of 2 to 5 repetitions each are completed before the
+first actual 1RM attempt.
+5. Generally, it is desirable to measure the 1RM within three to five attempts after the warm-up;
+otherwise, fatigue may detract from the final result.
+6. A more detailed step-by-step method for the 1RM protocol is shown in figure 18.8 on page
+546.
+Note: Normative and descriptive data for the 1RM bench press are presented in tables 14.1 through
+14.5 near the end of the chapter.
+  2   1RM BENCH PULL
+776
+
+Equipment
+A barbell, weight plates, and two safety locks; enough total weight to accommodate the
+maximum load of the strongest athlete; and a variety of plate sizes to allow for 5-pound (2.3
+kg) gradations in weight
+A high flat bench (specifically, the seal row bench is widely available for this exercise)
+Personnel
+One spotter, one recorder
+Procedure
+1. Instruct the athlete in proper technique for the bench pull (figure 14.3a).
+2. The athlete grasps the bar with a closed pronated grip, wider than shoulder width.
+3. Bench height is set so the athlete can use a comfortable grip while the weight is off the ground
+in the hang position.
+4. The athlete starts the lift from the hang position, and the grip should be consistent from test
+to test.
+5. The bar is pulled up toward the lower chest or upper abdomen with the elbows pointed up
+(figure 14.3b).
+6. The head position can remain either down or to the side but must remain in contact with the
+bench throughout the test.
+7. A valid repetition is one in which the bar touches the underside of the bench and the bar is
+lowered in a controlled manner to the hang position with full elbow extension without touching
+the ground.
+8. The feet should remain off the ground throughout the test and in the same position
+throughout.
+9. A more detailed step-by-step method for the 1RM protocol is shown in figure 18.8 (page 546).
+Note: Descriptive data for the 1RM bench pull are presented in table 14.4 near the end of the
+chapter.
+777
+
+FIGURE 14.3 (a) Starting position and (b) top position of the bench pull.
+   3  1RM BACK SQUAT
+Equipment
+A barbell, weight plates, and two safety locks; enough total weight to accommodate the
+maximum load of the strongest athlete; and a variety of plate sizes to allow for 5-pound (2.3
+kg) gradations in weight
+A sturdy squat rack with adjustable spotting bars to support the weight of the bar if the athlete
+is unable to rise (as an alternative, one spotter can be used at each end of the bar)
+A flat and solid surface to stand on
+Personnel
+Two spotters, one recorder
+Procedure
+1. Instruct the athlete in proper technique for the back squat as described in chapter 16.
+2. Warm-up sets are performed as for the 1RM bench press test. However, the loads lifted are
+typically heavier than in the 1RM bench press test, so the load increments will be greater than
+those of the 1RM bench press.
+3. Refer to figure 18.8 (page 546) for a 1RM testing protocol.
+778
+
+Note: Normative and descriptive data for the 1RM back squat are presented in tables 14.1 through
+14.5 near the end of the chapter.
+Maximum Muscular Power (High-Speed Strength)
+  4   ISOMETRIC MID-THIGH PULL
+The isometric mid-thigh pull (IMTP) is a multijoint maximal isometric strength test.
+Equipment
+Force plate (or two adjacent force plates) that samples at a minimum of 1,000 Hz, but it can
+also be conducted using a strain gauge or crane scale that samples at 100 to 133 Hz (29, 32)
+An immovable fixed bar to measure peak force and time-dependent variables such as the rate
+of force development; this specific testing rack is designed for isometric testing and allows for
+stepwise adjustments to the bar height. If a strain gauge is used, a handle is attached to the
+strain gauge with a chain.
+Weightlifting straps
+Computer or tablet with specialized software that allows for the collection and analysis of
+force–time curve data
+Goniometer to record the knee and hip angles
+Personnel
+One tester/recorder
+779
+
+FIGURE 14.4 Isometric mid-thigh pull (IMTP) test position.
+Procedure
+1. The testing rack needs to be set to a height that allows the athlete to mirror the “second pull”
+position used in weightlifting (i.e., clean or power clean). In this position the immovable bar is
+positioned across the upper portion of the thigh, immediately inferior to the pelvis (58) (figure
+14.4).
+2. When performing the test, the athlete should have an upright trunk position (62, 63) with the
+feet roughly hip-width apart and a slight flex of the knee while grasping the bar with a clean
+grip while using weightlifting straps (58). In this position the knee angle should be
+approximately 120 degrees and 145 degrees, and the hip angle should be approximately 125
+degrees and 150 degrees (62). However, it is important to note that the exact bar position as
+well as knee and hip angles are difficult to recommend because an individual’s anthropometrics
+will exert a large influence on the exact position during the test.
+3. Before conducting the isometric mid-thigh pull test it is important that between one and three
+familiarization sessions are performed in order to enhance the reliability of the test (62). Less
+familiarization is needed with trained athletes, especially those who train regularly with
+weightlifting derivatives. First, the athlete should complete a dynamic warm-up that includes
+dynamic stretches (e.g., bodyweight squats and lunges) as well as dynamic lifting tasks (e.g.,
+low-load and moderate-load mid-thigh pulls). After this is completed, a series of progressively
+intense isometric actions should be performed at perceived intensities of 50%, 70%, and 90%
+of maximum, with 1 to 2 minutes rest between trials (29, 62). During this time the strength
+780
+
+and conditioning professional should monitor the athlete’s body posture and make corrections
+as needed.
+4. After completing the last submaximal trial, the athlete should complete a minimum of three
+maximum-effort trials separated by 1 to 2 minutes of rest. If the main goal of the test is to
+determine the peak force that the athlete can produce, each trial should last between 3 and 5
+seconds. If the rate of force development (RFD) is of interest, each trial should last up to 1
+second (54). Regardless of which protocol is used, if the peak force between trials varies by
+more than 15%, additional trials are warranted (105).
+5. Regardless of the protocol used to collect the force–time curve, all trials need to be visually
+screened to determine whether they meet preestablished criteria (29). If the strength and
+conditioning professional notes any of the following, the trial should be discarded and another
+trial should be conducted:
+A quiet standing period of 1 s with >50 N change in force
+Pre-tension (<50 N) while maintaining a rigid torso before initiating force application
+A countermovement prior to the onset of force application
+Peak force at the end of the pull
+6. If the trial is deemed acceptable but the peak force of each trial is not within 15% of the
+others, additional trials should be conducted.
+7. When analyzing the results of an IMTP test, the most common measures include the peak
+force and the force at specific time points (i.e., 50, 100, 150, 200, and 250 ms) (figure 14.5).
+These metrics are often reported in absolute and relative terms (i.e., force per kg body
+weight). Time-dependent variables such as the RFD and impulse are often quantified (and
+reflect the change in force production during a certain time period as represented by Δ). The
+peak RFD is typically quantified with a 20-millisecond moving window, while the RFD and
+impulse are quantified during predetermined time windows (i.e., 0-50, 0-100, 0-200, and 0-250
+ms).
+Note: Normative data for the IMTP are presented in table 14.6 near the end of the chapter.
+781
+
+FIGURE 14.5 IMTP force–time curve.
+Reprinted by permission from C.J. Brady, A.J. Harrison, and T.M. Comyns, “A Review of the Reliability of Biomechanical Variables Produced During the Isometric Mid-Thigh
+Pull and Isometric Squat and the Reporting of Normative Data,” Sports Biomechanics 19, no. 1 (2020): 1-25, reprinted by permission of the publisher (Taylor & Francis Ltd,
+http://www.tandfonline.com).
+   5  NORDIC HAMSTRING TEST
+Equipment
+A commercially available instrumented device for the measurement of eccentric hamstring
+strength or a video recording device
+A stable flooring surface on which the dynamometer should be placed
+Personnel
+One tester/recorder
+Procedure
+1. Set up the instrumented device on a stable surface. The athlete should kneel on the testing
+device and place the ankles under the hooks (within which force cells are housed to quantify
+force). The athlete should be careful to only contact the hooks with the back of the ankles and
+to not push off the board with the toes in order to gain leverage. If not using an instrumented
+device but using videography instead, the camera (or mobile phone) should be placed in the
+sagittal view and fixed using a tripod or similar and positioned so that the full range of motion
+is recorded. The knees of the athlete should be a 90-degree angle of flexion relative to the
+lower leg and the rest of the body (figure 14.6a). Care should be taken to ensure that the
+athlete does not flex forward at the hips, because occasionally athletes will do this in order to
+reduce the eccentric loading on the hamstrings.
+2. The athlete should then lean forward under control (i.e., controlled acceleration) by extending
+the knees, increasing the knee angle, and maintaining a straight line from the knees through
+the shoulders (figure 14.6b).
+3. After lowering to the ground in this fashion, the athlete may then use the hands to push back
+up to the starting position. Typically, 3 to 6 sets of this test are performed.
+782
+
+4. If using an instrumented device, record absolute force of eccentric hamstring force, typically
+measured in newtons (N). Ratio or allometric scaling of peak force, as discussed earlier in the
+chapter, may also be considered with Nordic hamstring force outputs to account for variations
+in body mass and length on the peak force measurements. Other metrics such as torque in
+newton-meters (Nm) or the percentage of asymmetry present between left and right
+hamstrings may also be recorded if desired. If using videography alone, the break point angle
+(the angle at which the external knee flexor moment can no longer be resisted and the athlete
+loses active control of downward motion) can be reported as a moderate proxy of eccentric
+hamstring strength.
+Note: Descriptive data for the Nordic hamstring test are presented in table 14.7 near the end of the
+chapter.
+783
+
+784
+
+FIGURE 14.6 Nordic hamstring test (without an instrumented device).
+   6  1RM POWER CLEAN
+Note: Because the power clean exercise has high technical demands, two athletes with the same
+muscular power capacity can differ greatly in their tested 1RM, lessening the value of the test for
+predicting athletic performance.
+Equipment
+An Olympic-style barbell with a revolving sleeve, weight plates, and two safety locks; enough
+total weight to accommodate the maximum load of the strongest athlete; and a variety of
+plate sizes to allow for 5-pound (2.3 kg) gradations in weight
+A lifting platform or designated area set apart from the rest of the facility for safety
+Personnel
+One tester/recorder
+Procedure
+1. Instruct the athlete in proper technique for the power clean as described in chapter 16.
+2. Warm-up sets are performed and load increments are selected as for the 1RM bench press
+test.
+3. Refer to figure 18.8 (page 546) for a 1RM testing protocol.
+Note: Normative and descriptive data for the 1RM power clean are presented in tables 14.1 through
+14.4 near the end of the chapter.
+  7   STANDING LONG (BROAD) JUMP
+Equipment
+A flat jumping area at least 20 feet (6 m) in length, which can be a gym floor, artificial turf,
+grass field, or a track
+A tape measure at least 10 feet (3 m) long
+Duct tape or masking tape
+Permissible alternative: a commercial jumping mat premarked in half-inch (1 cm) increments
+Personnel
+One distance judge, one recorder
+Procedure
+1. Place a 2- to 3-foot (0.6-0.9 m) length of tape on the floor to serve as a starting line.
+2. The athlete stands with the toes just behind the starting line.
+3. The athlete performs a countermovement and jumps forward as far as possible.
+4. The athlete must land on the feet for the jump to be scored. Otherwise, the trial is repeated.
+5. A marker is placed at the back edge of the athlete’s rearmost heel, and the tape measure
+determines the distance between the starting line and the mark.
+6. The best of three trials is recorded to the nearest 0.5 inch or 1 centimeter.
+Note: Normative and descriptive data for the standing long jump are presented in tables 14.8 to
+14.10 near the end of the chapter.
+  8   VERTICAL JUMP
+785
+
+Equipment
+A force plate set up on a stable surface
+A suitable computer, tablet, or cell phone connected to force plate hardware and with the
+corresponding software installed
+Permissible alternatives: a smooth wall with a ceiling higher than the highest jumper’s jump
+height plus chalk of a different color than the wall or a commercial device for vertical jump
+testing (e.g., Vertec)
+Personnel
+One tester/recorder
+Procedure (Using a Force Plate)
+1. Before testing, the tester should calibrate and set up the force plate as per the manufacturer’s
+instructions.
+2. The force plate should always be set up on a stable surface (ideally in the same location each
+time) and the force zeroed with nothing on the plates immediately before the athlete tests.
+Without a preparatory or stutter step, the athlete performs a countermovement by quickly
+flexing the knees and hips, moving the trunk forward and downward, and swinging the arms
+backward.
+3. The countermovement jump is most commonly conducted with hands in a fixed position on the
+hips throughout the takeoff portion of the jump to isolate the power and coordination capacity
+of the lower limbs. Jumping with the use of an arm swing can also be tested and is referred to
+as an Abalakov jump. Either way, consistency should be used and each jump should be tracked
+as to whether it was performed with (Abalakov) or without an arm swing.
+4. Figure 14.7 shows an example of how the vertical ground reaction forces change across the
+five phases of a vertical jump with a countermovement when measured with a force plate
+testing system.
+Procedure (Using a Wall and Chalk)
+1. The tester rubs chalk on the fingertips of the athlete’s dominant hand.
+2. The athlete stands with the dominant shoulder about 6 inches (15 cm) from the wall and, with
+both feet flat on the floor, reaches as high as possible with the dominant hand and makes a
+chalk mark on the wall.
+3. The athlete then lowers the dominant hand and, without a preparatory or stutter step,
+performs a countermovement by quickly flexing the knees and hips, moving the trunk forward
+and downward, and swinging the arms backward. During the jump, the dominant arm reaches
+upward while the nondominant arm moves downward relative to the body.
+4. At the highest point in the jump, the athlete places a second chalk mark on the wall with the
+fingers of the dominant hand, using a swiping motion of the fingers. The score is the vertical
+distance between the two chalk marks.
+5. The best of three trials is recorded to the nearest 0.5 inch or 1.0 centimeter.
+Procedure (Using a Commercial Vertec Device)
+1. The tester adjusts the height of the stack of movable color-coded horizontal plastic vanes to be
+within the athlete’s standing reach height. The highest vane that can be reached and pushed
+forward with the dominant hand while the athlete stands flat-footed determines the standing
+touch height.
+2. The vane stack is then raised by a measured distance (marked on the shaft holding the vanes)
+so that the athlete will not jump higher or lower than the set of vanes. This requires a rough
+786
+
+estimate of how high the particular athlete will jump, but a correction can be made on the
+second attempt if necessary.
+3. Without a preparatory or stutter step, the athlete performs a countermovement by quickly
+flexing the knees and hips, moving the trunk forward and downward, and swinging the arms
+backward (figure 14.8a). During the jump, the dominant arm reaches upward while the
+nondominant arm moves downward relative to the body.
+4. At the highest point in the jump, the athlete taps the highest possible vane with the fingers of
+the dominant hand (figure 14.8b). The score is the vertical distance between the height of the
+highest vane tapped during the standing vertical reach and the vane tapped at the highest
+point of the jump.
+5. The best of three trials is recorded to the nearest 0.5 inches or 1 centimeter (the distance
+between adjacent vanes).
+FIGURE 14.7 Example force–time curve of a countermovement jump when measured with a force plate testing system. Vertical
+dotted lines divide the typical phases (UP, unloading phase; BP, breaking phase; PP, propulsive phase; FP, flight phase; LP, landing
+phase).
+Reprinted by permission from Z. Anicic, D. Janicijevic, O.M. Knezevic, et al., “Assessment of Countermovement Jump: What Should We Report?,” Life 13, no. 1 (2023): 190.
+https://doi.org/10.3390/life13010190. Distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by
+/4.0/).
+The strength and conditioning professional should be aware of potential sources of error with the
+jump-and-reach-style tests. These include a disconnect between the moment when the athlete
+reaches the wall or vanes with the hand and the moment the maximum height of the body’s center
+of mass is achieved; additionally, shoulder mobility issues may limit some athlete’s reach height.
+Also, jump height values calculated using common technologies such as force plates and contact
+mats are most often measured as the maximum total body center of mass height relative to its
+height at takeoff and not relative to its height when standing still (158). Thus, jump height values
+from jump-and-reach tests should not be compared directly to, or used interchangeably with, jump
+height values recorded with such technologies or, indeed, with different jump techniques, such as
+when keeping arms akimbo.
+Note: Descriptive data for the vertical jump are presented in table 14.5 and table 14.10 near the
+end of the chapter.
+787
+
+FIGURE 14.8 (a) Starting position and (b) maximum height of the vertical jump using the Vertec.
+   9  SQUAT JUMP (STATIC VERTICAL JUMP)
+The equipment needed and the personnel required for the squat (static) vertical jump are the same
+as the vertical jump with a countermovement.
+Procedure
+1. The test procedures are essentially the same as for the vertical jump, except that the
+countermovement is removed. Begin with the athlete standing on a calibrated, zeroed force
+platform. (Note: The squat jump and vertical jump with countermovement can also be tested
+using a switch or contact mat system (figure 14.9) [158], which estimates jump height [51]
+but cannot measure force outputs.)
+2. The athlete descends into a squat position (knee angle approximately 110 degrees) and holds
+this position for 2 to 3 seconds before jumping vertically, keeping hands fixed on hips.
+3. The takeoff and landing positions, as well as jumping strategy, should be the same for each
+trial. Specifically, the tester should ensure there is no countermovement (dip) at the start of
+the jump, both through visual observation and, where a force plate is used, by assessing the
+force–time curve.
+4. The best of three trials is recorded. The ratio of the vertical jump height with
+countermovement to squat jump height can be calculated as the eccentric utilization ratio (99).
+5. Figure 14.10 shows an example of how the vertical ground reaction forces change across the
+three phases of a static vertical jump when measured with a force plate testing system.
+Note: Descriptive data for the static vertical jump are presented in table 14.10 near the end of the
+chapter.
+788
+
+FIGURE 14.9  (a) Starting position and (b) maximum height of the static vertical jump when measured with a switch mat.
+FIGURE 14.10 Example force–time curve of a static vertical (squat) jump when measured with a force plate testing system.
+Vertical dotted lines divide the typical phases (BP, breaking phase; PP, propulsive phase; FP, flight phase; LP, landing phase).
+Adapted from Z. Anicic, D. Janicijevic, O.M. Knezevic, et al., “Assessment of Countermovement Jump: What Should We Report?,” Life 13, no. 1 (2023): 190. https://doi.org
+/10.3390/life13010190. Distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/).
+789
+
+   10  DROP JUMP
+Equipment
+A box that may vary in height from 8 to 16 inches (20-40 cm)
+Floor with good traction
+Measurement equipment such as force plates (with corresponding software on laptop or
+tablet), switch mats, optoelectronic systems, and smartphone applications
+Personnel
+One tester/recorder
+Procedure
+1. When performing a drop vertical jump, the athlete should step out before free-falling from as
+close as possible to the height of the box rather than stepping down (i.e., lowering) or jumping
+off (i.e., rising) the box. Box height selection for an athlete can vary but is typically 20
+centimeters (8 in.), 30 centimeters (12 in.), or 40 centimeters (16 in.) (figure 14.11a). The
+higher the box, the greater the plyometric demand. When using a device that is not flush with
+the ground or base of the box when conducting the drop vertical jump test, such as when
+using a switch mat, the strength and conditioning professional should measure the box height
+from the top of the box to the top surface of the switch mat.
+2. The athlete steps out from the box and lands on the floor, force plate, or switch mat (figure
+14.11b) and, as quickly as possible, jumps again (figure 14.11c). Drop jumps should be
+performed with the athlete attempting to jump with a short ground contact time while still
+aiming to jump as high as possible. A short ground contact time is achieved by limiting flexion
+of the ankles, knees, and hips while in contact with the ground by adopting high leg stiffness
+(high force with shallow range of motion). It is advised that at least 2 to 3 sets are performed.
+3. The most reported performance variables following drop vertical jump testing are jump height
+(from flight time), ground contact time, and reactive strength index (calculated as jump
+height divided by ground contact time) (91). The reactive strength index is often considered an
+indication of how well an athlete can recruit the fast component of the stretch-shortening
+cycle.
+4. Figure 14.12 shows an example of the force–time curve with labels pointing out the peak
+vertical ground reaction force, contact time, and flight time when measured with a force plate
+testing system.
+790
+
+FIGURE 14.11 (a) Starting position on box, (b) contact on switch mat, (c) maximum height of the drop jump to measure reactive
+strength index.
+FIGURE 14.12 Example force–time curve of a drop jump.
+Reprinted by permission from R. Healy and A.J. Harrison, “The Effects of a Unilateral Gluteal Activation Protocol on Single Leg Drop Jump Performance,” Sports
+Biomechanics 13, no. 1 (2014): 33-46, reprinted by permission of the publisher (Taylor & Francis Ltd, http://www.tandfonline.com).
+791
+
+  11   REBOUND JUMP
+Equipment
+Floor with good traction
+Measurement equipment such as force plates (with corresponding software on a laptop or
+tablet), jump mats, optoelectronic systems, and smartphone applications
+Personnel
+One tester/recorder
+Procedure
+1. Rebound-based vertical jumps require the athlete to jump from a preceding vertical jump.
+When performing a rebound vertical jump, the athlete should first complete a maximal-effort
+vertical countermovement jump followed by either a predetermined number of rebound
+vertical jump repetitions or a predetermined set duration (e.g., 10 seconds). Rebound vertical
+jumps from a ground-start position have been performed with single or multiple repetitions,
+including the 10-5 repeated jump test (64), which requires 10 maximal vertical rebound jumps
+following the initial maximum countermovement jump.
+2. All styles of rebound vertical jump should be performed with the athlete attempting to jump
+with a short ground contact time while still aiming to jump as high as possible. A short ground
+contact time is achieved by limiting flexion of the ankles, knees, and hips while in contact with
+the ground by adopting high leg stiffness (high force with shallow range of motion).
+3. As per the drop jump, the most reported performance variables following rebound vertical
+jump testing are jump height, ground contact time, and reactive strength index (calculated as
+jump height divided by ground contact time). For the 10-5 repeated jump test, the best 5
+repetitions in terms of reactive strength index are used and averaged for the test outcome.
+Note: Descriptive data for the rebound jump are presented in table 14.11 near the end of the
+chapter.
+   12  MARGARIA-KALAMEN TEST
+Equipment
+Staircase with nine or more steps, each approximately 7 inches (18 cm) high, and a straight
+and flat lead-up area 20 feet (6 m) or more in length (figure 14.13)
+Measuring tape or stick
+An electronic timing system with both a start and a stop switch mechanism
+Scale
+Personnel
+One tester/recorder
+Procedure
+1. The height of each step is measured with a ruler or tape measure, and the elevation from the
+third step to the ninth step is calculated (6 × step height).
+2. The timer start switch mechanism is placed on the third step, and the stop switch mechanism
+is placed on the ninth step.
+3. The athlete to be tested is weighed on a scale, warms up, and practices running up the stairs
+three steps at a time.
+4. When ready, the athlete sprints toward the stairs from a standing start 20 feet (6 m) from the
+base of the stairs and then up the staircase three steps at a time (third step to sixth step to
+792
+
+ninth step) as fast as possible.
+5. The time from third- to ninth-step contact is determined to the nearest 0.01 second using the
+timing system.
+6. Power in watts is calculated as the athlete’s weight (w) in newtons (lb × 4.45 or kg × 9.807)
+times height (h) in meters (inches × 0.0254) from the third step to the ninth step divided by
+the measured time interval (t) in seconds; P (watts) = (w × h) / t.
+7. Repeat the test two more times with a 2- to 3-minute recovery period between each trial.
+Note: Normative data for the Margaria-Kalamen test are presented in table 14.12 near the end of
+the chapter.
+FIGURE 14.13 Margaria-Kalamen stair sprint test.
+Reprinted by permission from E. Fox, R. Bowers, and M. Foss, The Physiological Basis for Exercise and Sport, 5th ed. (Brown & Benchmark, 1993), 675, permission
+conveyed through Copyright Clearance Center, Inc.
+   13  VELOCITY-BASED TESTING (VBT)
+Equipment
+A commercial VBT device and the equipment required to perform the exercise in question (e.g.,
+an inertial measurement unit [IMU], a linear position transducer, a depth-sensing camera
+system, and a computer-vision enabled smartphone application)
+An Olympic-style barbell with weight plates and locking collars; the weight should be
+appropriate for the individual athlete being tested (in this case, a 1RM back squat will be the
+exercise evaluated)
+Personnel
+One tester/recorder
+Procedure
+1. Place the VBT device in a suitable position based on the type of data collection. For example, a
+linear position transducer will be placed under the barbell and tethered to the barbell, whereas
+an IMU sensor will be affixed directly to the barbell.
+2. The exercise selected (e.g., bench press, squat, deadlift) will depend on the needs of the
+athlete, individual sport, and training session being performed. In the case of a back squat,
+793
+
+follow the technique described in chapter 16.
+3. From the measuring device, obtain the velocity of the barbell typically in meters per second,
+power measured in watts, and peak forces measured in newtons. Metrics may vary depending
+on the device used for testing or the individual purposes of the tester and athlete. As outlined
+earlier in the chapter, VBT data can be used to create a load–velocity profile.
+Note: Descriptive data for VBT are presented in table 14.13 near the end of the chapter.
+Anaerobic Capacity
+  14   300-YARD (274 M) SHUTTLE RUN
+Equipment
+A stopwatch with at least 0.1-second resolution
+Two parallel lines 25 yards (23 m) apart on a flat surface (figure 14.14)
+Personnel
+One timer, two line judges
+Procedure
+1. Pair off athletes of similar ability.
+2. Position two athletes immediately behind one line, facing the other line.
+3. On an auditory signal, the athletes sprint to the line 25 yards (23 m) away, making foot
+contact with it, then immediately sprint back to the first line. Six such round trips are made as
+fast as possible without stopping (6 × 50 yd = 300 yd [274 m]).
+4. On completion of the first trial, record both athletes’ times to the nearest 0.1 second and start
+a clock to time a 5-minute rest interval. As each pair of athletes completes the first trial, they
+may walk and stretch but must stay alert for the starting time on the second trial.
+5. After the rest period, the pair of athletes does another trial.
+6. The average of two trials is recorded to the nearest 0.1 second.
+Note: Descriptive data for the 300-yard (274 m) shuttle are presented in table 14.14 near the end
+of the chapter.
+794
+
+FIGURE 14.14 Ground layout for the 300-yard (274 m) shuttle.
+Adapted by permission from G.M. Gillam and M. Marks, “300 Yard Shuttle Run,” National Strength and Conditioning Association Journal 5, no. 5 (1983): 46.
+   15  90-SECOND BOX JUMP TEST
+Equipment
+Stopwatch
+A box with the dimensions of 18 inches (46 cm) in height and 30 inches (76 cm) in width
+A nonslip surface on which to perform the test in which the athlete can safely land and jump
+Personnel
+One recorder/tester
+Procedure
+1. The purpose of this test is to observe how many times the athlete can jump over the box in a
+left to right fashion over a duration of 90 seconds. The athlete begins on top of the box and
+then jumps down laterally to one side before jumping back up to the top of the box again. The
+athlete then repeats this procedure in the opposite direction. Each time the athlete reaches the
+top of the box counts as 1 repetition.
+2. The athlete must leave the ground with two feet and touch the top of the box with two feet
+before jumping down to the other side. The athlete is not permitted to step up onto the box.
+3. This is repeated for as many times as the athlete is able to during the 90-second duration of
+the test. The tester should record the number of hops taken with proper form over the course
+of the test.
+Note: Descriptive data for the 90-second box jump test are presented in table 14.15 near the end
+of the chapter.
+Local Muscular Endurance
+  16   PARTIAL CURL-UP
+The partial curl-up test measures the muscular endurance of the abdominal muscles. It is favored
+over the sit-up test because it eliminates the use of the hip flexor muscles.
+795
+
+Equipment
+Metronome
+Ruler
+Masking tape
+Mat
+Personnel
+One recorder/technique judge
+Procedure
+1. The athlete assumes a supine position on a mat with a 90-degree knee angle (figure 14.15a).
+The arms are at the sides, resting on the floor, with the fingers touching a 4-inch-long (10 cm)
+piece of masking tape positioned perpendicular to the fingers. A second piece of masking tape
+is situated parallel to the first tape at a distance determined by the age of the athlete (4.7
+inches [12 cm] for those younger than 45 and 3.1 inches [8 cm] for those 45 or older).
+2. Set a metronome to 40 beats/min and have the athlete do slow, controlled curl-ups to lift the
+shoulder blades off the mat (trunk makes a 30-degree angle with the mat; figure 14.15b) in
+time with the metronome (20 curl-ups per minute). The upper back must touch the floor
+before each curl-up. The athlete should avoid flexing the neck to bring the chin close to the
+chest.
+3. The athlete performs as many curl-ups as possible without pausing, to a maximum of 75.
+Note: Normative data for the partial curl-up are presented in table 14.16 near the end of the
+chapter.
+FIGURE 14.15 (a) Beginning position and (b) end position of the partial curl-up test.
+   17  PUSH-UP
+Equipment
+A 4-inch (10 cm)-diameter foam roller (for the modified push-up)
+Personnel
+796
+
+One recorder/technique judge
+Procedures
+1. Assume the standard push-up starting position with the hands shoulder-width apart and
+elbows and body straight (figure 14.16a). The bottom position for the standard push-up is
+when the chest makes contact with the recorder’s fist held vertically against the ground (not
+shown in figure 14.16b).
+2. A modified version establishes a starting position with the knees rather than the feet
+contacting the ground; the knees should be flexed to 90 degrees with the ankles crossed
+(figure 14.17a). There is no standard criterion for the bottom position of the modified push-up
+(44), but it has been suggested that the torso should come in contact with a foam roller rather
+than a fist (figure 14.17b).
+3. For either version, repetitions that do not achieve the bottom position are not counted.
+Note: Normative data for the push-up are presented in table 14.17 near the end of the chapter.
+FIGURE 14.16 (a) Beginning position and (b) down position of the standard push-up.
+FIGURE 14.17 (a) Beginning position and (b) down position of the modified push-up.
+18   ARMY FITNESS TEST (AFT) HAND-RELEASE PUSH-UP
+(HRP)
+Equipment
+Level nonslip ground or flooring surface
+Personnel
+One recorder/technique judge
+Procedure
+797
+
+1. The starting position of this test will begin with the athlete lying prone on the ground with the
+chest, hips, and legs touching the ground (figure 14.18a). Hands are flat on the ground (rather
+than what is shown in the photo) with the index fingers inside of the shoulders. The feet
+should be no more than one boot-width part, and the toes should be touching the ground.
+2. The tester will begin the test on the command of “Go,” and the athlete must perform as many
+push-ups as physically able in a 2-minute time period. The athlete should keep a straight line
+from the ankles to the head (figure 14.18b). It is not permissible to flex the knees or hips or to
+lift the feet off of the ground at any point during the test. After the athlete has fully extended
+the arms, he or she should lower the body back to the ground, allowing the chest, hips, and
+legs to contact the ground simultaneously. The tester should not count any repetitions in which
+a straight alignment of the body from head to feet is not maintained.
+3. At the point at which the athlete’s body comes back into contact with the ground, two variants
+of this test are acceptable: the hand lift and the arm extension. If the hand lift variant is to be
+performed, the athlete should lift both hands so as to create visible space between the palms
+and the ground (figure 14.18c). The athlete should then return the hands to the starting
+position and begin another repetition. With the arm extension variant, once the athlete’s body
+has returned to the ground, the athlete will then extend the arms fully to form a 90-degree
+angle between the arms and the torso (figure 14.18d). The athlete should then return to the
+starting position and begin another repetition.
+4. The athlete is not allowed to rest at any time during the test with the exception of the front
+rest position, which consists of the top position of the push-up with the arms fully extended
+and the body straight. If the tester observes that the athlete has remained motionless for more
+than 5 seconds, the test should be discontinued and the repetitions performed to this point
+counted as the athlete’s score for the test. The test will also be discontinued if the athlete lifts
+a foot off of the ground or touches a knee to the ground. Any breakdown in technique such as
+flexing the hips or knees should not be counted in the repetition total.
+Note: AFT normative data for the hand-release push-up are presented in table 14.18 near the end
+of the chapter.
+FIGURE 14.18 (a) Beginning position (but with the hands on the ground instead), (b) up position, (c) hand lift variant, and (d)
+arm extension variant of the hand-release push-up.
+798
+
+  19   YMCA BENCH PRESS TEST
+Equipment
+A barbell, weight plates, two safety locks, and enough total weight to assemble an 80-pound
+(36 kg) or a 35-pound (16 kg) load (including safety locks)
+Flat bench press bench (preferably with an upright rack to hold the barbell)
+Metronome
+Personnel
+One spotter/recorder
+Procedure
+1. Instruct the athlete in proper technique for the flat barbell bench press as described in chapter
+16.
+2. Allow the athlete to perform a specific warm-up of 5 to 10 repetitions with a light to moderate
+load.
+3. The spotter/recorder stands at the head end of the bench throughout the test to help raise the
+bar on a failed attempt and to help the athlete place the bar back on the rack.
+4. Set the resistance at 80 pounds (36 kg) for males and 35 pounds (16 kg) for females.
+5. Set the metronome cadence at 60 beats/min to establish a rate of 30 repetitions per minute
+(one beat up, one beat down).
+6. The athlete grips the bar at shoulder-width, lifts the bar off the rack, and extends the elbows.
+Then, in time with the metronome, the athlete repeatedly lowers the bar to the chest and
+raises it up again to full elbow extension, until the athlete can no longer keep up with the
+metronome. The movement should be smooth and controlled, with the bar reaching its highest
+and lowest position with each beat of the metronome.
+Note: Normative data for the YMCA bench press test are presented in table 14.19 near the end of
+the chapter.
+Aerobic Capacity
+  20   1.5-MILE (2.4 KM) RUN
+Equipment
+Stopwatch
+Quarter-mile running track or measured and marked 1.5-mile (2.4 km) flat course with a good
+running surface
+Personnel
+One tester to call off each athlete’s time, one recorder
+Procedure
+1. Have each athlete warm up and stretch before the test.
+2. Each athlete should be recognizable to the scorer at the finish line. If that is not possible,
+numbers should be pinned to the athletes’ shirts.
+3. At the start, all athletes line up behind the starting line.
+4. Instruct the athletes to complete the run as quickly as possible at a steady pace that they can
+barely maintain over the distance. (Note: Some athletes may have limited experience at pacing
+799
+
+long efforts such as this, so some familiarization and prior pacing efforts in training are
+suggested.)
+5. On an auditory signal, the athletes start running and cover the course as quickly as possible.
+6. As the athletes cross the finish line, each person’s time is recorded on a form as a timer calls
+off the time in minutes and seconds (00:00).
+Note: Normative data for the 1.5-mile (2.4 km) run are presented in tables 14.22 through 14.25
+near the end of the chapter. For each 1.5-mile (2.4 km) run time, the tables show an estimated
+maximal rate of oxygen consumption; the norms for athletes in various sports are shown in table
+14.26 near the end of the chapter.
+  21   12-MINUTE RUN
+Equipment
+A 400-meter (437-yard) track or flat looped course with a marker at each 100 meters
+Stopwatch
+Personnel
+One tester to call out each athlete’s position, one recorder
+Procedure
+1. Athletes line up at the starting line.
+2. On an auditory signal, the athletes travel by foot as far as possible in 12 minutes, preferably by
+running but, if necessary, by walking part or all of the time.
+3. At 12 minutes, on an auditory signal, all the athletes stop in place.
+4. The distance run by each athlete (laps × 400 m—e.g., 5.25 laps × 400 m = 2,100 m) is
+calculated and recorded.
+Note: Normative data for the 12-minute run are presented in table 14.27 near the end of the
+chapter.
+22   YO-YO INTERMITTENT RECOVERY TEST
+The use of the Yo-Yo intermittent recovery tests (IRT1 and IRT2) is now commonplace in field
+testing protocols for team sports such as soccer and lacrosse (10, 18, 85). It is suggested that
+these tests are more specific to team sports because they mimic the demands of short, intense
+bursts of exercise followed by short recovery periods. Both tests consist of 2 × 20-meter (22 yd)
+shuttle runs at increasing speeds interspersed with a 10-second period of recovery, with the IRT1
+starting at 10 km/h (6.2 mph) and the IRT2 starting at 13 km/h (8.1 mph). It is recommended that
+strength and conditioning professionals use the IRT1.
+Equipment
+Cones
+A tape measure at least 30 meters (33 yd) long
+Audio software specifically for the Yo-Yo intermittent recovery test, IRT1 (available from a
+variety of commercial sources)
+Method of broadcasting the audio files (e.g., wireless speakers)
+Recording sheet
+Flat floor with good traction
+Personnel
+One tester/recorder, one spotter
+800
+
+Procedure
+1. Measure out a 20-meter (22 yd) test course and arrange cones as seen in figure 14.19. Place
+markers 2 meters (7 ft) apart at both ends of the test course at the start and turning lines.
+Also measure out a 5-meter (16 ft) distance behind the start line.
+2. Have the athletes warm up and stretch before the test. The athletes should run the course
+with a submaximal effort for practice.
+3. The test begins with the athletes standing at the start line.
+4. On an auditory signal, the athletes run forward to the turning line. At the sound of the second
+signal, athletes arrive at the turning line and then run back to the starting line, arriving in time
+with the next sound.
+5. When the start marker is passed, the athletes jog toward the 5-meter (16 ft) mark, then turn
+back to the start line. At this point the athletes stop and wait for the next sound.
+6. The athletes are required to place one foot on or over the starting or turning line at the sound
+of each beep.
+7. The athletes continue running for as long as they can maintain the increasing speed as
+indicated by the auditory signals.
+8. The termination of the test is indicated by the inability of an athlete to maintain the required
+pace for two trials. A warning is given the first time the start or turning line is not reached.
+9. At the end of the test, record the last level and number of 2 × 20-meter (22 yd) intervals
+performed at that level on a recording sheet.
+10. The final Yo-Yo intermittent recovery speed and interval score can be used to calculate the
+total distance covered by the athlete during the test.
+Note: Descriptive data for the Yo-Yo intermittent recovery test are presented in table 14.28 near the
+end of the chapter.
+801
+
+FIGURE 14.19 Setup for the Yo-Yo intermittent recovery test.
+   23  MAXIMAL AEROBIC SPEED TEST
+Equipment
+Cones
+A tape measure at least 30 meters (33 yd) long
+Audio software specifically for the test
+Method of broadcasting the audio files (e.g., wireless speakers)
+Recording sheet
+Indoor or outdoor running track (at least 200 m [219 yd])
+Personnel
+One tester/recorder
+Procedure
+1. Marker cones are placed at 25-meter (27 yd) intervals around the running track.
+2. The initial speed of the test is set between 8 and 12 km/h (5-7 mph) depending on the fitness
+level of the athlete. It is generally recommended that athletes start at 10 km/h (6 mph).
+3. The speed is then increased by 1 km/h (0.6 mph) every 2 minutes until the athlete cannot
+maintain the speed.
+802
+
+4. The last speed maintained for at least 2 minutes is considered the speed associated with
+V̇O2max or MAS.
+5. The test is terminated if the athlete fails to reach the next cone on two consecutive occasions
+in the required time.
+6. The speed at the last completed stage is increased by 0.5 km/h if the athlete is able to run a
+half stage.
+7. The V̇O2max of the athlete can be calculated by multiplying 3.5 × MAS (speed in km/h) (87,
+88).
+8. If the tester does not have access to the audio version, it is possible to conduct the test using
+a whistle. Calculate the timing of whistles using a set speed for reaching the next cone. For
+example, when the distance between cones is 25 meters, the timing of whistles for 10 km/h
+would be every 9 seconds.
+Note: Norms for the V̇O2max of athletes in various sports are shown in table 14.26 near the end of
+the chapter.
+  24   30-15 INTERMITTENT FITNESS TEST (IFT)
+Equipment
+A 40-meter (44 yd) long surface that is stable and suitable for an athlete to run on
+Measuring tape
+Marking cones
+30-15 IFT audio recording and a player suitable for the media type being used that can be
+heard across the testing environment
+Personnel
+One recorder/tester
+Procedure
+1. Measure out and arrange the cones as shown in figure 14.20 (at lines A, B, and C).
+2. Have the athletes warm up before the test by running the course with a submaximal effort for
+practice.
+3. The test begins with the athletes standing at the start line (line A).
+4. The first interval begins at a jogging speed of 8.0 km/h (5 mph). The speed is then increased
+by 0.5 km/h (0.3 mph) in each subsequent stage.
+5. Athletes run using the beeps played from the audio file to maintain their pace. They run
+between lines A and C, and they should pass through each 3-meter (10 ft) zone associated
+with lines A, B, and C with the sound of each beep.
+6. A different type of beep indicates when to stop running. At that point the athletes have 15
+seconds as a recovery to walk to the next line, where they will wait for the start of the next
+interval.
+7. Athletes advance stages until they cannot reach the relevant line on three consecutive beeps.
+8. Record the running speed (km/h) achieved during the last completed stage (VIFT). The total
+running distance of each interval is corrected by a factor of 0.7 second per change of direction.
+Note: Descriptive data for the 30-15 IFT are presented in figure 14.34 (a, females; b, males) near
+the end of the chapter.
+803
+
+FIGURE 14.20 30-15 IFT course layout.
+Reprinted by permission from M. Buccheit, “The 30-15 Intermittent Fitness Test: Accuracy for Individualizing Interval Training of Young Intermittent Sport Players,” Journal
+of Strength and Conditioning Research 22, no. 2 (2008): 365-374.
+Change of Direction or Agility
+  25   T-TEST
+Equipment
+Four cones
+A tape measure at least 5 yards (4.6 m) long
+Stopwatch or timing gates, if available, with corresponding software on a laptop, tablet, or
+smartphone application
+Flat floor with good traction
+Personnel
+One tester/recorder, one spotter
+Procedure
+1. Arrange four cones as shown in figure 14.21 (points A, B, C, and D). Set the timing gates up at
+the start and finish line.
+2. Have the athlete warm up and stretch before the test. The athlete may run the course with a
+submaximal effort for practice.
+3. The test begins with the athlete standing at point A.
+4. On an auditory signal, the athlete sprints forward to point B and touches the base of the cone
+with the right hand.
+5. Then, while facing forward and not crossing the feet, the athlete shuffles to the left 5 yards
+(4.6 m) and touches the base of the cone at point C with the left hand.
+6. The athlete then shuffles to the right 10 yards (9 m) and touches the base of the cone at point
+D with the right hand.
+7. The athlete then shuffles to the left 5 yards (4.6 m) and touches the base of the cone at point
+B with the left hand, and next runs backward past point A, at which time the watch is stopped.
+8. For safety, a spotter and gym mat should be positioned several feet behind point A to catch an
+athlete who falls while running backward.
+9. The best time of two trials is recorded to the nearest 0.1 second.
+804
+
+10. The following are reasons for disqualification of a trial: The athlete fails to touch the base of
+any cone, crosses one foot in front of the other instead of shuffling the feet, or fails to face
+forward for the entire test.
+Note: Descriptive data for the T-test are presented in table 14.29 near the end of the chapter.
+FIGURE 14.21 Floor layout for the T-test.
+Adapted by permission from D. Semenick, “Tests and Measurements: The T-Test,” National Strength and Conditioning Association Journal 12, no. 1 (1990): 36-37.
+   26  HEXAGON TEST
+Equipment
+Adhesive tape of a color that contrasts with the floor
+Measuring tape or stick
+Stopwatch
+Flat floor with good traction
+Personnel
+One timer/recorder, one line judge
+Procedure
+1. Using the adhesive tape, create a hexagon on the floor with 24-inch (61 cm) sides meeting to
+form 120-degree angles (figure 14.22).
+2. The athlete warms up and practices performance of the test at submaximal speed.
+3. The test begins with the athlete standing in the middle of the hexagon.
+4. On an auditory signal, the athlete begins double-leg hopping from the center of the hexagon
+over each side and back to the center, starting with the side directly in front of the athlete, in a
+continuous clockwise sequence until all six sides are covered three times (three revolutions
+around the hexagon for a total of 18 jumps) and the athlete is again standing at the center.
+The athlete remains facing the same direction throughout the test.
+5. If the athlete lands on a side of the hexagon rather than over it, or loses balance and takes an
+extra step or changes the direction in which he or she is facing, the trial is stopped and
+restarted after the athlete is allowed time for full recovery.
+805
+
+6. The best time of three trials is recorded to the nearest 0.1 second.
+Note: Descriptive data for the hexagon test are presented in table 14.29 near the end of the
+chapter.
+FIGURE 14.22 Layout for the hexagon test.
+Adapted by permission from K. Pauole, K. Madole, J. Garhammer, et al., “Reliability and Validity of the T-Test as a Measure of Agility, Leg Power, and Leg Speed in College-
+Aged Men and Women,” Journal of Strength and Conditioning Research 14, no. 4 (2000): 443-450.
+   27  5-10-5 TEST
+This test is also called the pro agility test or the 20-yard shuttle.
+Equipment
+An American football field or other field marked with three parallel lines 5 yards (4.6 m) apart
+(figure 14.23)
+Stopwatch or timing gates, if available, with corresponding software on a laptop, tablet, or
+smartphone application
+Personnel
+One timer/recorder, one line judge
+Procedure
+1. If using one timing gate for total end time, set this up at the start and finish line. If multiple
+gates are available, set up at the start and finish line as well as at each turn line to measure
+each split.
+2. The athlete straddles the center line using a three-point stance.
+3. On an auditory signal, the athlete sprints 5 yards (4.6 m) to the line on the left, then changes
+direction and sprints 10 yards (9 m) to the line on the right, then again changes direction and
+sprints 5 yards (4.6 m) to the center line. Hand (or foot) contact must be made with all
+indicated lines. (Note: It is important that this is kept consistent for both trials.)
+4. The best time of two trials is recorded to the nearest 0.01 second.
+Note: Normative data for the 5-10-5 test (previously pro agility) are presented in tables 14.29 and
+14.30 near the end of the chapter.
+806
+
+FIGURE 14.23 Layout for the 5-10-5 test.
+  28   5-0-5 TEST
+Equipment
+Seven cones
+Stopwatch or timing gates, if available, with corresponding software on a laptop, tablet, or
+smartphone application
+Personnel
+One timer/recorder, one line judge
+Procedure
+1. Arrange the cones as seen in figure 14.24. If timing lights are available, these can also be set
+up as shown.
+2. Have the athlete warm up and stretch before the test. The athlete may run the course with a
+submaximal effort for practice.
+3. The test begins with the athlete standing at the start line.
+4. On an auditory signal, the athlete sprints forward 10 meters (11 yd) to the first set of timing
+lights, then sprints a further 5 meters (5 yd) to the turning line (one foot must be on or over
+the line), where he or she is required to turn and accelerate off the line.
+5. The athlete may slow down only after passing through the timing lights for the second time.
+6. The best time of two trials is recorded to the nearest 0.1 second.
+7. The athlete completes the trials turning off the preferred leg. Alternatively, trials (at least two)
+can be administered turning off either the preferred or non-preferred leg.
+Note: Descriptive data for the 5-0-5 test is presented in tables 14.29 and 14.30 near the end of the
+chapter.
+807
+
+FIGURE 14.24 Layout for the 5-0-5 test.
+29   ILLINOIS TEST
+Equipment
+Stopwatch or timing lights
+Tape measure
+Eight cones
+Personnel
+One tester/recorder
+Procedure
+1. Set up the cones on a course of 10 meters (11 yd) in length by 5 meters (5 yd) in width. Four
+cones should be on the corners of the 10-meter × 5-meter square, with the additional four
+placed in the center of the 5-meter width equally spaced along the 10-meter length. This will
+create three aisles of cones in the order of two, four, and two through which the athlete will
+run (figure 14.25).
+2. Instruct the athlete to lie prone at the cone to the outside left of the full 10-meter length. The
+athlete will be instructed to get up and run when the tester says “Go,” sprint to the cone 10
+meters ahead, and then turn around to sprint back to the cones in the middle aisle.
+808
+
+3. The athlete then slaloms through the four cones in the center aisle in both directions before
+then running to the cone at the opposite end of the third aisle.
+4. The athlete sprints the 10 meters of the third aisle to complete the test.
+5. The tester will stop the timer once the athlete has completed the third aisle of cones and
+record the time.
+6. Note: Normative data for the Illinois test are presented tables 14.31 and 14.32 near the end of
+the chapter.
+FIGURE 14.25 Layout for the Illinois test.
+Reprinted by permission from R. Lockie, “Testing, Assessment, and Monitoring of Agility and Quickness,” in Developing Agility and Quickness, 2nd ed., edited for the
+National Strength and Conditioning Association by J. Dawes (Human Kinetics, 2019), 93.
+Speed
+  30   STRAIGHT-LINE SPRINT TESTS
+Equipment
+Stopwatch or timing gates, if available, with corresponding software on a laptop, tablet, or
+smartphone application
+809
+
+Flat running surface with start and finish lines a specified distance apart (e.g., 40 yd [37 m];
+10 m, 20 m, 40 m), with at least 20 yards (18 m) after the finish line for deceleration
+Where multiple timing gates are available, set these up to determine additional split times, in
+addition to the start and finish lines (e.g., start line, 10 yd [9 m], 20 yd [18 m], finish line at 40
+yd [37 m]). This enables greater insight into acceleration capacities in addition to the maximal
+speed.
+Personnel
+One timer/recorder
+Procedure
+1. Have the athlete warm up and dynamically stretch for several minutes.
+2. Allow at least two practice runs at submaximal speed.
+3. The athlete assumes a starting position using a three- or four-point stance.
+4. On an auditory signal, the athlete sprints the specified distance at maximal speed.
+5. The best split times of two trials are recorded to the nearest 0.1 second.
+6. Allow at least 2 minutes of active recovery or rest between trials.
+Note: Normative data for the 10-meter (11 yd), 20-meter (22 yd), 40-meter (44 yd), and 40-yard
+(37 m) sprint are presented in table 14.33 near the end of the chapter.
+Balance and Stability
+  31   BALANCE ERROR SCORING SYSTEM (BESS)
+Equipment
+Foam balance pad
+Stopwatch
+Personnel
+One timer/recorder
+Procedure
+1. The six positions of the BESS are shown in figure 14.26.
+2. The three stance positions are double-leg stance with feet together, single-leg stance on the
+nondominant foot with contralateral leg in approximately 90 degrees of flexion, and tandem
+stance with the dominant foot in front of the nondominant foot (128). The test is conducted on
+a firm surface and on a soft surface.
+3. The stances are held for 20 seconds with eyes closed and hands on hips for each condition.
+4. Athletes are told to keep as steady as possible, and if they lose balance, they attempt to regain
+their initial position as quickly as possible.
+5. Errors include opening eyes; lifting the hands from the hips; touchdown of nonstance foot;
+step, hop, or other movement of the stance foot or feet; lifting the forefeet or heel; moving
+the hip into more than 30 degrees of hip flexion or abduction; or remaining out of position for
+more than 5 seconds.
+6. The error scores from the BESS test are summed into a single score.
+Note: Normative data for the BESS are presented in table 14.34 near the end of the chapter.
+810
+
+FIGURE 14.26 Balance error scoring system (BESS): (a-c) firm surface condition and (d-f) soft surface condition.
+32   STAR EXCURSION BALANCE TEST (SEBT)
+Equipment
+Adhesive tape
+Personnel
+One recorder
+Procedure
+1. The athlete stands in the center of a grid with eight lines (120 cm [47 in.]) extending out at
+45-degree increments as shown in figure 14.27 (115, 126).
+2. The athlete maintains a single-leg stance facing in one direction while reaching with the
+contralateral leg as far as possible for each taped line, touching the farthest point possible and
+811
+
+then returning to the bilateral position. Within a single trial, the athlete remains facing in the
+beginning direction and the stance leg remains the same, with the other leg doing all of the
+reaching.
+3. The distance from the center of the star to the touch position is measured.
+4. The starting direction and support leg are chosen randomly. Three trials are performed for
+each condition and averaged.
+5. A 15-second rest is allowed between each reach.
+6. Trials are discarded if the athlete does not touch the line, lifts the stance foot from the center
+grid, loses balance, or does not maintain start and return positions for 1 full second.
+7. Athletes should be given a minimum of four practice trials before being tested (103).
+8. It has been suggested that testing the anteromedial, medial, and posteromedial positions is
+sufficient for most situations (66).
+Note: Normative data for the star excursion balance test are presented in tables 14.20 and 14.21
+near the end of the chapter.
+FIGURE 14.27 Directions for the star excursion balance test (SEBT).
+Reprinted by permission from M.P. Reiman and R.C. Manske, Functional Testing in Human Performance (Human Kinetics, 2009), 109.
+Flexibility
+  33   SIT-AND-REACH TEST
+Note: A consistent method for the sit-and-reach test should be maintained if the test is done
+periodically. For example, if the test is performed with a measuring tape or stick during initial
+testing of the athlete, all subsequent testing of the athlete should be performed with a measuring
+tape or stick (i.e., a sit-and-reach box should not be used instead).
+Equipment
+Measuring tape or stick
+Adhesive tape
+Permissible alternative: a standard sit-and-reach box
+Personnel
+One tester/recorder
+812
+
+Procedure
+1. Tape the measuring stick or tape measure to the floor. Place one piece of tape about 24 inches
+(61 cm) long across the measuring stick and at a right angle to it at the 15-inch (38 cm) mark.
+2. Have the athlete warm up with nonballistic exercises involving the hamstrings and lower back
+(e.g., by walking rapidly for 3-5 min); performing several repetitions of flexing forward from a
+standing, knees-extended position, reaching toward the toes, then reaching upward toward the
+ceiling (all without jerking); jogging in place while trying to kick the heels into the upper thighs
+from behind; and finishing with standing toe-touching or similar stretching on the floor.
+3. Have the athlete sit shoeless with the measuring stick between the legs with its zero end
+toward the body, the feet 12 inches (30 cm) apart, the toes pointed upward, and the heels
+nearly touching the edge of the taped line at the 15-inch (38 cm) mark (figure 14.28a).
+4. The athlete slowly reaches forward with both hands as far as possible on the measuring stick,
+holding this position momentarily. To get the best stretch, the athlete should exhale and drop
+the head between the arms when reaching. Be sure the athlete keeps the hands adjacent to
+each other and does not lead with one hand. The fingertips should remain in contact with the
+measuring stick (figure 14.28b). The tester may hold the athlete’s knees down, if necessary, to
+keep them straight. A score of less than 15 inches indicates that the athlete could not reach
+the bottom of the feet.
+5. The best of three trials is recorded to the nearest 0.25 inch or 1 centimeter.
+Note: Normative data for the sit-and-reach test are presented in tables 14.22 through 14.25 near
+the end of the chapter.
+FIGURE 14.28 (a) Starting position and (b) final position of the sit-and-reach test.
+34   OVERHEAD SQUAT
+Equipment
+Wooden dowel or barbell
+Personnel
+One tester/recorder
+Procedure
+813
+
+1. The athlete holds the wooden dowel overhead with the shoulders fully flexed and with elbows
+locked. The grip should be twice shoulder-width using biacromial width as the reference
+measurement point for shoulder width. Biacromial width is the distance between the widest
+bony points at the superior portion of both shoulders. The feet are approximately shoulder-
+width apart, with toes pointing forward or slightly out (figure 14.29a).
+2. The athlete then squats down; the initial action is flexion of the hips and knees. The heels
+remain in contact with the floor at all times.
+3. The lowering continues until the crease of the hips is below the top of the knee.
+4. The athlete should be able to hold this position with the torso remaining upright (parallel to
+the tibia) and the wooden dowel (or barbell) comfortably overhead (figure 14.29b).
+5. The athlete performs a minimum of 5 repetitions, and the tester views the movement from the
+side.
+6. The assessment is qualitative and the goal is to assess the movement competency, with the
+movement scored as pass/fail.
+7. It is important that the athlete be warmed up and familiarized with the movement patterns to
+increase the test validity.
+FIGURE 14.29 (a) Starting position and (b) squat position for the overhead squat.
+Body Composition
+814
+
+  35   SKINFOLD MEASUREMENTS
+Equipment
+Skinfold calipers
+Flexible tape measure
+Marking pen
+Personnel
+One tester, one recorder
+Procedure (Obtaining a Skinfold Measurement)
+1. Skinfold measurements should be made on dry skin, before exercise, to ensure maximum
+validity and reliability (70). The number of sites and equations should be selected based on the
+population tested (see table 14.35 near the end of the chapter).
+2. Grasp the skin firmly with the thumb and index finger to form a fold of skin and subcutaneous
+fat.
+3. Place the caliper prongs perpendicular to the fold 0.5 inch to 1 inch (approximately 1-2 cm)
+from the thumb and index finger.
+4. Release the caliper grip so that its spring tension is exerted on the skinfold.
+5. Between 1 and 2 seconds after the grip on the caliper has been released, read the dial on the
+caliper to the nearest 0.5 millimeter.
+6. Obtain one measurement from each test site, and then repeat all test sites for a second trial. If
+the measurements do not differ by more than 10%, average the two measurements to the
+nearest 0.5 millimeter. Otherwise, take one or more additional measurements until two of the
+measurements are within 10%, and average those two measurements to the nearest 0.5
+millimeter.
+Procedure (Measuring the Selected Site and Calculating the Body Fat Percentage)
+1. There are specific equations for estimating body density (Db) (then, in turn, percent body fat
+[%BF]) for different populations. First, select the equation appropriate for the athlete from
+table 14.35 near the end of the chapter.
+2. Refer to the chosen equation and related instructions and mark the skin at the appropriate
+anatomical sites (69, 120):
+Chest—a diagonal fold one-half the distance between the anterior axillary line and the
+nipple for men (figure 14.30a)
+Thigh—a vertical fold on the anterior aspect of the thigh, midway between the hip and
+knee joints (figure 14.30b)
+Abdomen—a vertical fold 1 inch (2.5 cm) to the right (relative to the athlete) of the
+umbilicus (figure 14.30c)
+Triceps—a vertical fold on the posterior midline of the upper arm (over the triceps muscle),
+halfway between the acromion and the olecranon processes (the arm should be in
+anatomical position with the elbow extended and relaxed [figure 14.30d])
+Suprailium—a diagonal fold above the crest of the ilium at the spot where an imaginary line
+would come down from the anterior axillary line (figure 14.30e) (some prefer the measure
+to be taken more laterally, at the midaxillary line)
+Midaxilla—a vertical fold on the midaxillary line at the level of the xiphoid process of the
+sternum (figure 14.30f)
+Subscapula—a fold taken on a diagonal line that extends from the vertebral border to a
+point 0.5 inch to 1 inch (1 to 2 cm) from the inferior angle of the scapula (figure 14.30g)
+815
+
+Calf—a vertical fold along the medial side of the calf, at the level of maximum calf
+circumference (figure 14.30h)
+3. Using the appropriate population-specific equation from table 14.35, calculate the estimated
+body density from the skinfolds (61).
+4. Enter the body density into the appropriate population-specific equation from table 14.36 near
+the end of the chapter to calculate the percent body fat from the body density (69).
+5. Note that there are no universally accepted norms for body composition. When strength and
+conditioning professionals assess an athlete’s body composition, they must account for a
+standard error of the estimate (SEE) and report a range of percentages that the athlete falls
+into. Note that the minimum SEE for population-specific skinfold equations is ±3% to ±5%.
+Therefore, if a 25-year-old male athlete’s body fat is measured at 24%, there is a minimum of
+a 6% range (21%-27%).
+Note: Descriptive data for percent body fat are presented in tables 14.22 through 14.25 and table
+14.37 near the end of the chapter.
+FIGURE 14.30a Chest skinfold.
+816
+
+FIGURE 14.30b Thigh skinfold.
+FIGURE 14.30c Abdomen skinfold.
+817
+
+FIGURE 14.30d Triceps skinfold.
+FIGURE 14.30e Suprailium skinfold.
+818
+
+FIGURE 14.30f Midaxilla skinfold.
+FIGURE 14.30g Subscapula skinfold.
+819
+
+FIGURE 14.30h Calf skinfold.
+36   BIOELECTRICAL IMPEDANCE (BIA)
+Equipment
+BIA device
+Personnel
+One recorder
+Procedure
+1. Program the device with the athlete’s sex, weight, and height.
+2. Have the athlete either hold the electrodes in the hands or stand barefoot on the electrodes
+depending on the type of device.
+3. Press the start button and wait the specified duration of time for that device (usually under 5
+seconds).
+4. From the measuring device, obtain and record the body composition measurements provided.
+5. This means of evaluating body composition is best done under similar circumstances. To most
+effectively monitor body composition changes, it is recommended that testing be done first
+thing in the morning before the athlete has exercised, before food or water consumption, and
+after having voided.
+Note: Descriptive data for percent body fat are presented in tables 14.22 through 14.25 and table
+14.37 near the end of the chapter.
+Anthropometry
+820
+
+  37   GIRTH MEASUREMENTS
+Equipment
+Flexible, spring-loaded tape measure (e.g., a Gulick tape)
+Personnel
+One tester, one recorder
+Procedure
+1. Position the athlete in a relaxed anatomical position for each measurement (unless otherwise
+indicated for a particular measurement).
+2. Measure the following sites (81); see figure 14.31:
+Chest—at nipple level in males and at maximum circumference (above the breasts) in
+females
+Right upper arm—at the point of maximal circumference with the elbow fully extended,
+palm up, and arm abducted to parallel with the floor
+Right forearm—at the point of maximal circumference with the elbow fully extended, palm
+up, and arm abducted to parallel with the floor
+Waist (abdomen)—at the level of the umbilicus
+Hips (buttocks)—at the maximal protrusion of the buttocks with the heels together
+Right thigh—at the point of maximal circumference, usually just below the buttocks
+Right calf—at the point of maximal circumference between the knee and ankle
+FIGURE 14.31 Sites for girth measurements.
+821
+
+Statistical Evaluation of Test Data
+Once the proper test or tests have been chosen and administered and the scores collected, the next
+step may include any or all of the following: (1) analysis of the data to determine the change in
+performance of the individuals or group over the training period (weeks, months, or years); (2)
+analysis of the individual or group’s performance relative to that of similar individuals or groups
+tested in the past; (3) analysis of the relationship of each athlete’s scores to those of the group;
+and (4) comparison of individual scores to local, state, national, or international norms.
+An important outcome of repeated performance testing is evaluation of both the improvement of
+individual athletes and the overall effectiveness of the physical conditioning program as determined
+by changes in test scores (103). A difference score is the difference between an athlete’s score at
+the beginning and end of a training period or between any two separate testing times. The
+percent change is another measure that can be used. However, evaluating the effectiveness of a
+training program merely by degree of improvement has two major limitations. First, athletes who
+begin the training period at a higher training status will not improve as much as untrained athletes
+who perform poorly at the beginning of training (i.e., the principle of diminishing returns). The
+window of adaptation for the various physical capacities is typically greater for less well-trained
+athletes as well as measures of aerobic fitness (109). Second, athletes may deliberately fail to give
+maximal effort on pretraining tests to inflate their pre- to posttraining improvement scores. It is
+important to encourage athletes to give maximal effort on both the pre- and posttraining tests.
+Types of Statistics
+Statistics is the science of collecting, classifying, analyzing, and interpreting numerical data (27,
+145). A working knowledge of statistics is helpful in making sound evaluations of test results.
+Within statistics are different branches such as descriptive and inferential. Over the years, scientists
+and practitioners in strength and conditioning have made increasing use of magnitude-based
+approaches (through calculation of the effect size), which can be more meaningful because they
+provide information regarding the magnitude of change that is practically meaningful to the athlete
+in a given sport.
+Descriptive Statistics
+Descriptive statistics summarizes or describes a large group of data. It is used when all the
+information about a population is known. For example, if all the members of a team are tested,
+statements can be made about the team with the use of descriptive statistics. There are three
+categories of numerical measurement in descriptive statistics: central tendency, variability, and
+percentile rank. In the sections that follow, these terms are defined, and examples of how to
+calculate the values and scores are presented.
+Central Tendency Measures of central tendency are values about which the data tend to
+cluster. The three most common measures of central tendency (27, 145) are as follows:
+Mean—the average of the scores (i.e., the sum of the scores divided by the number of scores).
+This is the most commonly used measure of central tendency.
+Median—the middlemost score when a set of scores is arranged in order of magnitude. With an
+even number of scores, the median is the average of the two middlemost scores. Half a group of
+scores falls above the median and half falls below the median. Depending on the distribution of
+scores, the median can be a better measure of central tendency than the mean. This is
+particularly true when very high or very low scores of one or a few members of the group tested
+raise or lower the group mean to the extent that it does not adequately describe the ability of
+most group members.
+822
+
+Mode—the score that occurs with the greatest frequency. If each numerical score appears only
+once, there is no mode. If two or more scores are tied for greatest frequency, all of the similar
+scores are modes. The mode is generally regarded as the least useful measure of central
+tendency.
+Variability The degree of dispersion of scores within a group is called variability. Two common
+measures of variability are the range and the standard deviation. The range is the interval from
+the lowest to the highest score. The advantage of the range is that it is easy to understand; the
+disadvantage is that it uses only the two extreme scores and so may not be an accurate measure of
+variability (145). For example, the range could be the same for a group of widely dispersed scores
+as for a group of scores that are narrowly dispersed except for one deviant score. The standard
+deviation is a measure of the variability of a set of scores about the mean. The formula for the
+standard deviation of a sample is as follows:
+SD=∑(x−x¯)2n−1  (14.1)
+where Σ refers to a summation, x is a score, x is the mean of the scores, and n is the sample size
+(number of scores). A relatively small standard deviation indicates that a set of scores is closely
+clustered about the mean; a large standard deviation indicates wider dispersion of the scores about
+the mean. The standard deviation is most useful when the group of scores is “normally distributed,”
+forming the bell-shaped curve shown in figure 14.32 (26, 67).
+The z-score can be used to express the distance of any individual score in standard deviation
+(SD) units from the mean:
+  z = (x − x) / SD    (14.2)
+For example, if an athlete runs the 40-yard (37 m) sprint in 4.6 seconds and the mean and
+standard deviation for the group tested are 5.00 and 0.33 seconds, respectively, equation 14.2 can
+be applied to determine that the z-score for that athlete is −1.2. In other words, the athlete’s score
+is 1.2 standard deviation units below (i.e., faster than) the group mean. Graphs can be a useful way
+of representing z-scores visually. This can provide the strength and conditioning professional with a
+comparison of different physical capacities and provide assistance with making decisions on which
+weaknesses to target with a training program. In the example shown, the strength and conditioning
+professional may decide to focus on improving endurance and flexibility while also improving body
+composition (figure 14.33).
+FIGURE 14.32 Normal bell curve.
+823
+
+FIGURE 14.33 Z-score column chart representing standardized test scores across different fitness tests for an individual athlete.
+The zero represents the team average.
+Percentile Rank An individual’s percentile rank is the percentage of test takers scoring below
+that individual. As in calculation of the median, percentile ranking requires arranging scores
+ordinally (lowest to highest). For example, if an athlete is ranked in the 75th percentile, 75% of the
+group produced scores below that athlete’s score. Norms based on large samples are sometimes
+expressed in evenly spaced percentiles. Several examples of percentile rank tables are shown in the
+tables near the end of the chapter.
+Inferential Versus Magnitude Statistics
+The use of inferential statistics allows one to draw general conclusions about a population from
+information collected in a population sample. For example, if a boys’ 9th-grade gym class is put
+through a battery of tests and it is assumed that the class (sample) is representative of all the 9th-
+grade boys in the school (the population), the results of these tests can be used to make inferences
+about the population as a whole. A basic assumption of inferential statistics is that the sample is
+truly representative of the population (27).
+Magnitude statistics can provide a more useful approach for practitioners because it allows for
+interpretation of the clinical significance of fitness testing (75). To describe and evaluate the
+magnitude of change in a fitness test, measures such as smallest worthwhile change and effect size
+are important.
+Smallest worthwhile change refers to the ability of a test to detect the smallest practically
+important change in performance. The ability to track changes with a fitness test depends on the
+validity and reliability of that test. The smallest worthwhile change can be determined in a number
+of ways, but it is typically calculated as 0.2 of the between-subjects standard deviation (75). For
+example, if the standard deviation for a vertical jump test is 10 centimeters in a group of female
+athletes, this would mean that the smallest worthwhile change for this group of athletes is 2
+centimeters (0.2 × 10 cm).
+824
+
+Effect size is a statistic that can be useful for calculating group performance following a training
+program or comparing between groups of athletes (42). The effect of the training program can be
+calculated as the difference or change in the mean score as a proportion of the pretest standard
+deviation (equation 14.3).
+ES = (x posttest − x pretest) / SD pretest    (14.3)
+For example, a group of athletes had a pretraining mean bench press 1RM of 104.5 kilograms
+(standard deviation of 5.7 kg), and after a 12-week training intervention the mean bench press is
+111.7 kilograms. The calculated effect size would be equal to (111.7 − 104.5) / 5.7 = 1.26.
+Several scales have been provided to compare the magnitude of the effect (28, 103, 127), but
+reference values for small (0.2), moderate (0.6), large (1.2), and very large (2.0) can be a useful
+starting point for practitioners (42, 75). For the example just given, this would mean that the
+strength and conditioning professional would interpret the effect size of 1.26 as meaning that the
+training program had a large effect.
+Developing an Athletic Profile
+To determine the sport-specific training status of an athlete, the strength and conditioning
+professional can combine the results of selected tests to generate an athletic profile, which is a
+group of test results related to sport-specific abilities that are important for quality performance in a
+sport or sport position. When evaluating athletes, the strength and conditioning professional should
+follow these six steps:
+1. Select tests that will measure the specific parameters most closely related to the physical
+characteristics of the sport or sports in question. For example, a testing battery for wrestlers
+should include tests for pulling strength, pushing strength, and local muscular endurance.
+2. Choose valid and reliable tests to measure these parameters, and arrange the testing battery
+in an appropriate order with sufficient rest between tests to promote test reliability (see
+chapter 13 for more detail). For example, appropriate tests for wrestling might include push-
+ups and sit-ups for maximum repetitions in a given time interval. These two tests should be
+separated by at least 10 minutes of rest to allow recovery from fatigue and thus promote
+accurate scores.
+3. Administer the test battery with as many athletes as possible.
+4. Determine the smallest worthwhile change for the tests and compare to normative data
+where appropriate. It is recommended that coaches store testing results and develop their
+own norms when standardized procedures are used.
+5. Conduct repeat testing (e.g., pre- and posttraining program) and use the results to present a
+visual profile with figures.
+6. Use the results of the testing in some meaningful way. Ideally, the results will enable the
+strength and conditioning professional to identify the strengths and weaknesses of the
+athletes and to design the training program with these in mind.
+825
+
+Conclusion
+Motor abilities and body composition variables that can be improved through strength and
+conditioning programs include maximum muscular strength, maximum muscular power, anaerobic
+capacity, local muscular endurance, aerobic capacity, agility, speed, flexibility, girths, percent body
+fat, and lean body mass. Performance testing can be used to evaluate basic motor abilities as well
+as the improvement of individual athletes over time and the overall effectiveness of a physical
+conditioning program. Numerous tests are available to measure sport-specific physical capabilities
+and training status. Strength and conditioning professionals can either use existing normative data
+to evaluate athletic performance or develop their own normative data. Statistical measures of
+central tendency, variability, percentile rank, smallest worthwhile change, effect size, and standard
+scores are useful for evaluating physical abilities and the improvement of a group as well as the
+individuals within the group.
+KEY TERMS
+aerobic capacity
+aerobic power
+agility
+anaerobic capacity
+anaerobic power
+anthropometry
+artificial intelligence (AI)
+athletic motor skill competencies (AMSC)
+athletic performance
+athletic profile
+balance
+body composition
+central tendency
+descriptive statistics
+difference score
+effect size
+flexibility
+functional movement screen (FMS)
+high-speed muscular strength
+inferential statistics
+local muscular endurance
+low-speed muscular strength
+machine learning (ML)
+magnitude statistics
+maximal anaerobic muscular power
+mean
+median
+mode
+percent change
+percentile rank
+principle of diminishing returns
+procedures
+protocols
+826
+
+range
+reactive strength index
+smallest worthwhile change
+speed
+stability
+standard deviation
+statistics
+variability
+STUDY QUESTIONS
+  1.  The maximal rate of energy production by the combined phosphagen and glycolytic energy
+system is known as
+  a.  agility
+  b.  anaerobic capacity
+  c.  aerobic capacity
+  d.  maximal strength
+  2.  One of the following tests is not a test of agility or change of direction.
+  a.  hexagon test
+  b.  5-10-5 (pro agility) test
+  c.  T-test
+  d.  reactive strength index
+  3.  Which of the following is a disqualification for the Nordic hamstring test?
+  a.  allowing hip flexion rather than maintaining a straight line from the knees to the head
+  b.  going too slow
+  c.  allowing the ankles alone to contact the hooks when the athlete is using a dynamometer
+  d.  maintaining tight core control
+  4.  With an even number of scores, the ___________ is the average of the two middlemost
+scores. Half a group of scores falls above this, and half falls below.
+  a.  median
+  b.  mode
+  c.  average
+  d.  variability
+  5.  Which of the following tests is a measurement of anthropometry?
+  a.  girth measurements
+  b.  body composition
+  c.  isometric mid-thigh pull
+  d.  1RM power clean
+TABLE 14.1 Percentile Values of the 1RM Bench Press, Squat, and Power
+Clean in NCAA Division I Female Collegiate Athletes
+Percentile*
+1RM bench press
+1RM squat
+1RM power clean
+1RM bench press
+1RM squat
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+BASKETBALL
+SWIMMING
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+lb = pounds, SD = standard deviation, n = sample size
+Adapted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 36-38, 55-58, 113.
+827
+
+90
+124
+56
+178
+81
+130
+59
+116
+53
+145
+66
+80
+119
+54
+160
+73
+124
+56
+109
+50
+135
+61
+70
+115
+52
+147
+67
+117
+53
+106
+48
+129
+59
+60
+112
+51
+135
+61
+112
+51
+101
+46
+120
+55
+50
+106
+48
+129
+59
+110
+50
+97
+44
+116
+53
+40
+102
+46
+115
+52
+103
+47
+94
+43
+112
+51
+30
+96
+44
+112
+51
+96
+44
+93
+42
+104
+47
+20
+88
+40
+101
+46
+88
+40
+88
+40
+101
+46
+10
+82
+37
+81
+37
+77
+35
+78
+35
+97
+44
+Mean
+105
+48
+130
+59
+106
+48
+98
+45
+118
+54
+SD
+18
+8
+42
+19
+20
+9
+15
+7
+19
+9
+n
+120
+86
+85
+42
+35
+Percentile*
+SOFTBALL
+VOLLEYBALL
+90
+117
+53
+184
+84
+122
+55
+113
+51
+185
+84
+80
+108
+49
+170
+77
+115
+52
+108
+49
+171
+78
+70
+104
+47
+148
+67
+106
+48
+104
+47
+165
+75
+60
+99
+45
+139
+63
+100
+45
+100
+45
+153
+70
+50
+95
+43
+126
+57
+94
+43
+98
+45
+143
+65
+40
+90
+41
+120
+55
+93
+42
+96
+44
+136
+62
+30
+85
+39
+112
+51
+88
+40
+90
+41
+126
+57
+20
+80
+36
+94
+43
+80
+36
+85
+39
+112
+51
+10
+69
+31
+76
+35
+71
+32
+79
+36
+98
+45
+Mean
+94
+43
+130
+59
+97
+44
+97
+44
+144
+65
+SD
+18
+8
+42
+19
+20
+9
+14
+6
+33
+15
+n
+105
+97
+80
+67
+62
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+lb = pounds, SD = standard deviation, n = sample size
+Adapted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 36-38, 55-58, 113.
+TABLE 14.2 Percentile Values of the 1RM Bench Press, Squat, and Power
+Clean in High School and College American Football Players
+Percentile*
+1RM bench press
+1RM squat
+1RM power
+clean
+1RM bench press
+1RM squat
+1RM power
+clean
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+HIGH SCHOOL 14-15 YEARS
+HIGH SCHOOL 16-18 YEARS
+90
+243
+110
+385
+175
+213
+97
+275
+125
+465
+211
+250
+114
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well
+below average
+**Hoffman 2006 reported 365 lb (166 kg) for the 40% rank of the NCAA DIII 1RM squat.
+lb = pounds, SD = standard deviation, n = sample size.
+Adapted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 36-38, 55-
+58, 113.
+828
+
+80
+210
+95
+344
+156
+195
+89
+250
+114
+425
+193
+235
+107
+70
+195
+89
+325
+148
+190
+86
+235
+107
+405
+184
+225
+102
+60
+185
+84
+305
+139
+183
+83
+225
+102
+365
+166
+223
+101
+50
+170
+77
+295
+134
+173
+79
+215
+98
+335
+152
+208
+95
+40
+165
+75
+275
+125
+165
+75
+205
+93
+315
+143
+200
+91
+30
+155
+70
+255
+116
+161
+73
+195
+89
+295
+134
+183
+83
+20
+145
+66
+236
+107
+153
+70
+175
+80
+275
+125
+165
+75
+10
+125
+57
+205
+93
+141
+64
+160
+73
+250
+114
+145
+66
+Mean
+179
+81
+294
+134
+176
+80
+214
+97
+348
+158
+204
+93
+SD
+45
+20
+73
+33
+32
+15
+44
+20
+88
+40
+43
+20
+n
+214
+170
+180
+339
+249
+284
+Percentile*
+NCAA DI
+NCAA DIII
+90
+370
+168
+500
+227
+300
+136
+365
+166
+470
+214
+80
+345
+157
+455
+207
+280
+127
+325
+148
+425
+193
+70
+325
+148
+430
+195
+270
+123
+307
+140
+405
+184
+60
+315
+143
+405
+184
+261
+119
+295
+134
+385
+175
+50
+300
+136
+395
+180
+252
+115
+280
+127
+365
+166
+40
+285
+130
+375
+170
+242
+110
+273
+124
+350**
+159**
+30
+270
+123
+355
+161
+232
+105
+255
+116
+335
+152
+20
+255
+116
+330
+150
+220
+100
+245
+111
+315
+143
+10
+240
+109
+300
+136
+205
+93
+225
+102
+283
+129
+Mean
+301
+137
+395
+180
+252
+115
+287
+130
+375
+170
+SD
+53
+24
+77
+35
+38
+17
+57
+26
+75
+34
+n
+1,189
+1,074
+1,017
+591
+588
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well
+below average
+**Hoffman 2006 reported 365 lb (166 kg) for the 40% rank of the NCAA DIII 1RM squat.
+lb = pounds, SD = standard deviation, n = sample size.
+Adapted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 36-38, 55-
+58, 113.
+TABLE 14.3 Percentile Values of the 1RM Bench Press, Squat, and Power
+Clean in NCAA Division I Male Baseball and Basketball Athletes
+Percentile*
+1RM bench press
+1RM squat
+1RM power clean
+1RM bench press
+1RM squat
+1RM power
+clean
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+BASEBALL
+BASKETBALL
+90
+273
+124
+365
+166
+265
+120
+269
+122
+315
+143
+250
+114
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well
+below average
+lb = pounds, SD = standard deviation, n = sample size.
+Adapted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 36-38, 55-
+58, 113.
+829
+
+80
+260
+118
+324
+147
+239
+109
+250
+114
+305
+139
+235
+107
+70
+247
+112
+310
+141
+225
+102
+240
+109
+295
+134
+230
+105
+60
+239
+109
+293
+133
+216
+98
+230
+105
+280
+127
+220
+100
+50
+225
+102
+270
+123
+206
+94
+225
+102
+265
+120
+215
+98
+40
+218
+99
+265
+120
+200
+91
+216
+98
+245
+111
+205
+93
+30
+203
+92
+247
+112
+190
+86
+210
+95
+225
+102
+195
+89
+20
+194
+88
+237
+107
+182
+83
+195
+89
+195
+89
+180
+82
+10
+175
+80
+218
+99
+162
+74
+185
+84
+166
+75
+162
+74
+Mean
+227
+103
+281
+128
+210
+95
+225
+102
+251
+114
+209
+95
+SD
+41
+19
+57
+26
+36
+16
+33
+15
+57
+26
+34
+15
+n
+170
+176
+149
+142
+131
+122
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well
+below average
+lb = pounds, SD = standard deviation, n = sample size.
+Adapted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 36-38, 55-
+58, 113.
+TABLE 14.4 1RM Squat, Bench Press, Power Clean, and Bench Pull
+Descriptive Data* for Various Groups
+Group, sport, or position
+Number
+of
+athletes
+Body weight
+Squat
+Bench press
+Power clean
+Bench pull
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+Group, sport, or position
+Number
+of
+athletes
+Body weight
+Squat
+Bench press
+Power clean
+Bench pull
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+lb
+kg
+National rugby league (7)
+20
+216.5
+± 21.8
+98.2 ±
+9.9
+385.8
+± 59.5
+175.0
+± 27.3
+State-level rugby league (7)
+20
+201.2
+± 18.5
+91.3 ±
+8.4
+329.8
+± 30.9
+149.6
+± 14.3
+National rugby league (8)
+21
+219.4
+± 19.2
+99.5 ±
+8.7
+315.0
+± 33.5
+142.7
+± 15.2
+State-level rugby league (8)
+21
+200.0
+± 19.6
+90.7 ±
+8.9
+258.8
+± 35.9
+117.4
+± 16.3
+National rugby league (5)
+6
+211.2
+± 32.2
+95.8 ±
+14.6
+332.5
+± 2.6
+150.8
+± 10.7
+National sailing—men (119)
+11
+215.6
+± 27.6
+97.8 ±
+12.5
+310.6
+± 58.6
+140.9
+± 26.6
+265.9
+± 37.3
+120.6
+± 16.9
+National
+canoe/rowing/wrestling/judo—
+men (129)
+75
+167.6
+± 19.4
+76.0 ±
+8.8
+199.0
+± 35.9
+90.3 ±
+16.3
+176.8
+± 26.0
+80.2 ±
+11.8
+National basketball—women
+(140)
+12
+166.7
+± 32.2
+75.6 ±
+14.6
+173.2
+± 6.6
+78.6 ±
+3.0
+NCAA Division IA college
+football—men (17)
+963
+310.4
+140.8
+NCAA Division IA college
+football—men (17)
+560
+420.6
+190.8
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+830
+
+National softball—women (113)
+10
+158.1
+± 24.5
+71.7 ±
+11.1
+183.6
+± 22.0
+83.3 ±
+10.0
+National ice hockey—women
+(123)
+22
+155.2
+± 15.7
+70.4 ±
+7.1
+144.0
+± 27.0
+65.3 ±
+12.2
+National soccer—men (149)
+17
+168.7
+± 16.8
+76.5 ±
+7.6
+378.5
+± 46.7
+171.7
+± 21.2
+National soccer—men (161)
+14
+169.5
+± 13.9
+76.9 ±
+6.3
+362.9
+± 43.9
+164.6
+± 21.8
+182.3
+± 28.2
+82.7 ±
+12.8
+National soccer—men (161)
+15
+169.6
+± 16.3
+76.8 ±
+7.4
+297.6
+± 35.7
+135.0
+± 16.2
+170.0
+± 36.4
+77.1 ±
+16.5
+NCAA Division IA college
+football—men (114)
+207
+229.2
+± 48.7
+104.0
+± 22.1
+312.8
+± 58.6
+141.6
+± 26.6
+NCAA Division IA college
+football—men (114)
+88
+226.0
+± 14.3
+102.5
+± 6.5
+267.4
+±
+33.1
+121.3
+± 15.0
+NCAA Division IA college
+football—men (114)
+86
+226.0
+± 14.3
+102.5
+± 6.5
+397.9
+± 74.1
+180.5
+± 33.6
+National handball—women (55)
+16
+152.7
+± 18.1
+69.3 ±
+8.2
+113.8
+± 14.8
+51.6 ±
+6.7
+National handball—men (54)
+15
+207.0
+± 37.3
+93.9 ±
+16.9
+235.7
+± 25.6
+106.9
+± 11.6
+Under 16 rugby league—men
+(149)
+30
+165.8
+± 24.5
+75.2 ±
+11.1
+221.3
+± 48.3
+100.4
+± 21.9
+162.9
+± 29.1
+73.9 ±
+13.2
+156.3
+± 22.3
+70.9 ±
+10.1
+Under 17 rugby league—men
+(149)
+48
+178.8
+± 20.7
+81.1 ±
+9.4
+269.4
+± 41.2
+122.2
+± 18.7
+205.7
+± 29.5
+93.3 ±
+13.4
+184.1
+± 22.5
+83.5 ±
+10.2
+Under 18 rugby league—men
+(149)
+55
+188.1
+± 22.0
+85.3 ±
+10.0
+295.4
+± 34.2
+134.0
+± 15.5
+228.6
+± 33.7
+103.7
+± 15.3
+200.8
+± 22.3
+91.1 ±
+10.1
+Under 19 rugby league—men
+(149)
+45
+195.8
+± 21.8
+88.8 ±
+9.9
+305.1
+± 43.2
+138.4
+± 19.6
+249.8
+± 36.2
+113.3
+± 16.4
+215.2
+± 27.3
+97.6 ±
+12.4
+Under 20 rugby league—men
+(149)
+26
+196.0
+± 18.7
+88.9 ±
+8.5
+318.8
+± 48.7
+144.6
+± 22.1
+252.0
+± 33.7
+114.3
+± 15.3
+220.5
+± 24.7
+100.0
+± 11.2
+NCAA Division III lacrosse—
+women (73)
+11
+132.3
+± 11.0
+60.0 ±
+5.0
+158.5
+± 13.4
+71.9 ±
+6.1
+96.8 ±
+13.4
+43.9 ±
+6.1
+National rugby league forwards
+—men (102)
+63
+271.2
+± 26.0
+123.0
+± 11.8
+National rugby league backs—
+men (102)
+55
+251.3
+± 37.5
+114.0
+± 17.0
+National rugby union—men (30)
+30
+236.1
+± 22.3
+107.1
+± 10.1
+351.6
+± 58.0
+159.5
+± 26.3
+308.6
+± 35.9
+140.0
+± 16.3
+National rugby union—women
+(11)
+15
+157.9
+± 21.8
+71.6 ±
+9.9
+152.1
+± 19.4
+69.0 ±
+8.8
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+TABLE 14.5 Descriptive Data* for Bench Press, Back Squat, Vertical Jump,
+and Standing Long Jump in Female NCAA Division III Athletes
+Sport
+Bench press (kg)
+Back squat (kg)
+Vertical jump (cm)
+Standing long jump (cm)
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+Adapted by permission from B. Guthrie, J.B. Fields, B. Thompson, and M.T. Jone, “Physical Performance Assessments of Strength
+and Power in Women Collegiate Athletes,” International Journal of Exercise Science 14, no. 6 (2021): 984-993.
+831
+
+Field hockey
+43.9 ± 7.4
+78.4 ± 16.44
+44.1 ± 6.5
+174.4 ± 16.5
+Softball
+46.1 ± 9.5
+83.8 ± 17.9
+52.5 ± 4.5
+191.4 ± 11.9
+Soccer
+42.9 ± 7.9
+72.5 ± 13.9
+46.2 ± 6.3
+178.1 ± 16.5
+Volleyball
+42.7 ± 7.5
+76.1 ± 14.0
+50.8 ± 7.2
+N/A
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+Adapted by permission from B. Guthrie, J.B. Fields, B. Thompson, and M.T. Jone, “Physical Performance Assessments of Strength
+and Power in Women Collegiate Athletes,” International Journal of Exercise Science 14, no. 6 (2021): 984-993.
+TABLE 14.6 Descriptive Percentile Values for Isometric Mid-Thigh Pull Peak
+Force, Relative Peak Force, and Rate of Force Development for Male Senior
+and Junior Soccer Players of National and Regional Standard
+Percentile
+Age group
+Level of competition
+Peak force
+Relative peak
+force
+Rate of force development (0-
+250 ms)
+(N)
+(N/kg)
+(N/s)
+100
+Senior
+National (n = 25)
+3,698
+46.7
+6,814
+Regional (n = 24)
+3,702
+49.8
+7,237
+Junior
+National (n = 32)
+3,714
+51.4
+6,387
+Regional (n = 30)
+3,296
+42.1
+6,603
+75
+Senior
+National (n = 25)
+3,089
+42.1
+5,588
+Regional (n = 24)
+2,995
+42.4
+5,113
+Junior
+National (n = 32)
+2,965
+41.0
+5,457
+Regional (n = 30)
+2,749
+38.7
+4,466
+50
+Senior
+National (n = 25)
+2,917
+38.6
+5,171
+Regional (n = 24)
+2,595
+38.9
+4,005
+Junior
+National (n = 32)
+2,737
+39.4
+4,676
+Regional (n = 30)
+2,347
+35.9
+3,902
+25
+Senior
+National (n = 25)
+2,725
+36.8
+4,876
+Regional (n = 24)
+2,486
+35.0
+3,573
+Junior
+National (n = 32)
+2,504
+38.0
+4,394
+Regional (n = 30)
+2,153
+33.1
+3,534
+0
+Senior
+National (n = 25)
+2,262
+33.0
+2,221
+Regional (n = 24)
+2,264
+28.1
+2,429
+Junior
+National (n = 32)
+2,284
+35.7
+2,721
+Regional (n = 30)
+1,960
+30.8
+1,987
+Reprinted by permission from M.A. Soriano, V. Paredes, P. Comfort, et al., “’You Are Not Wrong About Getting Strong:’ An Insight
+Into the Impact of Age Group and Level of Competition on Strength in Spanish Football Players,” International Journal of Sports
+Physiology and Performance 19, no. 7 (2024): 633.
+TABLE 14.7 Normative Data for Nordic Hamstring Test
+832
+
+Group
+Absolute maximal eccentric Nordic
+strength (Mean ± SD, n)
+Relative maximal eccentric Nordic strength
+(Mean ± SD, n ∙ kg−1)
+FOOTBALL (n = 174)
+276.29 ± 74.76
+4.95 ± 0.95
+ATHLETICS (n = 123)
+289.73 ± 94.60
+4.62 ± 1.01
+Sprints (n = 27)
+347.00 ± 83.54
+5.07 ± 1.10
+Endurance (n = 40)
+283.85 ± 75.20
+4.90 ± 0.86
+Jumps (n = 15)
+320.17 ± 74.36
+4.58 ± 0.87
+Throws (n = 5)
+417.70 ± 83.92
+4.14 ± 0.85
+Development (n = 28)
+234.93 ± 74.16
+4.18 ± 0.91
+Foundation (n = 8)
+180.69 ± 98.19
+3.58 ± 0.86
+MULTI-SPORTS (n =
+40)
+240.74 ± 77.64
+4.30 ± 1.21
+Fencing (n = 16)
+226.42 ± 71.54
+4.13 ± 1.16
+Gymnastics (n = 6)
+209.18 ± 57.05
+3.69 ± 0.98
+Squash (n = 12)
+303.46 ± 75.22
+5.17 ± 1.12
+Table tennis (n = 6)
+189.71 ± 41.07
+3.58 ± 1.02
+TOTAL (n = 337)
+276.97 ± 83.92
+4.74 ± 1.03
+Reprinted by permission from E. Jeanguyot, B. Salcinovic, A. Johnson, et al., “Eccentric Hamstring Strength in Young Athletes Is
+Best Documented When Normalised to Body Mass: A Cross-Sectional Study With Normative Data of 590 Athletes From Different Age
+Categories,” Biology of Sport 40, no. 4 (2023): 1079-1095. Distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/).
+TABLE 14.8 Norms for Standing Long Jump in Elite Male and Female Athletes
+Percentile*
+Males
+Females
+in.
+cm
+in.
+cm
+90
+133
+339
+115
+293
+80
+122
+309
+110
+279
+70
+116
+294
+104
+264
+60
+110
+279
+98
+249
+50
+104
+264
+92
+234
+40
+98
+249
+86
+219
+30
+92
+234
+80
+204
+20
+86
+219
+74
+189
+10
+80
+204
+69
+174
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+Reprinted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 58. Adapted from
+D.A. Chu, Explosive Power and Strength (Human Kinetics, 1996).
+TABLE 14.9 Rankings for Standing Long Jump in 15- and 16-Year-Old Male
+and Female Athletes
+Category
+Males
+Females
+Reprinted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 58. Adapted from
+D.A. Chu, Explosive Power and Strength (Human Kinetics, 1996).
+833
+
+in.
+cm
+in.
+cm
+Excellent
+79
+201
+65
+166
+Above average
+73
+186
+61
+156
+Average
+69
+176
+57
+146
+Below average
+65
+165
+53
+135
+Poor
+<65
+<165
+<53
+<135
+Reprinted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 58. Adapted from
+D.A. Chu, Explosive Power and Strength (Human Kinetics, 1996).
+TABLE 14.10 Vertical Jump, Static Jump, and Broad Jump Descriptive Data*
+for Various Groups
+Group, sport, or position
+Number of
+athletes
+Vertical jump
+Static jump
+Broad jump
+in.
+cm
+in.
+cm
+in.
+cm
+College soccer—women (154)
+51
+16.1 ±
+2.2
+40.9 ±
+5.6
+High school soccer—women (154)
+83
+15.6 ±
+1.9
+39.6 ±
+4.8
+College lacrosse—women (143)
+79
+15.8 ±
+2.2
+40.1 ±
+5.6
+Under 18 Gaelic football—men (34)
+265
+17.0 ±
+2.0
+43.1 ±
+5.1
+78.0 ±
+8.1
+198.1 ±
+20.6
+National soccer—women (26)
+21
+12.4 ±
+1.6
+31.5 ±
+4.0
+11.9 ±
+1.5
+30.2 ±
+3.8
+Under 19 soccer—women (26)
+20
+13.5 ±
+1.5
+34.3 ±
+3.8
+12.9 ±
+1.1
+32.8 ±
+2.8
+Under 17 soccer—women (26)
+21
+11.4 ±
+0.8
+29.0 ±
+2.0
+11.1 ±
+1.0
+28.2 ±
+2.5
+Under 21 soccer—men (26)
+18
+15.9 ±
+1.7
+40.4 ±
+4.3
+14.6 ±
+1.5
+37.1 ±
+3.8
+Under 20 soccer—men (26)
+17
+15.8 ±
+1.9
+40.1 ±
+4.8
+15.0 ±
+1.9
+38.1 ±
+4.8
+Under 17 soccer—men (26)
+21
+16.1 ±
+2.0
+40.9 ±
+5.1
+14.7 ±
+1.9
+37.3 ±
+4.8
+Division I Spain soccer—women (132)
+100
+10.3 ±
+1.9
+26.2 ±
+4.8
+National ice hockey—women (123)
+23
+19.8 ±
+2.2
+50.3 ±
+5.6#
+84.6 ±
+4.3
+214.9 ±
+10.9
+National soccer—women (65)
+85
+12.1 ±
+1.6
+30.7 ±
+4.1
+Division I Norway soccer—women (65)
+47
+11.1 ±
+1.6
+28.2 ±
+4.1
+Ice hockey National Hockey League
+draftees—men (24)
+853
+24.4 ±
+3.0
+62.0 ±
+7.6#
+100.0 ±
+7.0
+254.0 ±
+17.8
+College wrestling—men (144)
+20
+20.5 ±
+3.1
+52.1 ±
+7.9#
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+#Jumps performed with an arm swing.
+834
+
+National weightlifting—men (46)
+6
+23.9 ±
+1.5
+60.7 ±
+3.8
+National soccer—men (160)
+17
+22.2 ±
+1.6
+56.4 ±
+4.1
+National soccer—men (161)
+14
+22.3 ±
+2.6
+56.6 ±
+6.6
+National soccer—men (161)
+15
+20.9 ±
+1.6
+53.1 ±
+4.1
+National soccer—men (141)
+270
+17.8 ±
+0.7
+45.2 ±
+1.8
+17.4 ±
+0.5
+44.2 ±
+1.3
+National handball—women (55)
+16
+15.1 ±
+1.7
+38.4 ±
+4.3
+National handball—men (53)
+15
+19.0 ±
+2.8
+48.3 ±
+7.1
+Under 16 rugby league—men (149)
+67
+18.0 ±
+2.0
+45.7 ±
+5.1
+NCAA Division I football—men (45)
+193
+28.7 ±
+3.7
+72.9 ±
+9.4#
+NCAA Division II football—men (45)
+181
+27.3 ±
+3.3
+69.3 ±
+8.4#
+NCAA Division III football—men (45)
+131
+26.5 ±
+3.5
+67.3 ±
+8.9#
+Under 20 rugby league—men (149)
+25
+20.8 ±
+2.1
+52.8 ±
+5.3
+High school volleyball—women (131)
+27
+18.5 ±
+3.3
+47.0 ±
+8.4#
+NCAA Division I volleyball—women (131)
+26
+20.8 ±
+2.5
+52.8 ±
+6.4#
+Professional rugby league (148)
+70
+16.2 ±
+2.8
+41.1 ±
+7.1
+Amateur rugby league (148)
+249
+15.4 ±
+1.9
+39.1 ±
+4.8
+Academy rugby league (148)
+261
+15.7 ±
+1.9
+39.9 ±
+4.8
+National rugby league forwards—men (30)
+12
+14.7 ±
+1.7
+37.3 ±
+4.3
+National rugby league backs—men (30)
+6
+15.9 ±
+2.5
+40.4 ±
+6.4
+National rugby league—men (49)
+26
+20.0 ±
+2.9
+50.8 ±
+7.4#
+National rugby league—men (48)
+58
+24.7 ±
+2.2
+62.7 ±
+5.6#
+National rugby union—men (33)
+30
+101.6 ±
+7.9
+258.1 ±
+20.1
+National rugby union—women (11)
+15
+15.0 ±
+1.6
+38.1 ±
+4.1
+13.8 ±
+1.2
+35.1 ±
+3.0
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+#Jumps performed with an arm swing.
+835
+
+High school track and field—women (107)
+8
+83.4 ±
+6.3
+211.8 ±
+16.0
+NCAA Division I soccer—women (97)
+15
+12.2 ±
+2.0
+31.0 ±
+5.1
+57.9 ±
+4.3
+147.1 ±
+10.9
+High school rugby league—men (147)
+302
+16.3 ±
+2.1
+41.4 ±
+5.3
+Junior national volleyball—men (47)
+14
+21.5 ±
+0.9
+54.6 ±
+2.3#
+Junior national volleyball—women (47)
+15
+18.0 ±
+0.6
+45.7 ±
+1.5#
+Under 18 Australian rules football—men
+(164)
+177
+23.9 ±
+2.2
+60.7 ±
+5.6#
+NCAA Division I lacrosse—women (142)
+84
+15.8 ±
+2.2
+40.1 ±
+5.6
+NCAA Division I soccer—men (136)
+27
+24.3 ±
+2.8
+61.7 ±
+7.1#
+National soccer—women (1)
+17
+12.0 ±
+0.5
+30.5 ±
+1.3
+National soccer—women (108)
+17
+12.8 ±
+1.5
+32.5 ±
+3.8
+National soccer—men (108)
+17
+17.2 ±
+0.9
+43.7 ±
+2.3
+National junior soccer—women (108)
+17
+11.2 ±
+0.8
+28.4 ±
+2.0
+National junior soccer—men (108)
+17
+17.3 ±
+1.9
+43.9 ±
+4.8
+National soccer—men (2)
+214
+15.4 ±
+2.0
+39.1 ±
+5.1
+14.8 ±
+1.9
+37.6 ±
+4.8
+NCAA Division I college basketball—men
+(121)
+16
+17.1 ±
+0.4
+43.4 ±
+1.9
+NCAA Division I college basketball forwards
+—men (16)
+37
+16.2 ±
+2.2
+41.1 ±
+5.6
+NCAA Division I college basketball guards
+—men (16)
+55
+17.2 ±
+2.4
+43.7 ±
+6.1
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+#Jumps performed with an arm swing.
+TABLE 14.11 Rebound Jump Descriptive Data* for Various Groups
+Population
+Jump height (cm)
+RSI avg
+RSI max
+Device
+NCAA Division I college basketball forwards—men
+31.1 ± 1.5^
+1.40 ± 0.08^
+1.47 ± 0.08
+FP
+Intercounty hurlers—men
+31.3 ± 4.1
+1.72 ± 0.34
+—
+OPTO
+Intercounty Gaelic football players—women
+26.3 ± 4.3
+1.47 ± 0.28
+—
+OPTO
+Club Gaelic football players—women
+23.1 ± 4.3
+1.22 ± 0.27
+—
+OPTO
+RSI = reactive strength index; Avg = average; FP = force plate; OPTO = optoelectronic device. ^ = average values taken from the
+top 3 best repetitions rather than the top 5.
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+Adapted from Brady et al. (2024); Hughes et al. (2024); Parchmann and McBride (2011).
+836
+
+TABLE 14.12 Margaria-Kalamen Stair Sprint Test Guidelines (Watts)
+Category
+Age groups (years)
+15-20
+20-30
+30-40
+40-50
+Over 50
+MEN
+Excellent
+Over 2,197
+Over 2,059
+Over 1,648
+Over 1,226
+Over 961
+Good
+1,844-2,197
+1,726-2,059
+1,383-1,648
+1,040-1,226
+814-961
+Average
+1,471-1,824
+1,373-1,716
+1,098-1,373
+834-1,030
+647-804
+Fair
+1,108-1,461
+1,040-1,363
+834-1,088
+637-824
+490-637
+Poor
+Under 1,108
+Under 1,040
+Under 834
+Under 637
+Under 490
+WOMEN
+Excellent
+Over 1,785
+Over 1,648
+Over 1,226
+Over 961
+Over 736
+Good
+1,491-1,785
+1,383-1,648
+1,040-1,226
+814-961
+608-736
+Average
+1,187-1,481
+1,098-1,373
+834-1,030
+647-804
+481-598
+Fair
+902-1,177
+834-1,089
+637-824
+490-637
+373-471
+Poor
+Under 902
+Under 834
+Under 637
+Under 490
+Under 373
+Adapted by permission from E. Fox, R. Bowers, and M. Foss, The Physiological Basis for Exercise and Sport, 5th ed. (Brown &
+Benchmark ,1993), 676; permission conveyed through Copyright Clearance Center, Inc.
+TABLE 14.13 Velocity-Based Training Normative Data for Barbell Velocity
+Absolute strength
+Accelerative strength
+Strength-speed
+Speed-strength
+Starting strength
+% 1RM
+80%-100%
+60%-80%
+40%-60%
+20%-40%
+Body weight to
+20%
+Lower body speed
+range
+<0.50 m/s
+0.50-0.75 m/s
+0.75-1.0 m/s
+1.0-1.3 m/s
+>1.3 m/s
+Upper body speed
+range
+<0.40 m/s
+0.40-0.60 m/s
+0.60-0.85 m/s
+0.85-1.1 m/s
+>1.1 m/s
+Reprinted by permission from J.B. Mann, Developing Explosive Athletes: Use of Velocity Based Training in Training Athletes, 4th ed.
+(Ultimate Athlete Concepts, 2021).
+TABLE 14.14 Descriptive Data* for 300-Yard (274 m) Shuttle Test
+Group, sport, or position
+Number of athletes
+Time (s)
+High school volleyball—women (131)
+27
+68.0 ± 6.3
+NCAA Division 1 volleyball—women (131)
+26
+67.7 ± 3.8
+National soccer—men (142)
+18
+56.7 ± 1.7
+Recreational athletes—men and women (157)
+81
+72.8 ± 9.1
+National badminton—men (155)
+12
+73.3 ± 3.4
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+TABLE 14.15 Repetition Benchmarks for the 90-Second Box Jump Test
+Age
+14-15
+16-17
+18-20
+FEMALE
+Target goal
+73-75
+80-85
+82-89
+Reprinted by permission from Alpine Canada Alpin, Fall 2022 Alpine Canada Alpin Fitness Combine Version 1.3 (Alpine Canada Alpin,
+2022), 60.
+837
+
+Good
+67-72
+75-79
+76-82
+Developing
+51-66
+60-74
+70-75
+Needs training
+≤50
+≤59
+≤69
+MALE
+Target goal
+74-85
+92-97
+95-100
+Good
+67-73
+85-91
+87-94
+Developing
+62-66
+73-84
+75-86
+Needs training
+≤61
+≤72
+≤74
+Reprinted by permission from Alpine Canada Alpin, Fall 2022 Alpine Canada Alpin Fitness Combine Version 1.3 (Alpine Canada Alpin,
+2022), 60.
+TABLE 14.16 Percentiles by Age Groups and Sex for Partial Curl-Up
+Percentile*
+Age and sex
+20-29
+30-39
+40-49
+50-59
+60-69
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+90
+75
+70
+75
+55
+75
+55
+74
+48
+53
+50
+80
+56
+45
+69
+43
+75
+42
+60
+30
+33
+30
+70
+41
+37
+46
+34
+67
+33
+45
+23
+26
+24
+60
+31
+32
+36
+28
+51
+28
+35
+16
+19
+19
+50
+27
+27
+31
+21
+39
+25
+27
+9
+16
+13
+40
+24
+21
+26
+15
+31
+20
+23
+2
+9
+9
+30
+20
+17
+19
+12
+26
+14
+19
+0
+6
+3
+20
+13
+12
+13
+0
+21
+5
+13
+0
+0
+0
+10
+4
+5
+0
+0
+13
+0
+0
+0
+0
+0
+*Descriptors for percentile rankings: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well
+below average.
+Reprinted by permission from American College of Sports Medicine, ACSM’s Guidelines for Exercise Testing and Prescription, 12th
+ed., edited by O. Cemal (Wolters Kluwer, 2026), 101.
+TABLE 14.17 Fitness Categories by Age Groups and Sex for Push-Ups
+Category
+Age and sex
+20-29
+30-39
+40-49
+50-59
+60-69
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+Excellent
+36
+30
+30
+27
+25
+24
+21
+21
+18
+17
+Very good
+35
+29
+29
+26
+24
+23
+20
+20
+17
+16
+29
+21
+22
+20
+17
+15
+13
+11
+11
+12
+Good
+28
+20
+21
+19
+16
+14
+12
+10
+10
+11
+22
+15
+17
+13
+13
+11
+10
+7
+8
+5
+Fair
+21
+14
+16
+12
+12
+10
+9
+6
+7
+4
+17
+10
+12
+8
+10
+5
+7
+2
+5
+2
+Canadian Physical Activity Training for Health (CSEP-PATH®), 3rd Edition. © 2021 Canadian Society for Exercise Physiology
+(csep.ca/csep-path). Reprinted with permission.
+838
+
+Needs improvement
+16
+9
+11
+7
+9
+4
+6
+1
+4
+1
+Canadian Physical Activity Training for Health (CSEP-PATH®), 3rd Edition. © 2021 Canadian Society for Exercise Physiology
+(csep.ca/csep-path). Reprinted with permission.
+TABLE 14.18 Normative Data for the AFT Hand-Release Push-Up
+17-21
+22-26
+27-31
+32-36
+37-41
+42-46
+47-51
+52-56
+57-61
+Over 61
+POINTS
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+POINTS
+100
+57
+53
+61
+50
+62
+48
+60
+47
+59
+41
+56
+36
+55
+35
+51
+30
+46
+24
+43
+24
+100
+99
+56
+50
+60
+49
+59
+45
+59
+46
+57
+39
+55
+34
+53
+34
+48
+28
+43
+23
+41
+23
+99
+98
+54
+47
+57
+46
+56
+42
+56
+43
+54
+36
+53
+31
+50
+31
+45
+26
+40
+22
+39
+22
+98
+97
+53
+45
+54
+43
+55
+39
+54
+40
+53
+34
+50
+30
+47
+30
+43
+25
+38
+21
+37
+21
+97
+96
+51
+43
+53
+42
+53
+38
+53
+37
+51
+33
+48
+28
+44
+27
+40
+24
+37
+20
+35
+20
+96
+95
+50
+42
+52
+39
+52
+36
+52
+36
+48
+31
+46
+26
+42
+25
+38
+23
+35
+19
+34
+19
+95
+94
+49
+39
+50
+37
+51
+35
+50
+35
+46
+28
+44
+24
+41
+24
+35
+22
+34
+18
+33
+18
+94
+93
+48
+--
+49
+36
+49
+34
+48
+34
+45
+27
+43
+23
+39
+23
+34
+20
+33
+--
+31
+--
+93
+92
+47
+38
+48
+35
+48
+33
+47
+32
+44
+26
+42
+22
+38
+22
+33
+19
+31
+17
+30
+17
+92
+91
+46
+37
+47
+34
+47
+32
+45
+31
+43
+23
+41
+21
+36
+21
+32
+18
+30
+16
+29
+16
+91
+90
+45
+36
+46
+33
+46
+30
+44
+30
+42
+22
+38
+20
+34
+20
+31
+17
+29
+15
+26
+15
+90
+89
+44
+35
+45
+32
+45
+28
+43
+28
+41
+--
+37
+--
+33
+19
+30
+--
+26
+14
+24
+14
+89
+88
+43
+34
+44
+31
+44
+27
+42
+26
+39
+21
+36
+19
+--
+18
+28
+16
+25
+--
+--
+--
+88
+87
+42
+33
+43
+30
+43
+26
+41
+25
+38
+--
+34
+18
+32
+--
+27
+15
+24
+--
+23
+--
+87
+86
+41
+32
+42
+28
+42
+25
+40
+--
+37
+20
+33
+17
+31
+17
+26
+--
+23
+--
+--
+13
+86
+85
+--
+31
+41
+27
+41
+--
+39
+24
+34
+--
+32
+16
+30
+16
+25
+14
+--
+--
+22
+--
+85
+84
+40
+30
+40
+26
+40
+24
+38
+--
+33
+19
+--
+--
+29
+15
+24
+--
+22
+13
+21
+--
+84
+83
+39
+29
+38
+25
+38
+23
+36
+23
+32
+18
+31
+15
+28
+14
+23
+--
+21
+--
+20
+--
+83
+82
+38
+28
+37
+24
+37
+22
+34
+--
+--
+17
+30
+--
+27
+--
+--
+13
+20
+--
+19
+--
+82
+81
+--
+--
+--
+--
+36
+--
+33
+22
+31
+--
+29
+14
+25
+13
+22
+--
+19
+--
+18
+--
+81
+80
+37
+27
+35
+--
+35
+21
+--
+19
+30
+16
+28
+--
+23
+--
+21
+--
+18
+--
+17
+--
+80
+79
+36
+26
+34
+23
+34
+20
+32
+--
+29
+15
+27
+13
+22
+--
+20
+--
+--
+--
+16
+12
+79
+78
+35
+25
+33
+22
+33
+19
+--
+18
+28
+14
+26
+--
+--
+--
+19
+--
+17
+--
+--
+--
+78
+77
+34
+24
+32
+21
+32
+18
+31
+--
+27
+--
+25
+--
+21
+--
+18
+--
+--
+12
+15
+--
+77
+76
+33
+23
+31
+19
+--
+17
+30
+--
+26
+13
+23
+--
+--
+--
+17
+--
+16
+--
+14
+--
+76
+75
+32
+22
+--
+--
+31
+--
+29
+17
+25
+--
+22
+--
+20
+--
+--
+--
+15
+--
+--
+--
+75
+74
+--
+21
+--
+18
+30
+16
+28
+16
+24
+--
+21
+--
+19
+12
+16
+12
+--
+--
+13
+--
+74
+73
+31
+--
+30
+--
+29
+--
+26
+15
+23
+--
+20
+12
+18
+--
+--
+--
+14
+--
+--
+--
+73
+72
+30
+20
+27
+17
+27
+15
+24
+14
+22
+12
+--
+--
+17
+--
+15
+--
+--
+--
+--
+--
+72
+71
+29
+19
+26
+16
+26
+--
+23
+--
+21
+--
+19
+--
+16
+--
+14
+--
+13
+--
+12
+--
+71
+70
+28
+18
+25
+15
+23
+14
+22
+13
+20
+--
+18
+--
+15
+--
+--
+--
+--
+--
+--
+--
+70
+Reprinted from U.S. Army, “Army Fitness Test Score Tables: Hand-release Push-Up (HRP) (number of correctly performed repetitions
+in 2 minutes),” last modified June 1, 2025. Before consulting the above table, check for the latest update at: https://www
+.army.mil/e2/downloads/rv7/aft/AFT_Scoring_Scales_250601.pdf.
+839
+
+69
+27
+17
+22
+14
+21
+--
+21
+--
+19
+--
+17
+--
+14
+--
+13
+--
+--
+--
+--
+11
+69
+68
+25
+16
+21
+13
+--
+13
+20
+--
+17
+--
+16
+--
+13
+--
+--
+--
+12
+--
+11
+--
+68
+67
+24
+--
+--
+--
+--
+--
+19
+--
+16
+11
+15
+11
+--
+11
+12
+11
+--
+11
+--
+--
+67
+66
+23
+15
+20
+--
+20
+--
+17
+12
+15
+--
+14
+--
+12
+--
+--
+--
+--
+--
+--
+--
+66
+65
+22
+14
+17
+12
+18
+12
+16
+--
+14
+--
+13
+--
+--
+--
+--
+--
+11
+--
+--
+--
+65
+64
+20
+13
+16
+--
+16
+--
+14
+11
+13
+--
+12
+--
+--
+--
+11
+--
+--
+--
+--
+--
+64
+63
+17
+--
+14
+--
+14
+11
+13
+--
+12
+--
+--
+--
+11
+--
+--
+--
+--
+--
+--
+--
+63
+62
+16
+12
+13
+11
+12
+--
+12
+--
+--
+--
+11
+--
+--
+--
+--
+--
+--
+--
+--
+--
+62
+61
+13
+11
+12
+--
+11
+--
+11
+--
+11
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+61
+60
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+60
+Reprinted from U.S. Army, “Army Fitness Test Score Tables: Hand-release Push-Up (HRP) (number of correctly performed repetitions
+in 2 minutes),” last modified June 1, 2025. Before consulting the above table, check for the latest update at: https://www
+.army.mil/e2/downloads/rv7/aft/AFT_Scoring_Scales_250601.pdf.
+TABLE 14.19 YMCA Bench Press Norms
+Percentile*
+Age and sex
+18-25
+26-35
+36-45
+46-55
+56-65
+>65
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+M
+F
+90
+44
+42
+41
+40
+36
+33
+28
+29
+24
+24
+20
+18
+80
+37
+34
+33
+32
+29
+28
+22
+22
+20
+20
+14
+14
+70
+33
+28
+29
+28
+25
+24
+20
+18
+14
+14
+10
+10
+60
+29
+25
+26
+24
+22
+21
+16
+14
+12
+12
+10
+8
+50
+26
+21
+22
+21
+20
+17
+13
+12
+10
+9
+8
+6
+40
+22
+18
+20
+17
+17
+14
+11
+9
+8
+6
+6
+4
+30
+20
+16
+17
+14
+14
+12
+9
+7
+5
+5
+4
+3
+20
+16
+12
+13
+12
+10
+8
+6
+5
+3
+3
+2
+1
+10
+10
+6
+9
+6
+6
+4
+2
+1
+1
+1
+1
+0
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well
+below average
+Score is the number of repetitions completed in 1 minute using an 80-pound (36 kg) barbell for men and a 35-pound (16 kg)
+barbell for women.
+Adapted from YMCA (2000).
+TABLE 14.20 Descriptive Data for the Star Excursion Balance Test
+Score
+High school
+Collegiate
+ANT (%)
+69.9 ± 7.9
+70.3 ± 7.1
+PM (%)*
+83.5 ± 10.2
+86.7 ± 10.7
+ANT = Anterior
+PM = Posteromedial
+PL = Posterolateral
+COMP = Composite
+*Statistically significant difference between groups (N ≤ 0.05)
+Reprinted by permission from R.S. McCann, K.B. Kosik, M.Q. Beard, et al., “Variations in Star Excursion Balance Test Performance
+Between High School and Collegiate Football Players,” The Journal of Strength and Conditioning Research 29, no. 10 (2015): 2765-
+2770.
+840
+
+PL (%)*
+72.8 ± 11.4
+77.1 ± 10.2
+COMP (%)*
+75.4 ± 8.5
+78.0 ± 7.4
+ANT = Anterior
+PM = Posteromedial
+PL = Posterolateral
+COMP = Composite
+*Statistically significant difference between groups (N ≤ 0.05)
+Reprinted by permission from R.S. McCann, K.B. Kosik, M.Q. Beard, et al., “Variations in Star Excursion Balance Test Performance
+Between High School and Collegiate Football Players,” The Journal of Strength and Conditioning Research 29, no. 10 (2015): 2765-
+2770.
+TABLE 14.21 Normalized Reach Distance on the Star Excursion Balance Test
+for Each Limb, by Team
+Sex/Sport Anterior Posterolateral Posteromedial Composite
+Anterior Posterolateral Posteromedial Composite
+WOMEN
+DOMINANT LIMB
+NONDOMINANT LIMB
+Basketball
+64.3 ±
+6.9
+88.7 ± 8.0
+100.2 ± 7.1
+84.4 ± 6.5
+63.4 ±
+7.9
+85.7 ± 8.4
+101.5 ± 7.7
+83.5 ± 7.0
+(61.2,
+67.4)
+(85.1, 92.4)
+(97.0, 103.5)
+(81.5, 87.4)
+(59.8,
+67.0)
+(81.8, 89.6)
+(98.0, 105.0)
+(80.3, 86.7)
+Golf
+69.4 ±
+5.5
+86.5 ± 10.2
+105.3 ± 10.0
+87.0 ± 7.7
+67.6 ±
+4.4
+85.9 ± 8.7
+102.2 ± 7.8
+85.2 ± 6.2
+(65.4,
+73.3)
+(79.2, 93.8)
+(98.2, 112.4)
+(81.5, 92.6)
+(64.5,
+70.8)
+(79.7, 92.1)
+(96.7, 107.8)
+(80.8, 89.7)
+Hockey
+66.6 ±
+7.3
+93.1 ± 10.7
+110.3 ± 10.7
+90.0 ± 8.6
+67.0 ±
+6.9
+93.0 ± 11.0
+113.1 ± 7.6
+91.0 ± 7.5
+(64.1,
+69.1)
+(89.5, 96.8)
+(106.7, 114.0)
+(87.1, 92.9)
+(64.6,
+69.3)
+(89.2, 96.7)
+(110.5, 115.6)
+(88.5, 93.5)
+Soccer
+66.8 ±
+5.3
+88.7 ± 8.8
+104.3 ± 8.0
+86.6 ± 6.3
+67.4 ±
+5.2
+90.2 ± 9.9
+105.3 ± 8.1
+87.7 ± 6.7
+(65.1,
+68.5)
+(85.9, 91.5)
+(101.8, 106.8)
+(84.6, 88.6)
+(65.8,
+69.1)
+(89.1, 93.3)
+(102.8, 107.9)
+(85.5, 89.8)
+Softball
+63.5 ±
+5.6
+87.0 ± 11.3
+100.7 ± 8.8
+83.7 ± 7.5
+63.9 ±
+4.8
+85.3 ± 9.2
+99.6 ± 9.3
+82.9 ± 6.3
+(61.2,
+65.9)
+(82.4, 91.6)
+(97.1, 104.3)
+(80.6, 86.9)
+(61.9,
+65.8)
+(81.5, 89.1)
+(95.7, 103.4)
+(80.3, 85.5)
+Volleyball
+66.8 ±
+7.1
+86.6 ± 10.4
+102.7 ± 10.5
+85.4 ± 8.5
+65.3 ±
+5.4
+88.4 ± 9.5
+102.3 ± 7.9
+85.3 ± 6.9
+(63.6,
+69.9)
+(82.0, 91.2)
+(98.1, 107.4)
+(81.6, 89.2)
+(62.9,
+67.7)
+(84.2, 92.6)
+(98.8, 105.9)
+(82.3, 88.4)
+MEN
+DOMINANT LIMB
+NONDOMINANT LIMB
+Basketball
+61.8 ±
+4.3
+86.6 ± 11.6
+99.2 ± 7.8
+82.5 ± 5.9
+61.6 ±
+4.8
+86.9 ± 13.0
+97.9 ± 7.9
+82.1 ± 6.5
+(59.6,
+64.1)
+(80.6, 92.5)
+(95.2, 103.2)
+(79.5, 85.6)
+(59.2,
+64.1)
+(80.2, 93.6)
+(93.9, 102.0)
+(78.8, 85.5)
+*Values are mean ± SD (95% confidence interval) percent limb length.
+Reprinted by permission from M.R. Stiffler, J.L. Sanfilippo, M.A. Brooks, and B.C. Heiderscheit, “Star Excursion Balance Test
+Performance Varies by Sport in Healthy Division I Collegiate Athlete,” Journal of Orthopaedic & Sports Physical Therapy 45, no. 10
+(2015): 775.
+841
+
+Golf
+65.1 ±
+6.2
+83.9 ± 12.1
+103.7 ± 9.0
+84.2 ± 8.5
+68.2 ±
+4.7
+85.3 ± 10.2
+106.0 ± 7.2
+86.5 ± 5.9
+(61.2,
+69.1)
+(76.2, 92.6)
+(98.0, 109.4)
+(78.9, 89.6)
+(65.2,
+71.2)
+(78.9, 91.8)
+(101.4, 110.6)
+(82.8, 90.2)
+Hockey
+67.3 ±
+5.2
+95.6 ± 9.5
+110.9 ± 5.5
+91.3 ± 5.0
+67.6 ±
+4.0
+96.6 ± 10.6
+111.2 ± 5.7
+91.8 ± 5.6
+(65.6,
+69.0)
+(92.5, 98.7)
+(109.2, 112.7)
+(89.6, 92.9)
+(66.3,
+68.9)
+(93.2, 100.1)
+(109.4, 113.0)
+(90.0, 93.6)
+Soccer
+62.7 ±
+4.9
+89.9 ± 7.7
+103.5 ± 8.6
+85.4 ± 5.5
+62.9 ±
+5.0
+89.9 ± 8.3
+104.2 ± 8.8
+85.7 ± 5.9
+(61.1,
+64.2)
+(87.5, 92.4)
+(100.8, 106.2)
+(83.6, 87.1)
+(61.3,
+64.5)
+(87.3, 92.5)
+(101.4, 107.0)
+(83.8, 87.5)
+Football
+62.2 ±
+8.2
+88.6 ± 12.9
+99.8 ± 8.7
+83.5 ± 7.9
+61.9 ±
+7.3
+87.9 ± 13.0
+99.8 ± 8.9
+83.2 ± 8.0
+(60.4,
+64.0)
+(85.8, 91.5)
+(97.9, 101.7)
+(81.8, 85.3)
+(60.3,
+63.5)
+(85.1, 90.8)
+(97.9, 101.8)
+(81.4, 85.0)
+Wrestling
+66.7 ±
+6.7
+91.1 ± 11.9
+110.3 ± 11.1
+89.4 ± 8.2
+67.8 ±
+8.2
+90.8 ± 10.3
+111.0 ± 12.3
+89.9 ± 8.3
+(64.7,
+68.7)
+(87.6, 94.6)
+(107.0, 113.5)
+(87.0, 91.8)
+(65.4,
+70.2)
+(87.8, 93.8)
+(107.4, 114.6)
+(87.4, 92.3)
+*Values are mean ± SD (95% confidence interval) percent limb length.
+Reprinted by permission from M.R. Stiffler, J.L. Sanfilippo, M.A. Brooks, and B.C. Heiderscheit, “Star Excursion Balance Test
+Performance Varies by Sport in Healthy Division I Collegiate Athlete,” Journal of Orthopaedic & Sports Physical Therapy 45, no. 10
+(2015): 775.
+TABLE 14.22 Maximal Rate of Oxygen Consumption, 1.5-Mile (2.4 km) Run
+Time, Sit-and-Reach Test, and Body Composition: Percentile Rankings for 20-
+to 29-Year-Old Males
+Percentilea
+V̇O2max (mL · kg−1 · min−1)
+1.5-mile (2.4 km) run time, min:s
+Sit-and-reach testb
+Body fat (%)
+in.
+cm
+99
+60.5
+8:29
+4.2
+90
+54.0
+9:34
+22
+55.9
+7.9
+80
+51.1
+10:09
+20
+50.8
+10.5
+70
+47.5
+10:59
+19
+48.3
+12.6
+60
+45.6
+11:29
+18
+45.7
+14.8
+50
+43.9
+11:58
+17
+43.2
+16.6
+40
+41.7
+12:38
+15
+38.1
+18.6
+30
+39.9
+13:15
+14
+35.6
+20.7
+20
+38.0
+14:00
+13
+33.0
+23.3
+10
+34.7
+15:30
+11
+27.9
+26.6
+01
+26.5
+20:58
+33.4
+aDescriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+bSit and reach for 18- to 25-year-old men.
+Adapted from American College of Sports Medicine (2014).
+842
+
+TABLE 14.23 Maximal Rate of Oxygen Consumption, 1.5-Mile (2.4 km) Run
+Time, Sit-and-Reach Test, and Body Composition: Percentile Rankings for 20-
+to 29-Year-Old Females
+Percentilea
+V̇O2max (ml · kg−1 · min−1)
+1.5-mile (2.4 km) run time, min:s
+Sit-and-reach testb
+Body fat (%)
+in.
+cm
+99
+54.5
+9:30
+11.4
+90
+46.8
+11:10
+24
+61.0
+15.1
+80
+43.9
+11:58
+22
+55.9
+16.8
+70
+41.1
+12:51
+21
+53.3
+18.4
+60
+39.5
+13:24
+20
+50.8
+19.8
+50
+37.8
+14:04
+19
+48.3
+21.5
+40
+36.1
+14:50
+18
+45.7
+23.4
+30
+34.1
+15:46
+17
+43.2
+25.5
+20
+32.3
+16:46
+16
+40.6
+28.2
+10
+29.5
+18:33
+14
+35.6
+33.5
+01
+23.7
+23:58
+38.6
+aDescriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+bSit and reach for 18- to 25-year-old women.
+Adapted from American College of Sports Medicine (2014).
+TABLE 14.24 Maximal Rate of Oxygen Consumption, 1.5-Mile (2.4 km) Run
+Time, Sit-and-Reach Test, and Body Composition: Percentile Rankings for 30-
+to 39-Year-Old Males
+Percentilea
+V̇O2max (ml · kg−1 · min−1)
+1.5-mile (2.4 km) run time, min:s
+Sit-and-reach testb
+Body fat (%)
+in.
+cm
+99
+58.3
+8:49
+7.3
+90
+51.7
+10:01
+21
+53.3
+12.4
+80
+48.3
+10:46
+19
+48.3
+14.9
+70
+46.0
+11:22
+18
+45.7
+16.8
+60
+44.1
+11:54
+17
+43.2
+18.4
+50
+42.4
+12:24
+15
+38.1
+20.0
+40
+40.7
+12:58
+14
+35.6
+21.6
+30
+38.7
+13:44
+13
+33.0
+23.2
+20
+36.7
+14:34
+11
+27.9
+25.1
+10
+33.8
+15:57
+9
+22.9
+27.8
+01
+26.5
+20:58
+34.4
+aDescriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+bSit and reach for 26- to 35-year-old men.
+Adapted from American College of Sports Medicine (2014).
+843
+
+TABLE 14.25 Maximal Rate of Oxygen Consumption, 1.5-Mile (2.4 km) Run
+Time, Sit-and-Reach Test, and Body Composition: Percentile Rankings for 30-
+to 39-Year-Old Females
+Percentilea
+V̇O2max (ml · kg−1 · min−1)
+1.5-mile (2.4 km) run time, min:s
+Sit-and-reach testb
+Body fat (%)
+in.
+cm
+99
+52.0
+9:58
+11.2
+90
+45.3
+11:33
+23
+58.4
+15.5
+80
+42.4
+12:24
+22
+55.9
+17.5
+70
+39.6
+13:24
+21
+53.3
+19.2
+60
+37.7
+14:08
+20
+50.8
+21.0
+50
+36.7
+14:34
+19
+48.3
+22.8
+40
+34.2
+15:43
+17
+43.2
+24.8
+30
+32.4
+16:42
+16
+40.6
+26.9
+20
+30.9
+17:38
+15
+38.1
+29.6
+10
+28.0
+19:43
+13
+33.0
+33.6
+01
+22.9
+24:56
+39.0
+aDescriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+bSit and reach for 26- to 35-year-old women.
+Adapted from American College of Sports Medicine (2014).
+TABLE 14.26 V̇O2max Descriptive Data for Athletes in Various Sports
+Category
+Typical V̇O2max of athletes playing the sport (ml · kg−1 ·
+min−1)
+Sport
+Males
+Females
+Extremely
+high
+70+
+60+
+Cross-country skiing
+Middle-distance running
+Long-distance running
+Very high
+63-69
+54-59
+Bicycling
+Rowing
+Racewalking
+High
+57-62
+49-53
+Soccer
+Middle-distance swimming
+Canoe racing
+Handball
+Racquetball
+Speedskating
+Figure skating
+Downhill skiing
+Wrestling
+Above
+average
+52-56
+44-48
+Basketball
+Ballet dancing
+American football (offensive, defensive
+backs)
+Gymnastics
+Hockey
+Horse racing (jockey)
+Data from Nieman (1995).
+844
+
+Sprint swimming
+Tennis
+Sprint running
+Jumping
+Average
+44-51
+35-43
+Baseball, softball
+American football (linemen, quarterbacks)
+Shot put
+Discus throw
+Weightlifting
+Bodybuilding
+Data from Nieman (1995).
+TABLE 14.27 Percentile Ranks for the 12-Minute Run
+Percentile*
+Age (years) and distance
+20-29
+30-39
+40-49
+km
+miles
+km
+miles
+km
+miles
+MEN
+90
+2.90
+1.80
+2.82
+1.75
+2.72
+1.69
+80
+2.78
+1.73
+2.67
+1.66
+2.57
+1.60
+70
+2.62
+1.63
+2.56
+1.59
+2.46
+1.53
+60
+2.54
+1.58
+2.48
+1.54
+2.40
+1.49
+50
+2.46
+1.53
+2.40
+1.49
+2.30
+1.43
+40
+2.37
+1.47
+2.32
+1.44
+2.22
+1.38
+30
+2.29
+1.42
+2.24
+1.39
+2.14
+1.33
+20
+2.20
+1.37
+2.14
+1.33
+2.06
+1.28
+10
+2.06
+1.28
+2.01
+1.25
+1.95
+1.21
+WOMEN
+90
+2.59
+1.61
+2.53
+1.57
+2.43
+1.51
+80
+2.46
+1.53
+2.40
+1.49
+2.27
+1.41
+70
+2.35
+1.46
+2.27
+1.41
+2.20
+1.37
+60
+2.27
+1.41
+2.19
+1.36
+2.11
+1.31
+50
+2.20
+1.37
+2.14
+1.33
+2.04
+1.27
+40
+2.12
+1.32
+2.04
+1.27
+1.96
+1.22
+30
+2.03
+1.26
+1.95
+1.21
+1.90
+1.18
+20
+1.95
+1.21
+1.88
+1.17
+1.82
+1.13
+10
+1.82
+1.13
+1.75
+1.09
+1.70
+1.05
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+Adapted from American College of Sports Medicine (2014).
+TABLE 14.28 Descriptive Data* for Yo-Yo Intermittent Recovery Test for
+Various Populations
+Group, sport, or position
+Number of athletes
+Yo-Yo IR1
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+845
+
+Distance (m)
+Distance (yd)
+National soccer—men (106)
+18
+2,260 ± 80
+2,472 ± 87
+National soccer—men (106)
+24
+2,040 ± 60
+2,231 ± 66
+National rugby league—men (4)
+23
+1,656 ± 403
+1,811 ± 441
+Semi-professional rugby league—men (4)
+27
+1,564 ± 415
+1,710 ± 454
+National soccer—women (108)
+17
+1,224 ± 255
+1,339 ± 279
+National soccer—men (108)
+17
+2,414 ± 456
+2,640 ± 499
+National junior soccer—women (108)
+17
+826 ± 160
+903 ± 175
+National junior soccer—men (108)
+17
+2,092 ± 260
+2,288 ± 284
+Under 17 soccer—men (37)
+60
+1,556 ± 478
+1,702 ± 523
+Under 16 rugby union—men (117)
+150
+1,150 ± 403
+1,258 ± 441
+Under 14 elite basketball—men (152)
+15
+1,100 ± 385
+1,203 ± 421
+Under 15 elite basketball—men (152)
+15
+1,283 ± 461
+1,403 ± 504
+Under 17 elite basketball—men (152)
+17
+1,412 ± 245
+1,544 ± 268
+Under 18 Gaelic football—men (34)
+265
+1,465 ± 370
+1,602 ± 405
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+846
+
+847
+
+FIGURE 14.34 30-15 IFT performance among athletes of different ages, sports, and playing standards: (a) male and (b) female.
+Adapted by permission from Buchheit, M, Dikmen, U, and Vassallo, C. The 30-15 intermittent fitness test—two decades of learnings. SPSR 148:1-13, 2021.
+TABLE 14.29 Descriptive Data* for Change-of-Direction Tests for Various
+Populations
+Group, sport, or position
+Number of athletes
+Time (s)
+5-10-5
+T-test
+5-0-5
+Hexagon
+College soccer—women (154)
+51
+4.88 ± 0.20
+High school soccer—women (154)
+83
+4.91 ± 0.22
+College lacrosse—women (154)
+79
+4.99 ± 0.24
+National softball—women (112)
+10
+2.66 ± 0.14
+National basketball—women (140)
+12
+2.69 ± 0.28
+College students—women (130)
+34
+11.92 ± 0.52
+College students—men (130)
+52
+10.08 ± 0.46
+NCAA Division II college soccer—men (93)
+12
+4.80 ± 0.33
+Recreational athletes—women (143)
+20
+5.23 ± 0.25
+11.70 ± 0.67
+Recreational athletes—men (143)
+24
+4.67 ± 0.21
+10.31 ± 0.46
+High school rugby league—men (142)
+70
+2.42 ± 0.12
+High school rugby league—men (50)
+28
+2.30 ± 0.13
+High school rugby league—men (147)
+302
+2.49 ± 0.14
+High school rugby league—men (147)
+870
+2.51 ± 0.15
+Junior national volleyball—men (47)
+14
+9.90 ± 0.17
+Junior national volleyball—women (47)
+15
+10.33 ± 0.13
+NCAA Division I college lacrosse—women (153)
+84
+4.99 ± 0.23
+NCAA Division III college lacrosse—women (73)
+11
+4.92 ± 0.22
+10.50 ± 0.60
+MLB baseball—men (74)
+62
+4.42 ± 0.90
+AAA baseball—men (74)
+52
+4.53 ± 0.20
+AA baseball—men (74)
+50
+4.42 ± 0.68
+A baseball—men (74)
+84
+4.48 ± 0.54
+Rookie baseball—men (74)
+90
+4.54 ± 0.19
+High school volleyball—women (131)
+27
+10.96 ± 0.58
+NCAA Division I volleyball—women (131)
+26
+10.65 ± 0.52
+Recreational athletes—women (118)
+52
+12.52 ± 0.90
+13.21 ± 1.68
+Recreational athletes—men (118)
+58
+10.49 ± 0.89
+12.33 ± 1.47
+College athletes—women (118)
+56
+10.94 ± 0.60
+12.87 ± 1.48
+College athletes—women (118)
+47
+9.94 ± 0.50
+12.29 ± 1.39
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+TABLE 14.30 Percentile Ranks for the 5-10-5 (Previously Pro Agility) Test
+(Seconds) in NCAA Division I College Athletes
+848
+
+Percentile*
+Women’s
+volleyball
+Women’s
+basketball
+Women’s
+softball
+Men’s
+basketball
+Men’s
+baseball
+Men’s American
+football
+90
+4.75
+4.65
+4.88
+4.22
+4.25
+4.21
+80
+4.84
+4.82
+4.96
+4.29
+4.36
+4.31
+70
+4.91
+4.86
+5.03
+4.35
+4.41
+4.38
+60
+4.98
+4.94
+5.10
+4.39
+4.46
+4.44
+50
+5.01
+5.06
+5.17
+4.41
+4.50
+4.52
+40
+5.08
+5.10
+5.24
+4.44
+4.55
+4.59
+30
+5.17
+5.14
+5.33
+4.48
+4.61
+4.66
+20
+5.23
+5.23
+5.40
+4.51
+4.69
+4.76
+10
+5.32
+5.36
+5.55
+4.61
+4.76
+4.89
+Mean
+5.03
+5.02
+5.19
+4.41
+4.53
+4.54
+SD
+0.20
+0.26
+0.26
+0.18
+0.23
+0.27
+n
+81
+128
+118
+97
+165
+869
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+Data collected using electronic timing devices. SD = standard deviation, n = number of athletes.
+Adapted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 36-38, 55-58, 113.
+TABLE 14.31 Descriptive Data for the Illinois Test: Boys 14 to 16 Years
+Evaluation
+Limits
+%
+Number of people included in the group
+High
+<15.83 s
+2.28
+0
+Above average
+15.83-16.93 s
+13.59
+4
+Average
+16.94-19.13 s
+68.27
+12
+Below average
+19.14-20.23 s
+13.59
+3
+Low
+>20.23 s
+2.28
+1
+Reprinted by permission from Z. Boyan and V. Batchev, “Investigation on the ‘Agility’ Skill at 14- to 16-Year Old Students by Illinois
+Agility Test,” National Sports Academy ‘Vasil Levski’ (2019): 444. https://doi.org/10.37393/icass2019/82.
+TABLE 14.32 Descriptive Data for the Illinois Test: Boys and Girls 16 to 19
+Years
+Evaluation
+Sex
+Male
+Female
+Excellent
+<15.2 s
+<17.0 s
+Above average
+15.2-16.1 s
+17.0-17.9 s
+Average
+16.2-18.1 s
+18.0-21.7 s
+Below average
+18.2-18.3 s
+21.8-23.0 s
+Low
+>18.3 s
+>23.0 s
+TABLE 14.33 Descriptive Data* for Speed Testing for Various Populations
+Group, sport, or position
+Number of athletes
+Time (s)
+10 m
+20 m
+40 m
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+849
+
+College soccer—women (154)
+51
+3.38 ± 0.17
+5.99 ± 0.29
+High school soccer—women (154)
+83
+3.33 ± 0.15
+5.94 ± 0.28
+College lacrosse—women (154)
+79
+3.37 ± 0.14
+5.97 ± 0.27
+NCAA Division I college soccer—women (97)
+15
+2.31 ± 0.25
+Under 16 rugby league—men (149)
+67
+1.82 ± 0.07
+3.13 ± 0.00
+Under 17 rugby league—men (149)
+50
+1.81 ± 0.06
+3.12 ± 0.10
+Under 18 rugby league—men (149)
+56
+1.80 ± 0.06
+3.09 ± 0.10
+Under 19 rugby league—men (149)
+89
+1.82 ± 0.07
+3.11 ± 0.12
+Under 20 rugby league—men (149)
+22
+1.79 ± 0.06
+3.07 ± 0.12
+National soccer—men (149)
+17
+1.82 ± 0.30
+3.00 ± 0.30
+National rugby league—men (7)
+20
+1.61 ± 0.06
+5.15 ± 0.02
+State rugby league—men (7)
+20
+1.66 ± 0.06
+5.13 ± 0.02
+National rugby league forwards—men (30)
+12
+1.66 ± 0.20
+3.00 ± 0.08
+National rugby league backs—men (30)
+6
+1.65 ± 0.15
+2.91 ± 0.10
+State rugby league—men (50)
+26
+2.06 ± 0.18
+3.36 ± 0.23
+5.83 ± 0.31
+National rugby union—men (33)
+30
+1.69 ± 0.10
+2.93 ± 0.20
+National rugby league forwards—men (102)
+63
+5.27 ± 0.19
+National rugby league backs—men (102)
+55
+5.08 ± 0.20
+National badminton—men (155)
+12
+1.94 ± 0.18
+3.35 ± 0.30
+National rugby league—men (48)
+58
+1.73 ± 0.07
+5.25 ± 0.17
+Under 18 elite rugby league—men (50)
+28
+1.81 ± 0.08
+3.11 ± 0.12
+5.56 ± 0.22
+Under 18 sub-elite rugby league—men (50)
+36
+1.94 ± 0.11
+3.28 ± 0.18
+5.83 ± 0.35
+High school rugby league—men (147)
+302
+1.88 ± 0.12
+3.23 ± 0.16
+High school rugby league—men (147)
+870
+1.90 ± 0.12
+3.27 ± 0.19
+Junior national volleyball—women (47)
+20
+1.90 ± 0.01
+Junior national volleyball—men (47)
+14
+1.80 ± 0.02
+Under 18 Australian rules football—men (164)
+177
+3.13 ± 0.09
+NCAA Division III college soccer—men (93)
+12
+1.96 ± 0.11
+5.79 ± 0.31
+NCAA Division I college soccer—men (136)
+27
+1.70 ± 0.10
+4.90 ± 0.20
+National Australian rules football—men (163)
+35
+1.89 ± 0.07
+3.13 ± 0.10
+5.40 ± 0.17
+National Australian rules football—men (163)
+30
+1.70 ± 0.06
+2.94 ± 0.08
+National soccer—women (65)
+85
+1.67 ± 0.07
+National soccer—women (65)
+47
+1.70 ± 0.07
+National soccer—women (1)
+17
+3.17 ± 0.03
+National soccer—men (141)
+270
+2.27 ± 0.40
+3.38 ± 0.70
+Under 18 Gaelic football—men (34)
+265
+3.22 ± 0.15
+Group, sport, or position
+Number of athletes
+Time (s)
+10 yd
+20 yd
+40 yd
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+850
+
+NCAA Division I college lacrosse—women (153)
+1.99 ± 0.10
+3.37 ± 0.14
+5.97 ± 0.26
+MLB baseball—men (74)
+62
+1.52 ± 0.10
+AAA baseball—men (74)
+52
+1.55 ± 0.09
+NCAA Division I football—men (45)
+281
+4.88 ± 0.27
+NCAA Division II football—men (45)
+282
+4.92 ± 0.26
+NCAA Division III football—men (45)
+205
+4.96 ± 0.27
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+TABLE 14.34 Normative Data for the Balance Error Scoring System Test
+Age
+Women
+Men
+20-29
+11.9 ± 5.1
+10.4 ± 4.4
+30-39
+11.4 ± 5.6
+11.5 ± 5.5
+40-49
+12.7 ± 6.9
+12.4 ± 5.7
+50-54
+15.1 ± 8.2
+13.6 ± 6.9
+55-59
+16.7 ± 8.2
+16.4 ± 7.2
+60-64
+19.3 ± 8.8
+17.2 ± 7.1
+65-69
+19.9 ± 6.6
+20.0 ± 7.3
+Adapted from Iverson and Koehle (2013).
+TABLE 14.35 Equations for Calculating Estimated Body Density From
+Skinfold Measurements Among Various Populations
+SKF sitesa
+Population
+subgroups
+Sex
+Age
+Equation
+Reference
+Σ7SKF (chest + abdomen + triceps +
+subscapular + suprailiac + midaxilla +
+thigh)
+Black or Hispanic
+Women
+18-55 years
+Db (g/cc)b = 1.0970
+− 0.00046971
+(Σ7SKF)
++ 0.00000056
+(Σ7SKF)2
+− 0.00012828 (age)
+Jackson et al.
+(82)
+Σ7SKF (chest + abdomen + triceps +
+subscapular + suprailiac + midaxilla +
+thigh)
+Black or athletes
+Men
+18-61 years
+Db (g/cc)b = 1.1120
+− 0.00043499
+(Σ7SKF)
++ 0.00000055
+(Σ7SKF)2
+− 0.00028826 (age)
+Jackson and
+Pollock (80)
+Σ4SKF (triceps + anterior suprailiac +
+abdomen + thigh)
+Athletes
+Women
+18-29 years
+Db (g/cc)b =
+1.096095
+− 0.0006952
+(Σ4SKF)
+− 0.0000011
+(Σ4SKF)2
+− 0.0000714 (age)
+Jackson et al.
+(82)
+a∑SKF = sum of skinfolds (mm); Db = body density.
+bUse population-specific conversion formulas (see table 14.36) to calculate %BF from Db.
+cMale athletes = 1; female athletes = 0.
+dBlack athletes = 1; white athletes = 0.
+Adapted by permission from A.L. Gibson, D.R. Wagner, and V.H. Heyward, Advanced Fitness Assessment and Exercise Prescription,
+9th ed. (Human Kinetics, 2025), 273.
+851
+
+Σ3SKF (triceps + suprailiac + thigh)
+White or
+anorexic
+Women
+18-55 years
+Db (g/cc)b =
+1.0994921
+− 0.0009929
+(Σ3SKF)
++ 0.0000023
+(Σ3SKF)2
+− 0.0001392 (age)
+Jackson et al.
+(82)
+Σ3SKF (chest + abdomen + thigh)
+White
+Men
+18-61 years
+Db (g/cc)b =
+1.109380
+− 0.0008267
+(Σ3SKF)
++ 0.0000016
+(Σ3SKF)2
+− 0.0002574 (age)
+Jackson and
+Pollock (82)
+Σ2SKF (triceps + calf)
+Black or white
+Boys
+6-17 years
+%BF = 0.735
+(Σ2SKF) + 1.0
+Slaughter et al.
+(137)
+Σ2SKF (triceps + calf)
+Black or white
+Girls
+6-17 years
+%BF = 0.610
+(Σ2SKF) + 5.1
+Slaughter et al.
+(137)
+Suprailiac, triceps
+Athletes
+Women
+High school
+and college age
+Db (g/cc)b = 1.0764
+− (0.00081 ×
+suprailiac)
+− (0.00088 ×
+triceps)
+Sloan and Weir
+(138)
+Thigh, subscapular
+Athletes
+Men
+High school
+and college age
+Db (g/cc)b = 1.1043
+− (0.00133 × thigh)
+− (0.00131 ×
+subscapular)
+Sloan and Weir
+(138)
+Σ3SKF (triceps + abdomen + thigh)
+Athletes
+Men or
+women
+18-34 years
+%BF = 8.997 +
+0.24658 (S3SKF)
+− 6.343 (genderc)
+− 1.998 (raced)
+Evans et al. (41)
+a∑SKF = sum of skinfolds (mm); Db = body density.
+bUse population-specific conversion formulas (see table 14.36) to calculate %BF from Db.
+cMale athletes = 1; female athletes = 0.
+dBlack athletes = 1; white athletes = 0.
+Adapted by permission from A.L. Gibson, D.R. Wagner, and V.H. Heyward, Advanced Fitness Assessment and Exercise Prescription,
+9th ed. (Human Kinetics, 2025), 273.
+TABLE 14.36 Population-Specific Two-Component Model Formulas for
+Converting Body Density to Percent Body Fat
+Population
+Age (yr)
+Sex
+%BFa
+FFBd (g· cc−1)b
+RACE OR ETHNICITY
+African American
+9-17
+Female
+(5.24/Db) − 4.82
+1.088
+19-45
+Male
+(4.86/Db) − 4.39
+1.106
+24-79
+Female
+(4.85/Db) − 4.39
+1.106
+American Indian
+18-62
+Male
+(4.97/Db) − 4.52
+1.099
+FFBd = fat-free body density; Db = body density; %BF = percent body fat; NA = no data available for this population subgroup.
+aMultiply value by 100 to calculate %BF.
+bFFBd based on average values reported in selected research articles.
+Adapted by permission from A.L. Gibson, D.R. Wagner, and V.H. Heyward, Advanced Fitness Assessment and Exercise Prescription,
+9th ed. (Human Kinetics, 2025), 273.
+852
+
+18-60
+Female
+(4.81/Db) − 4.34
+1.108
+Japanese Native
+18-48
+Male
+(4.97/Db) − 4.52
+1.099
+Female
+(4.76/Db) − 4.28
+1.111
+61-78
+Male
+(4.87/Db) − 4.41
+1.105
+Female
+(4.95/Db) − 4.50
+1.100
+Singaporean (Chinese, Indian, Malay)
+Male
+(4.94/Db) − 4.48
+1.102
+Female
+(4.84/Db) − 4.37
+1.107
+White
+8-12
+Male
+(5.27/Db) − 4.85
+1.086
+Female
+(5.27/Db) − 4.85
+1.086
+13-17
+Male
+(5.12/Db) − 4.69
+1.092
+Female
+(5.19/Db) − 4.76
+1.090
+18-59
+Male
+(4.95/Db) − 4.50
+1.100
+Female
+(4.96/Db) − 4.51
+1.101
+60-90
+Male
+(4.97/Db) − 4.52
+1.099
+Female
+(5.02/Db) − 4.57
+1.098
+Hispanic
+20-40
+Male
+NA
+NA
+Female
+(4.87/Db) − 4.41
+1.105
+ATHLETES
+Resistance trained
+24 ± 4
+Male
+(5.21/Db) − 4.78
+1.089
+35 ± 6
+Female
+(4.97/Db) − 4.52
+1.099
+Aerobic endurance trained
+21 ± 2
+Male
+(5.03/Db) − 4.59
+1.097
+21 ± 4
+Female
+(4.95/Db) − 4.50
+1.100
+All sports
+18-22
+Male
+(5.12/Db) − 4.68
+1.093
+18-22
+Female
+(4.97/Db) − 4.52
+1.099
+CLINICAL POPULATIONS
+Anorexia nervosa
+15-44
+Female
+(4.96/Db) − 4.51
+1.101
+Obesity
+17-62
+Female
+(4.95/Db) − 4.50
+1.100
+Spinal cord injury (paraplegic or quadriplegic)
+18-73
+Male
+(4.67/Db) − 4.18
+1.116
+Female
+(4.70/Db) − 4.22
+1.114
+FFBd = fat-free body density; Db = body density; %BF = percent body fat; NA = no data available for this population subgroup.
+aMultiply value by 100 to calculate %BF.
+bFFBd based on average values reported in selected research articles.
+Adapted by permission from A.L. Gibson, D.R. Wagner, and V.H. Heyward, Advanced Fitness Assessment and Exercise Prescription,
+9th ed. (Human Kinetics, 2025), 273.
+TABLE 14.37 Percent Body Fat Descriptive Data for Athletes in Various
+Sports
+Classification
+Typical percent body fat of athletes playing the
+sport
+Sport
+Males
+Females
+Data from D.C. Nieman, Fitness and Sports Medicine: A Health-Related Approach, 3rd ed. (Bull Pub. Co., 1995).
+853

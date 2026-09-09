@@ -1,0 +1,4310 @@
+CHAPTER 20
+PROGRAM DESIGN AND
+TECHNIQUE FOR SPEED AND
+AGILITY TRAINING
+Thomas Dos’Santos, PhD, and Paul A. Jones,
+PhD
+The authors would like to acknowledge the significant contributions of Brad H.
+DeWeese, Sophia Nimphius, and Steven S. Plisk to this chapter.
+After completing this chapter, you will be able to
+describe the underlying biomechanical constructs of sprint,
+change-of-direction, maneuverability, and agility performance;
+apply fundamental biomechanical movement principles to the
+coaching of locomotion modes and techniques;
+analyze the abilities and skills needed to perform specific
+movement tasks;
+effectively monitor the development of sprint, change-of-
+direction, and agility abilities;
+apply evidence-based methods for developing speed, change of
+direction, and agility; and
+design and implement training programs to maximize athletic
+performance.
+1398
+
+This chapter addresses the development of speed, change-of-
+direction, and agility abilities. Although the term speed is often used
+when an athlete displays one or all of these aspects of physical
+performance, it is critical to understand that athlete development
+requires various underpinning physical capacities and skills as a
+result of differing biomechanical requirements. These three
+important aspects of physical performance can be defined as
+follows:
+Speed. The skills and abilities needed to achieve high
+movement velocities
+Change of direction. The skills and abilities needed to
+explosively change movement direction, velocities, or modes
+Agility. The skills and abilities needed to change direction,
+velocity, or mode in response to a stimulus
+The ability to outrun and maneuver the competition is a hallmark
+of most athletic endeavors. Further, the ability to change direction
+rapidly during an activity can mute the effect of an opponent’s speed
+or provide both physical and tactical advantages on the field of play.
+Although it may seem that these scenarios all involve the “speed” of
+an athlete, this perceived speed may be a result of one quality or a
+combination of the three qualities just listed. Within sport, high-
+speed human locomotion can be categorized as linear or
+multidirectional. Generating high speeds linearly, more commonly
+referred to as sprinting, is the underlying requirement for success in
+many track and field events as well as open-field running in game-
+based contexts. While linear speed is important in team sports, play
+is primarily multidirectional. As a result, these athletes’ success
+partially depends on responding to ever-changing game scenarios
+through fast, efficient changes of direction and decelerations,
+whereas speed requires the ability to accelerate and reach maximal
+velocity.
+Because of the nature of most sports, there are scenarios in
+which athletes have a predetermined change of direction to make
+1399
+
+and they are limited only by their physical capacity to perform this
+activity (e.g., a route, play, or predetermined pattern). The physical
+capacity 
+to 
+change 
+direction 
+while 
+decelerating 
+and 
+then
+reaccelerating, sometimes using a different mode of travel, is
+change-of-direction (COD) ability, whereas agility requires the
+use of perceptual-cognitive ability in combination with change-of-
+direction ability. This highlights the similar and contrasting qualities
+of speed, change of direction, and agility. For example,
+acceleration is a part of change-of-direction ability and agility, but
+additional aspects such as deceleration ability and mode of
+movement differentiate the training for speed from the training for
+change of direction and agility. The physical capacity to change
+direction may be a component of agility (i.e., action capacity), but
+the perceptual-cognitive component influences the physical demands
+of agility. Therefore, while reading this chapter, one should
+understand that although these qualities overlap some, differing
+physical, technical, or perceptual-cognitive development is required
+to improve each of these aspects of physical performance.
+When athletes are sprinting or changing direction, their
+performance is a function of physical capacity and technical
+proficiency. While biomechanical and metabolic efficiency underpin
+performance in aerobic sport, effective application of force (net
+impulse) limits speed, change of direction, and agility. Simply put, an
+athlete’s success in these explosive movements is the product of an
+athlete’s strength capacity combined with the ability to use this
+strength within the constraints of the activity. Strength is often
+associated with an athlete’s capacity to produce force, but it is
+important to understand that while high levels of maximal strength
+are desirable attributes in sport, sprint, COD, and agility events occur
+in periods that prevent athletes from producing and expressing their
+maximal strength, thus the rate at which net forces are produced is
+essential.
+Within sprinting, the application of force allows the athlete to
+accelerate, attain high velocities, and attempt to maintain the high
+1400
+
+velocities. In addition to the force application associated with
+acceleration and attainment of velocity in sprinting, COD ability
+requires effective application of force to decelerate, deflect the
+center of mass, and then reaccelerate in another direction. Further
+still, agility performance is considered a function of the athlete’s
+ability not only to change direction but also specifically to change
+direction in response to a stimulus (4) such as a defender or ball;
+this is known as perception–action coupling. For this reason,
+strength and conditioning professionals must be aware of their
+training 
+choices 
+regarding 
+the 
+development 
+of 
+physical
+characteristics that assist in promoting speed, COD, and agility on
+both the track and the field.
+Speed requires the ability to accelerate and reach
+maximal velocity, whereas agility performance requires
+the use of perceptual- cognitive ability in combination
+with the ability to decelerate and then reaccelerate in an
+intended direction.
+1401
+
+Speed and Agility Mechanics
+To execute movement techniques, athletes must apply force—the
+product of mass and acceleration. Due to the limited available time
+to produce force during most athletic activities, two variables
+describe force relative to the time available to produce force:
+Rate of force development (RFD)—The development of
+maximal force in minimal time, typically used as an indicator of
+explosive strength (3).
+Impulse—The product of the generated force and the time
+required for its production, which is measured as the area
+under the force–time curve. According to the impulse–
+momentum 
+relationship, 
+net 
+impulse 
+dictates 
+the
+magnitude of change of momentum of an object. Because
+mass remains constant in most sporting scenarios, increases in
+net impulse are therefore proportionate to changes in velocity.
+Physics of Sprinting, Change of Direction,
+and Agility
+Force represents the interaction of two physical objects. Force is a
+vector quantity, meaning that it has both magnitude (size) and
+direction. Traditionally, force is described as a push or a pull exerted
+on one object by another, which prevents both objects from
+occupying the same space. This movement of mass changes an
+object’s velocity, causing acceleration.
+Within the strength and conditioning profession, velocity and
+speed are often used interchangeably. For a proper discussion on
+sprint and agility performance, these terms need to be separated.
+Speed is a scalar quantity, which means that it describes only how
+fast an object is moving. Speed is the rate at which an object covers
+a distance. Like force, velocity is a vector quantity. Velocity
+describes both how fast an object is traveling and its direction. In
+short, velocity is speed with a direction.
+1402
+
+Acceleration refers to the rate at which an object’s velocity
+changes over time. Once a force acts on a physical object, the mass
+will change direction and leave the space it was occupying.
+Acceleration of the object will continue if external forces continue to
+change velocity. In practical settings, deceleration replaces negative
+acceleration in describing a change from higher to lower velocity.
+Rate of Force Development
+Within the sporting context, the ability to produce force rapidly is
+arguably a more desirable trait than maximal force production given
+the time constraints associated with most high-intensity actions
+(100). While the ability to generate high levels of maximal force has
+been shown to improve performance in jump height and other
+athletic measures, most competitive scenarios do not occur within a
+time frame that allows an athlete to generate maximal forces (27).
+Specifically, the generation of maximal contraction force takes at
+least 300 milliseconds, while many sport activities consume 0 to 200
+milliseconds (figure 20.1) (1). For this reason, in sport settings
+where success is restricted to timing of movement, RFD is a more
+useful measure of an athlete’s impulsive ability (5). RFD can be
+described as the change in force divided by the change in time
+(100).
+1403
+
+FIGURE 20.1 Force as a function of time, indicating maximum strength, rate of force
+development (RFD), and force at 0.2 seconds for untrained (solid blue line), heavy
+resistance–trained (dashed yellow line), and explosive-ballistic–trained (dotted black line)
+subjects. Impulse is the change in momentum resulting from a force, measured as the
+product of force and time (represented by the area under each curve), and is increased by
+improving RFD. When functional movements are performed, force is typically applied very
+briefly—often for 0.1 to 0.2 seconds—whereas absolute maximum force development may
+require 0.6 to 0.8 seconds.
+Reprinted by permission from K. Häkkinen, M. Alen, and P.V. Komi, “Changes in Electrical and Mechanical Behavior of
+Leg Extensor Muscle During Heavy Resistance Strength Training,” Acta Physiologica Scandinavic 125 (1985): 573-585;
+and K. Häkkinen, P.V. Komi, and M. Alen, “Effect of Explosive Type Strength Training on Isometric Force- and
+Relaxation Time, Electromyographic and Muscle Fibre Characteristics of Leg Extensor Muscles,” Acta Physiologica
+Scandinavica 125 (1985): 587-600.
+The ability to accelerate a mass depends on a change in velocity
+resulting from the application of an external force. Therefore, from a
+practical standpoint, an athlete wishing to achieve higher
+acceleration capabilities should apply forces at a greater rate and
+orient force in the optimal direction (84).
+Impulse
+For an object to change its position, forces must be applied (to
+overcome inertia) to produce a change in velocity. Athletes
+attempting to increase locomotor speeds through the production of
+force never apply force instantaneously. In fact, force is applied to
+1404
+
+the running surface over a period of time (i.e., impulse) in the stance
+phase of sprinting (figure 20.2) or in the plant phase of changing
+direction. The length of time athletes are in this stance or plant
+phase is termed their ground contact time. The product of the
+time the force is applied to the ground and the amount of force
+applied is termed impulse and can be graphically represented as the
+area under a force–time curve. Changes in impulse result in changes
+of the athlete’s momentum and therefore the ability to either
+accelerate or decelerate, thus underpinning human locomotion.
+FIGURE 20.2 Sprint ground reaction force and impulse during the (a) acceleration phase
+and (b) maximal-velocity phase. Wb = body weight.
+Figure 20.2 demonstrates how the vertical and horizontal forces
+differ in magnitude when the acceleration phase (figure 20.7 on
+page 645) is compared to the maximal-velocity phase (figure 20.8 on
+page 646), which reflects the two different body positions used to
+produce force through maximal extension. Further, these two
+diagrams demonstrate the concept of impulse (represented as the
+area under the force–time curve) during the braking phase,
+indicated by a negative horizontal force, or during the propulsive
+phase that occurs where there is a positive horizontal force. These
+two phases of impulse are indicated by the vertical dotted line. It
+1405
+
+should be noted that during maximal-velocity phases, production of
+force is asymmetrical and the RFD is very high, resulting in much
+shorter ground contact times in comparison to the acceleration
+phase.
+Momentum is defined as the product between the mass of an
+object and the velocity of movement. During a sprint, an athlete’s
+body mass remains constant. Thus, given the same time frame, the
+only way to achieve a greater impulse is to generate greater net
+force. This increase in net impulse leads to an increase in
+momentum or a decrease in momentum, depending on whether the
+athlete is intending to accelerate or reaccelerate or decelerate before
+a COD or as an isolated action. In other words, a change in impulse
+results in a change in momentum and is the cause of an object’s
+movement.
+Within human locomotion, the magnitude of the force coupled
+with the length of time the force is produced during an individual
+step is paramount to success. Changes in these forces can increase
+or decrease the athlete’s momentum. For this reason, training should
+focus on developing impulse—the area under the force–time curve—
+in addition to RFD.
+Power has not been discussed here because it is derived from
+force and velocity. Therefore, power is considered a mechanical
+construct and, practically speaking, it can be more useful to directly
+measure the characteristics that determine power production (e.g.,
+force and velocity), because measurement of power alone does not
+give insight into the performance in a way that is fully useful to
+practitioners. In understanding that force, RFD, and impulse are
+direct, underlying characteristics that dictate explosive performance,
+one does not require a more complex derived value to gain
+additional insight.
+Practical Implications for Speed
+To displace their body mass down a track or field, athletes must
+produce forces sufficient to overcome the effects of gravity and
+1406
+
+create a positive change in velocity. Within a short sprint, force is the
+effort needed to accelerate an athlete up to his or her highest
+achievable speeds, which are largely determined by physiological
+factors. These forces or efforts are produced rapidly, with time
+constraints that are shorter than the time needed for maximal
+voluntary force production. For this reason, rate of force production
+may be a more important factor for sprinting success. Moreover,
+since sprinting success is largely dependent on the production of
+forces within a short amount of time, impulse is an important
+underlying factor.
+Practical Implications for Change of
+Direction and Agility
+In addition to the requirement for acceleration, the production of
+braking forces over certain periods of time, or foot contacts, termed
+braking impulse, should be considered during COD, deceleration,
+and agility maneuvers. The amount of impulse required to change
+momentum effectively and efficiently is a direct reflection of the
+physical requirements for COD. For example, as the angle of
+directional change required typically increases or the entry velocity
+into the COD increases, so does the impulse required to change
+momentum and deflect the center of mass; therefore, it is physically
+more demanding to perform such activities. Further, the time
+restraints placed on a performer due to the perceptual-cognitive
+aspects of agility can influence the physical demands by limiting the
+time available to produce the required force (and impulse) to
+successfully change direction in response to a stimulus.
+Speed requires the ability to accelerate and reach
+maximal velocity, whereas agility performance requires
+the use of perceptual-cognitive ability in combination
+with the ability to decelerate, change direction, and
+then reaccelerate in an intended direction.
+1407
+
+Neurophysiological Basis for Speed
+Sprinting, agility, and COD are all dynamic displays of force
+production in the athletic setting. Because strength and conditioning
+professionals are often asked to assist in the development of these
+competitively advantageous qualities, an overview of how these
+force measures are produced during movement is warranted.
+Nervous System
+Neuromuscular function is vital to sprint performance because the
+activity and the interaction of the central nervous system with the
+muscles ultimately influence the rate and strength of muscle
+contraction. Research has shown that the combination of strength,
+plyometric, and sprint training produces several adaptations within
+the neuromuscular system that may contribute to improved sprint
+performance. Resistance training enhances neural drive, the rate and
+amplitude of impulses being sent from the nervous system to the
+target muscles (1). Increases in neural drive, which are indicative of
+an increase in the rate at which action potentials occur, are related
+to increases in both muscular force production and the rate of force
+production. Similarly, plyometric training demonstrates increases in
+excitability of high-threshold motor neurons. Increased excitability
+ultimately enhances neural drive to the muscle. Taken together,
+increases in neural drive may contribute to increases in the athlete’s
+RFD and impulse generation.
+Stretch-Shortening Cycle
+Many functional tasks begin with preparatory countermovements
+involving spring-like actions referred to as the stretch-shortening
+cycle (SSC)—an eccentric–concentric coupling phenomenon in
+which muscle–tendon complexes are rapidly and forcibly lengthened,
+or stretch loaded, and immediately shortened in a reactive or elastic
+manner, resulting in enhanced concentric force production.
+Practically speaking, the SSC is demonstrated in movements in which
+1408
+
+a rapid transition from an eccentric action to a concentric action
+occurs. Therefore, SSC actions are particularly prevalent in sports
+involving running, jumping, directional changes, and other explosive
+changes in velocity; thus reactive strength development is a highly
+important quality to develop in training programs and can be a
+distinct capability that is independent of maximal strength in elite
+athletes (45, 55, 56, 82, 83, 91, 98, 112).
+SSC actions exploit intrinsic muscle–tendon behavior as well as
+the force and length reflex feedback to the nervous system (3, 4, 10,
+18, 33). Acutely, SSC actions tend to increase mechanical efficiency
+and impulse via elastic energy recovery, whereas chronically, they
+upregulate muscle stiffness and enhance neuromuscular activation
+(45, 55, 56, 82, 83).
+Training activities aimed at improving SSC performance should
+fulfill two criteria (47, 82, 83, 91, 98):
+They should involve skillful, multijoint movements that
+transmit forces through the kinetic chain and exploit elastic–
+reflexive mechanisms.
+To manage fatigue and emphasize work quality and technique,
+they should be structured around brief work bouts or clusters
+separated by frequent rest pauses.
+In practice, a combination of progressive plyometric and heavy
+resistance methods can accomplish these objectives (i.e., complex or
+contrast training).
+Spring–Mass Model
+Exposure to strength and speed training may be linked to a rise in
+the preactivation of the musculature used in sprinting (54, 56). The
+onset of pre-tension may be related to an increase in the sensitivity
+of associated muscle spindles. The improvement in the time needed
+for feedback from muscle spindles results in greater muscle stiffness
+and tendon compliance (54, 58, 79). This physiological condition
+provides support to the SSC, which underpins the spring–mass
+1409
+
+model (SMM). The SMM (figure 20.3) is a mathematical model that
+depicts sprinting as a type of human locomotion in which the
+displacement of a body mass is the aftereffect from energy produced
+and is delivered through the collective coiling and extension of
+spring-like actions within muscle architecture (11, 29, 37, 39).
+During a complete running cycle, one spring compresses and propels
+the sprinter’s body forward. Simultaneously, the other spring swings
+forward in preparation for ground contact.
+FIGURE 20.3 A simple spring–mass model relative to the ground reaction force during
+the stance phase of a sprint. During the stance phase, the model demonstrates how the leg
+(represented as a spring) is uncompressed at initial contact and then is compressed
+(represented by the change in length of the spring) during midstance or as vertical ground
+reaction force increases.
+Reprinted by permission from K.P. Clark and P.G. Weyand, “Are Running Speeds Maximized With Simple-Spring Stance
+Mechanics?” Journal of Applied Physiology 117, no. 6 (2014): 605.
+Within an upright sprint, compression of the spring begins at foot
+strike, resulting in horizontal braking forces. This sudden and brief
+deceleration assists in propelling the swing leg forward in
+preparation for the subsequent step. As the center of mass moves
+ahead of the foot, the sprinter is in midstance. Within the SMM, the
+spring is compressed to the lowest point, which coincides with a
+lowered center of mass at midstance. Finally, the model describes
+1410
+
+the push-off segment of the stance phase as the return of energy
+through the extension of the coiled spring. This resultant energy and
+return of force projects the sprinter forward.
+While the SMM provides a conceptual framework for highlighting
+the actions involved in upright high-speed running, recent
+investigations suggest that the model’s ability to describe the stance
+phase of elite sprinters is limited. As illustrated in figure 20.2 on
+page 640, during the maximal-velocity phase, elite sprinters tend to
+deviate from a classic SMM by producing much of their vertical force
+in the first half of a ground contact. In contrast, most non-elite
+sprinters, such as those involved in many team or field-based sports,
+display stance phases that are described by the SMM (24), where
+the vertical force curve is more symmetrical, as shown in figure 20.3.
+As such, the SMM should be used as a means to describe the
+relationship between the SSC, muscle stiffness, and sprinting. In
+fact, as stride frequency increases at a given running speed, one of
+the most important features of the leg spring is an increase in
+muscle stiffness (39).
+Because sprinting requires an athlete to move at high
+speeds, strength and conditioning professionals should
+emphasize the prescription of exercises that have been
+shown to increase neural drive while overloading
+musculature of the hip, knee, and ankle regions involved
+in the SSC.
+Additional Neurophysiological
+Considerations for COD and Agility
+Development
+In addition to the neurophysiological aspects of speed performance
+previously discussed, other factors must be considered regarding
+COD and agility performance. During the plant phase, depicted in
+figure 20.4, the length of ground contact time of either an agility
+1411
+
+(0.23-0.25 s) (7) or a COD movement (~0.15-0.6 s dependent on
+angle) (8, 49, 64, 36) exceeds the typical ground contact time of
+both the acceleration phase of sprinting (0.17-0.2 s) (4) and the
+maximal-velocity phase of sprinting (0.09-0.11 s) (104, 105). In the
+context of COD, as the intended angle of direction change (i.e.,
+deflection of center of mass) increases, the ground contact time of
+the main execution plant foot typically increases, attributed to the
+greater braking force, negative work (i.e., knee flexion), and
+deceleration demands associated when having to reduce momentum
+with sharper directional changes (36). As a result, this prolongs the
+contact time to increase braking impulse to reduce momentum along
+the original direction followed by propulsive impulse to enable
+acceleration toward the new intended direction of travel. In view of
+this, COD actions <45 degrees generally can be considered fast SSC
+activities, whereas direction changes >45 degrees generally can be
+considered slower SSC activities, though this depends on entry
+velocity and an athlete’s physical capacity (36).
+1412
+
+FIGURE 20.4 Plant phase, termed stance phase in the context of sprinting, of a COD
+movement. This is the point in a COD movement that represents the transition between the
+deceleration step and the acceleration step and is the main step in achieving deflection of
+the center of mass. Body positioning and the ability to maintain strong trunk positions
+during the deceleration of momentum and reorientation of the body to run in a new
+direction are critical for performance.
+Since effective braking is an important part of agility performance
+(83, 84), neuromuscular development with respect to high-velocity
+and high-force eccentric muscle actions should be considered, for
+two reasons. First, the adaptations or motor unit recruitment
+pathways called on during an eccentric muscle action are different
+than those called on during concentric contractions (38). Secondly,
+the adaptations to eccentric training appear to be specific to the
+velocity of eccentric loading (74). In addition, training athletes for
+effective agility performance requires knowledge of perceptual-
+cognitive 
+demands 
+over 
+and 
+above 
+the 
+neurophysiological
+requirements for changing direction. Not only are the perceptual-
+cognitive demands on athletes related to their abilities in the areas
+of visual search scanning, anticipation, decision making, and reaction
+1413
+
+time (87) but also the tactical situation (offensive vs. defensive)
+changes the brain processing strategy required (93, 96).
+The training required to improve agility becomes clearer as one
+begins to understand the various demands required for COD and
+agility with respect to neurophysiological factors, including the SSC,
+eccentric muscle action neuromuscular training, and implications of
+the length of time or the demand of the COD maneuver on the SMM.
+Further, neurophysiological requirements of agility performance
+extend beyond physical requirements to perceptual-cognitive
+requirements that are specific to the tactical situation.
+1414
+
+Running Speed
+Sprinting is a series of coupled flight and support phases, known as
+strides (e.g., right foot contact to next right foot contact, essentially
+comprised of two steps—right to left, left to right), orchestrated in
+an attempt to displace the athlete’s body down the track at maximal
+acceleration or velocity (or both), usually over brief distances and
+durations. Sprinting has been described as rapid, unpaced, maximal-
+effort running of 15 seconds or less (78). However, the classic
+definition of sprint speed concerns the relationship between step
+length (distance between the toe and heel of two consecutive
+footsteps) and step frequency (or rate; number of steps per
+second) (63). For clarity, one stride is equal to two steps (right to
+left, then left to right).
+Based on this understanding, sprint speed can be increased by an
+increase in step length or an increase in step frequency (figure
+20.5). Although these changes in performance variables are logical,
+the underlying component to maximizing step length and step
+frequency is related to rapid force production.
+FIGURE 20.5 Step length–frequency interaction as a function of running velocity.
+Adapted from Dillman (1975).
+1415
+
+The differences between elite and novice sprinters can be traced
+to a single component. Much of the current literature on sprinting
+(17, 105, 106) suggests that the amount of vertical force applied to
+the ground during the stance phase at top speed may be the most
+critical component to improving top speed. In addition, these greater
+forces must be applied to the ground in the shortest period possible.
+Application of force is needed to displace a mass. In sprinting,
+step length represents the displacement of mass. Elite male sprinters
+achieve a step length of 2.70 m (8.9 ft), whereas novice sprinters
+display a step length of 2.56 m (8.4 ft) at maximum velocity (figure
+20.6a) (62).
+Since contact with the ground is needed to continue force
+production and subsequent alterations in velocity, increasing the step
+frequency theoretically would maximize the time available to produce
+force. Elite male sprinters demonstrate step frequency near 4.63
+steps per second compared to novice sprinters, who produce a
+lesser step frequency of 4.43 steps per second (figure 20.6b) (62).
+In other words, elite sprinters need less ground contact time with
+each step to exert the effort needed to displace their mass due to
+their ability to create greater impulses. Thus, these faster sprinters
+also spend more time in the air. Interestingly, elite sprinters display
+times to reposition the swing leg that are similar to those of their
+slower counterparts (62, 106).
+1416
+
+FIGURE 20.6 Step length (a) and step rate (b) in sprinters with varying qualifications.
+Data from Mann (2011).
+Although the time required for staging the subsequent ground
+contact is similar between elite and novice sprinters, elite sprinters
+are able to propel themselves farther down the track due to properly
+directed vertical forces. Mann (62) suggests that these vertical forces
+are better directed toward the track due to an optimized knee height
+at maximal flexion of the recovering leg. This higher knee position
+provides a greater time period for force production and subsequent
+ground clearance (i.e., range of motion force movement principle).
+This technical advantage may be further evidence for why elite
+sprinters tend to produce most of their force within the first half of
+the stance phase.
+Additionally, faster sprinters are able to achieve higher velocities
+through the continuous application of high forces in a short stance
+phase, which results in longer steps or steps occurring at a higher
+rate. Within the elite setting (e.g., 100 m world championship
+finalists), this results in male sprinters achieving velocities between
+11.0 meters per second and 12.5 meters per second (24.6-28.0
+mph) (46). Conversely, team sport athletes generally achieve
+maximum velocities of approximately 8.0 to 9.5 meters per second
+(17.9-21.3 mph) (25). While force production is arguably the limiting
+1417
+
+factor, technical efficiency and properly designed training also limit
+sprint speed.
+Sprint speed is determined by an athlete’s step length
+and step frequency; more successful sprinters tend to
+have longer step lengths as a result of properly directed
+forces into the ground while also demonstrating a more
+frequent step rate. These findings suggest that RFD and
+proper biomechanics are two of the primary limiting
+factors influencing sprint performance.
+Sprinting Technique Guidelines
+Linear sprinting is composed of a series of subtasks that can be
+divided into the start, acceleration (figure 20.7), and top speed
+(figure 20.8). While these phases of a sprint are technically distinct,
+they all require the athlete to volitionally move the lower limbs at
+maximal speeds through a series of stance and flight phases. The
+stance phase can be broken down further into a braking period
+followed by a propulsive period. In contrast, the flight phase consists
+of the recovery and ground preparation (i.e., late swing)
+segments of the swing leg.
+1418
+
+FIGURE 20.7 Sprinting technique during the initial acceleration (i.e., the start) and the
+acceleration, touchdown, midstance, and takeoff of subsequent steps.
+1419
+
+FIGURE 20.8 Sprinting technique at maximum velocity includes the toe-off, maximal
+vertical projection (MVP), touchdown/midstance, and subsequent toe-off phases.
+Figure 20.9 is a sprint technique checklist that accompanies
+figures 20.7 and 20.8. These recommendations are based on linear
+sprinting and may be useful for both instruction and evaluation of
+1420
+
+the movements. Figure 20.10 on page 649 describes the
+fundamental movements occurring in maximum-velocity sprinting.
+Technical Errors and Coaching
+Table 20.1 highlights many common sprinting errors as well as
+possible causes and coaching corrections. Quite often, these errors
+are the result of the misapplication of forces due to improper
+coaching cues, insufficient mobility, or disruption to an athlete’s
+normal gait caused by external interference. For instance, an athlete
+may demonstrate overstriding due to a coaching drill (such as
+reaching to successively longer marks along the track to gain speed)
+or the belief that acutely increasing step length will allow one to
+catch up to a competitor in a race. Regardless of the reason, the aim
+of strength and conditioning professionals should be to promote an
+athlete’s speed through the proper transmission of forces into the
+ground that will optimize the athlete’s gait cycle.
+Figure 20.9  Sprinting technique checklist: start,
+acceleration, and maximum velocity.
+Start
+The athlete should attempt to distribute a balanced body weight through a
+set position (blocks, three- or four-point staggered start) that uses segment
+angles critical to produce forces necessary to deliver explosive forces from
+the start.
+Front lower leg angle should be approximately 90 degrees.
+Rear lower leg angle should be approximately 120 to 135 degrees.
+Aggressive extension of the hip, knee, and ankle of the front leg against the
+block or ground should be observed.
+After initially extending at the hip and knee, the rear leg should then
+be rapidly flexed at the hip (to ~90 degrees), knee (to ~90 degrees),
+and ankle (to neutral position) in preparation for foot contact of the
+first step.
+As the rear leg is driven forward, the opposite arm should also drive
+forward, mirroring the range of motion and timing of the rear leg. The
+range of motion at the shoulder of each arm is large.
+1421
+
+The head should be neutral, looking a few yards or meters ahead along the
+track.
+Acceleration
+Posture
+Forward inclination helps maximize propulsive force contribution and
+depends on the absolute magnitude of force available. The forward lean
+gradually reduces with each step, assuming an upright position by maximum
+velocity.
+The pelvis position should be neutral relative to torso.
+The center of mass should be ahead of the foot during early acceleration
+(first few steps), which gradually progresses to the center of mass being
+slightly behind the foot as the athlete progresses to maximum velocity.
+The center of mass and hip position begin low and rise higher with each
+step from early to late acceleration to maximum velocity.
+Arms
+The ranges of motion in the arms are wide to match the ranges of motion in
+the lower body on the contralateral side (e.g., as the knee travels forward,
+the opposite arm travels forward).
+The arms are driven aggressively backward.
+Legs
+During acceleration each step gets progressively longer, with ground contact
+times getting shorter and flight times longer as the athlete advances to
+maximum velocity.
+Rapid, large split of the thighs through the stance phase enhances leg
+extension force while preparing the swing limb for rapid acceleration back
+down to the ground, enabling high ground reaction forces (GRF) early
+during ground contact.
+Low heel recovery enables shorter steps and more cycle time dedicated to
+force production. Heel recovery gains more height as the athlete progresses
+to maximum velocity.
+The path of the heel and rest of the foot tends to be piston like (backward
+and downward) before progressing to a more cyclic action by maximum
+velocity.
+Forward-oriented shin angles gradually become more vertical as the athlete
+progresses to maximum velocity.
+There should be rapid deceleration of extending the thigh (back-side catch)
+during the late stance to avoid prolonging ground contact and then enable
+rapid subsequent recovery of the leg after takeoff.
+1422
+
+The thigh forcefully retracts during the late swing to enable foot contact
+behind the center of mass, enhancing production and direction (more
+horizontal) of GRFs early in ground contact.
+The foot and ankle maintain optimal stiffness. A stable foot position during
+the early stance helps provide the foundation for the hip extensors to
+contribute more effectively to forward propulsion while enabling storage and
+release of elastic energy at the ankle.
+Maximum Velocity
+Posture
+Slight forward lean
+Head in neutral position looking toward intended direction of travel
+High neutral pelvis position
+Arms
+Arm action mirrors the contralateral limb (i.e., when the touchdown leg is in
+its longest position the opposite arm will be in its most open position to
+balance the body).
+The hand is driven hard down below the waist on the downstroke and
+returns to the height of the athlete’s chin with a more acute angle at the
+elbow (approximately 90 degrees on the return).
+Arms should not cross the midline of the body.
+Legs
+With a slight flex of the knee at takeoff, the hip is in a hyperextended
+position and the ankle is plantar flexed.
+After toe-off, the knee should flex and the ankle dorsiflex (passive folding)
+as the thigh flexes forward at the hip to a high knee position. A high heel
+recovery whereby the foot steps over the opposite knee should be observed.
+With the knee at its highest point (front-side catch), the tibia should be in a
+high forward position, providing space for rearward acceleration of the thigh
+to help generate larger initial GRFs during support.
+The foot should travel down and back (negative foot speed before
+touchdown).
+The foot should touch down close to underneath the center of mass (will be
+slightly in front). At touchdown the opposite knee should be beside or
+slightly in front of the knee of the touchdown leg.
+During support, knee and ankle flexion should be minimal.
+In the late stance (back-side catch), early hip flexor activation helps avoid
+prolonged ground contact and decelerates the extending limb, preventing
+lower leg recovery behind the body after toe-off (too much back-side
+1423
+
+mechanics), providing more optimal leg recovery (better timing and
+improved front side position).
+Efficient rapid switching of limb positions requires efficient timing, enabled
+by rapid switching off of key muscles; thus, relaxation and rhythm are
+essential to enable optimal timing and coordination and reduce energy
+demands.
+Adapted from Mann (2011).
+Training Goals
+The overarching goal of sprinting is to achieve optimal step length
+and step frequency through the correct application of force into the
+ground. The transmission of high forces must occur within a short
+stance phase, also known as ground contact time. During the
+acceleration phase, propulsive forces assist in elevating the hips
+above the ground to a point at which speed is no longer increasing
+at large rates. This portion of the sprint, known as maximum
+velocity, uses the SSC (through stiffness regulation) to propel the
+athlete’s center of mass down the track horizontally.
+Figure 20.10  Fundamental movements occurring in
+maximum-velocity sprinting.
+Early Flight
+Eccentric hip flexion. Decelerates backward rotation of the thigh
+Eccentric knee extension. Decelerates backward rotation of the leg and foot
+Eccentric ankle dorsiflexion. Decelerates ankle plantar flexion
+Midflight
+Concentric hip flexion. Accelerates thigh forward
+Eccentric knee extension followed by eccentric knee flexion
+Concentric ankle dorsiflexion. Assists in reducing the limbs’ moment of
+inertia
+Late Flight
+Concentric hip extension. Rotates the thigh backward in preparation for foot
+contact
+1424
+
+Eccentric knee flexion. Accelerates the leg backward, limiting knee
+extension; stops before foot strike (aided by concentric knee flexion to
+minimize braking at touchdown)
+Ankle in neutral position (avoid plantar flexed position). Preparation for
+ground contact to reduce Achilles’ tendon complex slack at touchdown to
+optimize storage of elastic energy during early support
+Early Support
+Continued concentric hip extension. Minimizes the braking effect of the foot
+strike
+Brief concentric knee flexion followed by eccentric knee extension. Absorbs
+the landing and facilitates power transfer from the hip to the ankle during
+propulsion
+Eccentric plantar flexion. Stores potential elastic energy for subsequent
+release to facilitate greater propulsion during late support
+Late Support
+Eccentric hip flexion. Decelerates backward thigh rotation; rotates the trunk
+in preparation for forward takeoff
+Concentric knee extension. Propels the center of gravity forward
+Concentric plantar flexion. Aids in propulsion
+Based on Bezodis et al. (2008); Putnam and Kozey (1989); Wood (1987).
+TABLE 20.1 Common Sprinting Technique Errors,
+Causes, and Corrections
+Error
+Cause
+Coaching recommendations
+START AND ACCELERATION
+Hips are too high in
+start of crouch position.
+Misunderstanding
+of setup
+Instruct athlete to space feet by 1.5 to 2
+foot lengths, then lower into starting
+position by dropping the shin of the back
+leg to be parallel with sprint surface.
+The athlete is stepping
+out laterally during the
+initial drive phase.
+Improper
+distribution of
+forces
+Instruct the athlete to push or drive
+through the ground to initiate the sprint.
+*See sprint drills 1 to 6 on pages 675-683.
+1425
+
+Error
+Cause
+Coaching recommendations
+The athlete’s arm
+movement is
+abnormally short and
+tight.
+Misunderstanding
+of natural arm
+swing
+Instruct the athlete to either (a) drive the
+elbow down and back or (b) pull the hands
+down and back to simulate pulling on a
+rope. In addition, cue the athlete to allow
+the hands to fully break the waist while also
+allowing the arms to recover at midline of
+the body (invisible line from nose through
+navel).
+The athlete is holding
+unnecessary tension in
+dorsal muscles and
+hyperextending the
+neck.
+Misunderstanding
+of movement
+Instruct the athlete to keep the head in line
+with the spine; the torso and head should
+rise at the same rate during the
+acceleration and transition phases of the
+sprint.
+The athlete jumps the
+first step or steps over
+the knee of the stance
+leg.
+Push-off angle too
+high; upward
+thrust too steep
+Instruct the athlete to initiate movement by
+driving through the ground and allow the
+swing leg to horizontally cut the stance leg
+shin (i.e., ankle crossover), rather than
+stepping over the stance leg (i.e., knee
+crossover). In addition, cue the athlete to
+keep the foot of the swing leg close to the
+ground to set up a proper acceleration
+phase.
+The athlete gets into an
+upright posture
+prematurely.
+Inadequate push-
+off force; improper
+carriage of head
+Instruct the athlete to continue pushing
+into the ground while maintaining a natural
+trunk lean. Also cue the athlete to keep the
+head in line with the spine; lifting the head
+may result in a sudden lifting of the torso,
+ultimately minimizing acceleration patterns.
+MAXIMUM VELOCITY
+The athlete is
+superficially attempting
+to maintain an
+acceleration phase
+when the shins are
+clearly vertical.
+Improper
+understanding of
+movement
+patterns
+Instruct the athlete that as the shins and
+hips come up to vertical, so should the
+torso and head. Encourage the athlete to
+feel for the rise in the hips so that the joints
+(shoulders to hips to ankles) stay stacked
+or in line. This position allows for the
+proper transmission of forces into the
+running surface.
+*See sprint drills 1 to 6 on pages 675-683.
+1426
+
+Error
+Cause
+Coaching recommendations
+The athlete is not
+displaying optimal
+front-side mechanics
+with regard to the
+height of the swing leg
+knee.
+Inadequate force
+production and hip
+mobility
+Recall that the swing leg’s knee height
+(traditionally called front-side mechanics) is
+influenced by GRFs and hip mobility.
+Improperly cueing an athlete to lift the
+knees may result in further improper
+transmission of forces and ultimately
+change the musculature naturally used
+during the sprint event.
+The athlete is
+overstriding.
+Misunderstanding
+of force application
+Success in sprint events results from the
+ability to produce high vertical forces in a
+short amount of time. An overstriding
+athlete is attempting to increase speed via
+larger ground contact times, which
+ultimately dampens the effects of the
+stretch-shortening cycle and lowers step
+frequency. Instruct athletes to run in their
+lane and maintain their natural gait cycle.
+The athlete is
+displaying chronic
+hamstring injury or
+pain.
+Insufficient
+mobility; improper
+positioning of
+pelvis
+A high likelihood of hamstring injury occurs
+during the sprint event’s swing phase due
+to eccentric (lengthening) forces or
+overstriding. An athlete is further
+compromised when displaying anterior
+pelvic tilt during the sprint event. Reduce
+anterior pelvic tilt with appropriate
+development of back-side and front-side
+mechanics through appropriate sprint
+drills.*
+The athlete is
+attempting to cycle the
+leg action, resulting in
+an increased time to
+complete the swing
+phase. This is made
+apparent by the open
+gap between the knees
+during the stance
+phase.
+Improper force
+application
+Instruct the athlete to drive the foot down
+and back into the track, not paw. Due to
+the seemingly horizontal movement of the
+foot during a sprint, coaches often miscue
+athletes to paw the foot into the track.
+Pawing the foot horizontally against the
+track prevents the athlete from using
+vertical forces, overloading the stretch-
+shortening cycle to move down the track.
+Integration of appropriate sprint drills*
+should help develop the correct leg action.
+The athlete is
+displaying erroneous
+Improper
+understanding of
+While traditionally coaches would claim that
+erratic arm movement is a symptom of
+*See sprint drills 1 to 6 on pages 675-683.
+1427
+
+Error
+Cause
+Coaching recommendations
+arm movement in the
+transverse plane.
+movement pattern
+fatigue, much literature suggests that
+speed is limited by mechanical force
+application, not metabolic efficiency.
+Therefore, athletes should emphasize
+driving the arms down and back while
+maintaining an upright torso. In addition,
+strength and conditioning professionals
+should recommend to the athlete that the
+arm swing recovers near the midline of the
+body to take advantage of the
+glenohumeral joint’s natural range of
+motion.
+*See sprint drills 1 to 6 on pages 675-683.
+The 
+following 
+fundamental 
+training 
+objectives 
+regarding
+performance enhancement and injury prevention should be
+considered during the development of speed in practical settings:
+Emphasize brief ground support times as a means of achieving
+rapid step rate. As previously mentioned, this requires high
+levels of ballistic strength. This quality is developed
+systematically through consistent exposure to speed training
+as well as properly designed resistance training programs.
+Emphasize the further development of the SSC as a means to
+increase the amplitude of impulse for each step of the sprint.
+Specifically, high achievers at top-speed sprinting produce high
+forces in a shorter stance phase using the SSC. The complete
+weightlifting movements and their derivatives are key
+exercises for overloading the SSC with forces greater than
+those produced during an open sprint, in addition to
+plyometric training, which can induce high-impact stretch
+loads to enhance SSC function and reactive strength.
+Because sprinting requires an athlete to move at high
+speeds, strength and conditioning professionals should
+emphasize the prescription of exercises that span the
+1428
+
+load–velocity curve while overloading musculature of
+the hip, knee, and ankle regions involved in the SSC.
+1429
+
+Methods of Developing Speed
+From a practical standpoint, the demonstration of maximal speed is
+the result of well-organized programming that organically develops
+and matures the required skill sets within the athlete. This organic
+approach to sprint training results from a schema of development
+that is based on the emphasis and de-emphasis of certain qualities,
+such as acceleration and maximum velocity, within each training
+phase. Furthermore, the training plan should coordinate these
+singular qualities through phasic progression. A well-constructed
+training plan highlights specific components that will assist in fully
+maximizing an athlete’s movement potential.
+Sprinting
+Although a variety of training stimuli are important for the
+optimization of athletic performance, it can be argued that no
+exercise improves running velocity more than maximum-velocity
+sprinting (i.e., primary methods). An athlete’s sprint prowess
+depends on the generation of high forces in short time periods (62,
+105). Neurological adaptations resulting from long-term training
+plans that emphasize maximal strength and movement velocity
+improve both RFD and impulse generation (1, 100). In the strength
+and conditioning setting, weightlifting movements and jump training
+are prescribed to develop RFD and impulse at varying loads, because
+these movements use the SSC (i.e., tertiary methods). Similarly,
+upright sprinting uses the SSC, defining it as a plyometric
+movement. Chronic exposure to movements eliciting the SSC can
+increase muscle stiffness, which is a potential physiological
+advantage for sprint ability (39).
+In addition, sprinting requires near-maximum to maximum muscle
+activation, which depends on high central nervous system activity.
+Therefore, chronic exposure to sprinting may lead to improvements
+in musculoskeletal control via the central nervous system. This would
+result 
+in 
+a 
+cyclical 
+dose–response 
+relationship, 
+because
+1430
+
+neurophysiological adaptations from previous practices would bolster
+subsequent training. In an effort to either enhance the force
+required or target potential neuromuscular adaptations for sprinting
+improvement, resisted and assisted sprint training techniques are
+often employed (i.e., secondary methods). The proposed benefits,
+potential drawbacks, and coaching considerations are outlined in
+table 20.2.
+Strength
+As noted throughout the chapter, sprint speed is underpinned by an
+athlete’s ability to produce large forces within brief time periods.
+These forces must be large enough to support the body weight in
+the presence of gravity and displace the body through an increase in
+velocity (62). Thus, many strength and conditioning professionals
+are aware of the importance of resistance training in the
+development of a sprint-based athlete. Central to the discussion of
+resistance training is how best to transfer newly developed strength
+qualities from the weight room to the track or field (109). The
+transfer of strength improvements to sprinting may require an
+emphasis 
+on 
+the 
+specificity 
+of 
+training 
+(i.e., 
+dynamic
+correspondence and coordinative overload). This transfer of
+training effect deals with the degree of performance adaptation and
+may result from the similarities between the movement patterns,
+peak force, RFD, acceleration, and velocity patterns of an exercise
+and the sporting environment (98).
+While training for maximal strength may be beneficial, training
+should emphasize agendas that merge maximal strength and speed–
+strength qualities instead (44). The selection of exercises and
+movements that provide opportunities to display forces and
+velocities like those found in sprinting may have the most benefit
+with regard to enhancing rate coding and firing frequency, alongside
+alterations to type II muscle fibers such as cross-sectional area and
+fascicle length (40, 43). For instance, evidence suggests that
+weightlifting movements and their derivatives such as the clean,
+1431
+
+snatch, and mid-thigh pulls may enhance sprint performance
+through physiological adaptations such as muscular stiffness,
+enhanced RFD, and coactivation of the musculature surrounding the
+hips and knees (6, 26, 32).
+Mobility
+While not a kinetic variable, soft tissue manipulation is a commonly
+used practice in the development of speed athletes. Strength and
+conditioning professionals and athletic trainers rely on tools such as
+stretching, chiropractic care, massage, and myofascial release to
+achieve optimal mobility within the dynamic state. Mobility is the
+freedom of an athlete’s limb to move through a desired range of
+motion, whereas flexibility is a joint’s total range of motion. With an
+understanding that positional characteristics are among several
+limiting 
+factors 
+in 
+performance, 
+strength 
+and 
+conditioning
+professionals should ensure that proper postural integrity is in place
+before the onset of practice or competition.
+TABLE 20.2 Assistance and Resistance Training for
+Speed Development
+Type of
+training
+Example
+exercise
+modalities
+Potential
+benefits
+Potential
+disadvantages
+Practical use
+suggestions
+Note: SSC = stretch-shortening cycle.
+1432
+
+Type of
+training
+Example
+exercise
+modalities
+Potential
+benefits
+Potential
+disadvantages
+Practical use
+suggestions
+Assistance
+training
+(e.g.,
+overspeed
+training)
+Inclusive of
+modalities
+such as rope
+towing,
+bungee cord
+pulls, or
+downhill
+running with
+the intention
+of allowing
+the athlete to
+run at
+supramaximal
+speeds
+Theoretically,
+these training
+tools are used
+to potentially
+expose the
+athlete to
+higher
+velocities than
+one can
+achieve in
+unassisted
+sprinting by
+inducing an
+increased step
+or stride rate
+and exposing
+the athlete to
+higher hip
+angular
+velocities (46).
+This increased
+step rate is
+hypothesized
+to have
+potential for
+neuromuscular
+adaptations to
+increase
+maximal sprint
+velocity.
+Increases in
+overspeed
+should be
+limited to
+≤10%.
+Assisted sprinting
+may prematurely
+rush an athlete’s
+stance phase,
+thus removing
+time needed to
+exert optimal
+forces, and has
+been shown to
+result in
+decreased muscle
+activation and
+propulsive force
+production in
+comparison to
+maximal running
+(66). Therefore,
+what can be
+described as
+chop steps may
+be observed.
+Undesirable
+techniques such
+as leaning back
+and overstriding
+may be present
+in a protective
+manner to brake,
+which is
+suboptimal.
+Exercises that
+rely on the
+towing of
+athletes may
+increase braking
+forces in
+comparison to
+maximal running
+(66) as athletes
+attempt to
+Top-speed
+sprinting should
+be developed
+through more
+natural and
+safer training
+tools that
+consider an
+athlete’s training
+status and
+support optimal
+biomechanics.
+Strength and
+conditioning
+professionals
+should carefully
+assess the
+implications of
+assistance
+modalities
+before
+implementation
+and these
+modalities may
+be best used
+when working
+with advanced
+or elite athletes.
+Note: SSC = stretch-shortening cycle.
+1433
+
+Type of
+training
+Example
+exercise
+modalities
+Potential
+benefits
+Potential
+disadvantages
+Practical use
+suggestions
+tolerate velocities
+they cannot
+naturally create
+or accommodate
+because of
+biomechanical
+efficiency,
+training state, or
+both.
+Downhill sprinting
+may expose the
+athlete to
+unnecessary
+eccentric forces
+through a
+modified stance
+leg that results
+from having to
+find the ground.
+This may also
+affect the SSC,
+which is
+optimized
+through the foot
+placement
+occurring just in
+front of the
+center of mass
+on ground
+contact in flat-
+surface upright
+sprinting (66).
+To date, very
+little research
+supports the
+implementation
+of overspeed
+training, because
+sprint success
+results from an
+Note: SSC = stretch-shortening cycle.
+1434
+
+Type of
+training
+Example
+exercise
+modalities
+Potential
+benefits
+Potential
+disadvantages
+Practical use
+suggestions
+athlete’s ability to
+produce large
+forces in a short
+ground contact
+time.
+Resistance
+sprinting
+Inclusive of
+training
+modalities
+such as sled
+towing, sled
+pushing, wind
+resistance,
+incline
+sprinting, and
+sled pushing
+with the
+intention of
+improving an
+athlete’s
+accelerative
+abilities
+Accentuates
+the
+biomechanics
+of the
+acceleration
+phase by
+placing the
+athlete in a
+position that
+promotes
+lowered torso
+(i.e., forward
+trunk lean),
+hips, and shin
+angles.
+Resisted
+sprinting may
+optimize an
+athlete’s ability
+to cover short
+distances
+quickly by
+overloading the
+acceleration
+phase,
+resulting in
+ground contact
+times that
+produce higher
+propulsive
+forces.
+Improving
+acceleration,
+which is a
+change in
+Sprint efforts
+against a load
+that is too great
+may lead to
+longer ground
+contact times in
+addition to
+shorter step
+lengths that are
+not task specific
+(59).
+Slopes of incline
+that are too great
+may modify
+proper sprinting
+biomechanics,
+resulting in a
+rehearsal of
+improper
+technique and
+thus limiting
+transfer of
+training effect.
+Sled pushing may
+alter the natural
+sprinting gait
+cycle due to the
+removal of arm
+action that
+synchronizes and
+counterbalances
+the leg action
+occurring at the
+hip.
+Strength and
+conditioning
+professionals
+and athletes
+attempting to
+improve the
+acceleration
+phase of a sprint
+may adopt
+resistance
+training
+modalities that
+maintain normal
+biomechanics
+involved in
+unresisted
+sprints.
+Loads should be
+chosen based on
+the sporting
+context while
+also considering
+the athlete’s
+physical status.
+For instance,
+track and field
+sprinters may
+use loads that
+do not decrease
+running velocity
+by more than
+10% to 12% (2,
+49, 52, 61).
+In contrast, field
+sport athletes
+Note: SSC = stretch-shortening cycle.
+1435
+
+Type of
+training
+Example
+exercise
+modalities
+Potential
+benefits
+Potential
+disadvantages
+Practical use
+suggestions
+velocity, may
+lead to an
+increase in top
+speed through
+enhanced RFD.
+Resisted sprints
+and loads, and
+velocity
+decrements,
+can be
+manipulated to
+target
+technical,
+speed–
+strength,
+power, and
+strength–speed
+qualities (19,
+20).
+It may offer
+specificity to
+sporting
+scenarios when
+athletes need
+to push (move)
+external mass
+such as in
+bobsled, rugby,
+and American
+football.
+who overcome
+external
+resistance while
+blocking,
+tackling, and
+scrimmaging
+can use loads
+20% to 30% of
+body weight to
+improve the
+initial 5-10 m of
+movement (28,
+52). Frictional
+properties will
+influence the
+amount of
+resistance
+experienced,
+thus prescribing
+sled pushes and
+pulls based on
+velocity
+decrements is
+suggested (19,
+20).
+Note: SSC = stretch-shortening cycle.
+Based on the previously described constructs of speed, the
+currently accepted model of sprint success is based on the athlete’s
+ability to produce and overcome ground reaction forces in a short
+amount of time. Moreover, while these GRFs assist in producing
+optimal step length through forward propulsion, the sprinter’s
+position in flight may be limited by insufficient mobility (i.e., reduced
+hip flexion restricts subsequent thigh and knee lift). Specifically, an
+1436
+
+athlete may possess the physical characteristics necessary to yield
+high rates of force in a short amount of time, but compromises in a
+joint’s freedom of movement will result in misplaced forces. The
+improper placement of forces due to erroneous ground contact will
+result in dampened sprint speed and an increased likelihood for
+injury.
+1437
+
+Agility Performance and Change-of-
+Direction Ability
+In both field and court sports, there is a substantial number of
+preplanned COD movements as well as changes in direction in
+response to the ball, the game, teammates, or opponents. In sports
+such as baseball, softball, American football, and basketball, athletes
+decide before commencement of movement on the path they will
+run. Such patterns often including a quick or sudden COD—for
+example, exploding into a sprint out of a shuffle off a base or
+running a route before receipt of a ball. However, many sports also
+include rapid COD in response to teammates, opponents, or tactical
+situations (i.e., external stimuli). Such responses can occur in an
+offensive or a defensive scenario, and the physical movement and
+perceptual-cognitive aspects of such performances impose different
+demands on the athlete. Therefore, one should thoroughly
+understand the factors associated with agility performance from a
+physical standpoint (COD ability) and in combination with the
+perceptual-cognitive aspects (agility).
+Athletes improve COD ability through development of
+several physical factors and technical skills during a
+variety of speeds and modes of movement. The
+development 
+of 
+agility 
+also 
+requires 
+improving
+perceptual-cognitive abilities in relation to the demands
+of the sport.
+Factors Affecting Change of Direction and
+Perceptual-Cognitive Ability
+It is becoming increasingly clear that the ground contact time and
+GRF during the plant phase (figure 20.4 on page 643) of a
+movement provide valuable insight into the physical factors that
+affect COD performance, while perceptual-cognitive factors must
+1438
+
+also be considered regarding agility. COD and agility movements
+performed at shallow cutting angles (less than 75 degrees) and
+associated with shorter ground contact times (less than 250 ms)
+(94) benefit from training similar to speed training with regard to the
+physical demands but still require additional perceptual-cognitive
+training. On the other hand, when a COD involves a more aggressive
+cutting angle (equal to or greater than 75 degrees), the length of
+ground contact time can often exceed 250 milliseconds (8, 48, 64,
+36) due to the greater braking requirements. Therefore, one should
+consider increasing emphasis on eccentric strength for braking and
+maximal strength alongside the concentric impulsiveness required
+for propulsion during the reacceleration. Additionally, due to the
+eccentric–concentric coupling during the plant phase of directional
+changes, reactive strength development is also a key training priority
+(36). Figure 20.11 provides an example of how various requirements
+(angle of COD or perceptual-cognitive requirement of agility) may
+affect the GRF and ground contact times of athletes. Of particular
+interest is the effect of various methods of changing direction (for
+the same angle of direction change) on GRF and ground contact
+times. The effect of method of changing direction can be seen in
+figure 20.11: The 5-0-5 was performed either with a single-leg COD
+(outside leg turn) or with a jump turn that can be performed in a
+testing environment but is not commonly performed on the field of
+play. Nevertheless, this demonstrates that the technique chosen
+dictates the demands; therefore, if trying to elicit a specific
+adaptation from an athlete, one should provide specific instructions.
+1439
+
+FIGURE 20.11 Comparison of ground reaction force and contact times during various
+change-of- direction and agility maneuvers.
+The test used for assessment of agility performance has an
+impact on perceived agility ability of the athlete. A plethora of tests
+are used to assess “agility,” but tests without a reactive aspect
+should be considered COD tests, and a test that includes a reactive
+stimulus is now by definition a test of agility for most sports. Further,
+the requirements of the test may result in assessment of factors
+other than COD ability or perceptual-cognitive requirements.
+Therefore, one must be informed about and critical regarding a test
+used to assess “agility” or “change-of-direction ability.” For example,
+if the Illinois agility test, often performed with soccer athletes (91),
+was used after preseason training, improvements in performance
+may be due to improved metabolic capacity and not necessarily
+improved COD ability. This is attributed to the length of the Illinois
+test, which imposes a higher metabolic demand than shorter tests
+and thus is more representative of maneuverability.
+However, it should be noted that even similar-length tests such as
+the traditional 5-0-5 test, the modified 5-0-5 test (the 5-0-5 without
+the initial 10 m run-up), and the L-run used on the same athletes
+1440
+
+have only a moderate relationship (41), indicating they are not all
+assessing the same type of COD ability or the same underpinning
+physical requirements. This becomes more apparent when one
+realizes that some tests require a rapid COD while others require
+multiple COD. Tests with multiple COD often require more bending
+around an object or cone while maintaining as much velocity as
+possible, in comparison to a sharp COD that demands a rapid
+deceleration (e.g., 5-0-5 test). Therefore, tests such as the Illinois
+agility or L-run that require a bend to maintain velocity instead of an
+aggressive COD could be considered tests of maneuverability (69).
+With this said, table 20.3 gives examples of COD and agility tests
+and drills that address different physical requirements within the
+realm of “agility.” One should consider the aspect most important to
+the given sport when determining COD and agility abilities and
+consider testing and monitoring various types of COD abilities and
+perceptual-cognitive abilities required during true agility tests.
+Furthermore, tests such as the traditional 5-0-5 may be influenced
+by an athlete’s linear running speed (70, 81); thus, to isolate COD
+ability, the COD deficit (5-0-5 test time—10 m linear sprint time)
+could be determined (70, 71). Practitioners may also want to
+consider an athlete’s sprint momentum (average velocity during a
+linear sprint test or 10 m approach of the traditional 5-0-5 test ×
+athlete’s mass) to provide an indication of the braking demand
+experienced by athletes during the 5-0-5 test to give a more
+complete view of the athlete’s COD ability.
+TABLE 20.3 Aspects of Agility Tested or Trained in
+Various Drills and Tests
+Change-of-
+direction
+speed
+Maneuverability
+Perceptual-
+cognitive
+ability
+Metabolic
+requirementa
+(average length of
+test or drill)
+1441
+
+Change-of-
+direction
+speed
+Maneuverability
+Perceptual-
+cognitive
+ability
+Metabolic
+requirementa
+(average length of
+test or drill)
+TESTS
+Reactive
+agility tests
+✓
+✓
+<3 s
+5-0-5
+✓
+<3 s
+5-10-5
+✓
+<5 s
+T-test
+✓
+✓
+<12 sa
+Illinois agility
+✓
+<12 sa
+L-run
+✓
+<6 s
+DRILLS
+Z-drill
+✓
+✓
+<5 sb
+Y-shaped
+agility drill
+(generic
+stimulus)
+✓
+<5 sb
+Y-shaped
+agility drill
+(specific
+stimulus)
+✓
+✓
+<5 sb
+aThe length of the test has a large influence on the metabolic requirements and whether
+changes in test performance can become a function of enhanced conditioning instead of
+directly related to improvements in COD or agility ability.
+bDuration dependent on distances used within the design of the drill. However, it is
+advisable to keep the duration of the drill short to emphasize technical execution within the
+drill.
+Data from Gabbett et al. (2008); Nimphius et al. (2012); Pauole et al. (2000); Serpell et al.
+(2011); Sierer et al. (2008); Vescovi and McGuigan (2008); Vescovi et al. (2011); Young
+and Farrow (2013).
+Change-of-Direction Ability
+As stated earlier, one must understand that an athlete’s measured
+COD ability may vary depending on the demand imposed by the
+1442
+
+chosen COD test. Therefore, it may be beneficial to choose different
+tests that measure this ability under a high-velocity braking
+requirement; with multiple COD; or, as will be discussed, in reaction
+to a scenario, opponent, or stimulus. Another consideration
+regarding COD ability is the orientation of the body leading into the
+deceleration, through the transition phase as the athlete comes to a
+stop, and then the positioning as he or she subsequently
+reaccelerates out of the COD. Therefore, the positioning of the trunk
+influences the performance of the COD. As such, it is a combination
+of the ability to decelerate (high braking impulse), reorient the body
+to face or partially face the direction of intended travel, and then
+reaccelerate (high propulsive impulse) over short contact times that
+truly determines COD ability. Additionally, the ability to perform the
+COD requires the athlete to have the physical capacity to produce
+high and rapid magnitudes of force, tolerate the high loads
+associated with braking, and adopt favorable postures that are
+associated with braking and propulsion (22, 35).
+Considering the requirements for rapidly changing momentum,
+increased muscle mass in combination with decreased body fat (i.e.,
+improving functional mass) has been regarded as a predictor of COD
+performance when assessed by the T-test in elite basketball players
+(23). Other anthropometrics and their relationship to COD ability are
+not discussed here, because aspects such as height and limb length
+are not modifiable by the strength and conditioning professional.
+Instead, body center of mass height is related to improved lateral
+COD performance (89), and this can be actively targeted during
+technique modification training (22, 35).
+Overall, COD ability among a variety of movement patterns
+(various angles of direction change) has been shown to improve with
+increased hip extension velocity (rapid application of force by the hip
+extensors), low center of mass height, wide lateral foot plants for
+perpendicular force application, increased braking impulse and
+propulsive impulse, increased knee flexion entering the COD,
+minimized 
+trunk 
+angular 
+displacement 
+entering 
+the 
+COD
+1443
+
+(deceleration phase), and increased lateral trunk tilt (during 180-
+degree changes) (22, 35, 80, 89, 94, 95, 97). Because the ability to
+decelerate, hold body position, and then reaccelerate is important in
+COD tasks as described by the kinetic and kinematic requirements of
+faster COD and agility performances, it is clear that a well-rounded
+approach to strength development involving dynamic, isometric, and
+in particular eccentric strength capacities is needed for the
+development of better COD performances (51, 97), with training
+methods that span the entire load–velocity and force–velocity curve
+(42) across multiple lower-limb and trunk segments (35). In contrast
+to sprint development, it is recommended that athletes undergo
+training that allows for the neuromuscular system to effectively
+adapt to the rate of loading required during the braking phase, with
+the understanding that the neuromuscular requirements for braking
+capacity must be specifically trained using low- and high-velocity
+eccentric muscle actions (38) such as those during drop landings,
+landing from a loaded jump, or the catch phase of a power clean or
+power snatch, in addition to supramaximal eccentrics that
+particularly load the knee extensors. All of these place different
+eccentric loading demands on the hips, knees, and ankles (67).
+The biomechanical demands of directional changes are
+influenced by approach speed and COD angle; thus,
+practitioners should manipulate these two variables
+cautiously when designing COD and agility activities.
+Perceptual-Cognitive Ability
+When the physical ability to change direction rapidly is present, one
+can focus on the components of perceptual-cognitive ability that
+must be developed to bring together the ability to perform both
+physically and mentally on the field of play. There are several
+components 
+of 
+perceptual-cognitive 
+ability: 
+visual 
+scanning,
+anticipation, pattern recognition, knowledge of the situation,
+decision-making time and accuracy, and reaction time (86, 88, 94,
+1444
+
+110, 111). Many of these aspects of development are sport specific,
+and a comprehensive discussion is beyond the scope of this text.
+However, general drills to help improve these skills are discussed in
+the section on methods of developing agility.
+Technical Guidelines and Coaching
+In comparison to sprinting, COD and agility have a large degree of
+freedom due to the multitude of movements that occur during a
+COD. Further, agility performance as restricted or determined by
+opponents or other tactical restraints and scenarios cannot be
+trained through the use of a single technique, with evidence to
+suggest we should be creating within- and between-skill variability
+and a flexible coordinative approach (35). Nevertheless, the
+following are some technical guidelines and coaching suggestions.
+Visual Focus
+When changing direction in response to an opponent (either
+offensive or defensive), the athlete should visually scan the
+environment and opponent while focusing on the shoulders,
+trunk, and hip.
+Following the anticipation of the event, unless deception is
+intended, the athlete should quickly redirect attention to a new
+area to help lead the transition of the body.
+Body Position During Braking and Reacceleration
+Control the trunk leading into the deceleration (decrease large
+amounts of trunk motion) (80). When decelerating, posterior
+trunk lean may assist in orienting the force vector posteriorly.
+Through the stance phase, reorient the trunk and hips toward
+the direction of intended travel to allow for a more effective
+reacceleration (22) and to reduce the redirection demands for
+a more effective position to produce force (35).
+Just as with acceleration mechanics, body lean is paramount in
+allowing proper force application through the ground with
+1445
+
+strong alignment of the ankle, knee, and hip to the trunk and
+shoulders.
+Enter and exit changes in direction with a lower center of
+mass to increase stability and to enable a manipulation of the
+base of support relative to the center of mass (89).
+Leg Action
+Ensure that the athlete can effectively dissipate or tolerate the
+eccentric braking loads through an effective range of motion at
+the hip, knee, and ankle (i.e., co-triple flexion) and avoid a
+stiff-legged braking style (92, 94).
+Emphasize a firm base of support for effective push-off and
+manipulation of base of support relative to center of mass
+(i.e., wide lateral foot plant when cutting, large anterior foot
+placement when turning) while pushing the ground away in
+order to enhance performance (i.e., rapid simultaneous triple
+extension of ankle, knee, and hip), especially while learning in
+closed drills. External focus of attention—through instructions
+to concentrate on the ground instead of a body part—has
+been shown to improve COD performance (76).
+Arm Action
+Powerful arm actions should be used to facilitate leg drive.
+Ensure that the action of the arms is not counterproductive
+(i.e., does not cause a decrease in speed or efficiency),
+particularly during transitioning between difficult COD (e.g.,
+from a backpedal to a sprint), while keeping the arms close to
+the body to reduce the moment of inertia and to increase the
+total body rotation velocities when changing direction (35).
+Transitional Movements
+Expressions of agility can be divided into three phases (21): a
+transition whereby the athlete is in a ready position to read and
+subsequently react to a situation that arises; an initiation, a
+moment when an athlete initiates or changes movement (e.g., a
+1446
+
+COD); this leads to the actualization phase that involves a sport
+skill or sprint to a position. For example, a corner back, when
+tracking a wide receiver, may perform a backpedal (transition),
+before performing a directional change (initiation) into a sprint and
+then intercepting an underthrown pass (actualization). While the
+success of this play or other expressions of agility manifest in the
+actualization phase, the preceding phases are just as important and
+require 
+good 
+technical 
+execution. 
+Backpedaling 
+(rearward
+locomotion with periods of double limb support and one foot in
+contact with the ground between contralateral foot strikes) or
+backward running (rearward locomotion involving single-leg
+support 
+throughout 
+foot–ground 
+contact 
+and 
+both 
+feet
+simultaneously in the air between foot strikes) (101) may be
+performed to displace an athlete rearward while maintaining a
+forward visual gaze of an opponent or ball, such as in basketball,
+soccer, rugby, and football. The frequency and importance of
+differing transitional movements may be sport dependent, and more
+research is required in specific sports to develop this understanding
+(12, 21). Nevertheless, practitioners should develop their athletes’
+ability to perform a variety of transitional movements (e.g., lateral
+shuffle, backpedal, crossover running) and to perform sprints from
+these transitional movements to develop athletes’ movement
+solutions and all-around physical literacy.
+Figure 20.12 provides a technique checklist for common
+transitional movements: the backpedal and side-shuffle. The
+backpedal is an essential locomotive skill for a defensive back in
+American football. The following drill progression could be used to
+develop an athlete’s backpedaling technique before integrating the
+skill with other actions or agility drills:
+Backpedaling for 20 yards (18 m) along a marked line on the
+football field to establish correct technique
+Backpedaling for 20 yards (18 m), changing the pace of the
+drill via an audio command (e.g., “slow” or “fast”), to develop
+1447
+
+the athlete’s ability to adapt backpedaling speed in line with
+tracking an opponent
+Backpedaling and then either on command or when reaching a
+checkmark changing direction (either forward, backward, or
+lateral to either side)
+Backpedaling while tracking an opponent who is initially
+running forward and then changing direction to sprint once the
+opponent initiates a COD or sprint
+A similar progression could be used for other transitional
+movements such as side-shuffling in court-based sports such as
+basketball and tennis.
+Figure 20.12  Technique checklist for common
+transitional movements: backpedal and side-
+shuffle.
+1448
+
+Backpedal
+Starting Stance
+Stand in a split stance, ensuring stability.
+Lower the center of mass by sinking the hips.
+Flex the front hip and knee to approximately 45 degrees.
+Flex the back knee to approximately 90 degrees and the hips to around 60
+degrees.
+The front foot should be flat (firm base of support), while the rear foot heel
+should be raised. Distribute weight toward the balls of both feet.
+Keep the back flat.
+Lean the torso, with the shoulders over the front knee.
+The head is up looking forward (or toward the opponent; visual scanning).
+Relax the arms and hang them straight ahead of the hips.
+First Step
+1449
+
+To initiate movement, drive off the back leg by extending the back leg knee
+and hip with the center of mass (COM) moving behind center of pressure at
+toe-off.
+Using a low heel recovery, the front leg moves back behind the rear leg and
+makes subsequent ground contact underneath the hips.
+Each foot contact should be toe to heel (never heel first).
+Keep hips low to increase stability.
+Maintain a forward trunk lean.
+Keep the head up and looking forward (or toward an opponent).
+Involve a relaxed contralateral arm movement to match the timing and
+amplitude of the leg movement. The range of motion at the shoulder should
+be small.
+The hips, knees, and ankles should be aligned in the frontal plane; avoid
+planting the foot wider than the hips to help maintain torso and pelvic
+position (i.e., hip step-width) and avoid a narrow step width.
+Subsequent Steps
+With each step, use a low heel recovery to keep the feet close to the ground
+(i.e., rapid limb switching with minimal knee separation on ground contact)
+to enable a quicker transition to a subsequent movement (e.g., COD or
+forward sprint).
+Keep the hips low to maintain a low COM again to help quicken the
+transition into the subsequent movement (i.e., minimize vertical oscillation).
+Possible cues include “stay low” or “drop the hips.”
+Each foot contact should be toe to heel. A possible cue is “toe to heel.”
+Ensure foot contact is in line with the hips in the frontal plane to avoid feet
+crossing and the risk of trips or falls.
+Maintain a forward trunk lean.
+Keep the head up and looking forward (or toward an opponent). A possible
+cue is “eyes up” or “head up.”
+Use a relaxed, low-amplitude contralateral arm movement with the objective
+to project COM rearward, with minimal vertical projection and oscillation.
+Side-Shuffle
+Start Position
+Get in an athletic ready position: the feet are shoulder-width apart; weight is
+distributed toward the balls of the feet; flex the hips, knees, and ankles (i.e.,
+strong quarter-squat position); keep the back flat with a torso lean
+(shoulders over knees); the head is up and the arms are by the sides with
+elbows flexed and hands in front of the body.
+1450
+
+Foot Position
+Foot contact is on the balls of the feet.
+Feet are placed perpendicular to movement (parallel or slight hip external
+rotation).
+Feet stay close to the ground.
+Foot placement is wider than the knees; increased width increases stability
+and lowers COM.
+The feet should not cross. (In a diagonal or faster shuffle, the feet may
+cross using a crossover step to help with the directional change or provide
+extra propulsion to increase velocity [21].)
+Leg Action
+Take short steps, driving more from the leg farthest (i.e., pushing the medial
+aspect of foot) from the intended direction of travel (i.e., COM moves
+medially relative to center of pressure at toe-off), with the other leg acting
+as a pivot, allowing the COM to travel medially and assist the shuffle step
+(COM is now over center of pressure).
+Leg action is close to the ground in preparation for ground contact.
+COM Travel
+COM is projected medially or laterally, with minimal vertical projection and
+oscillation.
+The legs remain in a loaded athletic position and the trunk remains vertical.
+1451
+
+Posture
+An athletic position is maintained throughout.
+Maintain flexion of the ankles, knees, and hips, lowering the COM.
+The back remains flat.
+The head is in line with the body.
+1452
+
+Arm Action
+Perform a short, rapid arm action in the sagittal plane.
+Training Goals
+The three goals to enhance agility performance through training are
+to develop the physical qualities to allow athletes to adopt the
+required postures and positions for a range of different agility
+movements performed in the sport as well as enhance braking and
+propulsion of such tasks (action capacity); to develop movement
+efficiency and competency of range of agility movements pertinent
+to the athlete’s sport, and to enhance perceptual-cognitive ability in
+various situations and tactical scenarios (35).
+1453
+
+Methods of Developing Agility
+As discussed throughout the chapter, a multifactorial approach is
+warranted to develop both the physical and the perceptual-cognitive
+aspects required for continual improvement in agility performance.
+Therefore, one should consider a plan that addresses underpinning
+physical capacities using various strength development strategies,
+technical competence in a closed-skill environment with movement-
+specific actions (COD ability), and improvement of perceptual-
+cognitive capacity through agility drills and inherent aspects of skills
+practice (58).
+Strength
+Similar to aspects of strength development for speed, strength
+development for agility should emphasize relative strength and a
+variety of speed–strength qualities along the force–velocity
+spectrum. However, additional development of the eccentric strength
+of the athlete due to the large braking forces during deceleration
+and COD actions within expressions of agility should be considered.
+This means that training exercises can include a spectrum of load–
+velocity profiles in the weight room (42) as well as a variety of load–
+velocity profile activities in the field, such as squat jumps,
+countermovement jumps, and drop jumps of various heights in
+combination with the COD and agility drills themselves. The
+multifactorial nature of agility warrants a well-rounded approach to
+strength development that spans the load– and force–velocity curve.
+Table 20.4 provides an example of how training in the weight room
+and on the field can satisfy the strength requirements underlying
+agility performance. Understanding that athletes will develop the
+physical requirements before being able to transfer newly gained
+strength into technical competence helps coaches, strength and
+conditioning professionals, and athletes realize that performance
+gains will lag behind fundamental physical requirements for a given
+technical skill (99).
+1454
+
+TABLE 20.4 Comparison of Focus for Agility
+Development in Novice and Advanced Athletes
+Strength
+requirement
+Novice
+athletes
+(weight room
+associated)
+Novice
+athletes
+(field and
+court drills)
+Advanced
+athletes
+(weight room
+associated)
+Advanced
+athletes
+(field and
+court drills)
+Dynamic
+strength: required
+to provide base
+strength for all
+subsequent training
+as well as to ensure
+adequate mobility
+during body weight
+and loaded training
+Body weight
+exercises
+Body
+awareness
+work such as
+leaning drills
+Squat (and
+variations)
+Pulls (and
+variations)
+Split-leg and
+unilateral
+variations
+Various COD
+drills
+Concentric
+explosive
+strength (may
+include isometric
+strength work):
+required to
+effectively
+reaccelerate (i.e.,
+propulsion) after
+the braking phase
+or maintain strong
+position through
+the transition phase
+of COD and agility
+Bilateral and
+unilateral box
+jumps
+Acceleration
+drills
+Banded
+drills and
+isometric
+postural
+holds
+Box jumps
+Weightlifting-
+based
+exercises
+Squat jumps
+(loaded)
+Lower-limb
+ballistic
+exercises
+initiated from
+static
+positions
+Advanced
+acceleration
+drills (e.g.,
+sled push)
+Eccentric
+strength: required
+to develop the
+ability to effectively
+attenuate force,
+absorb energy, and
+support large
+external lower-limb
+flexion moments
+required during the
+Submaximal
+bilateral and
+unilateral
+landing
+stabilization
+exercises
+(i.e., drop
+landing,
+single-leg
+Submaximal
+deceleration
+drills (forward
+emphasis and
+teaching
+various
+deceleration
+positions)
+Advanced
+bilateral and
+unilateral
+landing
+stabilization
+exercises
+performed in
+various planes
+Drop landings
+and receiving
+Maximal
+deceleration
+drills (high
+velocity and
+various angles)
+Note: COD = change of direction.
+Adapted by permission from S. Nimphius, “Increasing Agility,” in High-Performance Training
+for Sports, edited by D. Joyce and D. Lewindon (Human Kinetics, 2014), 194.
+1455
+
+Strength
+requirement
+Novice
+athletes
+(weight room
+associated)
+Novice
+athletes
+(field and
+court drills)
+Advanced
+athletes
+(weight room
+associated)
+Advanced
+athletes
+(field and
+court drills)
+braking phase of
+COD and agility
+hop, and
+hold)
+Flywheel
+resistance
+training,
+lower-
+submaximal
+eccentrics,
+and tempo
+training
+strength
+required
+during the
+catch phase of
+weightlifting-
+based
+exercises
+Accentuated
+eccentric
+training
+Maximal and
+supramaximal
+eccentrics and
+resisted
+eccentrics
+Reactive
+strength: required
+to increase the
+ability to transfer
+from high eccentric
+load to concentric
+explosiveness
+Drop landing
+and landing
+stabilization
+exercises
+Beginner
+plyometrics
+(slow to fast
+SSC activities,
+bilateral to
+unilateral,
+sagittal to
+multiplanar)
+Loaded jumps
+Drop jumps
+Complex or
+contrast
+training
+Advanced
+plyometrics
+(fast SSC
+activities,
+unilateral, and
+multiplanar
+plyometrics)
+Multidirectional
+strength: required
+to hold body
+position strongly
+during multitude of
+movement
+demands
+Lunges,
+landmine
+skater squats
+Low-velocity
+COD (e.g.,
+Z-drill)
+Lateral,
+backward,
+and forward
+COD drills
+Unilateral
+exercises
+Greater
+degree of
+freedom
+exercises
+(e.g.,
+landmine
+exercises)
+High-
+velocity
+COD drills
+Challenging
+cutting-
+angle COD
+drills
+Perceptual-
+cognitive
+abilities: required
+—
+Simple reaction
+drills:
+introduction to
+—
+Small-sided
+games
+Note: COD = change of direction.
+Adapted by permission from S. Nimphius, “Increasing Agility,” in High-Performance Training
+for Sports, edited by D. Joyce and D. Lewindon (Human Kinetics, 2014), 194.
+1456
+
+Strength
+requirement
+Novice
+athletes
+(weight room
+associated)
+Novice
+athletes
+(field and
+court drills)
+Advanced
+athletes
+(weight room
+associated)
+Advanced
+athletes
+(field and
+court drills)
+to progress in
+visual scanning,
+effective
+anticipation, and
+decision making
+increasing
+either temporal
+or spatial
+uncertainty
+Agility drills
+with
+severely
+restricted
+temporal
+and spatial
+aspects
+Virtual
+reality and
+video-based
+training
+Note: COD = change of direction.
+Adapted by permission from S. Nimphius, “Increasing Agility,” in High-Performance Training
+for Sports, edited by D. Joyce and D. Lewindon (Human Kinetics, 2014), 194.
+Change-of-Direction Ability
+Similar to the progressions of plyometric activities based on intensity
+and difficulty of each drill, closed-skill COD drills can progress from
+beginner to intermediate to advanced levels based on the physical
+loading demands that have been discussed in this chapter
+(regulation of angle and intensity, which affect mechanical loading)
+(36). Table 20.5 presents an example of a progression of drills for
+COD ability (both rapid COD and those associated with
+maneuverability), as well as a progression plan for agility drills. The
+physical loading during agility drills will be higher than beginner COD
+drills. Therefore, table 20.5 provides practitioners with a series of
+drills and a guideline for safely and effectively advancing athletes so
+they can build on their physical and technical attributes as they
+improve.
+TABLE 20.5 Change-of-Direction and Agility Drill
+Progressions
+1457
+
+Agility
+component
+Beginner
+Intermediate
+Advanced
+COD
+Deceleration
+drills (forward)
+progressing to
+higher entry
+velocity or
+shorter distance
+to stop
+Basic movement
+patterns for
+forward,
+backward, and
+lateral shuffling
+COD drills that
+involve low
+velocities (less
+than 5 yd [5 m]
+of acceleration
+into COD)—Z-
+drill, for
+example
+Deceleration drills
+(lateral) with same
+progressions as forward
+Expand to include a
+broad range of cutting
+angles less than 75
+degrees
+May increase entry
+velocity during drills (up
+to 10 yd [9 m] of
+acceleration leading into
+COD)
+Deceleration to
+reacceleration in
+both forward and
+lateral directions
+Expand further to a
+comprehensive
+range of cutting
+angles, including
+those greater than
+75 degrees
+Maximal-effort
+decelerations and
+entry velocities
+Maneuverability
+Basic drills or tests
+such as the Illinois
+agility that require
+nearly straight-line
+running with slight
+bends
+Drills that increase the
+difficulty of the bend
+involved such as the L-
+run
+Drills that require
+transition between
+modes of movement
+(shuffling, sprinting, and
+backpedaling) such as
+the T-test
+Repeated
+maneuverability
+activities with
+manipulated work-to-
+rest ratios
+Agility
+Physical and
+technical
+competence should
+occur before agility
+drills are
+incorporated
+COD drills in beginner
+and intermediate
+categories with the
+addition of simple stimuli
+(arrow, pointing in a
+certain direction)
+Expand into large
+degrees of spatial
+and temporal
+uncertainty (and
+therefore greater
+perceptual-
+cognitive stress)
+Note: COD = change of direction.
+Adapted by permission from S. Nimphius, “Increasing Agility,” in High-Performance Training
+for Sports, edited by D. Joyce and D. Lewindon (Human Kinetics, 2014), 194.
+1458
+
+Agility
+component
+Beginner
+Intermediate
+Advanced
+These drills present a
+limited number of
+options for the athlete to
+have to react to (e.g.,
+right or left, forward or
+back) on the signal and
+do not develop agility
+per se; however, they
+further increase intensity
+of drills along the agility
+development continuum.
+Small-sided games
+Evasion games and
+drills
+Note: COD = change of direction.
+Adapted by permission from S. Nimphius, “Increasing Agility,” in High-Performance Training
+for Sports, edited by D. Joyce and D. Lewindon (Human Kinetics, 2014), 194.
+Perceptual-Cognitive Ability
+During years of skills training (within the sport), athletes continually
+enhance visual scanning, pattern recognition, and knowledge of the
+situation, while in drills used to improve agility (outside of skills
+practice) they primarily focus on improving anticipation, decision-
+making time, and accuracy. In the same way one would regularly
+increase the demands of a physical task to continually improve
+performance, one can train perceptual-cognitive ability. Therefore,
+agility activities should begin by adding a perceptual-cognitive
+component (i.e., progressing from low to high cognitive loading) to
+common closed-skill COD drills. For example, decelerations or the Z-
+drill can evolve into agility drills by including a generic stimulus such
+as a whistle, a voice command, or a flashing arrow or light (87, 110).
+Following success with the aforementioned agility drills, progression
+requires activities that have sport-specific stimuli such as evasive
+drills and small-sided games, which have been said to have better
+transfer to performance (87, 110). Both generic and specific stimuli
+can be made more difficult within a given agility drill through
+progressive increases in either temporal (time) or spatial (space or
+1459
+
+area) stress on the athlete. See table 20.6 for a range of agility
+factors that can be manipulated in agility drill design.
+TABLE 20.6 Mechanical and Perceptual-Cognitive
+Factors That Can Be Manipulated During Agility Drills
+Variable
+Factor
+Interpretation
+Mechanical
+Spacing and
+pitch or court
+dimensions
+Altering the space and pitch or court dimensions will vary
+the distances traveled and subsequent entry and exit
+velocities and momentum achieved, and therefore allow
+athletes to develop agility from lower velocity, intensive
+scenarios, to higher velocity, extensive scenarios.
+Additionally, entry velocity regulates intensity and
+subsequent mechanical loading experienced.
+Entry and exit
+velocity
+momentum
+Agility actions
+and angle of
+COD
+Practitioners can put restrictions on the type of COD
+action performed or allow athletes to try a range of
+different COD actions to develop between-skill variability
+and movement solutions. Additionally, varying the
+location of end or target zones can allow athletes to
+develop shallow, moderate, and sharp COD ability to
+enable them to be proficient in changing direction across
+a spectrum of angles.
+Starting position
+(static or
+transitional
+movements)
+Athletes can begin the drill from different static initiation
+(e.g., drop step, jab step) and from different transitional
+movements (i.e., backpedal, crossover running, lateral
+shuffle) to create drill variability and to increase game
+representativeness and ability to evade or defend from
+different locomotor actions.
+Perceptual-
+cognitive
+Location and
+number of
+attackers or
+defenders
+The location of the defenders and attackers can be
+manipulated. For example, in addition to front-on
+situations, defenders can be located to the side or behind
+the attackers. This is pertinent for 360-degree sports in
+which defenders and attackers can be located in various
+locations on the pitch or court. The addition of multiple
+attackers and defenders can increase game
+representativeness, allowing the opportunity for decoy
+runs; attacking and defensive transitions and set plays;
+team communication; and increased chaos, task
+complexity, cognitive loading, and variability.
+Note: 
+COD 
+= 
+change 
+of
+direction.
+1460
+
+Variable
+Factor
+Interpretation
+Temporal
+constraints
+Temporal or time constraints can be administered (i.e.,
+athlete has 5 s to achieve the objective) to maintain
+quality and intensity (and often to replicate the reduced
+temporal constraints associated in random sports). Work-
+to-rest ratios can be manipulated for energy system
+development and to represent peak demands of sports.
+Rules and
+conditions
+Practitioners can be creative and vary the rules (i.e., one-
+hand or two-hand tags) and put constraints on the
+attackers or defenders to create variation (i.e., only two
+evasive actions can be performed before committing to a
+specific direction within the drill).
+Environment and
+surfaces
+To increase game representativeness, drills should be
+performed on the sport-specific surface. However, certain
+sports may play on different surfaces (i.e., grass and
+artificial turf) with different hardness and frictional
+properties, and thus these should be considered.
+Generic to sport-
+specific stimulus
+(developing
+representative
+learning
+environments)
+Generic stimuli and sources of information can be used
+such as auditory commands, generic visual commands,
+and stimuli such as flashing lights, arrows, and coach- or
+player-dictated directional commands to increase
+cognitive loading and increase mechanical loading in a
+controlled environment. Typically, the timing of stimuli
+can be controlled as well using specific equipment.
+However, to increase game representativeness, develop
+perceptual-cognitive speed, knowledge of situations,
+memory recall, and anticipation, sport-specific stimuli
+(i.e., multiple attackers or defenders, inclusion of sport-
+specific implements and scenarios) can be included to
+develop movement solutions and transfer to sporting
+performance. These drills can be developed
+collaboratively with the skills coach for simultaneous
+technical and tactical development.
+Task complexity
+and cognitive
+loading
+To challenge more advanced athletes and to ensure
+athletes are prepared for the chaotic demands of sport
+when returning to sports, drills can begin with relatively
+simple closed and open drills with one or two stimuli and
+sources of information, before progressing to more
+chaotic open drills of increased game representativeness
+with various sources of stimuli and information (i.e.,
+Note: 
+COD 
+= 
+change 
+of
+direction.
+1461
+
+Variable
+Factor
+Interpretation
+multiple attackers or defenders, inclusion of sport-specific
+implements and stimuli can be included).
+Note: 
+COD 
+= 
+change 
+of
+direction.
+1462
+
+Program Design
+Program design involves planning at several levels, each with its own
+set of considerations: microcycles (short term), mesocycles (medium
+term), and macrocycles (long term). The process is referred to as
+periodization. Periodization is the strategic manipulation of an
+athlete’s preparedness through the employment of sequenced
+training phases defined by cycles and stages of workload (see
+chapter 22). These planned workloads are varied to facilitate the
+integration of planned programming tactics that will harmonize the
+relationship between training-induced fatigue and accommodation
+(30). Furthermore, the periodization process is guided by
+information collected during the athlete monitoring process.
+Specifically, as an athlete progresses through a training phase,
+consistent 
+information 
+acquired 
+through 
+various 
+monitoring
+strategies helps to show how the athlete is responding to the
+training stimulus in the short term and how the athlete should be
+further developed in the long term—that is, how the original training
+program should be modified to reflect responses to the training.
+At each level of training plan development, strength and
+conditioning professionals must manipulate certain variables. While
+these are useful in characterizing the training agenda as well as
+quantifying workloads, strength and conditioning professionals
+should keep in mind that each variable must be considered
+individually, and they should regard how it affects the collective
+system. Moreover, individual athlete training responses, which
+athlete monitoring reveals, should be used in the manipulation of
+these variables:
+Angle—The intended angle for COM deflection during the task
+and a regulator for knee joint loading
+Approach velocity—The horizontal entry velocity of the COM as
+the athlete begins to initiate their COD action over multiple
+steps and a regulator for knee joint loading
+1463
+
+Exercise (or work) interval—The duration or distance over
+which a repetition is executed
+Exercise order—The sequence in which a set of repetitions is
+executed
+Frequency—The number of training sessions performed in a
+given time period (e.g., day or week)
+Intensity—The effort with which a repetition is executed (% of
+maximum)
+Recovery (rest) interval—The time period between repetitions
+and sets
+Repetition—The execution of a specific workload assignment
+or movement technique
+Series—A group of sets and recovery intervals
+Set—A group of repetitions and rest intervals
+Volume-load—The density of volume performed at prescribed
+intensities—for example, 3 sets of 5 repetitions at 100
+kilograms results in a volume-load of 1,500 kilograms
+Volume—The amount of work (e.g., 3 sets of 5 repetitions)
+performed in a given training session or time period
+Work-to-rest ratio—The relative density of exercise and relief
+intervals in a set, expressed as a ratio
+Chapter 22 explains periodization of resistance training programs,
+and the same concepts can be applied to sprint, COD, and agility
+training.
+1464
+
+Speed Development Strategies
+The planning process for speed development is similar to that used
+by strength and conditioning professionals in the weight room.
+Specifically, planning tactics should be periodized in a manner that
+addresses the physical and psychological components of sprinting
+through emphasis and de-emphasis on particular qualities in a
+phasic manner. An athlete’s capability to sprint can be improved
+through the incorporation of training periods that are designed to
+fully maximize and saturate a fitness quality, which may bolster the
+effects of future training agendas.
+To enhance speed, a practitioner should consider the relationship
+between human locomotion and force production. Throughout this
+chapter the authors have pointed to a link between sprint success
+and certain physiological phenomena. Elite sprinters produce large
+amounts of force within a short amount of time. This high level of
+force allows the sprinter to produce longer step lengths at a faster
+rate. This display of movement on the track reflects enhanced
+neuromuscular factors—namely, maximal strength, RFD, and
+impulse. These variables are the product of well-designed training
+protocols that aim to enhance qualities such as the hypertrophy of
+task-specific motor units, firing frequency, rate coding, and muscle–
+tendon stiffness.
+An option for speed development is provided in table 20.7,
+demonstrating how sequenced phases of training may seamlessly
+develop sprint potential through the maturation of accelerative
+abilities before the execution of maximal-velocity efforts. This model,
+which can be referred to as a short to long method of sprint training,
+is a conceptual progression that attempts to merge the relationship
+between larger rates of acceleration and greater sprint velocities
+(discussed earlier in this chapter) (31). Specifically, an athlete taking
+part in a short to long model will begin the training year with an
+emphasis on improving propulsive force output through short sprints
+that maintain the biomechanics associated with the acceleration
+1465
+
+phase of a sprint. Later, the athlete bridges into longer sprint work
+that aims to enhance top speed through upright running mechanics.
+The concept behind this proposed model is that an athlete may see
+greater improvements in top speed if force production can occur at
+the ideal rate and moment through an investment in acceleration
+development and optimization (62). An alternative approach for
+track sprinters (100-200 m) may involve sequencing training from
+general to specific preparation starting with an aerobic foundation to
+developing anaerobic capacity (short speed–endurance), to speed–
+endurance (long speed–endurance) culminating in speed (inclusive
+of acceleration and maximum velocity) before the main competition
+(14, 46).
+TABLE 20.7 Application of Speed Development
+Strategies: Phasic Development for Short-Distance
+Sprinting (e.g., 100 m sprinter; bobsled athlete)
+Block and
+emphasis
+Training tool and notes
+Load prescription
+(rest periods
+between sets) for an
+example microcycle
+within each blocka
+Block 1
+Primary aim:
+Acceleration
+development
+1. Use incline sprinting to develop proper
+acceleration mechanics, providing an
+opportunity to maximize propulsion forces
+in the initial stages of a sprint.
+2. Emphasize low heel recovery; driving the
+foot down and through the ground;
+aggressive and complete arm action;
+neutral head position in line with the
+spine. Resisted acceleration bounds could
+be incorporated to emphasize lower limb
+extension and forceful thigh retraction
+during late swing.
+Monday:
+Incline sprints
+1 × 3 × 15 m (1.5
+min)
+1 × 4 × 20 m (2 min)
+Wednesday:
+Resisted or sled
+acceleration bounds (2
+min)
+1 × 4 × 15 m
+1 × 2 × 20 m (2 min)
+Friday:
+Incline sprints
+1 × 2 × 15 m (1.5
+min)
+1 × 3 × 20 m (2 min)
+1466
+
+Block and
+emphasis
+Training tool and notes
+Load prescription
+(rest periods
+between sets) for an
+example microcycle
+within each blocka
+1 × 2 × 25 m (2.5
+min)
+Block 2
+Primary aim: Long
+acceleration
+development
+Secondary aim:
+Improve transition
+to upright sprinting
+1. Introduce flat-ground sprinting from a
+low starting position or towing
+mechanism.
+2. Promote the correct biomechanics of
+transition sprinting from acceleration to
+maximal velocity through the inclusion of
+acceleration holds.b
+Monday:
+Incline sprints
+1 × 3 × 30 m (3 min)
+1 × 3 × 40 m (4 min)
+Wednesday:
+Push-up starts
+1 × 4 × 15 m (2 min)
+Sled tows
+2 × 3 × 20 m (2 min
+/4 min)
+Friday:
+Crouch starts
+1 × 4 × 15 m (2 min)
+Acceleration holds
+1 × 3 × 40 m (4 min)
+Block 3
+Primary aim:
+Introduction to max
+speed training
+Secondary aim:
+Maintain
+accelerative ability
+Tertiary aim:
+Exposure to speed–
+endurance;
+introduction to
+special endurance
+1. Maintain acceleration abilities through
+inclusion of short sprints at the beginning
+of most sessions.
+2. Begin exposure to maximum speed
+training through exercises that use
+upright sprinting mechanics.
+3. Prescribe speed–endurance or special
+endurance sessions later in the week
+when effects of summated fatigue may
+dampen neural drive.
+Monday:
+Block starts
+1 × 2 × 20 m (2.5
+min)
+1 × 2 × 30 m (3.5
+min)
+Accelerations from
+crouch stance
+1 × 3 × 40 m (5 min)
+Wednesday:
+High-stance starts
+1 × 3 × 20 m (2.5
+min)
+Fly-ins
+1 × 4 × 20 m build/20
+m fly (4 min)
+Friday:
+Block starts
+1 × 4 × 20 m (3 min)
+1467
+
+Block and
+emphasis
+Training tool and notes
+Load prescription
+(rest periods
+between sets) for an
+example microcycle
+within each blocka
+Accelerations from
+crouch stance
+1 × 2 × 40 m (5 min)
+Speed–endurance from
+two-point stance
+1 × 2 × 60 m (5.5
+min)
+Block 4
+Primary aim:
+Enhance maximal
+speed ability
+Secondary aim:
+Maintain
+accelerative ability
+Tertiary aim:
+Continued
+exposure to speed–
+endurance and
+special endurance
+1. Continue exposure to maximum speed
+training through longer fly-in zones or
+race-modeling practices.
+2. Maintain acceleration abilities through
+incorporation of short sprints at the
+beginning of most sessions.
+3. Prescribe speed–endurance or special
+endurance sessions relevant to the
+athlete’s primary events.
+Monday:
+Block starts
+1 × 2 × 30 m (3.5
+min)
+Acceleration holds
+1 × 2 × 40 m (5 min)
+Fly-float-fly
+1 × 4 × 20/20/20 (7
+min)
+Wednesday
+(technical session):
+Ankling 2 × 15 m (1
+min)
+A-skip 2 × 20 m (1
+min)
+Ankle dribble 1 × 20 m
+(1 min)
+Calf dribble 1 × 20 m
+(1 min)
+Knee dribble 1 × 20 m
+(1 min)
+Dribble bleed 1 × 30 m
+Straight-leg bound 2 ×
+20 m (2 min)
+Wicketc 2 × 30 m (3
+min)
+Wicket with run-off 2 ×
+30 m + 15 m (4 min)
+Dribble blend 2 × 2 ×
+40 m (5 min)
+1468
+
+Block and
+emphasis
+Training tool and notes
+Load prescription
+(rest periods
+between sets) for an
+example microcycle
+within each blocka
+Friday:
+Block starts 1 × 3 × 25
+m (3 min)
+Speed–endurance from
+two-point stance 1 × 2
+× 50 m (6 min)
+1 × 2 × 70 m (6.5
+min)
+1 × 2 × 90 m (7 min)
+aEach session should be preceded by a warm-up that incorporates a range of technical
+drills to work on aspects of technique in relation to both acceleration and maximum-
+velocity sprinting (see sprint drills 1 to 6 on pages 675-683 for examples). These drills
+could also form dedicated technique sessions as depicted in block 4 of the table.
+bAn acceleration hold is a sprint drill for which the strength and conditioning professional
+places a cone on the track near or slightly before the point at which an athlete’s shin
+typically rises to a vertical position, which is indicative of upright sprinting. The athlete is
+then instructed to maintain the speed achieved up to the cone through the remainder of
+the sprint. For instance, an athlete may be prescribed acceleration holds for 40 meters, but
+the coach’s mark ending the acceleration zone is placed at the 20-meter mark on the track.
+The athlete then maintains that speed from 20 meters to 40 meters. This drill is used to
+begin to focus on improving transitional mechanics.
+cWickets are a constrained sprinting task that involves a period of sprint running whereby
+the athlete appears to step over objects (e.g., mini-hurdles) in an effort to encourage high
+foot recovery and optimal front-side mechanics.
+Biomechanical Differences in Acceleration
+Between Sprint and Team-Sport Athletes
+The ability to accelerate linearly and displace the COM rapidly is essential in track
+sprinting and multidirectional team sports. Track sprinters are the fastest humans
+on earth, and thus examining the biomechanics and techniques they adopt is
+intuitive to better understand and optimize sprinting performance in athletes. Clear
+biomechanical and technical differences exist between sprint and team-sport
+athletes (25, 107); however, it is important to consider that environment, task, and
+performer constraints will all interact and influence the acceleration strategy and
+mechanics employed and the overall execution of the sprinting skill.
+1469
+
+Wild and colleagues (107) examined the first three steps during initial
+acceleration and observed that sprinters achieved greater step velocities and
+greater normalized average horizontal external power, and they displayed greater
+normalized step length and flight length, greater normalized touchdown distance
+(i.e., foot impact under or behind COM), and greater toe-off distance (i.e., effective
+push-off behind COM) compared to rugby forwards and backs. Conversely, rugby
+backs displayed slightly shorter contact times and slightly greater step rates
+compared to sprinters. From a kinetics perspective for later acceleration at
+matched velocities (step 8-12 for sprinters and 9-20 for soccer), while no
+differences were observed in the initial 20% of the stance phase between sprinters
+and soccer athletes, sprinters produced greater anterior–posterior force across
+most of the propulsive phase and greater net forces over similar contact times,
+thus resulting in greater relative net impulse (25). As such, the sprinters achieved
+greater average horizontal external power, which allowed them to accelerate
+beyond the velocity plateau of the soccer athletes.
+It should be noted that the spatiotemporal, kinematic, and kinetic differences
+observed could be partially attributed to sprinters accelerating from a four-point
+position using blocks and performed on a rubber surface while wearing spikes. This
+results in different body segment orientations such as greater forward trunk lean
+and horizontal shin angles, which contribute to more horizontally orientated force
+(107). Conversely, team-sport athletes initiate their sprints from a more upright,
+two-point staggered-stance position (resulting in a more vertically orientated
+force), on a different surface with less favorable frictional properties for achieving
+peak speed (i.e., grass, field turf, indoor courts), and with different footwear that is
+designed for multidirectional and sport-specific movements (e.g., cleats or
+trainers). Additionally, sprinters’ preparation strategies are designed around the
+sole task of maximizing linear speed, which is the aim of that sport, and an
+isolated event. As such, sprinting is a skill, and thus, sprinters can dedicate more
+time and deliberate practice to developing the skill of sprinting, while their
+periodized strength and conditioning programs can also be tailored to maximize
+the physical qualities that underpin linear sprinting. Conversely, team-sport
+athletes must be proficient at a range of multidirectional movements (i.e.,
+changing direction, curved sprints of varying radii and direction, compared to
+sprinters who perform curved sprints anticlockwise with radii ≥40 yd [36.5 m], and
+deceleration) and sport-specific skills (e.g., passing, tackling, shooting).
+Additionally, team-sport athletes must perform technical and tactical training and
+generally must do so repeatedly over the course of long matches (generally
+ranging 40-90 mins) and competitive seasons. Due to these competing demands,
+team-sport athletes must spend a significantly lower proportion of time developing
+sprinting skills, while their preparation programs also differ due to the different
+physical, biomechanical, and cardiorespiratory fitness demands between sports.
+1470
+
+Monitoring Sprint Ability
+The longstanding method of assessing an athlete’s speed ability has
+typically involved a test of maximal-effort linear sprinting. Much of
+the time, the maximal-effort sprint test is carried out over a
+distance, such as 40 yards (37 m), that is believed to be relevant to
+the athlete’s sport. While time to completion is an effective tool to
+evaluate changes in sprint performance, these tests do not fully
+address the minute changes regarding an athlete’s progression
+toward race or field readiness. In addition, testing error in the form
+of hand timing and various start tactics confound the interpretation
+of testing results. As a result, strength and conditioning professionals
+may consider the adoption of additional monitoring tools as part of
+their battery of assessments.
+One such method of evaluation comes from the assistance of
+high-speed cameras or optical timing systems that use interruptions
+of infrared light to capture data from an athlete’s collective foot
+strike (15). This technology provides strength and conditioning
+professionals with additional insight into the sprint capabilities of the
+athlete, such as technique and movement strategies (16).
+Additionally, 
+technology 
+that 
+permits 
+the 
+quantification 
+of
+instantaneous speed is also advantageous for insights into speed at
+specific distances, time to achieve specific speeds, peak speed,
+acceleration, and τ (acceleration time constant). Table 20.8 provides
+a description of key variables that may be beneficial in the
+monitoring of speed development.
+TABLE 20.8 Monitoring Speed Development
+Measure
+Description
+Interpretation
+Ground
+contact time
+The total time allotted for a
+single stance phase.
+In general, decreased ground contact
+times coupled with improved sprint
+completion times may suggest that an
+athlete has improved the ability to
+generate high rates of force in a shorter
+Note: ETG = electronic timing gate; 2D = two-dimensional; 3D = three-dimensional; LiDAR
+= light detection and ranging.
+1471
+
+Measure
+Description
+Interpretation
+amount of time. However, an athlete may
+demonstrate slightly longer ground
+contact times at the initial stages of the
+sprint due to acceleration mechanics.
+Step length
+The distance between the toe
+and heel of two consecutive
+footsteps. Example: centimeters
+between the heel of the right
+foot and the heel of the left
+foot.
+Improvements in step length (increases
+in distance covered) may occur through
+improved sprint mechanics or posture
+and ultimately enhanced force output.
+Stride
+length
+The distance between the heel
+in two consecutive steps of the
+same foot. Example: meters
+between the heel of the right
+foot and the heel of the next
+ground contact made by the
+right foot.
+Improvements in stride length (increases
+in distance covered by two successive
+steps) may occur through improved sprint
+mechanics or posture, and ultimately
+enhanced force output.
+Flight time
+The duration of time that an
+athlete is not in contact with the
+ground. This occurs between
+the end of one step and the
+beginning of the subsequent
+step.
+Increases in flight time can be interpreted
+in two ways:
+An athlete is producing higher vertical
+forces over a shorter amount of time,
+resulting in optimal horizontal
+displacement of the athlete’s mass
+down the track.
+An athlete is producing higher forces
+over a longer amount of time, which
+may result in unnecessary vertical
+amplitude of the center of mass.
+Stride angle
+The angle at which the foot
+leaves the track.
+The angle of stride may provide the
+strength and conditioning professional
+with the ability to determine if the athlete
+is producing forces at the right moment,
+which is achieved through proper sprint
+mechanics. Furthermore, data on the
+stride angle elucidate what stage of sprint
+the athlete is attaining (acceleratory,
+transitory, maximum speed) and may
+relate to ground contact times.
+Note: ETG = electronic timing gate; 2D = two-dimensional; 3D = three-dimensional; LiDAR
+= light detection and ranging.
+1472
+
+Measure
+Description
+Interpretation
+Speed
+The relationship between steps
+and the sum of the first step’s
+ground contact time and the
+flight time leading to the
+subsequent ground contact.
+Alternatively, instantaneous
+speed or velocity can be
+examined using GPS technology,
+LiDAR, laser, radar, motorized
+resistance devices, and 2D and
+3D motion capture.
+Speed dictates how fast an athlete can
+move the body mass over a specific
+distance.
+Instantaneous speed/velocity at time
+points/distances can be calculated,
+facilitating a greater insight into sprint
+strategy
+Acceleration
+The change in speed as
+determined by the delta of two
+steps (e.g., right heel to left
+heel) and the sum of ground
+contact times and flight times of
+each step.
+Acceleration provides insight into how
+well the athlete changes speed
+(increasing velocity in a direction) over a
+prescribed distance. For most athletes,
+furthering the length an athlete can
+accelerate will lead to higher top speed,
+provided that postural integrity and
+mechanics are sound.
+Technique
+Acceleration and maximum
+velocity techniques can be
+objectively quantified (i.e., joint
+angles) or qualitatively
+examined and compared to
+technical models to help
+improve performance and
+mitigate injury risk.
+Qualitative analysis is relatively simple to
+perform and only requires filming of
+sprint technique. High-speed video
+recording is a common feature of most
+smartphones and tablets, and athletes’
+technique can be compared to technical
+models such as Altis Kinogram or Sprint-
+Mechanics assessment score (16) to help
+individualize training.
+Note: ETG = electronic timing gate; 2D = two-dimensional; 3D = three-dimensional; LiDAR
+= light detection and ranging.
+1473
+
+Agility Development Strategies
+The development of agility is best achieved using a periodized
+programming method. Random programming or the development of
+agility using only sport-specific methods such as small-sided games
+has not been found to be as effective (13). Although agility is a
+constant element on the field of play or during skills practices, it is
+recommended that agility development begin with the use of COD
+drills (preplanned) and progress in difficulty through increases in the
+physical demands; this is followed by the addition of drills involving
+perceptual-cognitive stress or what are typically termed agility drills
+(60, 110). In line with this recommendation, the development of
+agility should start with a needs analysis based on assessment of the
+athlete’s COD ability and agility. The agility test should specifically
+evaluate perceptual-cognitive ability, as previously described in table
+20.3 on page 655. Further, depending on the additional movement
+requirements of the sport, one may also choose to use a test that is
+more dependent on maneuverability.
+The following is an example of steps for determining the
+appropriate tests, analyzing the results, and using them to program
+agility development of an athlete. Because agility performance is
+underpinned by multiple factors, one should target the largest
+window of opportunity through direct assessment of the strengths
+and weaknesses of the athlete.
+Step 1. Perform a needs analysis of the sport and match tests
+appropriately to assess these qualities (table 20.9).
+Step 2. Determine strengths and weaknesses by comparing results
+as a standardized score to performance standards or team mean
+(figure 20.13).
+Step 3. Plan the development of a primary area of need and a
+secondary area of need for the athlete.
+Step 4. Distribute the time available for this development based on
+need identification.
+1474
+
+Step 5. Provide a preliminary plan for transition of percent
+distribution through the training blocks (table 20.10). Determine if
+this progression is appropriate by monitoring the development of
+COD and agility as described in table 20.8 (e.g., COD deficit).
+TABLE 20.9 Needs Analysis for Agility Development
+Sport
+Basketball
+Timeframe
+12 weeks (8 weeks off-season and 4 weeks preseason
+training)
+Sport-specific agility
+needs analysis
+High-velocity COD
+Backdoor cuts, cuts through the lane, fast break, and
+possession changes
+Maneuverability (multiple modes of COD movement)
+Defensive shuffling, backpedaling, and bending changes
+of direction around screens to lose defender
+Agility (perceptual-cognitive)
+Decision-making time (provides great advantages both
+offensively and defensively)
+Ability to move in reaction to play or opponent
+Recommended tests
+5-0-5 including COD, T-test, agility test (decision time
+measured)
+Note: COD = change of direction.
+1475
+
+FIGURE 20.13 Strengths and weaknesses of an athlete through representation of
+standardized scores for perceptual-cognitive ability, maneuverability, and COD ability.
+Negative values indicate performance lower than average, whereas positive values indicate
+performance better than average.
+With the information provided by the testing as well as
+considering other physical fitness capacities, one can implement an
+appropriate periodized plan. Table 20.11 shows an example of three
+blocks of training (four weeks each). The length of time for a
+training session is between 10 and 15 minutes inclusive of work and
+rest time and can be completed one to three times per week
+depending on additional requirements of the athletes (e.g., skills
+training increasing in the preseason). A variety of drills can replace
+the examples given here; however, they should be chosen based on
+their classification and ability to address the athlete’s needs.
+TABLE 20.10 Planned Distribution of Training Blocks
+for Agility Development
+COD
+Maneuverability
+Agility (perceptual-
+cognitive)
+PRIMARY AIM
+SECONDARY AIM
+TERTIARY AIM
+Estimated %
+time allotted
+Block 1 ~65%
+Block 2 ~60%
+Block 1 ~35%
+Block 2 ~30%
+Block 1 N/A
+Block 2 ~20%
+1476
+
+COD
+Maneuverability
+Agility (perceptual-
+cognitive)
+through
+blocks
+Block 3 ~50%
+Block 3 ~25%
+Block 3 ~25%
+Additional
+comments
+Check strength or
+specifically load
+absorption ability
+with drop
+landings.
+Assess body
+positioning during
+lateral shuffling and
+COD.
+May be reliant on perceptual-
+cognitive ability. This may
+have previously masked the
+identification that the athlete
+could improve his or her
+physical COD ability.
+TABLE 20.11 Application of Agility Development
+Strategies
+Block and emphasis
+Training tools and notes
+Load prescription for week 1
+Block 1
+Primary aim: COD
+(deceleration capacity
+—linear)
+Secondary aim:
+Maneuverability (body
+position)
+Braking tasks are eccentric
+focused; therefore, start
+with low volumes similar to
+those used to introduce
+eccentric tasks
+(plyometrics).
+Focus on the athlete
+staying low; sacrifice speed
+for positioning, and
+emphasize optimal
+deceleration mechanics.
+2-3 sessions per week; rest period
+between sets
+COD Drill
+Decelerations* (5 yd [5 m]
+start-stop) 1 × 6 (30 s)
+(Alternate nonpreferred,
+preferred leg finish braking
+[split stance] position and
+bilateral athletic ready
+position.)
+Maneuverability Drill
+Lateral shuffling @ height or
+backpedaling 1 × 4 × 11 yd
+[10 m] (30 s)
+Block 2
+Primary aim: COD
+(deceleration capacity
+—lateral)
+Secondary aim:
+Maneuverability
+Ensure that the athlete can
+use body position to
+effectively brake when
+oriented both forward and
+laterally; focus on the
+athlete absorbing into stop.
+2-3 sessions per week; rest
+periods between sets
+COD Drill
+Decelerations* (11 yd [10 m]
+start-stop) 1 × 6 (30 s) as with
+week 1; use same variations
+Note: COD = change of direction.
+*Speed should progressively increase for deceleration drills through the weeks—for
+example, half speed to three-quarters speed entry velocity or changing distance of start-
+stop drills inclusive of generic and sport-specific stimuli.
+Note: There is not a separate emphasis on acceleration ability here; it is expected this will
+be addressed in conjunction with speed sessions.
+1477
+
+Block and emphasis
+Training tools and notes
+Load prescription for week 1
+(transition between
+modes of COD—
+shuffle to sprint to
+shuffle)
+Expand to a single effort in
+reaction to generic
+stimulus.
+Promote effective
+application of force into the
+ground (“pushing the
+ground away”); watch
+shank angle and trunk
+position for visual
+feedback.
+Decelerations (lateral) 1 × 4
+(30 s)
+Maneuverability Drill
+Z-drill (forward) 2 × 4 (30 s; 2
+min) (Always alternate start
+direction: left to right vs. right
+to left direction)
+Y-drill using different cutting
+maneuvers; side-step,
+crossover, or split-step to
+develop movement solutions.
+Ensure exit out of directional
+change is completed into a
+rapid deceleration. 3 × 4 (1
+min; 3 min) (Generic stimuli
+could be added later within the
+block)
+Block 3
+Primary aim: COD
+(effective deceleration
+to reacceleration)
+Secondary aim:
+Maneuverability
+(combine effective
+transition and body
+positioning)
+Tertiary aim: Agility
+(focus on keeping
+COD performance and
+body position even in
+response to a generic
+stimulus)
+Focus on “braking in” and
+“exploding out” of the
+COD.
+Focus on footwork and
+keeping low, with steps
+that promote a “drop and
+drive” out of the COD.
+This is used to check the
+transfer of physical training
+to a more specific (yet still
+generic) stimulus. Focus on
+the “decide and go,”
+checking for athletes to
+reorient effectively or to
+move as effectively as they
+decide.
+1-2 sessions per week (depending
+on skills volume); rest period
+between sets
+COD Drill
+Modified 5-0-5 drill 2 × 4 (30
+s; 2 min) (Alternate plant foot)
+Maneuverability Drill
+T-test 1 × 4 (30 s)
+Agility
+Reactive agility (Y agility drill) 1
+× 4 (30 s) (Same direction in
+response to pointing in a
+direction)
+Skills training will also
+inherently contain sport-
+specific stimulus training
+Note: COD = change of direction.
+*Speed should progressively increase for deceleration drills through the weeks—for
+example, half speed to three-quarters speed entry velocity or changing distance of start-
+stop drills inclusive of generic and sport-specific stimuli.
+Note: There is not a separate emphasis on acceleration ability here; it is expected this will
+be addressed in conjunction with speed sessions.
+1478
+
+Monitoring Agility and Change-of-
+Direction Ability
+In line with the concepts considered in monitoring sprint
+performance, simply assessing performance modification in either
+COD or agility according to time to completion of the chosen test
+does not isolate the physical quality or perceptual-cognitive quality
+that one is trying to examine—the actual ability to change direction
+(70, 71, 73, 92, 96). Therefore, when monitoring COD or agility
+performance, the strength and conditioning professional may
+consider the measures in table 20.12. Although these aspects of
+performance have been measured using expensive devices such as
+three-dimensional motion analysis equipment, readily available high-
+speed cameras (collecting more than 100 frames per second) could
+easily be used in conjunction with the usual timing methods (hand
+or electronic).
+TABLE 20.12 Monitoring Agility Development
+Measure
+Description
+Interpretation
+Completion
+time
+Total time to complete the task
+Represents the duration it takes the
+athlete to get from A to B but can be
+biased toward athletes with superior
+linear speed; provides limited
+information regarding COD ability,
+technique, or strategy. Can be simply
+assessed using a stopwatch or ETGs.
+COD deficit
+The difference in time between
+a straight-line sprint and a
+COD test of equal length
+Assessing the COD deficit provides
+insight into the additional amount of
+time required by the athlete due to the
+demands of COD. An example is
+subtraction of 10 m sprint time from 5-0-
+5 COD time (a common COD test is 10 m
+in length). However, COD deficit can be
+biased toward slower athletes and
+Note: COD = change of direction; COM = center of mass; ETG = electronic timing gate;
+2D = two-dimensional; 3D= three-dimensional; LiDAR = light detection and ranging.
+1479
+
+Measure
+Description
+Interpretation
+provides limited information regarding
+COD ability, technique, or strategy.
+Ground
+contact time
+(GCT)
+The total time the foot is in
+contact with the ground during
+the COD (length of the plant
+phase, main execution plant
+foot contact)
+Shorter ground contact times are
+generally associated with faster COD
+performance and indicate the athlete is
+spending less time performing the COD
+(if the athlete deflects their COM at the
+same angle). Insight into GCT can
+establish whether the athlete is
+improving their COD ability irrespective
+of total time. GCT can be measured
+using a built-in force platform, contact
+mat, or verified using 2D analysis.
+Exit velocity
+The horizontal velocity of
+the athlete during the initial
+step out of the plant of the
+COD
+Considered the first step of
+reacceleration from plant
+foot to foot strike
+Unlike the situation for total time, using
+a high-speed video camera or 3D motion
+analysis to assess the velocity of the
+athlete (at the hip or COM) can give a
+direct measure of the ability to change
+direction. Improved exit velocity with the
+same or faster ground contact times
+implies greater RFD relevant to
+improving COD ability.
+Entry velocity
+Velocity of the athlete before
+the plant phase; can be
+measured over several steps or
+as the last step entering the
+plant phase of the COD
+Entry velocity is a strong determinant of
+COD completion time, and the ability to
+enter the COD with high velocity can be
+advantageous for COD actions. Insight
+into entry velocity can be used to
+establish whether any pacing or self-
+regulatory strategies are adopted.
+Assessed using the above methods for
+exit velocity.
+Decision-
+making time
+Measurement of the time
+between two events is
+considered decision-making
+time and can either be a
+positive or a negative value.
+Decision-making time can be
+broken down into two different
+orientations to
+Similar to the measurement of entry and
+exit velocity, a high-speed camera can be
+positioned to the side of the directional
+change to capture both the stimulus and
+the athlete’s first definitive foot plant to
+change direction in response. If the
+decision-making time is negative, this
+indicates that the athlete anticipated the
+Note: COD = change of direction; COM = center of mass; ETG = electronic timing gate;
+2D = two-dimensional; 3D= three-dimensional; LiDAR = light detection and ranging.
+1480
+
+Measure
+Description
+Interpretation
+comprehensively assess how
+athletes respond during game
+scenarios: (a) defensive (move
+in the same direction as the
+stimulus); (b) offensive (move
+in the opposite direction to the
+stimulus).
+directional change before the stimulus
+finalized the movement. Negative
+decision-making time is observed only
+during response to movements of
+another person (video or human
+stimulus), highlighting the importance of
+stimulus specificity during agility
+protocols. The measurement of decision-
+making time in both defensive and
+offensive situations allows strength and
+conditioning professionals to identify
+whether athletes need to develop
+perceptual-cognitive ability in a specific
+game scenario.
+COD phase-
+specific
+information
+Kinetic or kinematic data
+pertaining to the approach or
+acceleration, deceleration,
+turn, and reacceleration
+phases of a COD task
+This enables the practitioner to examine
+the overall COD by splitting the task into
+several phases (e.g., approach, COD,
+and exit). This information enables the
+identification of COD strategy and
+establishes strengths and areas for
+development. Essentially, it provides
+further information regarding how the
+athlete achieved that completion time.
+Advanced technology such as LiDAR or
+radar may provide information regarding
+time and distance braking and speed at
+braking onset.
+Alternative
+considerations
+Practitioners should also
+consider the athlete’s
+momentum into the COD task
+because greater momentums
+require greater braking
+impulse to decelerate.
+Additional monitoring of pacing
+strategies is also essential
+because athletes may regulate
+entry speed to reduce
+momentum to make
+deceleration or braking easier.
+Finally, video analysis is also
+Note: COD = change of direction; COM = center of mass; ETG = electronic timing gate;
+2D = two-dimensional; 3D= three-dimensional; LiDAR = light detection and ranging.
+1481
+
+Measure
+Description
+Interpretation
+recommended to observe
+technique to understand
+compensatory strategies, areas
+for development, and
+comparison to technical
+models.
+Note: COD = change of direction; COM = center of mass; ETG = electronic timing gate;
+2D = two-dimensional; 3D= three-dimensional; LiDAR = light detection and ranging.
+1482
+
+Conclusion
+Speed, change of direction, and agility are well-established measures
+of athletic prowess in most sporting contexts. For this reason,
+strength and conditioning professionals should be aware of how
+these abilities are established and modified through training plan
+design and execution. These components of athletic movement and
+game play are underpinned by task-specific force application. This
+task-specific force production must be large enough to stabilize the
+athlete’s body weight in the presence of gravity, displace the athlete
+from one point to another, and continue moving the athlete at high
+velocities.
+Running speed is associated with the relationship between step
+length and rate. Sprinting is a near-maximum to maximum run that
+is defined by large rates of force developed within a short stance
+time. Better sprinters spend more time in the air as a result of
+increased step lengths that occur at faster rates than those of their
+slower counterparts and are better able to produce larger net forces
+that are oriented optimally for effective acceleration and top speed.
+Agility encompasses the skills and abilities needed to explosively
+change movement direction, velocities, or modes in response to a
+stimulus. Both sprinting and agility use the SSC and greater
+neuromuscular efficiency compared to slower movements. However,
+agility includes perceptual-cognitive demands such as visual search
+scanning, decision making, anticipation, and reaction times that
+make it a separate training quality.
+Strength and conditioning professionals aiming to improve these
+performance attributes should do so through the cyclic and
+sequential arrangement of training phases that harmonize strength
+training with speed, agility, or COD practice or some combination of
+these. This training effect may best result from the incorporation of
+exercises that are task specific and promote proper movement
+mechanics. The training prescribed should reflect the results of a
+needs analysis assessment at the beginning of a long phase or year.
+1483
+
+Furthermore, subsequent training plans should be optimized through
+an ongoing athlete monitoring program, which can assist the
+strength and conditioning professional in determining how the
+athlete is responding to the programmed agenda.
+SPEED AND AGILITY DRILLS
+SPEED DRILLS
+  1  Ankling  675
+  2  A-Skip  67 6
+  3  B-Skip  678
+  4  Switches  680
+  5  Dribbles  681
+  6  Straight-Leg Bound  682
+  7  Sprint Resistance: Incline for Acceleration  684
+AGILITY DRILLS
+  8  Deceleration Drill  685
+  9  Y Agility Drill  686
+10  Multiplanar Acceleration Initiation Box Drill  689
+11  Evasion Drill  690
+Speed Drills
+  1   ANKLING
+Ankling is a commonly prescribed sprint drill to develop the correct
+foot contact strategy during maximum-velocity sprinting.
+Starting Position
+Begin the exercise in a tall stance with the torso directly above
+the hips, knees, and ankles (stacked joints).
+1484
+
+Movement Phase
+Initiate movement by pushing off one limb through the ankle,
+achieving a small flight phase. For the subsequent foot ground
+contact, the ankle should be in a neutral position and make
+contact on the forefoot under the hips or center of mass.
+During ground contact there should be minimal knee and ankle
+flexion. The athlete should be cued to “punch the ground” with
+the limb, emphasizing short, stiff ground contacts with each
+ground contact.
+The trunk should remain upright with a slight lean and hips
+extended (little to no flexion during ground contact). The
+contralateral arm range of movement will be small, but the
+speed of the arm movement should match the rate of foot
+contacts.
+Technique Tips
+Ensure an upright trunk and avoid leaning back.
+Make sure the athlete drives vertically with each foot contact,
+emphasizing a stiff strategy landing on the forefoot with the
+ankle in a neutral position.
+Ensure the arm movement is timed with the leg movement and
+will be of a low amplitude.
+Avoid excessive hip flexion, resulting in excessive foot contact
+ahead of the COM, with the aim for foot contact as close as
+possible to under the COM.
+1485
+
+  2   A-SKIP
+The A-skip is a commonly prescribed sprint drill to develop the
+correct leg recovery mechanics for maximum-velocity sprint running.
+Starting Position
+Begin the exercise in a tall stance with the torso directly above
+the hips, knees, and ankles (stacked joints).
+Movement Phase
+Initiate movement by lifting one leg to a flexed knee position in
+which the top of the thigh is near parallel. The foot of the lifted
+leg (swing leg) should be approximately at knee height of the
+stance leg, with the heel pulled up under the buttocks and the
+ankle dorsiflexed. This will result in the appearance of a figure
+four at the legs. The swing leg will always accord with this
+description.
+Begin the first skip by driving the swing leg down to the ground
+through an active foot, established through slight dorsiflexion.
+Lift the big toe up to establish appropriate dorsiflexion.
+1486
+
+Complete the drive down of the swing leg through the forefoot
+until near–triple extension of the new stance leg occurs.
+The fore- to mid-foot of the new stance leg should land under
+the hips, maintaining the appearance of stacked joints.
+At the initiation of contact, the opposing leg should pop up
+rapidly to create a swing leg.
+The force generated from the active push down should coincide
+with a skipping motion that will result in a horizontal
+displacement of the body down the track.
+Technique Tips
+Maintain a tall posture with relaxed shoulders through the entire
+duration.
+The arms should move at the same rate as the legs, with
+minimal to no pausing of arm action between cycles.
+Regression and Progression
+A regression of the drill includes an A-march, which involves the
+same movements but at a slower pace to establish the correct
+leg recovery mechanics. If athletes struggle coordinating the
+contralateral arm movement, the hands can be placed on the
+hips initially.
+To progress from the A-skip, a running form emphasizes the leg
+recovery action with the thighs reaching parallel with the
+ground.
+1487
+
+  3   B-SKIP
+The B-skip is a commonly prescribed sprint drill to develop the
+correct leg recovery and subsequent touchdown mechanics for
+maximum-velocity sprint running.
+Starting Position
+1488
+
+Begin the exercise in a tall stance with the torso directly above
+the hips, knees, and ankles (stacked joints).
+Movement Phase
+Initiate movement by lifting one leg to a flexed knee position in
+which the top of the thigh is near parallel (i.e., front-side
+mechanics). The foot of the lifted leg (swing leg) should be
+approximately at knee height of the stance leg, with the heel
+pulled up under the buttocks and the ankle dorsiflexed. This will
+result in the appearance of a figure four at the legs. The swing
+leg will always accord with this description.
+Begin the first skip by aggressively driving the swing leg down
+to the ground through an active foot, established through slight
+dorsiflexion. Lift the big toe up to establish appropriate
+dorsiflexion. (The main difference between the A- and B-skip is
+the more aggressive driving down of the swing leg to
+emphasize correct touchdown mechanics and increased angular
+velocities.)
+Complete the drive down of the swing leg through the forefoot
+until near–triple extension of the new stance leg occurs.
+The fore- to mid-foot of the new stance leg should land under
+the hips, maintaining the appearance of stacked joints.
+At the initiation of contact, the opposing leg should pop up
+rapidly to create a swing leg.
+The force generated from the active push down should coincide
+with a skipping motion that will result in a horizontal
+displacement of the body down the track.
+Technique Tips
+Maintain a tall posture with relaxed shoulders through the entire
+duration.
+The arms should move at the same rate as the legs, with
+minimal to no pausing of arm action between cycles. If the
+athlete struggles initially to coordinate the contralateral arm
+1489
+
+action, the athlete could place the hands on hips to initially
+master the correct leg recovery and touchdown action.
+During the aggressive drive down of the swing leg, ensure the
+leg sweeps back to contact the ground with the forefoot under
+the hips.
+Regression and Progression
+A regression of the drill includes a B-march or -walk, which
+involves the same movements but at a slower pace to establish
+the correct leg recovery and touchdown mechanics. A
+progression from the B-skip involves a running form
+emphasizing the leg recovery to touchdown action and
+overhead variations to focus on trunk stability and lumbopelvic
+control.
+1490
+
+  4   SWITCHES
+Switches emphasize rapid limb switching and path of movement of
+the feet that resemble the more linear path of movement associated
+with accelerative sprinting.
+Starting Position
+1491
+
+Stand on one leg with one leg flexed 90 degrees at the hip and
+knee to ensure the thigh is parallel with the ground. The ankle
+is neutral or dorsiflexed, which emphasizes front-side mechanics
+and a positive shin angle. The contralateral arm is held with the
+elbow flexed to <90 degrees and with the hand around the
+height of the chin.
+The foot of the standing leg is flat on the ground, and the
+ipsilateral arm is relaxed by the side of the body.
+The trunk is upright with the head up and eyes looking forward.
+Movement Phase
+While maintaining an upright trunk with the head up, the
+athlete simultaneously drives the standing leg up and the flexed
+leg down, emphasizing rapid switching of the limbs.
+The contralateral arm movement matches the speed of the leg
+movement.
+The landing of the previously flexed limb on the ground and the
+standing limb to the flexed position should occur at the same
+time. Pause in this position (initial position) before repeating for
+a desired number of repetitions.
+Technique Tips
+Ensure an upright trunk and head with no leaning back or
+excessive lumbar flexion.
+Emphasize rapid leg and arm switching, avoiding excessively
+high thigh and knee lifts (>90 degrees).
+Progressions
+Rather than perform with a pause between repetitions, this drill
+can progress to performing repeatedly for a desired number of
+repetitions on the spot (e.g., 2 or 3) before pausing.
+A further progression would be to add a mini-hop forward
+between repetitions but still emphasizing the rapid limb,
+switching to establish a more rhythmic pattern. Trunk stability
+1492
+
+and lumbopelvic control can be challenged with overhead
+variations.
+  5   DRIBBLES
+This drill, which assists with many aspects of the technical running
+model involving a scaled running practice, emphasizes the more
+circular path of the foot during maximum-velocity sprinting.
+Starting Position
+Stand with the feet hip-width apart and the head and trunk
+upright.
+Movement Phase
+Lift one leg so the foot is above the opposing ankle with toes
+pointed up, then sweep the foot down and back to make foot
+contact. As the center of mass moves ahead of the foot, the
+foot should drive up and over the ankle. Repeat this circular
+foot motion with each limb for the designated distance. The
+1493
+
+foot contact should be with the ankle in a neutral position and
+may begin heel to toe with each foot contact.
+The drill will involve a low knee lift but will become larger with
+progressions. The foot contact will also progress to forefoot
+contact with these progressions.
+The trunk leans forward slightly with the head up and eyes
+looking forward. The athlete adopts a contralateral arm
+movement at a lower amplitude of maximal sprint running, but
+the timing and range of motion should match the timing and
+range of motion of the legs.
+Technique Tips
+Emphasize the circular recovery motion of the foot.
+Maintain a slight trunk lean with head up and eyes looking
+forward.
+Ensure the contralateral arm movement matches the timing and
+range of motion of the leg action.
+Regressions and Progressions
+If the athlete initially struggles with the ankle dribble, he or she
+could lower the intensity to a walking pace and work on the
+circular path of movement of the foot over the opposing ankle
+using a heel–toe contact.
+Progression from the ankle dribble involves greater range of
+movement of the circular foot pattern, so the foot first reaches
+calf height (calf dribble) and then knee height (knee dribble).
+Furthermore, after mastering these versions, progressions could
+involve dribble bleeds whereby the athlete may progress from
+ankle to calf to knee dribble within the same repetition or blend
+a knee dribble to a high-speed run.
+1494
+
+  6   STRAIGHT-LEG BOUND
+This drill emphasizes rapid retraction of the lower limb, offering
+similarity to the desired touchdown leg mechanics of maximum-
+velocity sprinting and increasing hip angular velocity and foot
+touchdown velocity.
+Starting Position
+Stand with the feet hip-width apart and the head and trunk
+upright.
+Movement Phase
+After an initial upward and forward hop from one limb, while
+maintaining a straight limb (extended knee and neutral ankle
+position), drive the opposite hip forward and then rapidly retract
+the limb to make ground contact on the forefoot before
+rebounding and repeating with the opposite limb.
+Emphasize the rapid retraction of the limb in preparation for
+ground contact, and ensure that ground contact times remain
+short and, ideally, under the hips.
+The trunk should be maintained in an upright position (must
+avoid leaning back), with the head up and eyes looking forward.
+1495
+
+The athlete should adopt a contralateral limb movement that
+matches the timing and range of motion of the limbs.
+Technique Tips
+Maintain an upright trunk without leaning back.
+Emphasize rapid, forceful retraction of the limb toward ground
+contact, and ensure that ground contacts are short and under
+the hips.
+Adopt a contralateral arm movement that matches the timing
+and range of motion of the lower limbs.
+Regressions and Progressions
+If the athlete initially struggles with the straight-leg bound, the
+athlete could lower the intensity by reducing the hip flexion
+range of motion and speed of retraction, and gradually and
+progressively build up the speed and range of motion.
+Trunk stability and lumbopelvic control can be challenged with
+overhead variations of straight-leg bounds, and straight-leg
+bounds can be transitioned or blended into normal upright
+running with the aim that previous straight-leg bounds will
+transfer to increased hip angular velocities, limb retraction, and
+active touchdowns with high velocities (i.e., 20-yard straight leg
+build up into flying 20-yard sprint).
+1496
+
+  7   SPRINT RESISTANCE: INCLINE FOR
+ACCELERATION
+Incline sprinting is a type of resisted sprinting that is prescribed to
+promote physical and technical improvements within the acceleration
+phase of a sprint. Alternative approaches to using an incline include
+using weighted sleds.
+Starting Position
+1497
+
+Begin in the correct starting position (commonly called a
+crouched start). First, split the stance position by placing the
+dominant leg forward and dropping the back or swing leg by
+one to two foot lengths.
+The length of split between the drive and swing leg is largely
+determined by the compromise between the (a) ability to
+generate sufficient forces needed to overcome a lower center of
+gravity and (b) comfort. In addition, the feet should be split in
+such a manner that the front and back legs are in line with the
+pelvis, so that no unnecessary twisting of the hips occurs.
+Once the split stance has been established, drop the back knee
+straight down so that the shank (shin) is nearer (more parallel)
+to the ground. This aids in promoting the proper driving position
+needed to begin acceleration.
+With a tall and rigid torso, raise the arm that is opposite to the
+front or drive leg to a position near or slightly above the
+forehead. The hand should be spaced approximately 6 to 8
+inches (15-20 cm) away from the forehead. The rear arm
+(opposite to the rear or swing leg) should be pulled back to a
+point at which the hand is near the lateral aspect of the
+buttocks with an elbow angle that may range from 100 degrees
+to 120 degrees. This position allows for the arm action to assist
+in producing sufficient propulsive forces to overcome static
+inertia.
+On completion of setup, lean the entire body forward so that
+60% of the body weight is on the front leg. Avoid breaking at
+the waist during this shift. The athlete should continue to feel
+balanced and stable.
+Movement Phase
+After body weight has been transferred, the athlete can initiate
+the sprint through an aggressive push down and through the
+ground via the front or drive leg.
+1498
+
+The back leg should also assist in force production but will leave
+the ground earlier due to the starting stance position. Arm
+action should be synchronous with leg action.
+Technique Tips
+Cue the athlete to maximize accelerative mechanics through a
+low heel recovery of the rear or swing leg. This should be
+staged through the proper setup of the crouched starting
+position described earlier.
+Coach the athlete to continue aggressively pushing against the
+ground alongside an arm swing that may be cued to emphasize
+a hand that is pulled down and back. Arm action often parallels
+movements of the legs.
+The torso should remain tall and tight with the head in a neutral
+position. The torso and head are in line and will rise at the
+same rate as the hips gradually rise.
+Agility Drills
+  8   DECELERATION DRILL
+The deceleration drill requires the athlete to reduce horizontal
+momentum (negative acceleration) across a series of foot contacts
+as an isolated agility action or prior to a COD maneuver (35).
+1499
+
+Task
+The athlete initiates a linear acceleration from a two-point static
+position and sprints to a predetermined distance (i.e., 5, 10, or
+20 yards or meters) before braking and decelerating over a
+series of steps as rapidly as possible.
+Progressions and Regressions
+Tasks can begin submaximally, preplanned, and over smaller
+approach distances and thus velocity before increasing intent
+and increasing approach distances and subsequent velocities,
+and momentum. Deceleration drills can be further developed
+through the use of generic and sport-specific stimuli. For
+example, the “Stop at the Lights” game is a game-based agility
+drill in which the athletes must react to the green (accelerate)
+and red (decelerate) signals from the coach. Athletes race to
+the end and are disqualified if they are unable to stop on
+command. Additionally, drills can be further developed through
+the use of auditory stimuli (i.e., “stop”) and partner or opponent
+stimuli.
+Variations
+Practitioners can vary the initiation positions and planes of
+motion (two-point, three-point, falling, false step, amplitude
+jump, crossover cut, pivot, torso rotation, drop step, pop steps)
+and develop a range of different deceleration actions to improve
+movement 
+solutions. 
+Deceleration 
+positions 
+include 
+the
+following:
+Bilateral (athletic ready position)
+Split position
+Transverse (jockey position)
+Lateral deceleration position
+Diagonal (crossover)
+1500
+
+  9   Y AGILITY DRILL
+The Y agility drill requires the athlete to plant his or her foot laterally
+opposite to the direction of travel to create a propulsive impulse into
+the new intended direction (35). Cutting is the key movement with
+this drill.
+Task
+The athlete initiates a linear acceleration from a two-point static
+position and sprints linearly to a predetermined distance (e.g., 5
+yards or meters) and then performs a side-step cutting action
+45 degrees to the left or right and accelerates a further 5 yards
+or meters (or alternative distance).
+1501
+
+Progressions and Regressions
+Tasks can begin submaximal, preplanned, and applied over
+smaller approach distances and, therefore, involve lower
+approach velocities. The drill can then be progressed by
+performing it maximally or by increasing the approach
+distances, which would lead to greater approach velocities and
+1502
+
+momentum 
+(thereby 
+increasing 
+the 
+braking 
+demand
+experienced prior to and during the directional change).
+Y agility drills can be further progressed using generic or sport-
+specific stimuli. For example, the drill can be adapted whereby
+the athletes must react to auditory or visual stimuli when
+approaching the turning area, such as a color cone or auditory
+command (i.e., left or right). Moreover, the tasks can be further
+developed by incorporating a sport-specific stimuli such as an
+opponent and alternating between leading (attacking) and
+following (defending) through the use of mirror drills.
+Variations
+To improve movement solutions and create between-skill
+variability and an adaptable performer, practitioners can vary
+1503
+
+the cutting techniques performed at the turning point during
+preplanned and Y-shaped agility tasks. Alternative cuts include
+the following:
+Crossover cut. The athlete positions the plant foot on the
+same side (ipsilateral) of the new direction (or sometimes
+medially across the pelvic midline) and then crosses the
+opposite leg (contralateral) in front of the body for the new
+step in the new direction, accelerating in the same direction
+of the push-off leg (35).
+Split step cut. The athlete performs a small jump (amplitude
+jump) before push-off, landing with both feet greater than or
+equal to shoulder-width apart (not shown; it would come
+after the second photo), and then, on landing, the
+contralateral limb is used for push-off into the intended
+direction of travel (35).
+1504
+
+  10   MULTIPLANAR ACCELERATION
+INITIATION BOX DRILL
+This drill requires starting movements to accelerate the athlete in a
+new direction (i.e., forward, sideways, rearward).
+Task
+1505
+
+The athlete starts in the center of a 5 × 5-yard or -meter box
+and initiates an acceleration from a static position in a new
+direction (i.e., forward, sideways, rearward) before decelerating
+at the specific cone or zone. The athlete should begin
+submaximally developing his or her ability to accelerate forward,
+sideways, and rearward and practice a range of different
+movements as outlined here:
+Starting and accelerating forward (static initiation). Bilateral
+to false step, two-point staggered, three-point stance,
+prone, kneeling, supine, two-point staggered with torso
+rotation
+Starting and accelerating sideways (static initiation). Jab
+step (side-step cut), split step (amplitude jump), shuffle
+step, crossover or pivot, kneeling, two-point staggered with
+torso rotation
+Starting and accelerating rearward (static initiation). Pivot,
+drop or pop turn, turns from nondominant and dominant
+sides
+1506
+
+Progressions and Regressions
+Multiplanar acceleration initiations to decelerations can be
+further developed using generic and sport-specific stimuli. For
+example, multiplanar acceleration initiation box drills can be
+progressed whereby the athletes must react to an auditory or
+visual stimulus when initiating their acceleration, such as a color
+cone or auditory command (e.g., left, right, forward, rear left,
+rear right) (figure a). The tasks can be further developed by
+incorporating a sport-specific stimuli such as an opponent and
+alternating 
+between 
+leading 
+(attacking) 
+and 
+following
+(defending) through the use of mirror drills whereby the
+defender has to mirror and copy the initiation movement and
+direction of travel (figure b).
+1507
+
+  11   EVASION DRILL
+Task
+Using a 10 × 10-yard (or -meter) box, the purpose of this open
+drill from an attacking perspective is to create space, take
+space, create separation, evade an opponent, and penetrate
+defensive lines accurately and efficiently and entering a specific
+end zone (e.g., 1v1 evasive drill with two gates). A range of
+different COD actions, deceleration actions, or simply linear or
+curvilinear speed actions could be performed to achieve the
+objective. Conversely, from a defensive perspective, the aim is
+to prevent the attacker from penetrating the defensive line and
+entering the end zones, limiting space for the attacker,
+potentially making a tag, or delaying the opponent. The
+defender is encouraged to identify kinematic and postural cues
+and anticipate and react to the opponent.
+1508
+
+Progressions and Regressions
+A range of different mechanical and perceptual-cognitive factors
+can be manipulated within agility drills, which can create
+variation, new learning environments, and problems to solve
+while also influencing the task complexity and cognitive loading,
+which are summarized in table 20.7 (page 666). For example,
+the pitch dimensions could be expanded (figure a), which can
+increase the entry and exit velocities and momentums with a
+variation in end zones for the attacker to target. To increase
+game representativeness, the addition of static mannequins or
+defenders can further replicate the chaotic environments that
+are often encountered in sports such as American football
+(figure b). Finally, most multidirectional sports have multiple
+attackers and defenders; thus, to increase specificity, 2v2 small-
+sided games (and other configurations) also can be used to
+work on attacking and defensive transitions, organization, and
+communication (figure c).
+1509
+
+KEY TERMS
+acceleration
+actualization
+agility
+backpedaling
+backward running
+braking impulse
+braking phase
+1510
+
+change of direction
+coordinative overload
+deceleration
+dynamic correspondence
+force
+ground contact time
+ground preparation
+impulse
+impulse–momentum relationship
+initiation
+maneuverability
+momentum
+negative acceleration
+perception–action coupling
+perceptual-cognitive
+periodization
+propulsive phase
+rate of force development (RFD)
+recovery
+scalar quantity
+speed
+spring–mass model (SMM)
+sprinting
+step frequency
+step length
+strength
+stretch-shortening cycle (SSC)
+stride
+transition
+vector quantity
+velocity
+STUDY QUESTIONS
+1511

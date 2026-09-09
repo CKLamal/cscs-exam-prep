@@ -1,0 +1,3883 @@
+CHAPTER 10
+BASIC NUTRITIONAL
+FACTORS AFFECTING HEALTH
+Cassandra Forsythe, PhD, RD
+The author would like to acknowledge the significant contribution of Marie Spano to this
+chapter.
+After completing this chapter, you will be able to
+know when to refer an athlete to the appropriate resource,
+such as a medical doctor or a sports dietitian;
+identify the protein, carbohydrate, and fat recommendations
+for athletes;
+list the dietary recommendations for disease prevention and
+overall health; and
+list hydration and electrolyte guidelines for different age groups
+and scenarios and help athletes develop an individualized
+hydration plan.
+Good nutrition provides athletes with the nutrients necessary for
+general health, growth, development, and repairing and building
+muscle tissue, as well as the energy needed to train, compete, and
+maintain mental focus and concentration. A nutrition plan that is
+tailored to an athlete’s specific needs can help decrease risk of
+injuries and illness and maximize training adaptations (improvements
+536
+
+made from training) while helping the athlete reach his or her
+performance goals. This chapter focuses on the scientific rationale
+for performance-enhancing nutrition practices while providing
+suggestions that will help readers apply sports nutrition science to
+real-life scenarios.
+Despite the plethora of credible nutrition information easily
+available online, knowledge among NCAA collegiate athletes is poor
+and does not meet current recommendations (135). In addition,
+nutrition guidelines created for the general public are not necessarily
+applicable to athletes. Because each athlete’s nutrition needs depend
+on many factors (age; body size and composition; sex; genetics;
+environmental training conditions; injuries; medical nutrition needs;
+and duration, frequency, and intensity of training), nutrition
+requirements can vary tremendously between athletes, even if they
+play the same position. Finally, because nutrition is a complex,
+constantly evolving science, it is important for strength and
+conditioning professionals to have some basic nutrition knowledge in
+addition to a list of nutrition professionals they can refer athletes to
+for individualized nutrition advice based on the latest science.
+537
+
+Role of Sports Nutrition Professionals
+Sports nutrition is a complex multidisciplinary field, and athletic
+trainers, strength and conditioning professionals, physicians, exercise
+scientists, and food service providers have varying degrees of
+nutrition knowledge. Job responsibilities of player development staff
+should be outlined based on the nutrition education and knowledge
+of the staff member, the type of nutrition information provided, and
+state licensure laws regarding nutrition practice.
+All sports nutrition professionals should be able to answer basic
+nutrition questions (for example, “What are some healthy snack
+ideas?”). However, athletes with complex nutrition issues should be
+referred to the appropriate resource, either a team physician or
+sports dietitian. The team physician is responsible for overseeing the
+athlete’s medical care while the sports dietitian is responsible for
+providing individualized dietary advice. A sports dietitian is a
+registered dietitian (also referred to as a registered dietitian
+nutritionist) with specific education and experience in sports
+nutrition. The Academy of Nutrition and Dietetics (AND) Board
+Certified 
+Specialist 
+in 
+Sports 
+Dietetics 
+(CSSD) 
+certification
+distinguishes registered dietitians with expertise in sports nutrition
+from other registered dietitians who specialize in other areas of
+nutrition (see the sidebar on this topic). Though some sports
+dietitians have complementary skills or training and may therefore
+be social workers, athletic trainers, or chefs, a comprehensive sports
+nutrition program requires full-time attention; therefore, these
+secondary skills should be considered a complement to the sports
+dietitian’s knowledge rather than be used to try to fill two distinct job
+positions with one individual. Finally, higher-level positions generally
+include a sports dietitian with a master’s degree, PhD, or both. A
+sports dietitian can help athletes make the connection between plate
+and performance.
+538
+
+What Is a Board Certified Specialist in
+Sports Dietetics (CSSD)?
+According to the Commission on Dietetic Registration, the credentialing agency for
+the Academy of Nutrition and Dietetics, a CSSD “provides individual and
+group/team counseling and education to enhance the performance of competitive
+and recreational athletes.” Their responsibilities include:
+Counseling individuals and groups on daily nutrition for performance and
+health
+Translating the latest scientific evidence into practical sports nutrition
+recommendations
+Tracking and documenting outcomes of nutrition services, serving as a food
+and nutrition resource for coaches, support staff, and families
+Some of the tasks that an individual with a CSSD certification can conduct
+according to the CSSD exam content outline include:
+Interpreting body composition assessments on active individuals
+Developing appropriate body composition goals
+Estimating total energy expenditure
+Assessing fluid and electrolyte balance in training, performance, and recovery
+Evaluating and educating on dietary supplements, beverages, ergogenic aids
+using evidence-based analyses for training, performance, hydration, and
+recovery
+Contributing to collaborative interventions for and monitoring of disordered
+eating to guide sport participation
+Adapted from Commission on Dietetic Registration, “Specialty Practice Experience,” accessed August 22,
+2025, https://www.cdrnet.org/specialty-practice-experience.; Commission on Dietetic Registration, “CSSD
+Examination Content Online,” last modified September 21, 2023, https://www.cdrnet.org/vault/2459/web/
+/CDR%20CSSD%20ECO%202023%20-%20effective%2011-2023.pdf.
+At times, physicians and sports dietitians may work together to
+help athletes with eating disorders, nutrient deficiencies, or specific
+disease states such as diabetes. Because an athlete’s nutrition and
+medical information may be shared with other members of the
+player development or coaching staff or family members in order to
+provide comprehensive care, in the United States all staff should
+follow Health Insurance Portability and Accountability Act (HIPAA)
+guidelines for handling an athlete’s protected health information.
+539
+
+A sports nutrition coach is a professional who is not a registered
+dietitian but has basic training in nutrition and exercise science. For
+example, the strength and conditioning professional can act as a
+sports nutrition coach, providing basic nutrition education and
+suggestions. More complex situations in which food or nutrition is
+being used to treat or manage a medical condition (that includes a
+nutrient deficiency) require medical nutrition therapy and fall under
+the role of the sports dietitian. Sports nutrition coaches may obtain
+additional education by getting a sports nutrition certification. For
+example, the National Academy of Sports Medicine (NASM) has a
+Certified Sports Nutrition Coach certification designed for personal
+trainers, health coaches, group fitness instructors, and health care
+professionals. Also, the International Society of Sports Nutrition
+(ISSN) Sports Nutrition Specialist (SNS) Certification requires a high
+school diploma for the exam and is geared toward personal trainers
+or other fitness professionals who do not hold a four-year college
+degree. The ISSN also has a Certified Sports Nutritionist credential
+(CISSN), which requires a four-year undergraduate degree in a
+related field; or be practicing in the field of sports nutrition for at
+least five years; or be certified as a personal trainer by the NSCA,
+ACE, or ACSM; and is intended for health, fitness, and medical
+professionals who work with athletes and active individuals.
+A sports nutritionist with an advanced degree is a professional
+who may work in the sports nutrition industry or conduct research in
+the area of sports nutrition and would therefore be able to discuss
+the literature on a particular topic. The sports nutritionist with an
+advanced degree may also choose to obtain a sports nutrition
+certification. One option is the IOC (International Olympic
+Committee) Diploma in Sports Nutrition. This two-year online
+program includes coursework, seminars, tutorials, and laboratory
+practical work. The IOC states that students interested in this course
+typically have a degree in nutrition or dietetics, biological sciences
+(including biochemistry, physiology, or sport science), or medicine.
+540
+
+All sports nutrition professionals must follow state nutrition
+licensure laws, which vary from state to state and specify who is
+allowed to provide individualized nutrition counseling and medical
+nutrition therapy. For instance, in Louisiana, general nutrition
+education can be provided by various disciplines if the information is
+general, accurate, and not individualized (based on a specific
+person’s dietary needs). However, only a licensed dietitian or
+nutritionist can provide nutrition assessment and counseling.
+Nutrition counseling is defined as “the provision of the individual
+guidance on appropriate food and nutrient intake for those with
+special 
+needs, 
+taking 
+into 
+consideration 
+health, 
+cultural,
+socioeconomic, functional, and psychological facts from the nutrition
+assessment. Nutrition counseling may include advice to increase or
+decrease nutrients in the diet; to change the timing and size of and
+composition of meals; to modify food textures, and in extreme
+instances, to change the route of administration” (www.lbedn.org).
+Many individuals without any (or with minimal) education in
+nutrition and exercise science and little to no formal training refer to
+themselves as sports nutritionists. Regardless of the specific title of
+the person providing sports nutrition information or individualized
+dietary advice, strength and conditioning professionals should take a
+close look at the person’s education (including the curriculum),
+previous work history (especially the person’s day-to-day job duties),
+knowledge of sports nutrition, and years of experience.
+Experienced sports dietitians help athletes make the
+connection between plate and performance. They have
+advanced knowledge, skills, and expertise in sports
+nutrition.
+The first step in nutrition coaching involves defining the athlete’s
+goals and identifying the coach’s goals (since the two may be
+different). After this, similar to the strength and conditioning
+professional undertaking a needs analysis, the sports dietitian will
+541
+
+take a detailed look at the athlete’s diet, individual food preferences
+(including cultural and religious considerations), cooking skills,
+access to food, financial constraints, barriers to making wise dietary
+choices, supplement use, weight and body composition history,
+medical history, training program, and injuries. The sports dietitian
+will then work with the athlete to develop a plan that fits his or her
+lifestyle and taste preferences while including the appropriate calorie
+level; macronutrients and micronutrients in recommended amounts;
+adequate fluids and electrolytes; and supplements as necessary to
+help correct a nutrient deficiency, make up for potential nutrient
+shortfalls, or meet training goals.
+FIGURE 10.1 The MyPlate icon.
+U.S. Department of Agriculture
+542
+
+Standard Nutrition Guidelines
+For general nutrition information, strength and conditioning
+professionals may want to refer their athletes to MyPlate, a food
+guidance system created by the U.S. Department of Agriculture in
+2011 and based on the Dietary Guidelines for Americans to help
+consumers make better food choices (100). MyPlate icon illustrates
+the five food groups based on a mealtime visual, the place setting
+(figure 10.1). Another helpful resource geared more toward athletes
+is the Performance Enhancing Plate from the Collegiate and
+Professional Sports Dietitians Association (CPSDA, www.sportsrd
+.org). This plate encourages athletes on hard training days to make
+half their plate whole grains to fuel muscles, followed by 1/4 of the
+plate from fruits and vegetables and the other 1/4 from proteins.
+MyPlate Guidelines and Recommendations
+Information related to MyPlate can be found at www.myplate.gov.
+Although the basic guidelines represented by the MyPlate icon and
+corresponding educational materials are universal, they include
+calorie 
+guidelines 
+and 
+portion 
+recommendations 
+for 
+fruits,
+vegetables, grains, protein foods, and dairy and fortified soy
+alternatives, based on age and sex for individuals who get less than
+30 minutes of moderate physical activity most days, as noted in
+tables 10.1 to 10.6 on pages 221 through 226. Those who are more
+physically active should adjust the guidelines to meet their specific
+dietary needs (143). Additional key nutritional topics for MyPlate
+include guidelines for oils, added sugars, saturated fats, sodium, and
+alcohol. Oils are not a food group but provide important nutrients
+such as mono- and polyunsaturated fats and vitamin E. Added
+sugars are sugars and syrups that are added to foods or beverages
+when they are made. To build healthy eating habits and stay within
+calorie needs, people over age 2 should eat foods and drink
+beverages with little or no added sugars; athletes who need
+hydration beverages with added sugars are the exception to this
+543
+
+recommendation (3). Saturated fat is fat that is often found solid at
+room temperature. Examples of these include milk fat, butter, or the
+fat inside or around meat. Ideally, saturated fat should be limited in
+the diet and the focus should be on unsaturated fats such as liquid
+oils used in cooking. In a general, nonactive population, sodium
+should also be minimized in the diet to no more than 2,300
+milligrams per day, but health recommendations for lower salt intake
+may not be appropriate for endurance athletes and those who sweat
+a lot. Alcohol has calories but few nutrients; adults of legal drinking
+age who choose to drink should do so in moderation.
+MyPlate should be considered a starting point that athletes can
+use to evaluate their diet. In general, if a diet provides a variety of
+foods from each group, it is more likely to contain an adequate
+amount of each macronutrient, vitamin, and mineral. However, if the
+diet excludes an entire food group, specific nutrients may be lacking.
+For example, an athlete who excludes dairy from the diet may have
+a tough time meeting his or her nutrition requirements for calcium
+and vitamin D (in fortified milk and fortified yogurts). Fortified soy
+alternatives are viewed by the USDA as the only plant-based milk
+alternative equivalent to milk, whereas other nondairy milk
+alternatives do not have the same nutritional value as milk and must
+be chosen carefully to avoid deficiencies in calcium and vitamin D
+(45). Added sugars are also a concern in plant-based milk
+alternatives. Individuals who exclude all animal foods and fish might
+not meet their vitamin B12 needs. B12 is found in meat, poultry, fish,
+eggs, and dairy foods, though some breakfast cereals, nondairy milk
+alternatives, meat substitutes, and nutritional yeast are fortified with
+B12. Thus, it is highly recommended that individuals who exclude
+food groups work with their sports dietitian to find suitable
+replacements or replacement combinations to ensure that they meet
+their nutrient requirements for health and performance.
+Foods within each food group share similar nutrient compositions
+and are considered interchangeable; however, a variety of foods
+should be consumed within each group. For example, eating an
+544
+
+orange, an apple, and a pear provides a broader array of essential
+nutrients than is provided by three apples. A diet providing a variety
+of foods from each group is more likely to meet a person’s
+macronutrient (carbohydrate, protein, and fat) as well as
+micronutrient (vitamins and minerals) needs.
+The resources section of the MyPlate website offers several tools
+to help plan a healthy diet. MyPlate Plan gives food group targets of
+what and how much to eat within a person’s calorie allowance based
+on age, sex, height, weight, and physical activity level. It also comes
+as an app, MyPlate App, to help build healthy habits, pick daily food
+goals, and set real-time progress. Further, there is the Shop Simple
+with MyPlate Tool that can be used to find cost-saving food-
+purchasing methods and new ways to prepare budget-friendly foods.
+Dietary Reference Intakes
+Because athletes eat food, not individual nutrients, dietary
+recommendations should be presented in terms of specific food
+choices. However, it is also important to have an understanding of
+the athlete’s nutrient requirements in order to make food
+recommendations. The Dietary Reference Intakes (DRIs),
+developed by the U.S. Department of Agriculture (USDA) and of
+Health and Human Services (HHS), are a complete set of nutrient
+intakes for use when evaluating and planning diets for healthy
+individuals. The DRIs are listed for the macronutrients as well as
+micronutrients, electrolytes, and water (71-75, 109, 118, 164). The
+DRIs are based on the body of literature regarding nutrient intake
+and the reduction of chronic disease, as opposed to simply
+prevention of dietary deficiencies (115). Because nutrient intake can
+vary considerably from day to day, the DRIs apply to a person’s
+usual intake. Therefore, when a sports dietitian assesses a person’s
+nutrient intake, they look at several days in order to get an average
+daily intake for each nutrient. This is especially true with regard to
+evaluating intake of nutrients found in few foods or in very small
+amounts in foods (115). Fewer days’ worth of food records are
+545
+
+needed to get a good estimation of average protein intake, since this
+does not vary much from day to day (115). The DRIs include the
+following:
+Recommended Dietary Allowance (RDA)—The average daily
+nutrient requirement adequate for meeting the needs of nearly all
+(97%-98%) healthy people within each life stage and sex; often
+used to plan nutritionally adequate diets for people.
+Adequate Intake (AI)—The average daily nutrient intake level
+recommended when a RDA cannot be established.
+Tolerable Upper Intake Level (UL)—The maximum average
+daily nutrient level not associated with any adverse health effects.
+Intakes above the UL increase potential risk of adverse effects.
+(The UL represents intake from all sources including food, water,
+and supplements.)
+Estimated Average Requirement (EAR)—The average daily
+nutrient intake level considered sufficient to meet the needs of
+half of the healthy population within each life stage and sex.
+The Dietary Guidelines for Americans 2020-2025 has identified
+several dietary nutrients that are under-consumed by the public
+(males and females in all age groups); these nutrients are identified
+as the Nutrients of Public Health Concern and include dietary fiber,
+vitamin D, calcium, and potassium (56). Dietary patterns that do not
+meet the recommended intakes of fruits, vegetables, and whole
+grains are often lacking in adequate dietary fiber and potassium.
+More than 90 percent of women and 97 percent of men do not meet
+recommended intakes for dietary fiber. Potassium-rich foods include
+vegetables, fruits, dairy, and protein foods, particularly white baked
+potatoes, acorn squash, cooked spinach, cooked plantains, kiwifruit,
+100% orange juice, bananas, and plain nonfat or low-fat yogurt.
+Dairy foods, fortified beverages (e.g., soy beverages and orange
+juice), and canned sardines and salmon are excellent sources of
+calcium, while fatty fish, fortified beverages (e.g., milk, orange juice,
+soy beverages), and fortified yogurt are excellent sources of vitamin
+546
+
+D. Also, iron is a concern for specific populations, particularly female
+athletes (149). Iron-deficient anemia and iron deficiency are five to
+seven times more common in female athletes than male athletes.
+Shellfish (e.g., oysters and mussels), iron-fortified cereals, dark leafy
+greens (e.g., spinach), and soybeans are excellent sources of iron,
+providing 20% or more of the daily value for iron per serving; red
+meat and poultry are considered good sources (41a).
+For More Information on Nutrition
+Strength and conditioning professionals can rely on the following websites for more
+information about nutrition:
+DRI Calculator for Healthcare Professionals (based on the DRIs, this dietary
+planning tool calculates daily nutrient recommendations):
+www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator
+National Institutes of Health—Office of Dietary Supplements:
+https://ods.od.nih.gov
+The Dietary Supplement Label Database (DSLD) from the Office of Dietary
+Supplements (ODS) at the National Institutes of Health (NIH) captures all
+information printed on labels of dietary supplement products sold in the United
+States and can be used by consumers to learn more about ingredients listed
+within the Supplement Facts label by clicking on ingredient names:
+https://dsld.od.nih.gov
+The Healthy Living and Weight section of the USDA Nutrition.gov website gives
+information and support for establishing and maintaining a positive body image
+through healthy eating habits, strategies for success to help someone to lose or
+gain weight safely and effectively, weight management for children and teens,
+and information on how to evaluate claims made by weight-loss products and
+diets:
+www.nutrition.gov/topics/healthy-living-and-weight
+Peer-reviewed journal articles:
+www.pubmed.gov
+Collegiate and Professional Sports Dietitians Association:
+www.sportsrd.org
+International Society of Sports Nutrition:
+www.sportsnutritionsociety.org
+Sports and Human Performance Nutrition (SHPN):
+547
+
+https://www.shpndpg.org/home
+548
+
+Macronutrients
+A macronutrient is a nutrient that is required in significant amounts
+in the diet. Three important classes of macronutrients are protein,
+carbohydrate, and fat.
+Protein
+Protein is the primary structural and functional component of every
+cell in the human body (164). Dietary proteins are used for growth
+and development and to build and repair cells; they also serve as
+enzymes, transport carriers, and hormones. Therefore, dietary
+protein intake is essential for maintaining health, reproduction, and
+cellular structure and function (164).
+Proteins are composed of carbon, hydrogen, oxygen, and
+nitrogen. Amino means “nitrogen containing,” and amino acids are
+the molecules that, when joined in groups of a few dozen to
+hundreds, form the thousands of proteins occurring in nature.
+Proteins in the human body are composed of various combinations
+of the 20 individual amino acids. Nine amino acids are “essential”
+because the body cannot manufacture them—they must be obtained
+through the diet. Four amino acids can be synthesized by the human
+body and are therefore considered “nonessential” because they do
+not need to be consumed in the diet. Finally, seven amino acids are
+considered conditionally essential. These amino acids are typically
+not essential but become essential, and therefore must be obtained
+through the diet, during times of illness and stress. The amino acids
+are listed in table 10.7.
+TABLE 10.7 Essential, Nonessential, and
+Conditionally Essential Amino Acids
+Essential
+Nonessential
+Conditionally essential
+Histidine
+Alanine
+Arginine
+Based on Institute of Medicine Standing Committee on the Scientific Evaluation of Dietary
+Reference Intakes, Food and Nutrition Board (2005), 593.
+549
+
+Essential
+Nonessential
+Conditionally essential
+Isoleucine
+Leucine
+Lysine
+Methionine
+Phenylalanine
+Threonine
+Tryptophan
+Valine
+Asparagine
+Aspartic acid (aspartate)
+Glutamic acid (glutamate)
+Cysteine (cystine)
+Glutamine
+Glycine
+Proline
+Serine
+Tyrosine
+Based on Institute of Medicine Standing Committee on the Scientific Evaluation of Dietary
+Reference Intakes, Food and Nutrition Board (2005), 593.
+Amino acids are joined together by peptide bonds. Two amino
+acids together are referred to as a dipeptide, and several amino
+acids together are referred to as a polypeptide. Polypeptide chains
+bond together to form a multitude of proteins with various structures
+and functions. Almost half of the body’s protein reserve exists as
+skeletal muscle, while approximately 15% makes up structural
+tissues including skin and blood. The rest of the body’s protein
+reserves are in visceral tissues such as the liver and kidney and in
+the bones (47).
+Protein Quality and Dietary Recommendations
+Protein quality is determined by amino acid content and protein
+digestibility, as calculated by how much of the protein’s nitrogen is
+absorbed during digestion and its ability to provide the amino acids
+necessary for growth, maintenance, and repair. Higher-quality
+proteins are highly digestible and contain all of the essential amino
+acids. Animal-based proteins—including eggs, dairy foods, meat,
+fish, and poultry—contain all of the essential amino acids, while soy,
+quinoa, and buckwheat are the only plant-based proteins that
+contain all nine essential amino acids. In general, plant proteins are
+less digestible than animal proteins, though digestibility can
+sometimes be improved through processing and preparation (110,
+164). Although measures of protein quality, such as the protein
+digestibility correct amino acid score (PDCAAS), take protein
+550
+
+digestibility (or bioavailability) into account as well as a protein’s
+ability to provide the essential amino acids necessary for the
+synthesis of body proteins and other metabolites, they do not take
+into account how other compounds within the food alter the
+bioavailability of the protein’s amino acids. Foods contain
+antinutritional factors—compounds that reduce the digestion and
+absorption of a nutrient, making it less available for use by the body
+(92). Several antinutritional factors lead to digestive losses and
+structural changes of amino acids that limit amino acid bioavailability
+(110). For instance, during cooking, some foods will brown; this
+browning, called a Maillard reaction, leads to compounds that can
+decrease the bioavailability of certain amino acids. Although the
+majority of plant-based foods fall short in one or more essential
+amino acids, all people, not just vegetarians and vegans (those who
+consume only plants and plant products—no meat, fish, poultry,
+eggs, milk, or other foods that come from animals), can meet their
+protein needs by consuming a variety of plant foods including
+legumes, vegetables, seeds, nuts, rice, and whole grains that
+provide different amino acids so that all essential amino acids are
+consumed over the course of the day (152). Novel plant-based meat
+alternatives are also an emerging option to meet dietary protein
+needs, particularly given that our world population is growing and
+living longer, and animal proteins alone cannot sustain all of our
+protein needs.
+While 
+dietary 
+recommendations 
+are 
+stated 
+as 
+protein
+requirements, the actual requirement is for amino acids. The need
+for amino acids in sedentary, healthy adults results from the
+constant turnover of cells and cellular proteins. During cell turnover
+—the constant breakdown and regeneration of cells—the body’s free
+amino acid pool is the immediate and largest supplier of amino acids
+(105). The pool is replenished from dietary protein digestion, as well
+as the amino acids released from tissue turnover. Substantially more
+protein is turned over daily than is ordinarily consumed, indicating
+that amino acids are recycled (119). This process is not completely
+551
+
+efficient, however, so dietary amino acid intake is required to replace
+losses.
+The RDA for protein for men and women 19 years of age and
+older, based on nitrogen balance studies, is 0.8 grams of high-quality
+protein per kilogram body weight per day (164). Children, teens, and
+pregnant and lactating women have higher dietary protein needs as
+reflected in the RDA for these groups. However, protein needs are
+inversely proportional to calorie intake because small amounts of
+protein can be metabolized as a source of energy when a person is
+in a state of negative calorie balance, when fewer calories are
+consumed than are expended (e.g., typically only 1%-6% of total
+caloric expenditure in most circumstances but up to 10% during
+prolonged exercise in a glycogen-depleted state) (98, 164). In this
+case, the protein cannot be used for the intended purpose of
+replacing the amino acid pool. When caloric intake goes down,
+protein requirement goes up (101). Therefore, the Institute of
+Medicine (IOM) established an Acceptable Macronutrient
+Distribution Range (AMDR) for protein, which covers a wide
+range of protein intake. The AMDR is 5% to 20% of total calories for
+children ages 1 to 3 years, 10% to 30% of total calories for children
+ages 4 to 18 years, and 10% to 35% of total calories for adults older
+than age 18 years (164). Adult men and women typically consume
+an average of 16% of their calories from protein (68). The AMDR for
+a nutrient includes a range of intakes associated with reduced risk of
+chronic disease while still providing adequate intakes of other
+essential nutrients (118). Though the DRI for protein fits within the
+AMDR, the DRI is based solely on body weight and therefore does
+not take low or high calorie intakes into account. Based on the
+AMDR, when calorie intake is lower, protein needs to go up as a
+percentage of total calorie intake by approximately 1% for every
+100-calorie decrease below 2,000 calories. When total calorie intake
+is higher, protein needs, expressed as a percentage of total caloric
+intake, go down to a certain point. In practice, sports dietitians
+552
+
+should first establish an athlete’s protein intake and then add
+carbohydrate and fats as determined by total calorie needs (95).
+Concerns About the RDA for Protein
+Controversy surrounds the RDA for protein since some scientists
+suggest that adults should consume more than the RDA for bone
+health (59), weight management, and building and repairing muscle
+(122, 123). In addition, research suggests that higher-protein,
+lower-carbohydrate 
+diets 
+can 
+favorably 
+affect 
+blood 
+lipids,
+particularly in obese individuals, and therefore also decrease some of
+the risk factors for cardiovascular disease and metabolic syndrome
+(94).
+Protein is a building block for strong bones, contributing to 50%
+of bone volume and 33% of bone mass (96). Protein’s effect on
+bone may be due, in part, to its influence on insulin-like growth
+factor-1 (IGF-1), which is produced in the liver and promotes bone
+and muscle formation (144). Though research suggests that
+supplemental, but not dietary, protein increases calcium losses
+through urine, in healthy individuals consuming 0.7 to 2.1 grams of
+protein per kilogram body weight, both urinary calcium excretion and
+intestinal calcium absorption increase (88). In fact, low dietary
+protein intake (0.7 g protein per kg body weight per day) suppresses
+intestinal calcium absorption (87). The effects of protein on bone
+health have been the center of some controversy, but experimental
+studies generally indicate that dietary protein supports bone health
+when consumed as part of a high-quality whole-food diet containing
+adequate calcium. However, future high-quality experimental studies
+are necessary to fully understand the interactive effects of dietary
+protein and diet quality on bone health (37).
+Protein also plays a multifaceted role in weight management.
+First, it promotes satiety in a dose-dependent manner: Greater
+amounts of protein lead to a greater increase in satiety (48).
+However, the satiating effect of protein also depends on the timing
+of protein intake, form (solid vs. liquid), concurrent intake of other
+553
+
+macronutrients, and time until the next meal (4). The type of protein
+may also have an effect on satiety, though research has not fully
+elucidated which proteins may have the greatest impact (16, 101).
+Protein also has the greatest thermic effect of feeding—more
+calories are burned during the digestion of protein as compared to
+carbohydrate or fat. Finally, higher protein diets help spare muscle
+loss while a person is on a reduced-calorie diet (93, 132).
+The amino acids in protein are used for growth (including muscle
+growth) and for repairing tissue, synthesizing enzymes and
+hormones, and repairing and making new cells. Though adults in a
+general fitness program can likely meet their protein requirements
+by consuming 0.8 to 1.0 gram of protein per kilogram body weight
+per day, athletes and those who exercise intensely require more
+protein (76). Traditionally, aerobic endurance athletes have placed
+less of a priority on protein in comparison to carbohydrate; however,
+adequate protein intake and timing are crucial for optimal
+performance. Protein recommendations for aerobic endurance
+athletes are 1.2 to 2.0 grams of protein per kilogram body weight
+per day (167). For building muscle mass and for maintaining muscle
+mass through a positive muscle protein balance, an overall daily
+protein intake in the range of 1.4 to 2.0 grams of protein per
+kilogram body weight per day is ideal (76). Athletes who are on a
+reduced-calorie diet may need more protein per day to preserve
+muscle tissue during weight loss (76).
+In addition to eating the right amount of protein per day, research
+supports the idea of athletes consuming sufficient protein as soon as
+possible after exercise, when muscle tissue is most receptive to
+amino acids in order to maximize muscle growth (76). In fact, after
+exercise, both muscle protein synthesis and breakdown are
+increased, though net protein balance is negative when the exercise
+is done in a fasted state (127). Protein consumed after exercise
+increases muscle protein synthesis, and muscles remain sensitive to
+protein ingestion for at least 24 hours following a resistance training
+bout (114). Reviews surrounding postexercise protein ingestion have
+554
+
+suggested that when recommended levels of protein are consumed,
+the effect of protein timing appears to be, at best, minimal; total
+daily protein intake is the most important factor in promoting
+exercise-induced muscle growth (5, 140). While nutrient timing of
+protein potentially can be a beneficial strategy for enhancing muscle
+protein synthesis, the effects on muscle hypertrophy ultimately
+depend on the timing of the preworkout protein meal; the closer the
+meal is to the training session, the less need for immediate
+postworkout protein intake (140). To maximize muscle growth,
+consume high-quality protein (at a dose of approximately 0.4 to 0.5
+g of protein per kg of lean body mass) both before and after
+exercise within about 4 to 6 hours of each other, depending on meal
+size (140). Athletes with high body masses may struggle to consume
+enough protein to meet required daily needs. Therefore, it is
+recommended that these athletes consume high-quality protein
+immediately to 2 hours after exercise (86). Ingesting 20 to 40 grams
+of high-quality protein every 3 to 4 hours throughout the day
+appears to most favorably affect muscle protein synthesis and is
+associated with improved body composition and performance
+outcomes, particularly in strength athletes (86). Aerobic endurance
+athletes may benefit from the addition of high-quality protein during
+endurance exercise in addition to their regular carbohydrate intake
+to suppress muscle damage and improve feelings of soreness (76).
+Concerns surrounding protein intakes above the RDA are
+unfounded for the most part in healthy individuals (105). Proteins
+consumed in excess of the amount needed for the synthesis of
+tissue are broken down (103), the nitrogen is excreted as urea in
+urine, and the remaining ketoacids are either used directly as
+sources of energy or converted to carbohydrate (gluconeogenesis)
+or body fat (64). In fact, a study examining high protein intake in
+athletes found that protein intakes up to 2.8 grams per kilogram
+body weight (as assessed by a seven-day diet record) did not impair
+any measures of renal function (130). The strength and conditioning
+professional should be aware that consistently high protein intakes,
+555
+
+above recommended levels for building and repairing muscle, are
+not recommended because carbohydrate and fat intake (and the
+nutrients commonly found in carbohydrate- and fat-rich foods) may
+be compromised. The protein content of commonly consumed foods
+is listed in table 10.8.
+Athletes require more than the RDA for protein to build
+and repair muscle. Depending on the sport and the
+training program, 1.2 to 2.0 grams per kilogram body
+weight of protein is recommended.
+Carbohydrate
+Carbohydrate primarily serves as a source of energy. However,
+carbohydrate is not an essential nutrient, because the body can
+break down the carbon skeletons of certain amino acids and convert
+them into glucose (i.e., gluconeogenesis). Carbohydrates are
+composed of carbon, hydrogen, and oxygen. Carbohydrates can be
+classified into three groups according to the number of sugar
+(saccharide) units they contain: monosaccharides, disaccharides,
+and polysaccharides.
+Monosaccharides (glucose, fructose, and galactose) are
+single-sugar molecules. In the body, glucose is present as circulating
+sugar in the blood, where it is used as the primary energy substrate
+for cells. In addition, glucose molecules make up glycogen, a
+polysaccharide stored in muscle and liver cells. In food, glucose is
+typically combined with other monosaccharides to form various
+sugars, such as sucrose. Isolated glucose found in candy or sport
+drinks is found in the form of dextrose, a chemical isomer of
+glucose. Fructose has the same chemical formula as glucose, but
+because the atoms are arranged differently, it tastes much sweeter
+and has different properties. Fructose accounts for the sweet taste
+of honey and occurs naturally in fruits and vegetables. In the body,
+fructose causes less insulin secretion than other sugars, which has
+made it a focus of much research in the area of aerobic endurance
+556
+
+performance. Galactose, the third monosaccharide, combines with
+glucose to form lactose, milk sugar.
+TABLE 10.8 Protein Content of Common Foods
+Food
+Serving
+size
+Serving size in
+grams
+Average amount of protein
+(in grams) per serving
+Almonds
+1/4 cup
+39
+8
+Bacon, pork
+3 slices
+27.3
+11
+Beef, ground, 80% lean,
+pan browned
+3 oz
+85
+23
+Black beans
+1/2 cup
+92.5
+7.5
+Cashews
+1/4 cup
+32
+5.5
+Cheese, feta
+1 oz
+28
+4
+Cheese slice, cheddar
+1 slice
+21
+5.5
+Cheese slice, Swiss
+1 slice
+28
+7.5
+Cheese, string, part
+skim
+1 oz (1
+stick)
+28
+7
+Chicken breast
+3 oz
+85
+25
+Chicken, thigh with skin
+1
+111
+28
+Clams, in shell
+3 oz
+85
+22
+Cottage cheese, 1%
+4 oz
+113
+14
+Deli turkey
+5 oz
+142
+19
+Edamame
+1/2 cup
+73.5
+8.5
+Egg, whole, large
+1
+56
+7
+Garbanzo beans
+1/3 cup
+83.5
+6
+Goat cheese, soft
+1 oz
+28
+5
+Greek yogurt, nonfat
+6 oz
+170
+17
+Data from U.S. Department of Agriculture, Agricultural Research Service, Beltsville Human
+Nutrition Research Center. FoodData Central. Available from https://fdc.nal.usda.gov/.
+557
+
+Food
+Serving
+size
+Serving size in
+grams
+Average amount of protein
+(in grams) per serving
+Hamburger patty
+3 oz
+85
+22
+Herring, pickled
+¼ cup
+35
+5
+Hot dog, beef
+1
+50
+6
+Kidney beans
+1/2 cup
+88.5
+7.5
+Kielbasa, beef polska
+2 oz
+56
+7
+Lamb chop
+3 oz
+85
+24
+Lima beans
+1/2 cup
+94
+7
+Lobster, steamed
+3 oz
+85
+16
+Mahimahi fish, baked
+3 oz
+85
+20
+Milk, 1%, low-fat
+8 fl oz
+245
+8
+Mussels, steamed
+3 oz
+85
+20
+Oysters, raw
+4 oz
+113
+6.5
+Peanut butter
+2 tbsp
+32
+8
+Peanuts
+1/4 cup
+35.5
+9
+Pistachios
+1/4 cup
+30.5
+7
+Pork, ham
+3 oz
+85
+15
+Pork tenderloin
+3 oz
+85
+23
+Salmon, canned
+2 oz
+56
+13
+Salmon, filet, baked
+3 oz
+85
+17
+Sausage links
+3 links
+63
+10
+Shrimp, large
+4
+22
+5
+Sirloin steak
+3 oz
+85
+26
+Soy milk
+8 fl oz
+245
+8
+Soy nuts
+1/4 cup
+23
+9
+Data from U.S. Department of Agriculture, Agricultural Research Service, Beltsville Human
+Nutrition Research Center. FoodData Central. Available from https://fdc.nal.usda.gov/.
+558
+
+Food
+Serving
+size
+Serving size in
+grams
+Average amount of protein
+(in grams) per serving
+Tilapia, filet, baked
+3 oz
+85
+22
+Tortilla, flour, 8 in.
+1
+51
+4.5
+Trout, filet, baked
+3 oz
+85
+20
+Tuna, canned
+3 oz (1/2
+can)
+85
+22
+Turkey breast, roasted
+3 oz
+85
+25
+Turkey, ground cooked
+3 oz
+85
+23
+Turkey, sausage smoked
+1 oz
+28
+4
+Wheat bagel, 5 in.
+1 bagel
+98
+10
+Wheat bread
+1 slice
+29
+3
+Veal steak
+3 oz
+85
+21
+Venison roast
+3 oz
+85
+25
+Whey protein powder
+isolate
+1 oz
+30
+20
+Yogurt, Greek, plain,
+low-fat
+1 cup
+245
+24
+Yogurt, plain, low-fat
+1 cup
+245
+13
+Data from U.S. Department of Agriculture, Agricultural Research Service, Beltsville Human
+Nutrition Research Center. FoodData Central. Available from https://fdc.nal.usda.gov/.
+Disaccharides (sucrose, lactose, and maltose) are composed
+of two simple sugar units joined together. Sucrose (or table sugar),
+the most common disaccharide, is a combination of glucose and
+fructose. Sucrose occurs naturally in most fruits and is crystallized
+from the syrup of sugar cane and sugar beets to make brown, white,
+or powdered sugar. Lactose (glucose + galactose) is found only in
+mammalian milk. Maltose (glucose + glucose) occurs primarily when
+polysaccharides are broken down during digestion. It also occurs in
+559
+
+the fermentation process of alcohol and is the primary carbohydrate
+in beer.
+Polysaccharides, also known as complex carbohydrates, contain
+up to thousands of glucose units. Some of the most common
+polysaccharides of nutritional importance are starch, fiber, and
+glycogen. Starch is the storage form of glucose in plants. Grains,
+legumes, and vegetables are good sources of starch. Before starch
+can be used as a source of energy, it must be broken down into
+glucose components. Dietary fiber, a constituent of the plant cell
+wall, is also a form of carbohydrate. Cellulose, hemicellulose, beta-
+glucans, and pectins are fibers; these and noncarbohydrate fibrous
+materials (lignins) are partially resistant to human digestive
+enzymes. Fibers have different physiological effects in the body.
+Some delay gastric emptying, which may temporarily influence
+feelings of fullness, while other types of fiber increase bulk and
+water content, reducing constipation and decreasing transit time of
+feces. In addition, some soluble fibers decrease the absorption of
+cholesterol and may therefore help reduce blood cholesterol levels
+after ingestion (104), while prebiotic dietary fibers selectively
+stimulate the growth of bacteria in the gut (33, 133). Fiber-rich
+foods include beans, peas, bran, many fruits and vegetables, and
+some whole-grain foods.
+Glycogen is found in small (80, 161) amounts in human liver and
+muscle, totaling approximately 15 grams of glycogen per kilogram
+body weight (1) and in animal tissue as a temporary source of
+stored energy (22). While present in animal meats we eat such as
+steak, chicken breast, and fish fillets, it is not present to any large
+extent. When glucose enters the muscles and liver, if it is not
+metabolized for energy it can be synthesized to form glycogen.
+Three-quarters of the glycogen in the body is stored in skeletal
+muscle; the remaining quarter is stored in the liver (22). The process
+of converting glucose to glycogen is called glycogenesis.
+Athletes typically consume a variety of carbohydrates in their
+normal diets. However, when they want to improve the quality of
+560
+
+their diet, by consuming fewer foods that have untoward effects on
+overall health or performance, they may consider macronutrient
+ranking systems such as the glycemic index or glycemic load.
+Glycemic Index and Glycemic Load
+The glycemic index (GI) ranks carbohydrates according to how
+quickly they are digested and absorbed, and therefore raise blood
+glucose levels, in the 2-hour time period after a meal, compared to
+the same amount (by weight in grams) of a reference food, typically
+white bread or glucose, which is given a GI of 100 (78).
+Glycemic index = Incremental area under the curve for the blood glucose
+response after consumption of a 25 or 50g carbohydrate portion of a test food
+÷ Incremental area under the curve for the blood glucose response after
+consumption of the same portion (in grams) of a standard food × 100      
+(10.1)
+Low-GI foods are digested and absorbed slowly, resulting in a
+smaller rise in blood glucose and subsequent insulin release from the
+pancreas compared to the reference food (7, 78). Insulin helps lower
+blood glucose levels by facilitating glucose transport into cells. The
+fate of glucose within cells depends on where it is shuttled. For
+instance, muscle cells use glucose for energy while fat cells convert
+glucose into triglycerides (fat).
+Though the GI was developed to help people better control their
+blood sugar levels—something that is particularly helpful for those
+with diabetes—research in large cohorts of participants has
+suggested that diets with high versus low GI foods are associated
+with increased incidence of type 2 diabetes, cardiovascular disease,
+diabetes-related cancers, and all-cause mortality (49, 79). However,
+the GI system has a few issues that may limit its accuracy. First,
+published GI values for a given type of food may vary considerably
+due to differences in testing and variations in ingredients used;
+ripeness of food; and method of food processing, cooking, and
+storage (28, 62). Secondly, consuming carbohydrate as part of a
+meal or in different quantities affects the GI (7, 8). Low-GI foods
+561
+
+generally include vegetables, legumes, beans, and whole grains
+(table 10.9).
+TABLE 10.9 Glycemic Index (GI) of Various Foods
+Low-GI foods (<55)
+Medium-GI foods (55-69)
+High-GI foods (>70)
+Apple juice, unsweetened
+Banana, ripe
+Carrots, raw
+Chocolate, milk and dark
+Corn tortilla
+Grapefruit
+Ice cream
+Kidney beans
+Lentils
+Milk, soy or dairy
+Orange, raw
+Quinoa, cooked
+Tomato juice
+Yogurt, fruit
+Brown rice, boiled
+Carrots, boiled
+Couscous
+Honey
+Muesli
+Pineapple, raw
+Popcorn
+Potato, French fries
+Rice vermicelli
+Rolled oats, quick
+Soft drink, soda
+Spaghetti, pasta, boiled
+Sweet potato, boiled
+Tropical blend fruit drink
+Cornflakes cereal
+English muffin
+Glucose
+Jellybeans
+Potato, boiled
+Potato, instant mashed
+Rice crackers, crisps
+Rice milk
+Shredded wheat
+Tofu-based frozen dessert
+Watermelon, raw
+White bread
+White rice, boiled
+Whole wheat bread
+Based on Atkinson et al. (2021).
+Since the GI indicates how quickly a carbohydrate-rich food
+affects blood glucose levels, it is hypothesized that eating foods with
+different GI values before, during, and after exercise can affect
+exercise performance (111). Consumption of a low-GI meal before
+exercise can lead to a reduced blood glucose and insulin response,
+which has been proposed to help promote fat oxidation and maintain
+normal blood glucose levels during exercise (156). Although some
+scientists have speculated that consumption of low-GI foods before
+exercise might spare carbohydrate by minimizing insulin secretion
+and therefore improve performance, evidence to support this
+hypothesis is inefficient (111). The research is mixed, with some
+studies showing that consumption of a low-GI food as compared to a
+high-GI food before exercise improves exercise time to exhaustion
+(41, 162) and others finding that consuming a preexercise low-GI
+food versus a high-GI food had no effect on running and aerobic
+562
+
+endurance exercise performance (29, 155). Therefore, athletes who
+use the GI to guide their food choices while balancing health and
+performance can maintain an adequate amount of dietary
+carbohydrate with low-GI foods as the base of their choices while
+sticking with high-GI foods in and around exercise training to provide
+immediate sources of energy (sugar) for activity (25) and to more
+rapidly replenish glycogen stores (86).
+The glycemic load (GL) takes the amount of carbohydrate, in
+grams, in a portion of food into account—a factor that also
+influences glycemic response. Because GL takes portion size into
+account, it is a more realistic gauge of glycemic response than the
+GI, which is based on a standard serving size. Table 10.10 shows the
+difference in GI and GL for specific foods.
+The GL is equal to the GI multiplied by the amount of
+carbohydrate in a portion of the food and dividing this total by 100.
+Glycemic load = GI of an individual food × grams of carbohydrate per
+serving   of food ÷ 100      (10.2)
+Foods with a higher GL are expected to lead to greater increases in
+blood sugar and subsequent insulin release (7, 8). A low-GL diet,
+combined with exercise, has been shown to improve insulin
+sensitivity in older, obese adults and therefore may be a potential
+treatment for this population (90), while observational and
+intervention studies suggest that low-GI and low-GL diets are
+associated with lower levels of inflammatory markers and fasting
+insulin (79). Chronic low-grade inflammation is considered a
+potential risk factor for chronic diseases (21). In addition, some
+(though not all) studies have found that diets with a lower GI or GL
+are associated with lower levels of fasting insulin as well as fewer
+cardiovascular risk factors (67, 145).
+Fiber
+Diets low in fiber have been associated with constipation, heart
+disease, colon cancer, and type 2 diabetes. The DRI for fiber ranges
+from 21 to 25 grams per day for women (depending on age,
+563
+
+pregnancy, and lactation) and 30 to 38 grams per day for men based
+on age group. Fiber is commonly found in fruits, vegetables, nuts,
+seeds, legumes, and whole-grain products such as whole-grain
+bread, oatmeal, and popcorn.
+Health Factors Associated With Food
+Sensitivities and Allergies
+A food allergy is defined as “an adverse health effect arising from a specific
+immune response that occurs reproducibly on exposure to a given food,” and a
+food sensitivity, also known as food intolerance, is defined as “nonimmune
+reactions that include metabolic, toxic, pharmacologic, and undefined mechanisms”
+(17). Reactions to food allergies range in severity from rash to anaphylaxis, which
+is life-threatening (151). The eight most common food allergens in the United
+States are cow’s milk, wheat, eggs, tree nuts, peanut, fish, shellfish, and soy (53);
+these foods must be identified on ingredient labels to prevent adverse reaction in
+affected individuals (10). Celiac disease (CD) is a type of food allergy triggering an
+immune response to dietary gluten, a protein found in cereals such as wheat, rye,
+and barley (97). Food intolerances, especially self-reported, are more prevalent
+than food allergies (53); a United States–based survey among adults showed that
+the prevalence of self-reported food intolerances was 25% (77). The most
+common food intolerance is to lactose, affecting nearly 65% of the population
+(53). Some food intolerances cannot be readily explained and are classified as
+undefined; a well-known example of this is irritable bowel syndrome (IBS),
+characterized by abdominal pain, bloating, abdominal distension, flatulence,
+constipation, or diarrhea (151). Dietary management of food sensitivities often
+includes elimination diets, where common trigger foods are removed from the diet,
+and then slowly reintroduced (151). Individuals with food allergies and intolerances
+should work with a registered dietitian to ensure nutritional needs are met.
+Fat
+Although the terms fat and lipid are often used interchangeably,
+lipid is a broader term. Lipids include triglycerides (fats and oils) as
+well as related fatty compounds, such as sterols and phospholipids.
+The lipids of greatest significance in nutrition are triglycerides, fatty
+acids, phospholipids, and cholesterol. Triglycerides are formed by
+the union of glycerol with three fatty acids. The majority of lipids
+564
+
+found in foods and in the body are in the triglyceride form, and
+within this chapter the term fat refers to triglycerides.
+TABLE 10.10 Glycemic Index and Glycemic Load
+Food
+Serving
+size (g)
+Glycemic
+index (GI;
+glucose =
+100)
+Available
+carbohydrates
+(g/serving)
+Glycemic
+load (GL; per
+serving)
+Angel food cake
+50
+67 ± 5
+29
+19
+Apple (different
+varieties)
+120
+38 ± 2
+15
+6
+Apple juice,
+unsweetened
+(250 mL)
+8.5 fl oz
+40 ± 1
+29
+12
+Bagel, white, frozen
+70
+72
+35
+25
+Banana, ripe
+120
+51
+25
+13
+Blueberry muffin
+60
+50 ± 3
+31
+15
+Cheese pizza
+(Pillsbury Canada Ltd)
+100
+60
+27
+16
+Chocolate milk
+(powder dissolved in
+milk)
+250 mL
+(8.5 fl oz)
+43
+11
+5
+Chocolate pudding,
+instant, made from
+powder and whole
+milk
+100
+47 ± 4
+16
+7
+Corn, sweet
+150
+53 ± 4
+32
+17
+English muffin
+30
+77 ± 7
+14
+11
+Grapes
+120
+46 ± 3
+18
+8
+Ice cream
+50
+61 ± 7
+13
+8
+Jellybeans
+30
+80 ± 8
+28
+22
+Kidney beans, canned
+150
+52
+17
+9
+Based on Atkinson et al. (2008).
+565
+
+Food
+Serving
+size (g)
+Glycemic
+index (GI;
+glucose =
+100)
+Available
+carbohydrates
+(g/serving)
+Glycemic
+load (GL; per
+serving)
+Mashed potatoes,
+instant
+150
+85 ± 3
+20
+17
+Muesli
+30
+55 ± 10
+19
+11
+Oatmeal, prepared
+50
+69
+35
+24
+Plantain
+120
+68 ± 6
+31
+21
+Potato chips
+50
+51 ± 7
+24
+12
+Raisins
+60
+64 ± 11
+44
+28
+Rice, brown
+(steamed, USA)
+150
+50
+33
+16
+Rice, white, long
+grain, boiled 20-30
+min
+150
+50
+36
+18
+Soft drink
+250 mL
+(8.5 fl oz)
+63
+26
+16
+Strawberries
+120
+40 ± 7
+3
+1
+Sweet potato, boiled
+150
+61 ± 7
+28
+17
+Tomato juice
+250 mL
+(8.5 fl oz)
+23 ± 6
+7
+2
+Vanilla wafers
+25
+77
+18
+14
+Whole wheat bread
+30
+72 ± 6
+12
+8
+Yogurt, low-fat
+(0.9%), wild
+strawberry
+200
+31 ± 14
+30
+9
+Based on Atkinson et al. (2008).
+Like carbohydrate, fat contains carbon, oxygen, and hydrogen
+atoms, but because the fatty acid chains have more carbon and
+hydrogen relative to oxygen, they provide more energy per gram.
+For 
+example, 
+fats 
+provide 
+approximately 
+9 
+kcal/g, 
+while
+566
+
+carbohydrates and protein provide approximately 4 kcal/g. Dietary
+fats and oils are composed of different types of fatty acids.
+Saturated fatty acids have no double bonds, and their carbon
+molecules are saturated with hydrogen. Saturated fatty acids are
+used for certain physiological and structural functions, but the body
+can make these fatty acids; therefore, there is no dietary
+requirement for saturated fatty acids. Unsaturated fatty acids contain
+some carbon molecules that are joined together by double bonds,
+making them more chemically reactive. Fatty acids containing one
+double bond are monounsaturated. With two or more double
+bonds, a fatty acid is polyunsaturated. Two polyunsaturated fatty
+acids are considered essential, meaning that the body cannot make
+them: omega-6 and omega-3 fatty acids. These two fatty acids are
+necessary for the formation of healthy cell membranes, proper
+development and functioning of the brain and nervous system, and
+hormone production. Omega-6 fatty acids are abundant in the food
+supply and found in foods such as soybean, corn, and safflower oil
+and products made with these oils. Fewer foods contain omega-3
+fatty acids; these include fish, particularly fatty fish such as salmon,
+herring, halibut, trout, and mackerel, which contain the omega-3
+fatty acids eicosapentaenoic acid (EPA) and docosahexaenoic
+acid (DHA). Eicosapentaenoic acid and DHA are tied to a dose-
+dependent decrease in triglycerides; a small, but statistically
+significant, decrease in blood pressure, especially in the elderly; and
+potential antiarrhythmic effects (106, 113).
+One could also consume flaxseeds, walnuts, soybean oil, or
+canola oil to meet omega-3 requirements since these contain the
+omega-3 fatty acid alpha-linolenic acid (ALA), which is
+converted to EPA and DHA. However, this conversion process is
+inefficient. According to vivo studies, approximately 5% of ALA is
+converted to EPA, and <0.5% of ALA is converted to DHA in adults
+(129). Therefore, while foods that contain ALA count toward one’s
+omega-3 intake, they do not have a substantial effect on EPA and
+DHA levels in the body. Foods rich in ALA may improve some risk
+567
+
+factors for cardiovascular disease; however, it is not clear which is
+responsible—ALA, the other compounds in these nutrient-rich foods,
+or a combination of the two (43). In addition to its physiological
+functions, fat is important because it is responsible for the
+characteristic flavor, aroma, and texture of many foods. Generally,
+most dietary fats and oils are a mix of all three types of fatty acids,
+with one type predominating. Soy, corn, sunflower, and safflower oils
+are relatively high in polyunsaturated fatty acids; olive, peanut, and
+canola oils are high in monounsaturated fatty acids; and most animal
+fats and tropical oils (e.g., coconut, palm kernel) are relatively high
+in saturated fatty acids. See table 10.11 for fat content of common
+foods.
+When stored in the human body, fat serves many functions.
+Energy is stored primarily as adipose tissue in humans, but small
+amounts are also found in skeletal muscle, especially in aerobically
+trained athletes (142). Body fat insulates and protects organs,
+regulates hormones, and carries and stores the fat-soluble vitamins
+A, D, E, and K.
+Relationship With Cholesterol
+Cholesterol is a waxy, fat-like substance that is an important
+structural and functional component of all cell membranes.
+Additionally, cholesterol is used for the production of bile salts,
+vitamin D, and several hormones, including the sex hormones
+(estrogen, androgen, and progesterone) as well as cortisol. Though
+cholesterol has many essential functions in the body, high levels of
+cholesterol may lead to atherosclerosis, hardening of the arteries
+due to plaque buildup on artery walls, which narrows the area within
+arteries through which blood can pass. Therefore, having high levels
+of blood cholesterol is a risk factor for heart disease and stroke.
+High levels of total cholesterol, low-density lipoproteins
+(LDL), and triglycerides are all associated with increased risk of
+heart disease. Low-density lipoprotein is further divided into
+subfractions based on particle size. Smaller, more dense particles,
+568
+
+called very low-density lipoproteins (VLDL), are more
+atherogenic (artery clogging) than larger LDL particles (50). High
+levels of saturated or trans fats, weight gain, and anorexia can all
+increase LDL cholesterol (159). However, VLDL levels increase with
+increasing intake of carbohydrate (116). High levels of high-
+density lipoproteins (HDL) are protective against heart disease
+but are not a target of therapy (practitioners are told not to focus on
+HDL). Table 10.12 shows how LDL, total, and HDL cholesterol are
+classified.
+High intake of refined carbohydrates, weight gain, excessive
+alcohol intake, and very-low-fat diets can increase triglycerides
+(blood fats). However, as with cholesterol, several factors affect
+triglycerides, including a sedentary lifestyle, overweight or obesity,
+smoking, genetics, and certain diseases and medications (126, 159).
+For optimal cardiovascular health, and risk reduction of chronic
+diseases, the Scientific Report of the 2020 Dietary Guidelines
+Advisory Committee recommends limiting saturated fat to less than
+10% of total calories and replacing saturated fat with unsaturated
+fat, particularly polyunsaturated fat. As of June 2018, partially
+hydrogenated oils (PHOs), the major source of artificial trans fat in
+the food supply, and a major cause of dyslipidemia, are no longer
+Generally Recognized as Safe (GRAS). Therefore, PHOs are no
+longer added to foods. In addition, it is advised that added sugars,
+particularly from sugar-sweetened beverages, desserts, sweet
+snacks, candies, and sweetened breakfast cereals, are consumed at
+a maximum of 10% of total calories (154).
+Fat and Performance
+Both intramuscular and circulating fatty acids are potential energy
+sources during exercise. Compared with the limited capacity of the
+body to store carbohydrate, fat stores are large and represent a vast
+source of fuel for exercise (20). For example, a lean runner who is
+160 pounds (72 kg) with 4% body fat has approximately 22,400
+calories stored within fat tissue (57). At rest and during low-intensity
+569
+
+exercise, a high percentage of the energy produced is derived from
+fatty acid oxidation (137). When the intensity of exercise increases,
+there is a gradual shift from fat to carbohydrate as the preferred
+source of fuel. Consistent aerobic training increases the muscle’s
+capacity to use fatty acids (82). In addition to training, the body
+adapts to using greater amounts of fat for energy when a higher-fat,
+lower-carbohydrate diet is consumed over a period of time (60, 82).
+Because the type of diet to which the body is adapted may influence
+performance (69), the effects of high-fat, low-carbohydrate diets
+vary, depending on the individual (128, 136, 138).
+TABLE 10.11 Fat Content of Common Foods
+Food
+Serving
+size
+Serving
+size (g)
+Total
+fat
+(g)
+Saturated
+fat (g)
+Mono-
+unsaturated
+fat (g)
+Poly-
+unsaturated
+fat (g)
+Almond butter
+1 tbsp
+32
+17.7
+1.3
+10.4
+4.3
+Almonds,
+whole
+22 each
+26
+13.1
+1.0
+8.3
+3.3
+Avocado
+1/4 each
+50
+7.3
+1.1
+4.9
+0.9
+Beef, ground,
+80% lean, pan
+browned
+3 oz
+85
+14.8
+5.6
+6.5
+0.4
+Beef, sirloin
+steak
+3 oz
+85
+13.4
+5.3
+5.6
+0.5
+Butter, dairy
+1 tbsp
+14
+11.5
+7.3
+3.0
+0.4
+Cashews,
+whole, dry
+roasted
+1/4 cup
+34
+15.9
+3.1
+9.4
+2.7
+Cheese,
+cheddar, low-
+fat
+1 slice
+28
+2.0
+1.2
+0.6
+0.1
+Data from U.S. Department of Agriculture, Agricultural
+Research Service, Beltsville Human Nutrition Research
+Center. FoodData Central. Available from https://fdc.nal
+.usda.gov/.
+570
+
+Food
+Serving
+size
+Serving
+size (g)
+Total
+fat
+(g)
+Saturated
+fat (g)
+Mono-
+unsaturated
+fat (g)
+Poly-
+unsaturated
+fat (g)
+Cheese,
+mozzarella,
+part-skim,
+shredded
+1/4 cup
+28
+5.6
+3.2
+1.6
+0.3
+Chia seeds
+1/4 cup
+42
+12.9
+1.4
+1.0
+9.9
+Chicken, thigh
+with skin
+3 oz
+85
+12.5
+3.5
+5.3
+2.5
+Coconut oil
+1 tbsp
+14
+13.4
+11.2
+0.9
+0.2
+Dark chocolate
+1 oz
+28
+9.1
+5.4
+2.8
+0.3
+Egg, large
+1
+50
+5.3
+1.6
+2.0
+0.7
+Flaxseed,
+ground
+1 tbsp
+7
+3.0
+0.3
+0.5
+2.0
+Goat cheese,
+soft
+1 oz
+28
+6.0
+4.1
+1.4
+0.2
+Margarine,
+vegetable oil
+spread 40%
+1 tbsp
+14
+5.4
+1.3
+1.7
+2.2
+Mayonnaise,
+regular
+1 tbsp
+14
+10.3
+1.6
+2.3
+6.2
+Milk, skim
+1 cup
+244
+0.2
+0.1
+0.1
+0.0
+Milk, whole,
+3.25% fat
+1 cup
+244
+7.9
+4.6
+2.0
+0.5
+Oil, canola
+1 tbsp
+14
+14.0
+1.0
+8.9
+3.9
+Oil, olive
+1 tbsp
+14
+14.0
+1.9
+9.9
+1.4
+Oil, safflower,
+70% linoleic
+1 tbsp
+14
+14.0
+0.8
+1.9
+10.1
+Oil, soybean
+1 tbsp
+14
+14.0
+2.1
+3.1
+7.9
+Data from U.S. Department of Agriculture, Agricultural
+Research Service, Beltsville Human Nutrition Research
+Center. FoodData Central. Available from https://fdc.nal
+.usda.gov/.
+571
+
+Food
+Serving
+size
+Serving
+size (g)
+Total
+fat
+(g)
+Saturated
+fat (g)
+Mono-
+unsaturated
+fat (g)
+Poly-
+unsaturated
+fat (g)
+Peanut butter,
+natural
+2 tbsp
+32
+16.5
+3.3
+8.3
+4.1
+Salmon, filet,
+wild, baked
+3 oz
+85
+6.9
+1.1
+2.3
+2.8
+Tuna, light,
+canned in
+water
+2 oz
+56
+0.5
+0.1
+0.1
+0.1
+Trout, filet,
+wild, baked
+3 oz
+85
+5.0
+1.4
+1.5
+1.6
+Walnuts,
+dried, halves
+1/4 cup
+25
+16.3
+1.5
+2.2
+11.8
+Yogurt, Greek,
+plain, low-fat
+1 cup
+245
+4.7
+3.0
+1.2
+0.2
+Yogurt, plain,
+low-fat
+1 cup
+245
+3.8
+2.5
+1.0
+0.1
+Data from U.S. Department of Agriculture, Agricultural
+Research Service, Beltsville Human Nutrition Research
+Center. FoodData Central. Available from https://fdc.nal
+.usda.gov/.
+TABLE 10.12 Classification of LDL, Total, and HDL
+Cholesterol
+LDL cholesterol (mg/dl)
+<100
+Optimal
+100-129
+Near optimal/above optimal
+LDL = low-density lipoprotein; HDL = high-density lipoprotein.
+Lipoprotein level testing should be completed after a 9- to 12-hour fast.
+LDL cholesterol is the primary target of therapy.
+Source: National Heart, Lung, and Blood Institute; National Institutes of Health; U.S.
+Department of Health and Human Services, Managing Blood Cholesterol in Adults:
+Systematic Evidence Review from the Cholesterol Expert Panel, 2013 (U.S. Department of
+Health and Human Services; National Heart, Lung, and Blood Institute, 2013).
+572
+
+LDL cholesterol (mg/dl)
+130-159
+Borderline high
+160-189
+High
+>190
+Very high
+Total cholesterol (mg/dl)
+<200
+Desirable
+200-239
+Borderline high
+>240
+High
+HDL cholesterol (mg/dl)
+<40
+Low
+>60
+High
+LDL = low-density lipoprotein; HDL = high-density lipoprotein.
+Lipoprotein level testing should be completed after a 9- to 12-hour fast.
+LDL cholesterol is the primary target of therapy.
+Source: National Heart, Lung, and Blood Institute; National Institutes of Health; U.S.
+Department of Health and Human Services, Managing Blood Cholesterol in Adults:
+Systematic Evidence Review from the Cholesterol Expert Panel, 2013 (U.S. Department of
+Health and Human Services; National Heart, Lung, and Blood Institute, 2013).
+The human body has a sufficient amount of fat to fuel
+long training sessions or competition.
+Macronutrient Guidelines
+Protein
+Choose a variety of protein foods, from both animal and plant sources, which
+include seafood, lean meat and poultry, eggs, beans, peas and lentils, soy
+products, nuts, and seeds.
+Increase the amount and variety of seafood consumed by choosing seafood
+in place of some meat and poultry.
+Choose nuts, seeds, and soy products in place of some meat and poultry.
+Aerobic endurance athletes should consume 1.2 to 2.0 grams of protein per
+kilogram body weight per day.
+573
+
+Strength athletes should consume 1.4 to 2.0 grams of protein per kilogram
+body weight per day.
+Ingest 20 to 40 grams (0.25-0.40 g of protein per kg of body mass) of high-
+quality protein every 3 to 4 hours throughout the day.
+Carbohydrate
+Reduce intake of calories from added sugars.
+Increase intake of vegetables (prepared without added salt or fat) and fruit
+(prepared without added sugars).
+Eat a variety of vegetables, including beans; peas; starchy; and dark-green,
+red, and orange vegetables.
+Consume at least half of all total grains as whole grains. Individuals who eat
+refined grains should choose enriched grains.
+Fats and Alcohol
+Consume less than 10% of calories from saturated fats by replacing them
+with unsaturated fats, particularly polyunsaturated fats.
+If alcohol is consumed, it should be consumed in moderation—up to one
+drink per day for women and two drinks per day for men—and only by adults
+of legal drinking age. Pregnant women should avoid alcohol, and
+breastfeeding women should be cautious about their intake if they choose to
+drink and speak to their healthcare provider. Alcohol should be avoided in the
+time period after exercise because it reduces muscle protein synthesis (124).
+574
+
+Vitamins
+Vitamins are organic substances (i.e., containing carbon atoms)
+needed in very small amounts to perform specific metabolic
+functions (71, 166). Vitamins typically act as coenzymes, facilitating
+numerous reactions in the body. For instance, B vitamins help the
+body make energy from the metabolism of carbohydrates. Table
+10.13 describes the functions and some food sources of individual
+vitamins.
+TABLE 10.13 Vitamins
+Vitamin
+Function
+Food sources
+(Oregon State
+University)
+DRI and ULb per
+day
+Vitamin A
+Necessary for vision,
+healthy skin, teeth,
+body tissues, and
+healthy mucous
+membranes and skin
+Animal foods including
+animal liver (veal, beef,
+goose, lamb, turkey),
+meat, fortified milk,
+cheese, herring
+Males: 300-900 mcg
+RAE (retinal activity
+equivalents) (RDA)
+Females: 300-1,300
+mcg RAE (RDA)
+Males: 600-3,000
+mcg RAE (UL)
+Females: 600-3,000
+mcg RAE (UL)
+Beta carotene
+An antioxidanta;
+converted into vitamin
+A in the body
+Sweet potato, carrots,
+pumpkin, spinach,
+collards, kale, winter
+squash, lamb quarters,
+beet greens, turnip
+greens, cabbage
+No RDA or AI;
+however, 1 IU beta
+carotene from food =
+0.05 mcg RAE
+vitamin A
+UL is not
+determinable due to
+lack of data.
+Supplementation is
+advised only for
+individuals at risk for
+vitamin A deficiency.
+Vitamin D
+Aids calcium
+absorption, helps
+maintain blood levels
+of calcium and
+Fish (swordfish, salmon,
+tuna, sardines,
+mackerel, carp, eel,
+whitefish), fortified milk,
+Males: 15-20 mcg
+(600-800 IU) (RDA)
+Females: 15-20 mcg
+(600-800 IU) (RDA)
+575
+
+Vitamin
+Function
+Food sources
+(Oregon State
+University)
+DRI and ULb per
+day
+phosphorus; necessary
+for building bone mass
+and preventing bone
+loss
+fortified breakfast
+cereals, egg yolks
+Males: 63-100 mcg
+(2,500-4,000 IU)
+(UL)
+Females: 63-100 mcg
+(2,500-4,000 IU)
+(UL)
+Vitamin E
+An antioxidanta;
+needed for immune
+functioning and
+metabolism
+Oils (wheat germ,
+vegetable), fortified
+breakfast cereals, nuts
+and seeds, wheat germ,
+peanut butter, corn oil
+Males: 6-15 mg (7.5-
+22.4 IU) (RDA)
+Females: 6-19 mg
+(9-28.4 IU) (RDA)
+Males: 200-1,000 mg
+(300-1,500 IU) (UL)
+Females: 200-1,000
+mg (300-1,500 IU)
+(UL)
+Vitamin K
+(phylloquinone)
+Needed for blood
+clotting; supports
+tissue and bone health
+Dark green leafy
+vegetables (kale,
+Brussels sprouts,
+spinach, chard, turnip
+and mustard greens,
+beet greens, radicchio),
+broccoli, asparagus,
+lamb quarters
+Males: 30-120 mcg
+(AI)
+Females: 30-90 mcg
+(AI)
+No UL due to lack of
+data
+Vitamin C
+Promotes healthy cell
+development, wound
+healing, and resistance
+to infections. Serves as
+an antioxidanta;
+necessary for
+conversion of the
+inactive form of folic
+acid to the active form;
+makes iron available
+for hemoglobin
+synthesis.
+Sweet peppers,
+peaches, guava,
+broccoli, kiwifruit, citrus
+fruit (strawberries,
+oranges, limes, lemons,
+grapefruit, tangerine),
+papayas, cantaloupe,
+tomatoes, potatoes,
+onions
+Males: 15-90 mg
+(RDA)
+Females: 15-120 mg
+(RDA)
+Males: 400-2,000 mg
+(UL)
+Females: 400-2,000
+mg (UL)
+Thiamin (B1)
+Coenzyme for
+carbohydrate
+metabolism; needed
+for normal functioning
+Fortified breakfast
+cereals, sunflower
+seeds, peas, pork,
+oranges, orange juice,
+Males: 0.5-1.2 mg
+(RDA)
+Females: 0.5-1.4 mg
+(RDA)
+576
+
+Vitamin
+Function
+Food sources
+(Oregon State
+University)
+DRI and ULb per
+day
+of the nervous system
+and muscles, including
+the heart
+lima beans, pecans,
+enriched rice
+No UL due to lack of
+data
+Riboflavin (B2)
+Coenzyme in red blood
+cell formation; nervous
+system functioning;
+and metabolism of
+carbohydrate, protein,
+and fat; needed for
+vision and may help
+protect against
+cataracts
+Liver, wheat germ,
+brewer’s yeast,
+almonds, cheese,
+fortified breakfast
+cereal, whey protein,
+milk, eggs, lamb, pork,
+veal, beef, broccoli,
+yogurt
+Males: 0.5-1.3 mg
+(RDA)
+Females: 0.5-1.6 mg
+(RDA)
+No UL due to lack of
+data
+Niacin
+Coenzyme for
+carbohydrate, protein,
+and fat metabolism and
+proper nervous system
+functioning; high
+intakes can lower
+elevated cholesterol
+Soy protein, soy flour,
+textured vegetable
+protein, whey protein,
+beef, peanuts, peanut
+butter, sunflower seeds,
+fortified breakfast
+cereals
+Males: 6-16 mg
+(RDA)
+Females: 6-18 mg
+(RDA)
+Males: 10-35 mg
+(UL)
+Females: 10-35 mg
+(UL)
+Pyridoxine (B6)
+Coenzyme for protein
+metabolism and
+nervous and immune
+system function;
+involved in synthesis of
+hormones and red
+blood cells
+Liver, bananas, fortified
+breakfast cereals,
+soybeans, chicken,
+tuna, raw carrots, beef,
+broccoli, spinach,
+potatoes, alfalfa
+sprouts, navy beans,
+peanut butter, garbanzo
+beans, walnuts,
+sunflower seeds,
+avocados, eggs, lima
+beans, cabbage, salmon
+Males: 0.5-1.7 mg
+(RDA)
+Females: 0.5-2.0 mg
+(RDA)
+Males: 30-100 mg
+(UL)
+Females: 30-100 mg
+(UL)
+Folate
+Needed for normal
+growth and
+development and red
+blood cell formation;
+reduces risk of neural
+tube birth defects; may
+reduce risk of heart
+Brewer’s yeast, fortified
+breakfast cereals, liver,
+black-eyed peas, beans
+(pinto, black, lima,
+white, garbanzo, soy),
+peanuts, peanut butter,
+spinach, turnip greens,
+Males: 150-400 mcg
+(RDA)
+Females: 150-600
+mcg (RDA)
+Males: 300-1,000
+mcg (UL)
+577
+
+Vitamin
+Function
+Food sources
+(Oregon State
+University)
+DRI and ULb per
+day
+disease and cervical
+dysplasia
+asparagus, mustard
+greens, seaweed, eggs,
+enriched bread,
+oranges, orange juice
+Females: 300-1,000
+mcg (UL)
+Cobalamin
+(B12)
+Vital for blood
+formation and healthy
+nervous system
+Liver, oysters, lamb,
+eggs, beef, shellfish,
+fish, poultry, pork,
+chicken, fortified
+breakfast cereals
+Males: 0.9-2.4 mcg
+(RDA)
+Females: 0.9-2.8
+mcg (RDA)
+No UL due to lack of
+data
+Biotin
+Assists in the
+metabolism of fatty
+acids and use of B
+vitamins
+Nuts (peanuts,
+hazelnuts, almonds,
+cashews, macadamia),
+soybeans, peanut
+butter, black-eyed peas,
+liver, milk, egg yolks,
+yeast, cheese,
+cauliflower, carrots,
+avocados, sweet
+potatoes
+Males: 8-30 mcg (AI)
+Females: 8-35 mcg
+(AI)
+No UL due to lack of
+data
+Pantothenic
+acid
+Aids in normal growth
+and development
+Liver, sunflower seeds,
+fortified breakfast
+cereals, egg yolks,
+whey protein, soy
+protein, peanuts,
+peanut butter, pecans,
+veal, enriched rice,
+broccoli, lima beans
+Males: 2-5 mg (AI)
+Females: 2-7 mg (AI)
+No UL due to lack of
+data
+578
+
+Vitamin
+Function
+Food sources
+(Oregon State
+University)
+DRI and ULb per
+day
+aAntioxidants are substances that modify cell-signaling pathways and counteract oxidative
+stress-induced cell damage caused by reactive oxygen and nitrogen species (free radicals).
+Free radicals are both beneficial and harmful to human health. An overproduction of, or
+overexposure to, free radicals combined with a deficiency in antioxidants can result in
+oxidative stress and subsequent damage to cellular lipids, proteins, and DNA (71, 166).
+bDietary Reference Intake (DRI): A set of nutrient recommendations that include the values
+Recommended Dietary Allowance (RDA), Adequate Intake (AI), Estimated Average
+Requirement (EAR), and the Tolerable Upper Level Intake (UL). Tolerable Upper Level
+Intake (UL): The highest daily intake of a nutrient that is likely to not pose a risk of
+adverse health effects in most of the general population. DRIs and UL are listed as a range
+across the life span for each sex. DRI and UL values from (71-74).
+Data from National Institutes of Health.
+Water-soluble vitamins, including the B vitamins and vitamin C,
+dissolve in water and are transported in the blood. With the
+exception of vitamin B12, which is stored in the liver for years, water-
+soluble vitamins are not stored in appreciable amounts in the body;
+instead the body uses what is needed and then excretes the
+remaining amounts in urine (165). Though there are no known side
+effects from excess vitamin B12 consumption, consuming more than
+the body can use will not increase energy or improve health (18,
+74). Vitamins A, D, E, and K are fat soluble and therefore carried by
+fat in the blood and stored in fat tissue in the body (109). Excess
+preformed vitamin A (not beta carotene, alpha carotene, or beta
+cryptoxanthin, which are converted into vitamin A in the body) is
+toxic and associated with significant adverse effects including liver
+damage, intracranial pressure (pseudotumor cerebri), dizziness,
+nausea, headaches, skin irritation, pain in joints and bones, coma,
+and even death (23). Excess vitamin A intake can occur through diet
+but typically results from high levels of vitamin A in supplements (72,
+109). Toxic levels of vitamin D can lead to heart arrhythmias and
+increased levels of blood calcium, which can cause blood vessel and
+tissue calcification, as well as damage to the heart, blood vessels,
+and kidneys (109). Vitamin E acts as an anticoagulant and therefore
+579
+
+thins the blood. Regular intake of excessive amounts of vitamin E
+can lead to high serum vitamin E levels, which is associated with
+increased risk of hemorrhagic stroke, particularly in individuals on
+blood thinners (125). Because vitamin K helps blood clot, excess
+intake of this vitamin can interfere with the effects of some
+anticlotting medications such as warfarin (Coumadin) (94).
+Vitamin D is a particular vitamin of interest for both sedentary and
+athletic individuals because it is important for immunity, protein
+synthesis, muscle function, cardiovascular function, inflammatory
+response, cell growth, and regulation of muscle and bone (39, 121).
+Many 
+people, 
+including 
+athletes, 
+struggle 
+to 
+meet 
+the
+recommendations for vitamin D due to few foods being rich sources
+of this vitamin (51). According to the Scientific Report of the 2020
+Dietary Guidelines Advisory Committee, more than 90 percent of
+men and women over 19 years of age do not consume enough
+vitamin D (56, 154). Eating a diet containing seafood, and choosing
+foods that are fortified with vitamin D, including milk, fortified soy
+beverages, fortified soy yogurt, and some whole-grain cereals, can
+help adults meet their needs for vitamin D. In addition to dietary
+sources, the body can make vitamin D from the sun through sun
+exposure on the skin; however, populations living at higher latitudes
+or who spend a lot of time indoors do not have enough sun
+exposure to meet vitamin D needs (51). As such, vitamin D
+supplementation may be necessary for many individuals to prevent
+deficiency. A meta-analysis of 11 randomized control trials and 436
+athletes showed that vitamin D supplementation only had a small or
+trivial effect on upper and lower body muscular strength or power
+(150). Despite lack of a notable performance effect, adequate
+vitamin D levels may be important for athletes to protect against
+stress fractures and acute illness (35, 39, 91).
+580
+
+Minerals
+Minerals contribute to the structure of bone, teeth, and nails; are a
+component of enzymes; and perform a wide variety of metabolic
+functions. For example, calcium is needed for bone and tooth
+formation and function, nerve transmission, and muscle contraction.
+Iron is necessary for oxygen transport and is also a component of
+enzymes necessary for energy metabolism. Calcium; phosphorus;
+magnesium; iron; and the electrolytes sodium, potassium, and
+chloride are often called the major minerals. For the athlete,
+minerals are important for bone health, oxygen-carrying capacity,
+and fluid and electrolyte balance. The minerals, their functions, and
+good food sources are listed in table 10.14.
+TABLE 10.14 Minerals
+Mineral
+Function
+Food sources
+DRI and
+UL* per
+day
+Calcium
+Essential for developing and
+maintaining healthy bones
+and teeth; assists with blood
+clotting, muscle contraction,
+and nerve transmission
+Fruit juices and fruit drinks
+fortified with calcium, cheese,
+sardines, milk, cottage cheese,
+yogurt, ice cream, calcium-set
+tofu, turnip greens, Chinese
+cabbage, mustard greens, kale,
+rutabaga
+Males:
+700-1,300
+mg (RDA)
+Females:
+700-1,300
+mg (RDA)
+Males:
+2,000-
+3,000 mg
+(UL)
+Females:
+2,000-
+*Dietary Reference Intake (DRI): A set of nutrient recommendations that include the
+values Recommended Dietary Allowance (RDA), Adequate Intake (AI), Estimated Average
+Requirement (EAR), and the Tolerable Upper Level Intake (UL). Tolerable Upper Level
+Intake (UL): The highest daily intake of a nutrient that is likely to not pose a risk of
+adverse health effects in most of the general population. DRIs and UL are listed as a range
+across the life span for each sex. DRI and UL values from (72, 73).
+Data from National Institutes of Health.
+581
+
+Mineral
+Function
+Food sources
+DRI and
+UL* per
+day
+3,000 mg
+(UL)
+Phosphorus
+Works with calcium to
+develop and maintain strong
+bones and teeth; enhances
+use of other nutrients;
+essential for energy
+metabolism, DNA structure,
+and cell membranes
+Cheese, fish, beef, pork,
+whole-wheat products, cocoa
+powder, pumpkin seeds,
+sunflower seeds, almonds
+Males:
+460-1,250
+mg (RDA)
+Females:
+460-1,250
+mg (RDA)
+Males: 3-4
+g (UL)
+Females:
+3-4 g (UL)
+Magnesium
+Activates nearly 100 enzymes
+and helps nerves and
+muscles function; constituent
+of bones and teeth
+Bran (wheat and rice), cocoa
+powder, fortified breakfast
+cereals, seeds (pumpkin,
+sunflower), soybeans, nuts
+(almonds, pine nuts, hazelnuts,
+cashews, walnuts, peanuts),
+spinach
+Males: 80-
+420 mg
+(RDA)
+Females:
+80-400 mg
+(RDA)
+Males: 65-
+350 mg
+(UL)
+Females:
+65-350 mg
+(UL)
+Molybdenum
+Needed for metabolism of
+DNA and ribonucleic acid
+(RNA) and production of uric
+acid
+Milk, milk products, peas,
+beans, liver, whole-grain
+products
+Males: 17-
+45 mcg
+(RDA)
+Females:
+17-50 mcg
+(RDA)
+Males:
+300-2,000
+*Dietary Reference Intake (DRI): A set of nutrient recommendations that include the
+values Recommended Dietary Allowance (RDA), Adequate Intake (AI), Estimated Average
+Requirement (EAR), and the Tolerable Upper Level Intake (UL). Tolerable Upper Level
+Intake (UL): The highest daily intake of a nutrient that is likely to not pose a risk of
+adverse health effects in most of the general population. DRIs and UL are listed as a range
+across the life span for each sex. DRI and UL values from (72, 73).
+Data from National Institutes of Health.
+582
+
+Mineral
+Function
+Food sources
+DRI and
+UL* per
+day
+mcg (UL)
+Females:
+300-2,000
+mcg (UL)
+Manganese
+Necessary for the normal
+development of the skeletal
+and connective tissues;
+involved in metabolism of
+carbohydrates
+Wheat germ, wheat bran, rice
+bran, fortified breakfast
+cereals, rice cakes, nuts
+(peanuts, pecans, pine nuts,
+walnuts, almonds, hazelnuts),
+soybeans, mussels, whole-
+wheat products (pastas,
+breads, and crackers)
+Males: 1.2-
+2.3 mg
+(AI)
+Females:
+1.2-2.6 mg
+(AI)
+Males: 2-
+11 mg (UL)
+Females:
+2-11 mg
+(UL)
+Copper
+Involved in iron metabolism,
+nervous system functioning,
+bone health, and synthesis of
+proteins; plays a role in the
+pigmentation of skin, hair,
+and eyes
+Liver, shellfish (especially
+oysters), lobster, nuts
+(cashews, Brazil nuts,
+hazelnuts, walnuts, peanuts,
+almonds, pecans, pistachios),
+seeds (sunflower, pumpkin),
+fortified breakfast cereals,
+great northern beans
+Males:
+340-900
+mcg (RDA)
+Females:
+340-1,300
+mcg (RDA)
+Males:
+1,000-
+10,000
+mcg (UL)
+Females:
+1,000-
+10,000
+mcg (UL)
+*Dietary Reference Intake (DRI): A set of nutrient recommendations that include the
+values Recommended Dietary Allowance (RDA), Adequate Intake (AI), Estimated Average
+Requirement (EAR), and the Tolerable Upper Level Intake (UL). Tolerable Upper Level
+Intake (UL): The highest daily intake of a nutrient that is likely to not pose a risk of
+adverse health effects in most of the general population. DRIs and UL are listed as a range
+across the life span for each sex. DRI and UL values from (72, 73).
+Data from National Institutes of Health.
+583
+
+Mineral
+Function
+Food sources
+DRI and
+UL* per
+day
+Chromium
+Aids in glucose metabolism
+and may help regulate blood
+sugar and insulin levels in
+people with diabetes
+Mushrooms (white), raw
+oysters, wine, apples, brewer’s
+yeast, beer, pork, chicken
+Males: 11-
+35 mcg
+(AI)
+Females:
+11-45 mcg
+(AI)
+No UL due
+to lack of
+data
+Iodine
+Part of the thyroid hormone;
+helps regulate growth,
+development, and energy
+metabolism
+Iodized salt, saltwater fish and
+seafood
+Males: 90-
+150 mcg
+(RDA)
+Females:
+90-290
+mcg (RDA)
+Males:
+200-1,100
+mcg (UL)
+Females:
+200-1,100
+mcg (UL)
+Iron
+Necessary for red blood cell
+formation and function;
+constituent of myoglobin and
+component of enzyme
+systems
+Liver, beef, lamb, pork, veal,
+poultry, clams, oysters, fortified
+breakfast cereals, enriched
+bread products, brewer’s yeast,
+nuts (pine nuts, cashews,
+almonds), beans (kidney,
+green, garbanzo)
+Males: 7-
+11 mg
+(RDA)
+Females:
+7-27 mg
+(RDA)
+Males: 40-
+45 mg (UL)
+Females:
+40-45 mg
+(UL)
+*Dietary Reference Intake (DRI): A set of nutrient recommendations that include the
+values Recommended Dietary Allowance (RDA), Adequate Intake (AI), Estimated Average
+Requirement (EAR), and the Tolerable Upper Level Intake (UL). Tolerable Upper Level
+Intake (UL): The highest daily intake of a nutrient that is likely to not pose a risk of
+adverse health effects in most of the general population. DRIs and UL are listed as a range
+across the life span for each sex. DRI and UL values from (72, 73).
+Data from National Institutes of Health.
+584
+
+Mineral
+Function
+Food sources
+DRI and
+UL* per
+day
+Selenium
+Essential component of a key
+antioxidant enzyme;
+necessary for normal growth
+and development and for use
+of iodine in thyroid function
+Tenderloin of beef, pollock,
+trout, tuna, oysters, mackerel,
+flounder, liver, sunflower seeds,
+wheat bran, wheat germ, some
+pork, fortified breakfast
+cereals, perch, crab, clams,
+cod, haddock, whole-wheat
+breads
+Males: 20-
+55 mcg
+(RDA)
+Females:
+20-70 mcg
+(RDA)
+Males: 90-
+400 mcg
+(UL)
+Females:
+90-400
+mcg (UL)
+Zinc
+Essential part of more than
+100 enzymes involved in
+digestion, metabolism,
+reproduction, and wound
+healing
+Oysters, beef, veal, lamb, pork,
+chicken, lima beans, black-
+eyed peas, white beans
+Males: 3-
+11 mg
+(RDA)
+Females:
+3-13 mg
+(RDA)
+Males: 7-
+40 mg (UL)
+Females:
+7-40 mg
+(UL)
+*Dietary Reference Intake (DRI): A set of nutrient recommendations that include the
+values Recommended Dietary Allowance (RDA), Adequate Intake (AI), Estimated Average
+Requirement (EAR), and the Tolerable Upper Level Intake (UL). Tolerable Upper Level
+Intake (UL): The highest daily intake of a nutrient that is likely to not pose a risk of
+adverse health effects in most of the general population. DRIs and UL are listed as a range
+across the life span for each sex. DRI and UL values from (72, 73).
+Data from National Institutes of Health.
+Two minerals, iron and calcium, deserve additional attention.
+Athletes who do not consume enough dietary iron can develop iron
+deficiency or iron deficiency anemia, both of which can impair
+performance. Inadequate dietary calcium can contribute to low bone
+density and possibly future risk of developing osteopenia or
+osteoporosis.
+585
+
+Iron
+Iron is essential for both the functioning and synthesis of
+hemoglobin, a protein that transfers oxygen throughout the body
+(158). In addition, iron is a component of the protein myoglobin,
+which transports oxygen to muscles (63). This mineral plays
+important roles in growth, development, cell functioning, and the
+synthesis and functioning of some hormones (30, 160).
+Iron deficiency and iron deficiency anemia is a major public health
+concern worldwide, mainly affecting women and children (40).
+Though it disproportionately affects those in developing countries, it
+is common in industrialized countries as well. The National Health
+and Nutrition Examination Survey (NHANES) from 2015-16 found
+that approximately 11% of American females aged 12 to 49 had iron
+deficiency, with the goal to reduce that level to 7.2% (99). (In
+studies examining iron deficiency in female athletes, more than 25%
+tested positive for iron deficiency [65, 102].) Iron deficiency occurs
+in three stages (in order of severity): depletion, marginal deficiency,
+and anemia (90, 117). Iron carries oxygen to the working muscles,
+and even marginal iron deficiency may impair athletic performance
+(19, 63). Iron deficiency anemia develops when low iron stores
+persist for a period of time and the body cannot make enough
+healthy red blood cells to deliver oxygen throughout the body (158).
+Symptoms depend on the individual; some people are asymptomatic
+or get used to their symptoms and assume that they are normal.
+Symptoms of iron deficiency or iron deficiency anemia may include
+weakness, fatigue, irritability, poor concentration, headache,
+decreased exercise capacity, hair loss, and dry mouth (15). Other
+symptoms associated with iron deficiency anemia include feeling cold
+often, inflamed tongue (glossitis), shortness of breath during routine
+activities, and pica (the desire to eat nonfood substances such as
+laundry starch, dirt, clay, and ice) (52). Iron deficiency has also been
+shown to negatively affect mental health and contribute to
+depression (30, 99).
+586
+
+Women of childbearing age, teenage girls, pregnant women,
+infants, and toddlers have the greatest need for iron and therefore
+an increased risk of becoming deficient. In addition, distance
+runners, vegetarian athletes, female athletes, those who lose a
+significant amount of blood during their menstrual cycle, people who
+take excessive amounts of antacids, and people with certain
+digestive diseases such as celiac disease have an increased risk of
+developing iron deficiency anemia (72).
+The two types of iron found in food are heme and nonheme iron.
+Heme iron, derived from hemoglobin, is found in foods that originally
+contained hemoglobin and myoglobin—animal foods including red
+meats, fish, and poultry. Heme iron is absorbed better than
+nonheme iron, and absorption is not affected by anything else we
+eat. Approximately 15% to 35% of the heme iron consumed is
+actually absorbed (112).
+Nonheme iron is the form of iron found in all other, non-meat
+foods including vegetables, grains, and iron-fortified breakfast
+cereal. Only 2% to 20% of nonheme iron is absorbed (160). While
+heme iron is not affected by compounds found in food eaten
+concurrently, many factors affect the absorption of nonheme iron.
+For instance, the nonheme iron in spinach is bound to a substance
+called phytic acid, the storage form of phosphorus in plants. Phytic
+acid decreases the absorption of nonheme iron. In addition, several
+other substances may decrease the absorption of nonheme iron,
+including tannins (found in tea and wine), calcium (found in dairy
+and multivitamins), polyphenols, phytates (found in legumes and
+whole grains), and some of the proteins in soy. A person can
+increase the amount of nonheme iron absorbed by consuming
+vitamin C–rich foods or beverages at the same time or consuming a
+nonheme source at the same time heme iron is consumed. For
+example, pairing spinach with meat increases iron absorption from
+spinach (72, 160).
+There are many supplemental forms of iron; each supplies a
+different amount of elemental iron while also varying in
+587
+
+bioavailability and the potential for side effects such as stomach
+upset (103, 157). Ferrous iron has a high bioavailability and is most
+recommended; it is often paired with vitamin C, which enhances iron
+absorption (157). It is recommended to take iron supplements on an
+empty stomach, at least an hour before meals, because many foods,
+drinks, and other dietary supplements can interfere with iron
+absorption. For example, whole grains, coffee, black tea, red wine,
+and hot chocolate can impair iron absorption. Additionally, both
+calcium and supplemental magnesium may interfere with iron
+absorption (169). Because of the many factors affecting iron intake
+and absorption, including intake of other minerals the athlete may
+not be consuming in adequate quantities, only a medical doctor or
+registered dietitian should recommend iron supplements and how to
+take an iron supplement for maximum absorption and minimal
+stomach upset (157).
+Calcium
+Adequate calcium intake throughout childhood and adolescence is
+essential for the development of strong bones. Calcium helps bones
+grow in length and density during adolescence, with up to 90% of
+peak bone mineral density occurring during late adolescence (61). In
+adults, calcium helps maintain bone density. When dietary calcium
+intake falls short, calcium is pulled from its storage site in bone to
+meet the demands of the body and keep calcium concentrations in
+the blood, muscle, and intercellular fluids constant. Calcium is
+essential for attaining peak bone mass, and calcium deficiencies can
+impair the attainment of peak bone mineral density and increase risk
+of fracture later in life (109). Calcium also keeps teeth strong, helps
+regulate muscle contraction, and plays a role in nerve functioning,
+blood vessel expansion and contraction, and hormone and enzyme
+secretion (109).
+The NHANES found that just 15% of 9- to 13-year-old females
+and less than 10% of females aged 14 to 18 and over the age of 51
+met the adequate intake (AI) for calcium from diet alone (11).
+588
+
+Therefore, athletes should be encouraged to include dairy products
+and other calcium-rich foods in their diets. The athlete’s medical
+doctor or registered dietitian may suggest a calcium supplement if
+calcium needs cannot be met through diet alone.
+Caloric Versus Nutrient-Dense Foods
+Given the rise in obesity in America, some classify the American diet as calorie
+dense but nutrient poor. The Scientific Report of the 2020 Dietary Guidelines
+Advisory Committee recommends a dietary pattern including a variety of nutrient-
+dense foods. Though there is no standardized definition of the term nutrient
+density, in general, choosing nutrient-dense foods means looking for foods based
+on the nutrients such as vitamins, minerals, and fiber, as well as the healthy plant-
+based compounds that they provide, whereas caloric density refers to the caloric
+content of a food. Foods high in nutrient density include milk, vegetables, protein
+foods, and grains, while foods high in caloric density but low in nutrient density
+typically include potato chips, desserts, and candy (44). For more information on
+nutrient versus caloric density, the reader is referred to the work of Drewnowski
+(44).
+589
+
+Fluid and Electrolytes
+Water is the largest component of the body, representing 45% to
+75% of a person’s body weight (75). In the human body, water acts
+as a lubricant, shock absorber, building material, and solvent.
+Additionally, water is essential for body temperature regulation
+(water loss through sweat helps cool off skin, particularly in hot
+environments and during exercise), nutrient transport and waste
+product removal, and maintaining fluid balance and therefore normal
+blood pressure (81). Water is so important that even under optimal
+temperature conditions, the body can survive only a few days
+without water.
+While maintaining adequate hydration is important for all
+individuals, athletes must pay close attention to their hydration
+status since sweat losses that exceed fluid intake can quickly lead to
+a hypohydrated state with a subsequent increase in core body
+temperature, decrease in blood plasma volume, and increase in
+heart rate and perceived exertion (32, 139). When this happens,
+sweat output cannot keep up with increases in core body
+temperature unless fluids are given. Repeated exercise in hot
+environments helps the body adapt to heat stress (e.g., greater
+sweat volume, lower electrolyte concentration of sweat, and lower
+temperature for the onset of sweating), and therefore athletes may
+be more prone to dehydration and heat stress at the beginning of
+the season (54). In addition, athletes with less training may be more
+prone to heat stress than trained athletes (32). Due to physiological
+changes that alter water conservation in the body as well as age-
+related decline in fluid intake, the elderly have an increased risk of
+dehydration and hypohydration (32). Children may have a greater
+risk of dehydration as well, resulting from increased heat gain from
+the environment due to greater surface area–body mass ratio
+compared to adults, increased heat production during exercise,
+decreased ability to dissipate heat through sweat, and a decreased
+sensation of thirst compared to adults (12, 46). Additionally, those
+590
+
+with sickle cell trait, cystic fibrosis, and some other diseases have an
+increased risk of becoming dehydrated (12, 163). Even mild
+dehydration, representing 2% to 3% weight loss, can increase core
+body temperature and significantly affect athletic performance by
+increasing fatigue and decreasing motivation, neuromuscular control,
+accuracy, power, strength, muscular endurance, and overall
+performance (13, 26, 42, 58, 84, 85, 141, 153). Dehydration can
+increase core body temperature, reduce stroke volume and cardiac
+output, decrease blood pressure, reduce blood flow to muscles,
+increase 
+heartbeat, 
+exacerbate 
+symptomatic 
+exertional
+rhabdomyolysis, and increase risk of heatstroke and death (3, 32,
+108). One’s risk for dehydration, and subsequent heat stress, is
+greater in hot, humid environments and at altitude (27, 108, 146).
+Fluid Balance
+Fluid balance is the balance between water intake from food,
+drinks, and metabolic water and water output through expired air,
+insensible perspiration, sweat, feces, and urine. It is important for a
+person to consume adequate sources of water to prevent
+dehydration from excess water loss. The AI for water is 3.7 liters
+(125.1 fl oz or 15.6 cups) and 2.7 L (91.3 fl oz or 11.4 cups) per day,
+respectively, for men and women. However, the AI for pregnant and
+lactating women is 3 liters (101.4 fl oz or 12.7 cups) and 3.8 liters
+(128.5 fl oz or 16.1 cups) per day, respectively. All sources of fluid,
+including beverages such as coffee, tea, juice, and soda, as well as
+the fluid in foods, contribute to meeting a person’s water needs from
+dietary sources (75).
+Maintaining fluid balance during training and competition can be a
+challenge for many athletes, particularly those who sweat profusely
+or train in hot, humid environments or at altitude. In addition to
+environmental conditions, clothing, equipment, and larger body size
+can increase sweat rate, while unsafe weight loss practices such as
+frequent use or overuse of diuretics or laxatives can increase risk of
+dehydration (32, 38). American football players, particularly linemen,
+591
+
+have a greater risk of becoming dehydrated because of their
+equipment and, in many cases, larger body size (32). For example, a
+study in National Football League players found that backs and
+receivers, with an average body mass of 93 ± 6 kilograms (205.0 ±
+13.2 lb), lost an average of 1.4 ± 0.45 liters (47.3 ± 15.2 fl oz; or
+approximately 6 ± 2 cups) of sweat per hour, while linemen, with an
+average body mass of 135.6 ± 17 kilograms (298.9 ± 37.5 lb), lost
+an average 2.25 ± 0.68 liters (76.1 ± 23.0 fl oz; approximately 9.5
+± 2.9 cups) of sweat per hour during practice. Calculated sweat
+losses for both groups during a total of 4.5 hours of practice on days
+with two practice sessions were 6.4 ± 2.0 liters (216.4 ± 67.6 fl oz;
+approximately 27.1 ± 8.5 cups) for backs and receivers and 10.1 ±
+3.1 liters (341.5 ± 104.8 fl oz; 42.7 ± 13.1 cups) for linemen (55).
+Multiple layers of clothing and protective equipment contribute to
+sweat losses and dehydration risk in hockey players (14), while
+intentional dehydration and other unsafe weight loss practices can
+increase dehydration risk in wrestlers (170). In addition, it is
+important to note that a very wide range of fluid losses through
+sweat exists. For instance, National Basketball Association players
+lost from 1.0 to 4.6 liters (33.8-155.5 fl oz; 4.2-19.4 cups) and had a
+mean loss of 2.2 ± 0.8 liters (74.4 ± 27.1 fl oz; 9.3 ± 3.4 cups) of
+sweat over the course of a 40-minute game in which the average
+playing time was 21 ± 8 minutes (120). To reduce the risk of
+dehydration and heat stress, athletes should avoid exercising under
+extremely hot, humid conditions and should adequately replace fluid
+losses from prolonged exertion.
+Preventing Dehydration
+Given the negative effects associated with dehydration, athletes
+should try to prevent water weight losses exceeding 2% of body
+weight while also restoring electrolytes lost through sweat (3, 139).
+The first step to preventing dehydration is to assess hydration status
+(table 10.15). Urine specific gravity (USG) can be used to assess
+hydration status because the test is easy to use, inexpensive, and
+592
+
+portable (168). However, USG is not a sensitive indicator of acute
+changes in hydration; instead it is better as a measure of chronic
+hydration status (120, 131). A quick and simple method for
+estimating hydration status involves measuring changes in body
+weight from before to after a workout. Athletes should weigh
+themselves in minimal, lightweight clothing, after drying off and
+urinating, immediately before and after their workout. Sweaty
+clothes should be removed before weighing. Each pound (0.45 kg)
+lost during practice represents 16 ounces (0.47 L) of fluid. A loss of
+2% or more of body weight indicates the athlete is not adequately
+replacing fluid lost through sweat (3). In addition to identifying acute
+dehydration from one workout, assessing weight changes over time
+may help identify athletes who are chronically dehydrated—those
+who lose several pounds over the course of a few days (24). See
+table 10.15 for biomarkers of proper or sufficient hydration.
+TABLE 10.15 Biomarkers of Hydration Status
+Measure
+Practicality
+Validity (acute vs. chronic
+changes)
+EUH cutoff
+Total body water
+Low
+Acute and chronic
+<2%
+Plasma osmolality
+Medium
+Acute and chronic
+<290 mOsm
+Urine specific gravity High
+Chronic
+<1.020 g/mL
+Urine osmolality
+High
+Chronic
+<700 mOsm
+Body weight
+High
+Acute and chronic*
+<1%
+Note: EUH = euhydration.
+*Potentially confounded by changes in body composition during very prolonged
+assessment periods.
+Reprinted by permission from American College of Sports Medicine, M.N. Sawka, L.M.
+Burke, et al., “American College of Sports Medicine Position Stand: Exercise and Fluid
+Replacement,” Medicine & Science in Sports & Exercise 39, no. 2 (2007): 377-390.
+In addition to identifying athletes who do not adequately hydrate,
+one can calculate sweat rate, thereby giving a better idea of fluid
+needs during exercise, by weighing athletes before exercise and
+593
+
+again after an intense 1-hour practice session while also measuring
+fluid intake and urine volume produced. Sweat rate is equal to
+preexercise body weight minus postexercise body weight + fluid
+intake during exercise − urine produced (14, 24). Assessments of
+urine quantity, through USG or urine volume, may be misleading
+during the immediate rehydration period after dehydration. When
+athletes consume large quantities of hypotonic fluid, they produce
+copious amounts of urine long before they become adequately
+hydrated (147, 148).
+In addition to monitoring weight changes, athletes are sometimes
+advised to check their urine color. However, the relationship between
+urine color and hydration status is very subjective (3, 108). Also,
+beets, blackberries, certain food colors, and medications can turn
+urine pink, red, or light brown (9). In addition, B vitamins,
+carotenoids (such as beta carotene), and some medications can turn
+urine dark yellow, bright yellow, or orange, while artificial food colors
+(such as those found in some sport drinks) may also turn urine blue
+or green (9).
+A very wide range of fluid losses, in the form of sweat,
+exists among athletes. Therefore each athlete should
+develop an individualized hydration plan.
+Electrolytes
+The major electrolytes lost in sweat include sodium chloride and, to
+a lesser extent and in order, potassium, magnesium, and calcium
+(89). Sodium influences fluid regulation by helping retain more of
+the fluid consumed (107). In addition, all of the electrolytes lost
+through sweat are essential to muscle contraction and nerve
+conduction. Thus, any disturbance in the balance of electrolytes in
+body fluids could potentially interfere with performance. Sodium
+losses through sweat vary tremendously between athletes, with
+reported concentrations ranging from 0.2 to greater than 12.5 g/L
+(10 to over 544 mEq/L) (3, 32). Given the large quantity of sodium
+594
+
+some athletes lose through sweat, replacing sodium losses may
+require a conscious decision to choose higher-sodium foods, salt
+their food, and add electrolytes to their sport drinks. Athletes who
+exercise intensely or for hours and hydrate excessively with only
+water or a no- or low-sodium beverage may dilute their blood
+sodium levels to dangerously low levels—below 130 mmol/L—a
+condition called hyponatremia. This leads to intracellular swelling,
+and, when blood sodium levels fall below 125 mmol/L, to headaches,
+nausea, vomiting, muscle cramps, swollen hands and feet,
+restlessness, and disorientation. When blood sodium drops below
+120 mmol/L, risk of developing cerebral edema, seizures, coma,
+brain stem herniation, respiratory arrest, and risk of death increase
+(2, 3, 6). To avoid hyponatremia, fluid intake should not exceed
+sweat losses (athletes should not weigh more after they finish
+exercising than they did at the start of their training session), and
+athletes should consume sodium through either sport drinks or food
+(3, 120).
+Sport drinks provide small amounts of potassium to replace sweat
+potassium losses. However, they are not a significant contributor to
+total potassium intake. Because research shows that less than 2% of
+adults in the United States meet the dietary recommendations for
+potassium (31), athletes should focus on consuming more
+potassium-rich foods in their diet, such as tomatoes, citrus fruits,
+melons, potatoes, bananas, and milk.
+Athletes who exercise intensely or for hours and hydrate
+excessively with only water or a no- or low-sodium
+beverage may dilute their blood sodium to dangerously
+low levels.
+Fluid Intake Guidelines
+Ideally, athletes should start exercise or training in a hydrated state,
+avoid losing more than 2% of body weight (due to sweat losses)
+during exercise, and rehydrate completely after exercise and before
+595
+
+the next training session. The amount of fluid necessary to fully
+achieve rehydration depends on the time period before the next bout
+of training. However, studies show that some athletes start practice
+or competition in a hypohydrated state, making it more difficult to
+consume enough fluid during the exercise session to make up for
+poor preexercise hydration status (120, 134). Additionally, athletes
+with significant sweat losses may not voluntarily drink enough fluid
+to adequately rehydrate and prevent dehydration during training and
+competition. A systematic approach to fluid replacement is necessary
+for this reason and also because thirst may not be a reliable
+indicator of fluid needs for athletes who are heavy sweaters or those
+who are practicing intensely in hot environmental conditions (24).
+Though fluid and electrolyte guidelines should be individualized as
+much as possible, given the wide range of fluid and electrolyte
+losses in athletes, the general guidelines presented next are a good
+starting place with athletes until specific recommendations can be
+provided based on sweat rate (6). Additionally, strength and
+conditioning professionals should ensure that athletes are given
+adequate time to drink and access to cool fluids (10-15 °C [50-59
+°F]) (82).
+Before Activity
+Prehydrate, if necessary, several hours before exercise to allow for
+fluid absorption and urine output (3).
+During Activity
+Due to large variations in sweat rates and electrolyte concentrations,
+athletes should measure weight changes during training and
+competition in specific weather conditions and develop individualized
+hydration strategies based on this information (3). During prolonged
+activity in hot weather, the IOM recommends sport drinks containing
+20 to 30 mEq of sodium (460-690 mg with chloride as the anion) per
+liter, 2 to 5 mEq of potassium (78-195 mg) per liter, and
+carbohydrate in a concentration of 5% to 10% (70). Additionally,
+596
+
+when a sport drink is ingested at high rates during intense or
+prolonged exercise, athletes may want to choose one that contains
+multiple types of carbohydrates with different intestinal transport
+mechanisms, such as glucose, fructose, and maltodextrin. Ingestion
+of multiple types of carbohydrate versus a single carbohydrate will
+lead to greater gastric emptying, carbohydrate absorption, oxidation,
+and possibly better performance (36, 83). All beverages provided
+should be cool—10-15 °C (50-59 °F)—but not cold (24).
+The American Academy of Pediatrics recommends periodic
+drinking be enforced in children. These guidelines suggest that
+children weighing 88 pounds (40 kg) drink 5 ounces (148 mL) of
+cold water or a flavored salted beverage every 20 minutes during
+practice and that adolescents weighing 132 pounds (60 kg) drink 9
+ounces (266 mL) even if they do not feel thirsty. Another
+recommendation is a sodium chloride concentration of 15 to 20
+mmol/L (1 g per 2 pints), which has been shown to increase
+voluntary hydration by 90% when compared to unflavored water
+(34, 171).
+After Activity
+After exercise, athletes should replace fluid and electrolyte losses. If
+time permits, normal meals, snacks (provided that they contain
+some sodium), and water will restore fluid and electrolyte losses.
+Additional salt can be added to foods when sweat sodium losses are
+substantial (3, 75). If dehydration is significant, or the athlete has a
+short recovery period before the next bout of exercise (<12 h), a
+more aggressive approach is warranted: Athletes should consume
+approximately 1.5 L (51 ounces) of fluid (with sufficient electrolytes)
+for each kilogram of body weight loss (0.7 L or 24 oz or 3 cups for
+each pound of body weight). This amount of fluid helps account for
+increased urine production stemming from the consumption of a
+large volume of fluid (3, 147).
+597
+
+Fluid Intake Guidelines at a Glance
+Before Training
+Athletes should have a USG reading <1.02. They should prehydrate, if
+necessary, several hours before exercise to allow for fluid absorption and
+urine output (3).
+During a Training Session
+Children and Adolescents
+Children weighing 88 pounds (40 kg) should drink 5 ounces (148 mL) of cold
+water or a flavored, salted beverage every 20 minutes during training (34).
+Adolescents weighing 132 pounds (60 kg) should drink 9 ounces (266 mL) of
+cold water or a flavored, salted beverage every 20 minutes (171).
+Adults
+Athletes should follow an individualized hydration plan. During prolonged
+activity in hot weather, they should consume a sport drink containing 20 to
+30 mEq of sodium (460-690 mg with chloride as the anion) per liter, 2 to 5
+mEq of potassium (78-195 mg) per liter, and carbohydrate in a concentration
+of 5% to 10%.
+After Training
+Athletes should consume adequate food and fluids, as well as sodium, to
+restore hydration. If dehydration is significant or the athlete has <12 hours
+before the next exercise bout, a more aggressive approach is warranted and
+the athlete should consume approximately 1.5 liters (51 oz) of fluid (with
+sufficient electrolytes) for each kilogram of body weight lost (0.7 L or 24 oz
+or 3 cups for each pound of body weight).
+598
+
+Conclusion
+Nutrition plays an important role in strength and conditioning.
+Adequate hydration and electrolytes; appropriate energy intake; and
+adequate protein, carbohydrate, fat, vitamin, and mineral intakes
+allow athletes to reap maximal benefits from training. A general
+understanding of nutrition principles and applications is essential for
+strength and conditioning professionals so that they can help
+athletes sort through nutrition misinformation and provide sound
+guidelines that athletes can use to improve their diets.
+KEY TERMS
+Acceptable Macronutrient Distribution Range (AMDR)
+Adequate Intake (AI)
+amino acids
+anemia
+bioavailability
+carbohydrate
+cholesterol
+dehydration
+Dietary Reference Intakes (DRIs)
+disaccharides
+docosahexaenoic acid (DHA)
+eicosapentaenoic acid (EPA)
+electrolytes
+Estimated Average Requirement (EAR)
+fat
+fatty acids
+fiber
+fluid balance
+fructose
+galactose
+gluconeogenesis
+599
+
+glucose
+glycemic index (GI)
+glycemic load
+glycogen
+glycogenesis
+high-density lipoprotein (HDL)
+hydration
+hypohydration
+hyponatremia
+lactose
+low-density lipoprotein (LDL)
+macronutrient
+maltose
+micronutrient
+minerals
+monosaccharides
+monounsaturated
+muscle protein synthesis
+MyPlate
+nutrient density
+omega-3 fatty acid alpha-linolenic acid (ALA)
+polypeptide
+polysaccharides
+polyunsaturated
+protein
+protein digestibility
+protein digestibility correct amino acid score (PDCAAS)
+Recommended Dietary Allowances (RDA)
+saturated
+sports dietitian
+sucrose
+Tolerable Upper Intake Level (UL)
+triglycerides
+vegan
+600
+
+very low-density lipoproteins (VLDL)
+vitamins
+STUDY QUESTIONS
+  1.  Which of the following is the player development staff member
+who has the most accurate nutrition knowledge and is best to
+counsel athletes with complex nutritional needs?
+  a.  athletic trainer
+  b.  strength and conditioning professional
+  c.  sports dietitian
+  d.  physical therapist
+  2.  Which of the following food groups are illustrated in the
+MyPlate icon?
+  a.  oils, proteins, water, fiber, vitamins, and minerals
+  b.  protein foods, fruits, vegetables, grains, and dairy
+  c.  proteins, carbohydrates, fats, and water
+  d.  macronutrients, micronutrients, water
+  3.  Which of the following is the recommended intake of protein
+for athletes?
+  a.  0.7 to 0.8 grams protein per kilogram body weight per day
+  b.  0.8 to 1.0 grams protein per kilogram body weight per day
+  c.  1.2 to 1.4 grams protein per kilogram body weight per day
+  d.  1.2 to 2.0 grams protein per kilogram body weight per day
+  4.  For optimal health, which of the following is the recommended
+amount of added sugars in the diet?
+  a.  less than 5% of total calories
+  b.  less than 10% of total calories
+  c.  more than 15% of total calories
+  d.  more than 20% of total calories
+  6.  Which of the following actions should athletes take to assess
+fluid losses after exercise?
+  a.  check urine color
+  b.  check their body temperature
+601
+
+  c.  weigh themselves before and after exercise
+  d.  measure how much water they drank during exercise
+TABLE 10.1 Food Group Recommendations From
+MyPlate
+Population
+and age
+range
+Estimated
+daily
+calories
+for those
+who are
+not
+physically
+fita
+Fruitb Vegetablesc
+Grainsd
+Protein
+foodse
+Dairy and
+fortified soy
+alternativesf
+Children 2-3
+1,000
+1-1.5
+cups
+1 to 1.5 cups
+3-5 oz
+equivalents
+(1.5-2.5
+cups)
+24 oz
+equivalents
+2-2.5 cups
+4-8
+1,200-
+1,400
+1-2
+cups
+1.5-2.5 cups
+4-6 oz
+equivalents
+(2-3 cups)
+3-5.5 oz
+equivalents
+2.5 cups
+Girls
+9-
+13
+1,600
+1.5-2
+cups
+1.5-3 cups
+5-7 oz
+equivalents
+(2.5-3.5
+cups)
+4-6 oz
+equivalents
+3 cups
+14-
+18
+1,800
+1.5-2
+cups
+2.5-3 cups
+6-8 oz
+equivalents
+(3-4 cups)
+5-6.5 oz
+equivalents
+3 cups
+Boys
+9-
+13
+1,800
+1.5-2
+cups
+2-3.5 cups
+5-9 oz
+equivalents
+(2.5-4.5
+cups)
+5-6.5 oz
+equivalents
+3 cups
+14-
+18
+2,200
+2-2.5
+cups
+2.5-4 cups
+6-10 oz
+equivalents
+(3-5 cups)
+5.5-7 oz
+equivalents
+3 cups
+Females 19-
+30
+2,000
+1.5-2
+cups
+2.5-3 cups
+6-8 oz
+equivalents
+(3-4 cups)
+5-6.5 oz
+equivalents
+3 cups
+602
+
+Population
+and age
+range
+Estimated
+daily
+calories
+for those
+who are
+not
+physically
+fita
+Fruitb Vegetablesc
+Grainsd
+Protein
+foodse
+Dairy and
+fortified soy
+alternativesf
+31-
+59
+1,800
+1.5-2
+cups
+2-3 cups
+5-7 oz
+equivalents
+(2.5-3.5
+cups)
+5-6 oz
+equivalents
+3 cups
+60+ 1,600
+1.5-2
+cups
+2-3 cups
+5-7 oz
+equivalents
+(2.5-3.5
+cups)
+5-6 oz
+equivalents
+3 cups
+Males
+19-
+30
+2,400
+2-2.5
+cups
+3-4 cups
+8-10 oz
+equivalents
+(4 to 5
+cups)
+6.5-7 oz
+equivalents
+3 cups
+31-
+59
+2,200
+2-2.5
+cups
+3-4 cups
+7-10 oz
+equivalents
+(3.5-5
+cups)
+6-7 oz
+equivalents
+3 cups
+60+ 2,000
+2
+cups
+2.5-3.5 cups
+6-9 oz
+equivalents
+(3-4.5
+cups)
+5.5-6.5 oz
+equivalents
+3 cups
+603
+
+Population
+and age
+range
+Estimated
+daily
+calories
+for those
+who are
+not
+physically
+fita
+Fruitb Vegetablesc
+Grainsd
+Protein
+foodse
+Dairy and
+fortified soy
+alternativesf
+The amount needed from each group depends on age, sex, height, weight, and level of
+physical activity. The amount can also depend on whether the individual is pregnant or
+breastfeeding. General recommendations by age are shown in the chart.
+aThese amounts are appropriate for individuals who get less than 30 minutes of moderate
+physical activity most days. Those who are more physically active may be able to consume
+more while staying within the daily caloric need. To find an individual’s daily caloric need,
+go to www.myplate.gov/myplate-plan.
+bSee table 10.2 for MyPlate Cup of Fruit Table.
+cSee table 10.3 for MyPlate Cup of Vegetables Table.
+dSee table 10.4 for MyPlate Ounce-Equivalent of Grains Table.
+eSee table 10.5 for MyPlate Ounce-Equivalent of Proteins Table.
+fSee table 10.6 for MyPlate Cup of Dairy Table.
+Fruit. In general, 1 cup of fruit or 100% fruit juice or 1/2 cup of dried fruit can be
+considered as 1 cup from the Fruit Group.
+Vegetables. Any vegetable or 100% vegetable juice counts as a member of the Vegetable
+Group. Vegetables may be raw or cooked; fresh, frozen, canned, or dried-dehydrated; and
+may be whole, cut up, or mashed. Vegetables in their nutrient-dense forms have limited
+additions such as salt, butter, or creamy sauces.
+Grains. Any food made from wheat, rice, oats, cornmeal, barley, or another cereal grain is a
+grain product. Bread, pasta, breakfast cereals, tortillas, and grits are examples of grain
+products. Foods such as popcorn, rice, and oatmeal are included in the grains group. Half
+of one’s grains should be whole grains. Whole grains have the entire kernel, which includes
+the bran, germ, and endosperm. Some whole grain examples are whole-wheat flour, bulgur,
+oatmeal, and brown rice.
+Protein foods. All foods made from meat, poultry, seafood, beans and peas, eggs,
+processed soy products, nuts, and seeds are considered part of the Protein Foods Group.
+Beans and peas are also part of the Vegetable Group. In general, 1 ounce of meat, poultry,
+or fish; 1/4 cup cooked beans; 1 egg; 1 tablespoon of peanut butter; 1/2 ounce of nuts or
+seeds; 1/4 cup (about 2 oz) of tofu; or 1 ounce of tempeh, cooked, can be considered as 1
+ounce-equivalent from the Protein Foods Group. Many Americans get the right amount of
+protein needed from meat, poultry, and eggs but do not meet the recommendations for
+seafood or nuts, seeds, and soy products. Meeting this can help increase the amount of
+important nutrients the body needs, like unsaturated fats, dietary fiber, and vitamin D.
+604
+
+Population
+and age
+range
+Estimated
+daily
+calories
+for those
+who are
+not
+physically
+fita
+Fruitb Vegetablesc
+Grainsd
+Protein
+foodse
+Dairy and
+fortified soy
+alternativesf
+Dairy. The Dairy Group includes milk, yogurt, cheese, lactose-free milk and fortified soy
+milk, and yogurt. Foods made from milk that have little to no calcium and a high fat
+content, such as cream cheese, cream, and butter, are not considered dairy foods.
+U.S. Department of Agriculture
+TABLE 10.2 MyPlate Cup of Fruit Table
+Fruit
+Amount that counts as 1 cup of fruit
+Apple
+1 small or 1/2 large apple
+1 cup, sliced or chopped, fresh
+2/3 cup, baked
+1/2 cup, dried
+Applesauce
+1 cup applesauce
+Banana
+1 large banana
+1 cup, sliced
+2/3 cup, mashed
+Blueberries
+1 cup, fresh or frozen
+1/3 cup, dried
+Cantaloupe
+1 cup, diced or melon balls
+Grapes
+22 seedless grapes
+1 cup, whole or cut up
+Grapefruit
+1 medium grapefruit
+1 cup, sections
+Kiwifruit
+2 to 3 kiwifruits
+1 cup, sliced or chopped
+Mango
+7 slices or chunks, fresh or frozen
+1 cup, fresh or frozen
+1/3 cup, dried
+U.S. Department of Agriculture
+605
+
+Fruit
+Amount that counts as 1 cup of fruit
+Mixed fruit (fruit cocktail)
+1 cup, diced or sliced, fresh or canned, drained
+Orange
+1 large orange
+1 cup, sections
+Peach
+1 large peach
+1 cup, sliced or diced, fresh, cooked, frozen or
+canned, drained
+2 halves, canned
+Pear
+1 medium pear
+1 cup, sliced or diced, fresh, cooked, or canned,
+drained
+Pineapple
+1 cup, chunks, sliced or crushed, fresh, cooked
+or canned, drained
+Plum
+3 medium or 2 large plums
+1 cup, sliced, fresh or cooked
+1/2 cup, dried (prunes)
+Strawberries
+About 8 large strawberries
+1 cup, whole, halved, or sliced, fresh or frozen
+Watermelon
+1 small wedge or slice
+1 cup, diced or melon balls
+Dried fruit (e.g., raisins, prunes,
+apricots, figs)
+1/2 cup dried fruit
+100% fruit juice (e.g., orange, apple,
+grape, grapefruit)
+1 cup
+U.S. Department of Agriculture
+TABLE 10.3 MyPlate Cup of Vegetable Table
+Vegetable
+group
+Vegetable
+Amount that
+counts as 1 cup of
+vegetables
+Dark green
+vegetables
+Broccoli
+1 cup, chopped or
+florets, fresh or
+frozen
+U.S. Department of Agriculture
+606
+
+Vegetable
+group
+Vegetable
+Amount that
+counts as 1 cup of
+vegetables
+Amaranth leaves, beet greens, Bok choy, broccoli
+rabe (rapini), chard, collards (collard greens), cress,
+dandelion greens, kale, mustard greens, spinach,
+Swiss chard, watercress
+1 cup, cooked
+2 cups, fresh
+Raw leafy greens: arugula (rocket), basil, cilantro,
+dark green leafy lettuce, endive, escarole, mixed
+greens, mesclun, romaine
+2 cups, fresh
+Red and
+orange
+vegetables
+Carrots
+2 medium carrots
+1 cup, sliced or
+chopped, fresh,
+cooked or frozen
+1 cup baby carrots
+Pumpkin, calabaza
+1 cup, mashed,
+cooked
+Red and orange bell peppers
+1 large bell pepper
+1 cup, chopped,
+fresh, or cooked
+Sweet potato
+1 large sweet
+potato, baked
+1 cup, sliced or
+mashed, cooked
+Tomatoes
+1 large tomato
+2 small tomatoes
+1 cup, chopped or
+sliced, fresh,
+canned, or cooked
+100% vegetable juice
+1 cup
+Winter squash (acorn, butternut, Hubbard,
+kabocha)
+1 cup, cubed,
+cooked
+Beans, peas,
+and lentils
+Dry beans and peas and lentils (bayo, black, brown,
+fava, garbanzo, kidney, lima, mung, navy, pigeon,
+pink, pinto, soy, or white beans; black-eyed peas
+1 cup, whole or
+mashed, cooked
+U.S. Department of Agriculture
+607
+
+Vegetable
+group
+Vegetable
+Amount that
+counts as 1 cup of
+vegetables
+[cow peas] or split peas; and red, brown, and
+green lentils)
+Starchy
+vegetables
+Cassava
+3/4 cup, cooked
+Corn, yellow or white
+1 large ear of corn
+1 cup corn kernels,
+fresh or frozen
+Green peas
+1 cup, fresh or
+frozen
+Plantains
+3/4 cup, cooked
+White potatoes
+1 medium white
+potato, boiled or
+baked
+1 cup, diced,
+mashed, fresh or
+frozen
+Other
+vegetables
+Asparagus
+1 cup
+Avocado
+1 avocado
+Bean sprouts
+1 cup, cooked
+Cabbage, green, red, napa, savoy
+1 cup, chopped or
+shredded raw or
+cooked
+Cauliflower
+1 cup, pieces or
+florets raw or
+cooked, fresh or
+frozen
+Celery
+1 cup, diced or
+sliced, raw or
+cooked
+2 large stalks (11"
+to 12" long)
+Cucumbers
+1 cup, raw, sliced or
+chopped
+U.S. Department of Agriculture
+608
+
+Vegetable
+group
+Vegetable
+Amount that
+counts as 1 cup of
+vegetables
+Green or wax beans
+1 cup, raw or
+cooked
+Green bell peppers
+1 large bell pepper
+1 cup, chopped, raw
+or cooked, fresh or
+frozen
+Lettuce, iceberg or head
+2 cups, raw,
+shredded or
+chopped
+Mushrooms
+1 cup, raw or
+cooked
+Okra
+1 cup, cooked
+Onions
+1 cup, chopped, raw
+or cooked
+Summer squash or zucchini
+1 cup, cooked,
+sliced or diced
+U.S. Department of Agriculture
+TABLE 10.4 MyPlate Ounce-Equivalent of Grains
+Table
+Grain
+Amount that counts as 1 oz equivalent of
+grains
+Bagels
+2" mini bagel
+Bagel or pita chips
+1/3 cup bagel or pita chips
+Barley
+1/2 cup, cooked
+Buckwheat
+1/2 cup, cooked
+Breads
+1 regular slice of bread
+1 small slice of French bread
+4 snack-size slices of rye bread
+U.S. Department of Agriculture
+609
+
+Grain
+Amount that counts as 1 oz equivalent of
+grains
+Bulgur
+1/2 cup, cooked
+Challah bread
+1 medium or regular sliced
+Cornbread
+1 small piece
+Couscous
+1/2 cup, cooked
+Crackers
+5 whole wheat crackers
+2 rye crisp breads
+7 square or round crackers
+English muffins
+1/2 English muffin
+Muffins
+1 small muffin
+Oatmeal
+1/2 cup, cooked
+1 packet instant
+1 oz (1/3 cup) dry (regular or quick)
+Pancakes
+1 pancake (4-1/2" diameter)
+2 small pancakes (3" diameter)
+Pasta (spaghetti, macaroni,
+noodles)
+1/2 cup, cooked
+1 oz, dry
+Popcorn
+3 cups, popped
+Quinoa
+1/2 cup, cooked
+Ready-to-eat breakfast cereal
+1 cup, flakes or rounds
+1-1/4 cup, puffed
+Rice
+1/2 cup, cooked
+1 oz, dry
+Tortillas
+1 small flour tortilla (6" diameter)
+1 corn tortilla (6" diameter)
+U.S. Department of Agriculture
+TABLE 10.5 MyPlate Ounce-Equivalent of Proteins
+Table
+Protein
+Amount that counts as 1 oz equivalent of protein
+610
+
+Protein
+Amount that counts as 1 oz equivalent of protein
+Meats
+1 oz cooked lean beef, goat, ham, lamb, or pork
+1 oz cooked lean ground beef or pork
+1 slice of luncheon or deli meats (beef, chicken, ham, pork, turkey)
+1 oz cooked game meats (bear, bison, deer, elk, moose, opossum, rabbit,
+venison)
+1 oz cooked organ meats
+Poultry
+1 oz cooked (without skin) chicken, ostrich, or turkey
+2 oz cooked Cornish hen, duck, goose, pheasant, or quail
+1 sandwich slice of turkey or chicken breast (4-1/2" × 2-1/2" × 1/8")
+Seafood
+1 oz cooked finfish (black sea bass, catfish, cod, flounder, freshwater
+trout, haddock, hake, halibut, herring, light tuna, mackerel, mullet, perch,
+pollock, salmon, sea bass, snapper, sole, tilapia, whiting)
+1 oz cooked shellfish (clams, crab, crayfish, lobster, mussels, octopus,
+oysters, scallops, shrimp, squid [calamari])
+1 oz canned fish (anchovies, freshwater trout, herring, light tuna, salmon,
+sardines)
+Eggs
+1 egg
+1-1/2 egg whites (or 3 tbsp liquid egg white product)
+Nuts, seeds,
+and soy
+products
+1/2 oz of nuts (12 almonds, 24 pistachios, 7 walnut halves)
+1/2 oz of seeds (chia, flax, pumpkin, sesame, sunflower, or squash
+seeds), hulled, roasted
+1 tbsp of almond, cashew, peanut, or sunflower butter, or sesame paste
+(tahini)
+1/4 cup (about 2 oz) of tofu
+1 oz tempeh, cooked
+Beans, peas,
+and lentils
+1/4 cup of cooked beans, peas, or lentils (bayo, black, brown, fava,
+garbanzo, kidney, lima, mung, navy, pigeon, pink, pinto, soy, or white
+beans; black-eyed peas [cow peas] or split peas; and red, brown, and
+green lentils)
+1/4 cup of baked beans or refried beans
+1 falafel patty (2-1/4", 4 oz)
+6 tbsp hummus
+U.S. Department of Agriculture
+TABLE 10.6 MyPlate Cup of Dairy Table
+Dairy
+Amount that counts as 1 cup of dairy
+611
+
+Dairy
+Amount that counts as 1 cup of dairy
+Milk
+1 cup milk
+1 half-pint container milk
+1/2 cup evaporated milk
+1 cup calcium-fortified soy milk
+1 half-pint container calcium-fortified soy milk
+Yogurt
+1 cup yogurt (dairy or fortified soy)
+Cheese
+1-1/2 oz hard cheese (cheddar, mozzarella, Swiss, Parmesan)
+1/3 cup shredded cheese
+1 oz processed cheese (American)
+1/2 cup ricotta cheese
+2 cups cottage cheese
+2 oz queso fresco
+2 slices queso blanco
+U.S. Department of Agriculture
+612
